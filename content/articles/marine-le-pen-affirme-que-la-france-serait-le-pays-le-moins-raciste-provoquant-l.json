@@ -1,0 +1,37 @@
+{
+  "slug": "marine-le-pen-affirme-que-la-france-serait-le-pays-le-moins-raciste-provoquant-l",
+  "titre": "Marine Le Pen affirme que la France serait le pays le moins raciste, provoquant la polémique",
+  "chapeau": "Lors d’une interview diffusée sur la chaîne américaine CBS, la candidate du Rassemblement national a déclaré que la France était le pays le moins raciste du monde. Ces propos ont déclenché de vives réactions au sein de la classe politique, à six mois de l’élection présidentielle de 2027.",
+  "corps": "## Des propos controversés sur la télévision américaine\nMarine Le Pen, candidate du Rassemblement national à l’élection présidentielle prévue en 2027, a déclaré à l’émission \"60 Minutes\" de CBS que la France était \"le pays le moins raciste\" et a nié l’existence de discriminations sur le territoire français. Cette interview a été diffusée le 9 novembre 2026, selon plusieurs dépêches de franceinfo. La candidate n’a pas fourni d’étude comparative pour étayer son affirmation.\n\n## Réactions et contestations\nLes déclarations de Marine Le Pen ont rapidement suscité des critiques au sein de la classe politique française. Des responsables politiques ont remis en cause la véracité de ces propos, soulignant la persistance de faits de discrimination signalés par diverses organisations. Le Monde a rapporté que les affirmations de la candidate étaient contredites par une étude du Défenseur des droits, qui ne corrobore pas l’idée que la France serait le pays le moins raciste au monde.\n\n## Le contexte de l’immigration et du chômage\nAu cours de la même interview, la candidate a évoqué les mobilisations sociales en cours en France et a indiqué que l’immigration aurait « déstabilisé la société française ». Elle a ajouté que le taux de chômage parmi les immigrés serait « deux fois plus élevé » que celui de la population générale, sans citer de source précise. Ces remarques s’inscrivent dans le débat national sur la politique migratoire, thème récurrent dans le programme du Rassemblement national.\n\n## Enjeux électoraux\nÀ six mois du premier tour de la présidentielle de 2027, les propos de Marine Le Pen s’inscrivent dans une campagne où les questions de société, d’immigration et de discrimination occupent une place centrale. Selon les règles de neutralité, il convient de rappeler que les électeurs peuvent consulter le site service-public.gouv.fr pour les modalités d’inscription sur les listes et les modalités de vote.\n\nLes déclarations de Marine Le Pen restent donc au cœur d’un débat public, opposant la candidate à d’autres acteurs politiques et à des institutions qui contestent la réalité de la situation décrite.",
+  "mots_cles": [
+    "Marine Le Pen",
+    "racisme",
+    "élection présidentielle 2027",
+    "immigration",
+    "Défenseur des droits"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-09T18:06:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Marine_Le_Pen_2025_%28cropped%29.jpg/1280px-Marine_Le_Pen_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Vox España",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+    "legende": "Marine Le Pen in February 2025",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Marine Le Pen affirme que la France est \"le pays le moins raciste\" et suscite la polémique",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-affirme-que-la-france-est-le-pays-le-moins-raciste-et-suscite-la-polemique_8274581.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
