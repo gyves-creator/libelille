@@ -17,7 +17,28 @@ from .photos import marquer_utilisee, recherche_banque
 from .util import RACINE, USER_AGENT
 
 
+def telecharger_choisies():
+    """Photos choisies à la main : ligne « photo_telecharger: <adresse> » dans l'en-tête du guide.
+    Le fichier est téléchargé une fois dans legacy/photos/ (servi depuis le site, sans lien vers l'extérieur)."""
+    dossier = RACINE / "legacy" / "photos"
+    dossier.mkdir(parents=True, exist_ok=True)
+    for f in sorted((RACINE / "content" / "guides").glob("*.md")):
+        entete = f.read_text(encoding="utf-8").split("---", 2)[1]
+        m = re.search(r'^photo_telecharger:\s*"?(.+?)"?\s*$', entete, re.M)
+        u = re.search(r'^photo_url:\s*"?/photos/(.+?)"?\s*$', entete, re.M)
+        if not (m and u) or (dossier / u.group(1)).exists():
+            continue
+        try:
+            r = requests.get(m.group(1), headers={"User-Agent": USER_AGENT}, timeout=60)
+            r.raise_for_status()
+            (dossier / u.group(1)).write_bytes(r.content)
+            print(f"✓ {f.name} : photo choisie téléchargée")
+        except Exception as exc:
+            print(f"✗ {f.name} : photo choisie non téléchargée ({exc})")
+
+
 def main():
+    telecharger_choisies()
     if not (os.environ.get("PIXABAY_API_KEY") or os.environ.get("PEXELS_API_KEY")):
         print("Aucune clé de banque de photos (PIXABAY_API_KEY) : photos des guides inchangées.")
         return 0

@@ -1,4 +1,9 @@
 ---
+photo_url: "/photos/rachat-de-credit.jpg"
+photo_credit: "Avij (domaine public)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+photo_source: "Wikimedia Commons"
+photo_telecharger: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Euro_coins_and_banknotes_%28cropped%29.jpg/1280px-Euro_coins_and_banknotes_%28cropped%29.jpg"
 photo_recherche: "calculator bills budget table"
 titre: "Rachat de crédit : le guide complet"
 url: /argent/rachat-de-credit/
