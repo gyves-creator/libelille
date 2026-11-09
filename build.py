@@ -179,6 +179,10 @@ def page_optique(o, tous):
                      titre_exact=o.get("titre_exact") or None))
 
 
+# Doublons optique : l'adresse de gauche redirige (301) vers celle de droite et n'est plus listée
+OPTIQUE_DOUBLONS = {"leader-optique.html": "/leader-optique.php"}
+
+
 def charger_optique():
     """Pages optique : même adresse, même texte, nouveau design (le contenu est repris de legacy/)."""
     lignes = []
@@ -186,7 +190,7 @@ def charger_optique():
     photos_remplacees = {k: v for k, v in (json.loads(fc.read_text(encoding="utf-8")) if fc.exists() else {}).items()
                          if (RACINE / "legacy" / v["url"].lstrip("/")).exists()}
     for f in sorted((RACINE / "legacy").glob("*.*")):
-        if f.suffix not in (".php", ".html") or f.name.startswith(("touc", "sbjp")):
+        if f.suffix not in (".php", ".html") or f.name.startswith(("touc", "sbjp")) or f.name in OPTIQUE_DOUBLONS:
             continue
         b = f.read_bytes()
         try:
@@ -583,6 +587,7 @@ def page_statiques():
 
 def htaccess():
     r = lire_json(RACINE / "state" / "redirections.json", {"301": [], "410": []})
+    r["301"] = [["/" + a, b] for a, b in OPTIQUE_DOUBLONS.items()] + r["301"]
     def q(s):
         return '"' + s.replace('"', '\\"') + '"'
     lignes = [
@@ -665,6 +670,8 @@ def main():
     # 1) fichiers repris tels quels (pages optique, images, ads.txt), puis le style du nouveau site
     if (RACINE / "legacy").exists():
         shutil.copytree(RACINE / "legacy", SORTIE, dirs_exist_ok=True)
+        for doublon in OPTIQUE_DOUBLONS:
+            (SORTIE / doublon).unlink(missing_ok=True)
     for f in (RACINE / "static").iterdir():
         shutil.copy(f, SORTIE / f.name)
     if DOMAINE:
