@@ -1,4 +1,5 @@
 ---
+photo_commons: "signing contract pen"
 photo_recherche: "bank loan documents signing"
 titre: "Rachat de crédit : conditions, dossier et taux"
 url: /argent/rachat-de-credit-conditions/

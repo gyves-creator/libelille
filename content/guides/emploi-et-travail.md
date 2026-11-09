@@ -1,4 +1,5 @@
 ---
+photo_commons: "home office laptop desk"
 photo_recherche: "person working laptop home office"
 titre: "Chômage, auto-entreprise, télétravail : vos options"
 url: /argent/emploi-et-travail/

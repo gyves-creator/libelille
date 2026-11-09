@@ -13,7 +13,7 @@ import sys
 
 import requests
 
-from .photos import marquer_utilisee, recherche_banque
+from .photos import _recherche_commons, marquer_utilisee, recherche_banque
 from .util import RACINE, USER_AGENT
 
 
@@ -37,8 +37,40 @@ def telecharger_choisies():
             print(f"✗ {f.name} : photo choisie non téléchargée ({exc})")
 
 
+def depuis_commons():
+    """Ligne « photo_commons: <recherche en anglais> » : prend une photo libre sur Wikimedia Commons
+    (jamais deux fois la même) et la télécharge dans legacy/photos/."""
+    dossier = RACINE / "legacy" / "photos"
+    dossier.mkdir(parents=True, exist_ok=True)
+    for f in sorted((RACINE / "content" / "guides").glob("*.md")):
+        t = f.read_text(encoding="utf-8")
+        entete = t.split("---", 2)[1]
+        m = re.search(r'^photo_commons:\s*"?(.+?)"?\s*$', entete, re.M)
+        if not m or "photo_url:" in entete:
+            continue
+        try:
+            photo = _recherche_commons(m.group(1))
+            if not photo:
+                print(f"– {f.name} : rien sur Commons pour « {m.group(1)} »")
+                continue
+            r = requests.get(photo["url"], headers={"User-Agent": USER_AGENT}, timeout=60)
+            r.raise_for_status()
+        except Exception as exc:
+            print(f"✗ {f.name} : {exc}")
+            continue
+        nom = f.stem + ".jpg"
+        (dossier / nom).write_bytes(r.content)
+        credit = f'{photo["credit"]} ({photo["licence"]})'.replace(chr(34), "")
+        ajout = (f'photo_url: "/photos/{nom}"\nphoto_credit: "{credit}"\n'
+                 f'photo_page: "{photo["page"]}"\nphoto_source: "Wikimedia Commons"\n')
+        f.write_text(t.replace("---\n", "---\n" + ajout, 1), encoding="utf-8")
+        marquer_utilisee(photo)
+        print(f"✓ {f.name} ← Commons : {photo['page']}")
+
+
 def main():
     telecharger_choisies()
+    depuis_commons()
     if not (os.environ.get("PIXABAY_API_KEY") or os.environ.get("PEXELS_API_KEY")):
         print("Aucune clé de banque de photos (PIXABAY_API_KEY) : photos des guides inchangées.")
         return 0

@@ -1,4 +1,5 @@
 ---
+photo_commons: "calculator bills household budget"
 photo_recherche: "couple reviewing finances laptop"
 titre: "Rachat de crédit selon votre situation"
 url: /argent/rachat-de-credit-selon-profil/
