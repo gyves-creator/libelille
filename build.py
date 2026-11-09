@@ -181,6 +181,8 @@ def page_optique(o, tous):
 
 # Doublons optique : l'adresse de gauche redirige (301) vers celle de droite et n'est plus listée
 OPTIQUE_DOUBLONS = {"leader-optique.html": "/leader-optique.php"}
+# Pages gardées en ligne mais pas affichées dans la liste de la rubrique Optique & Audition
+OPTIQUE_HORS_RUBRIQUE = {"/optical-center-coupe-du-monde-russie.php"}
 
 
 def charger_optique():
@@ -691,6 +693,8 @@ def main():
     page_accueil(actus, guides)
     par_rub = defaultdict(list)
     for x in tous:
+        if x.get("type") == "optique" and x["url"] in OPTIQUE_HORS_RUBRIQUE:
+            continue
         par_rub[ALIAS_RUB.get(x["rubrique"], x["rubrique"])].append(x)
     for slug in TOUTES:
         page_rubrique(slug, par_rub.get(slug, []))
