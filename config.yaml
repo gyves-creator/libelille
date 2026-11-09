@@ -43,7 +43,7 @@ ia:
     - nom: groq
       url: "https://api.groq.com/openai/v1/chat/completions"
       cle_env: GROQ_API_KEY
-      modele: "llama-3.3-70b-versatile"
+      modele: "openai/gpt-oss-120b"
 
 # Rubriques d'actualité alimentées chaque jour par le robot.
 # « filtre » : ne garder que les dépêches dont le titre ou le résumé correspond (expression régulière).
@@ -148,7 +148,6 @@ rubriques:
       - Si une seule source rapporte l'information, reste prudent : utilise le conditionnel et n'ajoute rien qu'elle ne dit pas.
       - Termine si possible par une information pratique (numéro utile, site de la mairie ou de la préfecture, déviation).
     flux:
-      - http://www.leparisien.fr/actualites-a-la-une.rss.xml
       - https://news.google.com/rss/search?q=Paris%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   - nom: Marseille
     slug: marseille
@@ -160,7 +159,6 @@ rubriques:
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
     flux:
-      - https://www.laprovence.com/rss
       - https://news.google.com/rss/search?q=Marseille%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   - nom: Lyon
     slug: lyon

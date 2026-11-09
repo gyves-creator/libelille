@@ -89,14 +89,18 @@ def main(journal=print):
     du_jour = lambda slug: sum(1 for a in aujourdhui if a["rubrique"] == slug)  # noqa: E731
     publies_total = 0
 
+    echecs_ia = [0]  # échecs de rédaction consécutifs
+
     def publier(ev, rub):
         """Rédige et publie un événement. Renvoie True si l'article est en ligne."""
         journal(f"→ {rub['nom']} : « {ev['titre']} » ({ev['nb_medias']} média(s))")
         try:
             art, modele = redaction.rediger(ev, rub, cfg, journal)
+            echecs_ia[0] = 0
         except redaction.EchecRedaction as exc:
             journal(f"   ✗ rédaction impossible : {exc}")
-            if "absente" in str(exc) or "quota" in str(exc):
+            echecs_ia[0] += 1
+            if "absente" in str(exc) or "quota" in str(exc) or echecs_ia[0] >= 3:
                 raise
             return False
         nb_mots = compter_mots(art["chapeau"] + " " + art["corps"])
@@ -191,7 +195,7 @@ def main(journal=print):
                 locaux += 1
         publies_total += locaux
     except redaction.EchecRedaction:
-        journal("Arrêt : fournisseurs d'IA indisponibles (clé absente ou quota atteint).")
+        journal("Arrêt : fournisseurs d'IA indisponibles (clé absente ou invalide, modèle retiré ou quota atteint).")
 
     ecrire_json(ETAT / "liens_utilises.json", sorted(liens_utilises)[-3000:])
     journal(f"Terminé : {publies_total} article(s) publié(s).")
