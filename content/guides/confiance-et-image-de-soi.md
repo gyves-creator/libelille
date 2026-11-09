@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/confiance-et-image-de-soi.jpg"
+photo_credit: "Nenad Stojkovic (CC BY 2.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Woman_looking_at_her_reflection_in_the_mirror_and_smiling_(51528984894).jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "woman mirror smiling"
 photo_recherche: "confident smiling woman portrait"
 titre: "Image de soi : s'accepter et se plaire"
