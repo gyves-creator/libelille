@@ -72,7 +72,7 @@ def _appeler_gemini_natif(fournisseur, cle, messages):
     for tentative in range(3):
         for entete, params in facons:
             r = requests.post(url, headers={**entete, "Content-Type": "application/json"},
-                              params=params, json=corps, timeout=90)
+                              params=params, json=corps, timeout=fournisseur.get("delai", 90))
             if r.status_code not in (400, 401, 403):
                 break
         if r.status_code == 429 or r.status_code >= 500:

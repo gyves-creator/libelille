@@ -42,15 +42,16 @@ breves:
   fenetre_heures: 4
 
 ia:
-  fournisseurs:
-    - nom: gemini
-      natif: true   # API native : les nouvelles clés « AQ. » sont refusées par la route compatible OpenAI
-      cle_env: GEMINI_API_KEY
-      modele: "gemini-3.8-flash"
+  fournisseurs:   # essayés dans l'ordre : Groq (rapide, fiable), puis Gemini en secours
     - nom: groq
       url: "https://api.groq.com/openai/v1/chat/completions"
       cle_env: GROQ_API_KEY
       modele: "openai/gpt-oss-120b"
+    - nom: gemini
+      natif: true   # API native : les nouvelles clés « AQ. » sont refusées par la route compatible OpenAI
+      cle_env: GEMINI_API_KEY
+      modele: "gemini-3.8-flash"
+      delai: 45     # secondes max d'attente (Gemini 3 peut être très lent)
 
 # Rubriques d'actualité alimentées chaque jour par le robot.
 # « filtre » : ne garder que les dépêches dont le titre ou le résumé correspond (expression régulière).
