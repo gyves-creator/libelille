@@ -44,6 +44,7 @@ Dans le dépôt GitHub : **Settings → Secrets and variables → Actions → Ne
 | `FTP_USER` | ton identifiant FTP |
 | `FTP_PASSWORD` | ton mot de passe FTP |
 | `FTP_DOSSIER` | facultatif : `www/` par défaut |
+| `FTP_PROTOCOLE` | facultatif : `ftps` (sécurisé) par défaut ; mets `ftp` seulement si l'envoi échoue |
 
 ### 5. Premier envoi du site
 **Actions → Publication automatique → Run workflow**, mets **`0`** dans le champ, puis **Run**.

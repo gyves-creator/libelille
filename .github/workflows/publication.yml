@@ -67,6 +67,6 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
+          protocol: ${{ secrets.FTP_PROTOCOLE || 'ftps' }}
           local-dir: ./public/
           server-dir: ${{ secrets.FTP_DOSSIER || 'www/' }}
