@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/rachat-de-credit-conditions.jpg"
+photo_credit: "ZICO (CC BY-SA 4.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Euro_Changeover_Board_of_Ireland_calculator_1.jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "calculator money"
 photo_recherche: "bank loan documents signing"
 titre: "Rachat de crédit : conditions, dossier et taux"
