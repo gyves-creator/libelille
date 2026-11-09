@@ -92,6 +92,27 @@ def photos_optique():
     fichier_credits.write_text(json.dumps(credits, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+def photos_pages():
+    """Anciennes pages (content/pages/*.json) avec « photo_commons » et sans image : photo libre Commons."""
+    import json
+    dossier = RACINE / "legacy" / "photos" / "pages"
+    for f in sorted((RACINE / "content" / "pages").glob("*.json")):
+        a = json.loads(f.read_text(encoding="utf-8"))
+        if not a.get("photo_commons") or a.get("image"):
+            continue
+        photo, r = chercher_commons(a["photo_commons"])
+        if not photo:
+            print(f"– {a['url']} : rien sur Commons pour « {a['photo_commons']} »")
+            continue
+        dossier.mkdir(parents=True, exist_ok=True)
+        (dossier / (f.stem + ".jpg")).write_bytes(r.content)
+        a.update(image=f"/photos/pages/{f.stem}.jpg", photo_credit=f'{photo["credit"]} ({photo["licence"]})',
+                 photo_page=photo["page"])
+        f.write_text(json.dumps(a, ensure_ascii=False, indent=2), encoding="utf-8")
+        marquer_utilisee(photo)
+        print(f"✓ {a['url']} ← Commons : {photo['page']}")
+
+
 def depuis_commons():
     """Ligne « photo_commons: <recherche en anglais> » : prend une photo libre sur Wikimedia Commons
     (jamais deux fois la même) et la télécharge dans legacy/photos/."""
@@ -121,6 +142,7 @@ def main():
     telecharger_choisies()
     depuis_commons()
     photos_optique()
+    photos_pages()
     if not (os.environ.get("PIXABAY_API_KEY") or os.environ.get("PEXELS_API_KEY")):
         print("Aucune clé de banque de photos (PIXABAY_API_KEY) : photos des guides inchangées.")
         return 0

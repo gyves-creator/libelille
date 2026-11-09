@@ -552,7 +552,9 @@ def page_ancienne(p, tous):
     url = p["url"]
     rub = p["rubrique"]
     img = p.get("image")
-    figure = f'<figure class="photo-article"><img src="{e(lien(img))}" alt="{e(p["titre"])}"></figure>' if img else ""
+    credit = (f'<figcaption><span class="credit">Photo : <a href="{e(p["photo_page"])}" rel="nofollow noopener">'
+              f'{e(p["photo_credit"])} / Wikimedia Commons</a></span></figcaption>') if p.get("photo_credit") else ""
+    figure = f'<figure class="photo-article"><img src="{e(lien(img))}" alt="{e(p["titre"])}">{credit}</figure>' if img else ""
     meta = ""
     if p.get("date"):
         d = dt(p["date"])
