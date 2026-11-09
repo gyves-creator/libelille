@@ -37,7 +37,7 @@ publication:
 ia:
   fournisseurs:
     - nom: gemini
-      url: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+      natif: true   # API native : les nouvelles clés « AQ. » sont refusées par la route compatible OpenAI
       cle_env: GEMINI_API_KEY
       modele: "gemini-2.5-flash"
     - nom: groq

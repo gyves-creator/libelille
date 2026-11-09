@@ -52,10 +52,40 @@ def _extraire_json(texte):
     return json.loads(texte[debut : fin + 1])
 
 
+def _appeler_gemini_natif(fournisseur, cle, messages):
+    """API Gemini native : seule route qui accepte les nouvelles clés « AQ. » de Google AI Studio."""
+    systeme = "\n\n".join(m["content"] for m in messages if m["role"] == "system")
+    contenus = [{"role": "user" if m["role"] == "user" else "model", "parts": [{"text": m["content"]}]}
+                for m in messages if m["role"] != "system"]
+    corps = {
+        "contents": contenus,
+        "generationConfig": {"temperature": 0.6, "responseMimeType": "application/json"},
+    }
+    if systeme:
+        corps["systemInstruction"] = {"parts": [{"text": systeme}]}
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{fournisseur['modele']}:generateContent"
+    for tentative in range(3):
+        r = requests.post(url, headers={"x-goog-api-key": cle, "Content-Type": "application/json"},
+                          json=corps, timeout=120)
+        if r.status_code == 429 or r.status_code >= 500:
+            time.sleep(10 * (tentative + 1))
+            continue
+        if r.status_code >= 400:
+            raise EchecRedaction(f"{fournisseur['nom']} HTTP {r.status_code} : {r.text[:200]}")
+        try:
+            parts = r.json()["candidates"][0]["content"]["parts"]
+        except (KeyError, IndexError) as exc:
+            raise EchecRedaction(f"{fournisseur['nom']} : réponse vide ({exc})")
+        return "".join(p.get("text", "") for p in parts if not p.get("thought"))
+    raise EchecRedaction(f"{fournisseur['nom']} : quota atteint ou service indisponible")
+
+
 def _appeler(fournisseur, messages):
     cle = os.environ.get(fournisseur["cle_env"], "").strip()
     if not cle:
         raise EchecRedaction(f"clé {fournisseur['cle_env']} absente")
+    if fournisseur.get("natif"):
+        return _appeler_gemini_natif(fournisseur, cle, messages)
     corps = {
         "model": fournisseur["modele"],
         "messages": messages,
