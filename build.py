@@ -370,9 +370,12 @@ def charger_breves(heures=30):
 def page_accueil(actus, guides):
     if actus:
         # À la une : l'article le plus récent qui a une photo (sinon le plus récent tout court).
-        recents = actus[:8]
-        une = next((a for a in recents if a.get("photo")), actus[0])
-        suite = [a for a in actus if a is not une][:4]
+        # La une et les 4 titres à côté : actualité nationale seulement (les villes ont leur bloc « Près de chez vous »)
+        nationaux = [a for a in actus if a["rubrique"] not in LOCAL] or actus
+        recents = nationaux[:8]
+        une = next((a for a in recents if a.get("photo") and a["rubrique"] != "sport"), None) \
+            or next((a for a in recents if a.get("photo")), nationaux[0])
+        suite = [a for a in nationaux if a is not une][:4]
         # Le fil : articles et brèves mêlés, du plus récent au plus ancien
         elements = [(a["publie_le"], "article", a) for a in actus[:15]]
         elements += [(b["publie_le"], "breve", b) for b in charger_breves()]
