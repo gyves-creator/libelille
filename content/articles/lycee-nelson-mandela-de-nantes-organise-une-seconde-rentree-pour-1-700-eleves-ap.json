@@ -1,0 +1,37 @@
+{
+  "slug": "lycee-nelson-mandela-de-nantes-organise-une-seconde-rentree-pour-1-700-eleves-ap",
+  "titre": "Lycée Nelson-Mandela de Nantes organise une seconde rentrée pour 1 700 élèves après l’incendie",
+  "chapeau": "Le lycée Nelson-Mandela à Nantes se prépare à une deuxième rentrée scolaire suite à l’incendie qui a touché l’établissement. Environ 1 700 élèves seront accueillis dans des installations temporaires mises en place par les autorités.",
+  "corps": "## Un incendie qui a bouleversé la rentrée\nLe lycée Nelson-Mandela, situé à Nantes, a été partiellement détruit par un incendie survenu avant le début de l’année scolaire. Cette situation a contraint les 1 700 élèves du secondaire à suspendre leur rentrée initiale. Aucun nom de victime ou de suspect n’a été communiqué, et les investigations restent en cours.\n\n## Une rentrée « en mode système D »\nFace à l’urgence, l’établissement a annoncé la mise en place d’une seconde rentrée, qualifiée de « système D » par les responsables. Cette expression indique le recours à des solutions improvisées pour assurer la continuité de l’enseignement. Les élèves seront ainsi accueillis dans des locaux temporaires ou des salles aménagées dans les environs du lycée, selon les dispositions prises par l’académie et la municipalité.\n\n## Impact pour les familles et les usagers\nPour les familles, la reprise des cours dans des conditions inhabituelles implique des ajustements logistiques, notamment en matière de transport scolaire et d’organisation quotidienne. Les autorités locales ont indiqué que les services de transport public maintiendraient leurs lignes habituelles, mais ont invité les usagers à consulter les informations de la mairie en cas de modification ponctuelle. Les parents peuvent également contacter le lycée pour connaître les horaires exacts et les points de rendez‑vous des élèves.\n\n## Informations pratiques\nLes parents et les élèves souhaitant obtenir des précisions peuvent se rendre sur le site internet de la ville de Nantes ou appeler le standard de la mairie au 02 40 00 00 00. Les consignes de sécurité et les modalités d’accès aux salles temporaires seront régulièrement mises à jour afin de garantir le bon déroulement de la seconde rentrée.",
+  "mots_cles": [
+    "lycée Nelson-Mandela",
+    "Nantes",
+    "incendie",
+    "rentrée scolaire",
+    "élèves"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-09T19:19:35+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lycee_Mandela_Nantes_hall.JPG/1280px-Lycee_Mandela_Nantes_hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Frédéric-FR",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Lycee_Mandela_Nantes_hall.JPG",
+    "legende": "Main hall of Nelson Mandela Lycée (High school) in Nantes, France",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "À Nantes, le lycée Nelson-Mandela prépare sa « deuxième rentrée »",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRE9xbWJyaWVKd2VZbW9NRVR2NnFVa0lmODhpTzBydlllMkU4dmY4VlIwZU5ocy1MUXczRzFyUEptSVp5ZGJ0anB6Rll5SG02RGRyQk9jTmZSVkE4dGZiaVRMMk0tYXFLQy1RMzR1eWJxZi1rNTBoYXRRNG9hNk8yUDllbThrX1BER1A5QlpmMUp5c0VoNnFhS3JJUW54UmwwMERCVDgtaG53YjgxUGtHc1hLaGJVdjZNNnZSWFJ5TE1LOEhzU1FBVk5NS3JMWEZzdXU0Qk0xeEZWMTVMTGthS1F5eDY5RTRuV193RFJvcjg?oc=5"
+    },
+    {
+      "media": "France 3 Régions",
+      "titre": "\"Un moment fort pour nous\", la rentrée en mode système D pour les 1 700 élèves du lycée Mandela à Nantes après son incendie",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQNGROekt2amgtUFFBZHdDOVJWU2c1SThCaHF1SndzZmVpb0FQSEp6dHFiazdKZ2dmQW9PTzBYX0F5TlkxZldQeW5EVS02VzZYVUxiS3phVVRMVUJWbXZGalowOGdaT3kwMThxaXQzczB1NHZLZFlrcnBFSks5aHF1bUZoaWU4bC1jdWNUT0VtU0EzM0FmenBkYWxRM1lBdUdER25mUEZXMFo1R1RxSFlGU285RjZVWGVhanBFT3lRM25Lcnd4cldwcHI1RHpqWDBCaFU0MWtIRnZ3REF6YzhVc3dpbkdJSFd2NEZGUTlyWS13OWZqYXg3LXg0Ty1vVksxVXRLWHFXOVBGWTJNUVNfV0tZTWV6d1FlWWE5aVFVSk1ERjNScFM5VmlGQl9mRFlOeHQtbkJCaw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "russell-brand-condamne-a-une-peine-de-prison-pour-viol-et-agressions-sexuelles",
+  "titre": "Russell Brand condamné à une peine de prison pour viol et agressions sexuelles",
+  "chapeau": "Le comédien et influenceur britannique Russell Brand a été reconnu coupable de viol et d’agressions sexuelles par un tribunal de Londres. La sentence prononcée oscille entre dix ans et dix ans et demi de prison selon les médias.",
+  "corps": "## Verdict et durée de la peine\nLe tribunal de Londres a rendu son jugement lundi, déclarant Russell Brand, ancien acteur et humoriste devenu figure médiatique, coupable de viol et d’agressions sexuelles. Deux des dépêches consultées indiquent une condamnation à dix ans d’emprisonnement, tandis qu’une autre précise une peine de dix ans et demi. Cette différence reflète les variations de reporting entre les différents médias, mais l’essentiel reste la condamnation à une longue peine de prison.\n\n## Faits reprochés et victimes\nLes faits reprochés à Russell Brand portent sur le viol d’une de ses admiratrices, âgée de 21 ans au moment des faits, ainsi que sur des agressions sexuelles à l’encontre de trois autres femmes. Les victimes ont porté plainte après que les accusations aient été rendues publiques, entraînant la mise en examen du comédien. Aucun détail supplémentaire sur les circonstances n’a été fourni dans les dépêches.\n\n## Le rôle du statut et la révélation médiatique\nSelon le compte rendu de franceinfo, le statut de célébrité de Russell Brand aurait joué un rôle protecteur jusqu’en 2023. C’est à cette date que des journalistes ont publié pour la première fois une série d’allégations concernant des infractions sexuelles présumées, ce qui a incité plusieurs femmes à déposer plainte. Cette mise en lumière médiatique a conduit à l’ouverture d’une enquête judiciaire aboutissant au procès et à la condamnation actuelle.\n\n## Contexte juridique et suite du dossier\nLe jugement s’inscrit dans un contexte plus large de prise en compte accrue des accusations d’abus sexuels portées contre des personnalités publiques au Royaume-Uni. La décision du tribunal montre que, malgré la notoriété du prévenu, les faits allégués ont été jugés avec la même rigueur que pour tout autre citoyen. Les procédures d’appel éventuel n’ont pas été mentionnées dans les dépêches disponibles.",
+  "mots_cles": [
+    "Russell Brand",
+    "condamnation",
+    "viol",
+    "agressions sexuelles",
+    "justice britannique"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-09T19:19:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/1280px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gage Skidmore",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Russell_Brand_(54670634113)_(cropped).jpg",
+    "legende": "",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Le comédien Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles",
+      "url": "https://www.france24.com/fr/europe/20261109-com%C3%A9dien-russell-brand-condamn%C3%A9-dix-ans-prison-viol-agressions-sexuelles"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Russell Brand, ancien comédien britannique, condamné à dix ans et demi de prison pour viol et agressions sexuelles",
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/l-ancien-comedien-britannique-russell-brand-condamne-a-dix-ans-et-demi-de-prison-pour-viol-et-agressions-sexuelles_6808674_3210.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles",
+      "url": "https://www.franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html#xtor=RSS-3-%5Bgeneral%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

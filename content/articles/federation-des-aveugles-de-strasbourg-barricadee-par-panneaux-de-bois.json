@@ -1,0 +1,29 @@
+{
+  "slug": "federation-des-aveugles-de-strasbourg-barricadee-par-panneaux-de-bois",
+  "titre": "Fédération des aveugles de Strasbourg barricadée par panneaux de bois",
+  "chapeau": "Le bâtiment de la Fédération des aveugles, situé en centre‑ville de Strasbourg, est entouré de panneaux en bois. Installés à l'origine pour des travaux, ces obstacles restent en place comme mesure de protection en vue d'éventuelles manifestations.",
+  "corps": "## Situation actuelle\nÀ Strasbourg, le siège de la Fédération des aveugles se trouve aujourd'hui encadré de panneaux de bois qui limitent l'accès au bâtiment. Les panneaux forment une barrière visible depuis la voie publique et sont signalés par des panneaux d’avertissement. Aucun incident n’a été signalé depuis l’installation, mais la présence de ces barrières est désormais permanente.\n\n## Contexte des travaux et des manifestations\nLes panneaux ont d'abord été mis en place dans le cadre de travaux de rénovation ou de maintenance du bâtiment. Selon les informations communiquées, les travaux auraient nécessité la mise en sécurité du site, d'où l'installation des protections temporaires. Avant que les travaux ne soient achevés, les autorités locales ont décidé de laisser les panneaux en place afin de préparer d’éventuelles manifestations, une pratique courante pour garantir la sécurité du public et du bâtiment lors de rassemblements.\n\n## Conséquences pour les usagers\nPour les habitants et les usagers du quartier, la présence des panneaux peut entraîner une modification de la circulation piétonne autour du bâtiment. Les accès directs aux entrées principales sont momentanément restreints, obligeant les passants à emprunter les chemins détournés indiqués. Aucun changement permanent de la voirie n’a été annoncé, mais il est recommandé de rester attentif aux panneaux de signalisation et aux éventuelles consignes de la municipalité. En cas de besoin d'information supplémentaire, les riverains peuvent consulter le site internet de la ville de Strasbourg ou contacter le service d’accueil de la Fédération des aveugles.\n\nEn l'absence de nouvelles directives, la situation devrait rester stable jusqu'à la fin des travaux ou la levée de la mesure de protection. Les autorités locales continuent de surveiller la zone afin d’assurer la sécurité des personnes et de garantir le bon déroulement des éventuelles manifestations prévues.",
+  "mots_cles": [
+    "Strasbourg",
+    "Fédération des aveugles",
+    "barricade",
+    "panneaux de bois",
+    "manifestations"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-09T19:19:47+00:00",
+  "photo": null,
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. La Fédération des aveugles barricadée, mais… pour des travaux",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzJ4Ymh5ejhVQ2swbGp3ejVpNm9OU194MGJjSDZZdjZKdnROTmZ5Qk5sa3pOUV95OXFlc3N2UWtaRlRfYWVpY3FjZ3VpaElCTVdHNlpGWUxXRUs1bkhua0xQcDgtc2tzTnBuTk13eVkyekU1enQ0Qi1Jek9iWkp5VnRPS1QwemY1UG5TeHRlUmd1dWhlczU5WW5ZLXBKaWc?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. La Fédération des aveugles barricadée, mais… pour des travaux",
+      "url": "https://www.dna.fr/economie/2026/11/09/la-federation-des-aveugles-barricadee-mais-pour-des-travaux"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
