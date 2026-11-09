@@ -64,9 +64,14 @@ def _appeler_gemini_natif(fournisseur, cle, messages):
     if systeme:
         corps["systemInstruction"] = {"parts": [{"text": systeme}]}
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{fournisseur['modele']}:generateContent"
+    # Deux façons de passer la clé : en-tête, puis paramètre ?key= si l'en-tête est refusé.
+    facons = [({"x-goog-api-key": cle}, {}), ({}, {"key": cle})]
     for tentative in range(3):
-        r = requests.post(url, headers={"x-goog-api-key": cle, "Content-Type": "application/json"},
-                          json=corps, timeout=120)
+        for entete, params in facons:
+            r = requests.post(url, headers={**entete, "Content-Type": "application/json"},
+                              params=params, json=corps, timeout=120)
+            if r.status_code not in (400, 401, 403):
+                break
         if r.status_code == 429 or r.status_code >= 500:
             time.sleep(10 * (tentative + 1))
             continue
