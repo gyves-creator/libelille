@@ -1,0 +1,36 @@
+{
+  "slug": "teddy-riner-lance-sa-candidature-a-la-presidentielle-2027",
+  "titre": "Teddy Riner lance sa candidature à la présidentielle 2027",
+  "chapeau": "Le champion de judo a officiellement annoncé son intention de se présenter à l'élection présidentielle prévue en 2027, en se déclarant ni de droite ni de gauche. Cette surprise politique suscite des réactions de haut niveau tout en soulevant les exigences classiques de la campagne électorale française.",
+  "corps": "## Une candidature inattendue\nLe lundi 9 novembre, le judoka le plus décoré de France a fait connaître son projet de se présenter à la prochaine élection présidentielle. Issu de la Guadeloupe, il bénéficie d’une notoriété largement reconnue grâce à ses succès internationaux dans le judo. Dans son discours, il a souligné son désir de dépasser les clivages traditionnels et d’unir les citoyens autour d’un projet commun. Cependant, il reste à franchir les étapes obligatoires du processus électoral, notamment la constitution d’une équipe de campagne, le financement nécessaire et l’obtention des cinq cents parrainages requis auprès de maires.\n\n## Réactions des dirigeants\nLe président de la République a commenté la démarche lors d’une apparition à la télévision, qualifiant l’initiative d’une contribution positive pour le pays et saluant le sportif comme un « grand champion ». De son côté, l’ancien Premier ministre a exprimé son soutien en qualifiant le judoka d’« homme d’expérience », soulignant ainsi l’accueil favorable de certaines figures politiques. Ces prises de parole illustrent l’intérêt que suscite la candidature, même si les observateurs notent que la popularité sportive ne se traduit pas automatiquement en soutien électoral.\n\n## Enjeux de la campagne\nÀ un peu plus de cinq mois du premier tour, le calendrier impose une course rapide pour répondre aux exigences légales et mobiliser les électeurs. Le fait de se positionner en dehors du spectre partisan traditionnel implique de convaincre un électorat habitué à des repères idéologiques bien établis. Les analystes soulignent que la réussite dépendra de la capacité du candidat à transformer son image de champion en programme politique crédible, tout en assurant les moyens financiers indispensables à une campagne nationale.\n\n## Perspectives\nSi la candidature de Teddy Riner se concrétise, elle marquera une première incursion d’un sportif de haut niveau dans la course à la présidence française. Le suivi de son parcours permettra d’évaluer l’impact réel de la notoriété sportive sur le paysage politique, à un moment où le pays se prépare à un scrutin décisif dans plusieurs mois.",
+  "mots_cles": [
+    "Teddy Riner",
+    "candidature présidentielle",
+    "judo",
+    "Emmanuel Macron"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-09T20:58:44+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Georges Biard",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_Cannes_2016.jpg",
+    "legende": "Teddy Riner au festival de Cannes",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Candidature de Teddy Riner à l'élection présidentielle : le judoka peut-il aller jusqu'au bout ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/candidature-de-teddy-riner-a-l-election-presidentielle-le-judoka-peut-il-aller-jusqu-au-bout_8275145.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Teddy Riner candidat à l'élection présidentielle : Emmanuel Macron salue une initiative qui «ne peut qu'apporter au pays»",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/teddy-riner-candidat-a-l-election-presidentielle-emmanuel-macron-salue-une-initiative-qui-ne-peut-qu-apporter-au-pays-20261109"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

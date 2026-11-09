@@ -81,5 +81,24 @@
     "titres_sources": [
       "Caméras, brigade de surveillance… Ces communes qui luttent activement contre les dépôts sauvages d'ordures"
     ]
+  },
+  {
+    "titre": "SMIC à 1 502 € nets dès le 1er décembre, hausse de 24 €",
+    "texte": "Le gouvernement annoncerait que le salaire minimum passerait à 1 502 € nets à partir du 1 décembre, soit une hausse d’environ 24 €. Des parlementaires, dont Cyrielle Chatelain, jugeraient ce dispositif largement insuffisant.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-09T20:58:56+00:00",
+    "titres_sources": [
+      "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats",
+      "Hausse du SMIC : \"Un coup de pouce très largement insuffisant\", estime Cyrielle Chatelain, présidente du groupe écologiste à l’Assemblée"
+    ]
+  },
+  {
+    "titre": "Hausse du SMIC : réactions des salariés et PME",
+    "texte": "L'augmentation du SMIC pourrait obliger les PME à réviser les salaires de leurs employés, tandis que certains salariés juste au‑dessus du minimum ne verraient pas d’augmentation et craindraient que leur expérience soit moins prise en compte.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-09T20:58:56+00:00",
+    "titres_sources": [
+      "\"Si le Smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME"
+    ]
   }
 ]
