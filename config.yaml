@@ -143,7 +143,7 @@ rubriques:
       seuil_medias: 2          # « info importante » = reprise par au moins 2 médias…
       fraicheur_heures: 4      # … ou contenant un mot-clé important, et de moins de 4h
       max_par_passage: 2
-    photo_defaut: "Paris ville rue"
+    photos_defaut: ["Paris street", "Paris Seine", "Paris boulevard"]
     filtre: '\bparis\b|parisien|arrondissement|île-de-france|ile-de-france|seine-saint-denis|hauts-de-seine|val-de-marne|ratp|périphérique|saint-denis|boulogne-billancourt|montreuil'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: &consignes_local |
@@ -162,7 +162,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Marseille ville rue"
+    photos_defaut: ["Marseille Vieux-Port", "Marseille street", "Marseille"]
     filtre: 'marseill|bouches-du-rhône|bouches-du-rhone|aix-en-provence|aubagne|la ciotat|vitrolles|martigues|\brtm\b|prado|vélodrome|velodrome'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
@@ -173,7 +173,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Lyon ville rue"
+    photos_defaut: ["Lyon Presqu'île", "Lyon street", "Lyon"]
     filtre: '\blyon|lyonnais|villeurbanne|vénissieux|venissieux|vaulx-en-velin|métropole de lyon|\btcl\b|rhône|rhone'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
@@ -185,7 +185,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Toulouse ville rue"
+    photos_defaut: ["Toulouse Capitole", "Toulouse Garonne", "Toulouse street"]
     filtre: 'toulous|haute-garonne|blagnac|colomiers|tisséo|tisseo|muret'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
@@ -197,7 +197,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Nice ville rue"
+    photos_defaut: ["Nice Promenade des Anglais", "Nice street", "Nice France"]
     filtre: '\bnice\b|niçois|nicois|alpes-maritimes|cannes|antibes|cagnes|menton|grasse|\blignes d''azur'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
@@ -209,7 +209,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Nantes ville rue"
+    photos_defaut: ["Nantes château", "Nantes street", "Nantes"]
     filtre: 'nantes|nantais|loire-atlantique|saint-nazaire|rezé|reze|saint-herblain|\btan\b'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
@@ -221,7 +221,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Montpellier ville rue"
+    photos_defaut: ["Montpellier Comédie", "Montpellier street", "Montpellier"]
     filtre: 'montpelli|hérault|herault|lattes|castelnau-le-lez|sète|sete|\btam\b'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local
@@ -233,7 +233,7 @@ rubriques:
     groupe: local
     quota: 2
     declenchement: *declenchement_local
-    photo_defaut: "Strasbourg ville rue"
+    photos_defaut: ["Strasbourg Petite France", "Strasbourg cathedral", "Strasbourg street"]
     filtre: 'strasbourg|strasbourgeois|bas-rhin|alsace|schiltigheim|illkirch|eurométropole|\bcts\b'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
     consignes: *consignes_local

@@ -206,13 +206,23 @@ def trouver_photo(sujet, rubrique, journal=print, recherche=""):
     3) photo par défaut de la rubrique (Commons puis banque)  4) rien (bandeau coloré)."""
     if os.environ.get("LEFIL_SIMULATION") == "1":
         return None
-    defaut = rubrique.get("photo_defaut", rubrique["nom"])
+    defauts = rubrique.get("photos_defaut") or [rubrique.get("photo_defaut", rubrique["nom"])]
+    if isinstance(defauts, str):
+        defauts = [defauts]
+    defauts = list(defauts) + [rubrique["nom"]]   # dernier recours : le nom de la rubrique ou de la ville
+
+    def commons_filtre(requete):
+        # photo par défaut : le nom du fichier doit parler du sujet (pas de carte, logo ni tableau)
+        mots = [m.lower() for m in requete.replace("-", " ").split() if len(m) > 3]
+        return _recherche_commons(requete, titre_doit_contenir=mots or None)
+
     essais = []
     if sujet:
         essais += [("Wikipédia", _depuis_wikipedia, sujet), ("Commons", _recherche_commons, sujet)]
     if recherche:
         essais.append(("banque de photos", recherche_banque, recherche))
-    essais += [("défaut rubrique", _recherche_commons, defaut), ("banque de photos rubrique", recherche_banque, defaut)]
+    for d in defauts:
+        essais += [("défaut rubrique", commons_filtre, d), ("banque de photos rubrique", recherche_banque, d)]
     for nom, fonction, requete in essais:
         try:
             photo = fonction(requete)

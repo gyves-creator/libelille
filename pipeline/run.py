@@ -113,6 +113,10 @@ def main(journal=print):
             return False
         photo = photos.trouver_photo(art.get("sujet_photo", "").strip(), rub, journal,
                                      recherche=str(art.get("recherche_photo", "")).strip())
+        if not photo and os.environ.get("LEFIL_SIMULATION") != "1":
+            # jamais d'article sans image : on n'enregistre pas, le sujet reste disponible pour le passage suivant
+            journal("   ✗ aucune photo trouvée : article non publié (nouvel essai au prochain passage)")
+            return False
         if photo and photo.get("telecharger"):
             import hashlib
             try:
@@ -137,6 +141,8 @@ def main(journal=print):
             _cache[cle] = _collecter(rub, fenetre, journal)
         return _cache[cle]
     sources.collecter = collecter_cache
+
+    reparer_photos(cfg, journal)
 
     mode = os.environ.get("LEFIL_MODE", "").strip()
     try:
@@ -227,6 +233,35 @@ def main(journal=print):
     ecrire_json(ETAT / "liens_utilises.json", sorted(liens_utilises)[-3000:])
     journal(f"Terminé : {publies_total} article(s) publié(s).")
     return publies_total
+
+
+def reparer_photos(cfg, journal=print, max_par_passage=5):
+    """Articles des 7 derniers jours publiés sans image : on leur cherche une photo (par défaut de la rubrique/ville)."""
+    if os.environ.get("LEFIL_SIMULATION") == "1":
+        return
+    rubs = {r["slug"]: r for r in cfg["rubriques"]}
+    limite = maintenant() - timedelta(days=7)
+    faits = 0
+    for f in sorted(ARTICLES.glob("*.json")):
+        a = lire_json(f, None)
+        if not a or a.get("photo") or _dt(a["publie_le"]) < limite or a["rubrique"] not in rubs:
+            continue
+        photo = photos.trouver_photo("", rubs[a["rubrique"]], journal)
+        if photo and photo.get("telecharger"):
+            import hashlib
+            try:
+                nom = "actu-" + hashlib.md5(photo["cle"].encode()).hexdigest()[:12] + ".jpg"
+                photo = photos.rapatrier(photo, RACINE / "legacy" / "photos", nom)
+            except Exception:
+                photo = None
+        if photo:
+            a["photo"] = photo
+            ecrire_json(f, a)
+            photos.marquer_utilisee(photo)
+            journal(f"📷 photo ajoutée à « {a['titre']} »")
+            faits += 1
+            if faits >= max_par_passage:
+                break
 
 
 def enregistrer(art, ev, rub, photo, modele):
