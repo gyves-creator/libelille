@@ -271,7 +271,10 @@ def optique_pour(url, n=3):
 
 def page_accueil(actus, guides):
     if actus:
-        une, suite = actus[0], actus[1:5]
+        # À la une : l'article le plus récent qui a une photo (sinon le plus récent tout court).
+        recents = actus[:8]
+        une = next((a for a in recents if a.get("photo")), actus[0])
+        suite = [a for a in actus if a is not une][:4]
         fil = "".join(f'<li><time>{heure_locale(cfg, dt(a["publie_le"])):%Hh%M}</time>'
                       f'<a href="{lien(url_de(a))}">{e(a["titre"])}</a></li>' for a in actus[:12])
         haut = f"""<section class="une-zone"><div class="une-principale">{carte(une, 'une')}</div>
