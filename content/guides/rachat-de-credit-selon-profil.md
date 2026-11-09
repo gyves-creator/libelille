@@ -1,9 +1,5 @@
 ---
-photo_url: "/photos/rachat-de-credit-selon-profil.jpg"
-photo_credit: "ZICO (CC BY-SA 4.0)"
-photo_page: "https://commons.wikimedia.org/wiki/File:Euro_Changeover_Board_of_Ireland_calculator_3.jpg"
-photo_source: "Wikimedia Commons"
-photo_commons: "calculator money euro"
+photo_commons: "Couple working at home Unsplash"
 photo_recherche: "couple reviewing finances laptop"
 titre: "Rachat de crédit selon votre situation"
 url: /argent/rachat-de-credit-selon-profil/
