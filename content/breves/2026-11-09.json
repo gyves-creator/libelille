@@ -20,5 +20,28 @@
       "Le BHV, emblématique grand magasin parisien placé en redressement judiciaire, a été contraint de fermer ses portes lundi",
       "Le BHV Marais, en redressement judiciaire, a été contraint de fermer ses portes plus tôt que prévu ce lundi"
     ]
+  },
+  {
+    "titre": "Teddy Riner se lance dans la course à la présidence française",
+    "texte": "Le champion de judo a officiellement annoncé sa candidature à l’élection présidentielle, se déclarant ni de droite ni de gauche et appelant à rassembler les Français. Le président Emmanuel Macron et l’ancien Premier ministre Dominique de Villepin ont salué cette initiative.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-09T20:18:13+00:00",
+    "titres_sources": [
+      "Teddy Riner, candidat à la présidentielle",
+      "Candidature à la présidentielle Teddy Riner : \"Je sais ce qu'on va dire de moi : 'il est fou'\"",
+      "Teddy Riner candidat à l'élection présidentielle : Emmanuel Macron salue une initiative qui «ne peut qu'apporter au pays»",
+      "VIDEO. \"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle"
+    ]
+  },
+  {
+    "titre": "La France accuse l'Iran d'une cyberattaque contre les frigos de supermarchés",
+    "texte": "Les autorités françaises ont imputé à l'Iran, via une unité des Gardiens de la Révolution, une attaque informatique ayant perturbé les réfrigérateurs de près de 700 supermarchés en octobre. Trois suspects liés aux gardiens ont été mis en examen.",
+    "rubrique": "international",
+    "publie_le": "2026-11-09T20:18:13+00:00",
+    "titres_sources": [
+      "Piratage des frigos : la France accuse l’Iran et les Gardiens de la révolution",
+      "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
+      "Cyberattaques contre des frigos de supermarchés : la France accuse l'Iran"
+    ]
   }
 ]
