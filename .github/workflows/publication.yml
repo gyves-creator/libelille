@@ -34,8 +34,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Photos des guides (Pexels)
+      - name: Photos des guides (Pixabay)
         env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: python -m pipeline.photos_guides
 
@@ -44,6 +45,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           LEFIL_QUOTA: ${{ github.event.inputs.nombre }}
         run: python -m pipeline.run

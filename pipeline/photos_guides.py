@@ -1,6 +1,6 @@
-"""Donne une vraie photo (Pexels) à chaque guide qui n'en a pas encore.
+"""Donne une vraie photo (Pixabay, ou Pexels) à chaque guide qui n'en a pas encore.
 
-    PEXELS_API_KEY=... python -m pipeline.photos_guides
+    PIXABAY_API_KEY=... python -m pipeline.photos_guides
 
 Pour chaque fichier de content/guides/ ayant une ligne « photo_recherche » et pas encore de « photo_url » :
 cherche une photo sur Pexels, la télécharge dans legacy/photos/ (servie depuis le site) et note le crédit.
@@ -13,13 +13,13 @@ import sys
 
 import requests
 
-from .photos import marquer_utilisee, recherche_pexels
+from .photos import marquer_utilisee, recherche_banque
 from .util import RACINE, USER_AGENT
 
 
 def main():
-    if not os.environ.get("PEXELS_API_KEY"):
-        print("PEXELS_API_KEY absente : photos des guides inchangées.")
+    if not (os.environ.get("PIXABAY_API_KEY") or os.environ.get("PEXELS_API_KEY")):
+        print("Aucune clé de banque de photos (PIXABAY_API_KEY) : photos des guides inchangées.")
         return 0
     dossier = RACINE / "legacy" / "photos"
     dossier.mkdir(parents=True, exist_ok=True)
@@ -33,7 +33,7 @@ def main():
         if not m:
             continue
         try:
-            photo = recherche_pexels(m.group(1), locale="en-US")
+            photo = recherche_banque(m.group(1), langue="en")
         except Exception as exc:
             print(f"✗ {f.name} : {exc}")
             continue
@@ -45,12 +45,12 @@ def main():
         nom = f.stem + ".jpg"
         (dossier / nom).write_bytes(image.content)
         ajout = (f'photo_url: "/photos/{nom}"\nphoto_credit: "{photo["credit"].replace(chr(34), "")}"\n'
-                 f'photo_page: "{photo["page"]}"\n')
+                 f'photo_page: "{photo["page"]}"\nphoto_source: "{photo.get("source", "Pexels")}"\n')
         t = t.replace("---\n", "---\n" + ajout, 1) if t.startswith("---\n") else t
         f.write_text(t, encoding="utf-8")
         marquer_utilisee(photo)
         faits += 1
-        print(f"✓ {f.name} ← photo de {photo['credit']} (Pexels)")
+        print(f"✓ {f.name} ← photo de {photo['credit']} ({photo.get('source', '')})")
     print(f"{faits} guide(s) illustré(s).")
     return 0
 

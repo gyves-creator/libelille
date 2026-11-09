@@ -9,6 +9,7 @@ from datetime import timedelta
 
 from . import photos, redaction, sources
 from .util import (
+    RACINE,
     ARTICLES, ETAT, charger_config, ecrire_json, heure_locale, lire_json,
     maintenant, meme_sujet, slugifier, tous_les_articles,
 )
@@ -104,6 +105,14 @@ def main(journal=print):
             return False
         photo = photos.trouver_photo(art.get("sujet_photo", "").strip(), rub, journal,
                                      recherche=str(art.get("recherche_photo", "")).strip())
+        if photo and photo.get("telecharger"):
+            import hashlib
+            try:
+                nom = "actu-" + hashlib.md5(photo["cle"].encode()).hexdigest()[:12] + ".jpg"
+                photo = photos.rapatrier(photo, RACINE / "legacy" / "photos", nom)
+            except Exception as exc:
+                journal(f"   📷 copie de la photo impossible : {exc}")
+                photo = None
         enregistrer(art, ev, rub, photo, modele)
         photos.marquer_utilisee(photo)
         liens_utilises.update(d["lien"] for d in ev["depeches"] if d["lien"])

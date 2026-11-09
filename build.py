@@ -207,7 +207,7 @@ def page(titre, contenu, description="", canonique="/", extra_head="", rub_activ
 <footer class="pied">
   <a href="{lien('/')}" class="logo petit">{e(SITE['nom'])}<span class="point">.</span></a>
   <nav>{nav_actu}{nav_mag}<a href="{lien('/a-propos/')}">À propos</a><a href="{lien('/mentions-legales/')}">Mentions légales</a><a href="{lien('/rss.xml')}">RSS</a></nav>
-  <p>© {SITE['nom']}. Photos : Wikimedia Commons (licences libres), <a href="https://www.pexels.com/fr-fr/" rel="nofollow noopener">photos fournies par Pexels</a> et {e(SITE['nom'])}.</p>
+  <p>© {SITE['nom']}. Photos : Wikimedia Commons (licences libres), <a href="https://pixabay.com/fr/" rel="nofollow noopener">Pixabay</a> et {e(SITE['nom'])}.</p>
 </footer>
 <script>(function(){{try{{var d=new Date();document.getElementById('date-jour').textContent=d.toLocaleDateString('fr-FR',{{weekday:'long',day:'numeric',month:'long',year:'numeric'}});}}catch(_){{}}}})();</script>
 </body>
@@ -405,7 +405,7 @@ def page_guide(g, tous):
     if g.get("photo_url"):
         figure = (f'<figure class="photo-article"><img src="{e(lien(g["photo_url"]))}" alt="">'
                   f'<figcaption><span class="credit">Photo : <a href="{e(g.get("photo_page", "https://www.pexels.com"))}" '
-                  f'rel="nofollow noopener">{e(g.get("photo_credit", ""))} / Pexels</a></span></figcaption></figure>')
+                  f'rel="nofollow noopener">{e(g.get("photo_credit", ""))} / {e(g.get("photo_source", "Pexels"))}</a></span></figcaption></figure>')
     elif img:
         figure = f'<figure class="photo-article"><img src="{e(lien(img))}" alt=""></figure>'
     else:

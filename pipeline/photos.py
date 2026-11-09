@@ -141,9 +141,63 @@ def recherche_pexels(requete, locale="fr-FR"):
     return None
 
 
+PIXABAY = "https://pixabay.com/api/"
+
+
+def recherche_pixabay(requete, lang="fr"):
+    """Vraie photo d'illustration Pixabay (licence gratuite, usage commercial autorisé).
+    Les règles de Pixabay interdisent l'affichage permanent depuis leurs serveurs :
+    la photo est marquée « à télécharger » et copiée sur le site (voir rapatrier)."""
+    cle = os.environ.get("PIXABAY_API_KEY", "").strip()
+    if not cle or not requete:
+        return None
+    r = requests.get(PIXABAY, params={"key": cle, "q": requete[:100], "lang": lang, "image_type": "photo",
+                                      "orientation": "horizontal", "safesearch": "true", "per_page": 50,
+                                      "min_width": 1000},
+                     headers={"User-Agent": USER_AGENT}, timeout=20)
+    r.raise_for_status()
+    for hit in r.json().get("hits", []):
+        cle_photo = f"pixabay:{hit.get('id')}"
+        url = hit.get("largeImageURL") or hit.get("webformatURL")
+        if url and cle_photo not in utilisees():
+            return {
+                "cle": cle_photo,
+                "url": url,
+                "telecharger": True,
+                "credit": hit.get("user", "Pixabay"),
+                "licence": "Licence Pixabay",
+                "licence_url": "https://pixabay.com/fr/service/license-summary/",
+                "page": hit.get("pageURL", "https://pixabay.com"),
+                "legende": "",
+                "source": "Pixabay",
+            }
+    return None
+
+
+def recherche_banque(requete, langue="fr"):
+    """Banque de photos d'illustration : Pixabay en priorité, Pexels si une clé Pexels existe."""
+    photo = recherche_pixabay(requete, lang=langue)
+    if not photo and os.environ.get("PEXELS_API_KEY"):
+        photo = recherche_pexels(requete, locale="fr-FR" if langue == "fr" else "en-US")
+    return photo
+
+
+def rapatrier(photo, dossier, nom):
+    """Copie sur le site une photo qui doit être hébergée chez nous (Pixabay). Renvoie la photo mise à jour."""
+    if not photo or not photo.get("telecharger"):
+        return photo
+    dossier.mkdir(parents=True, exist_ok=True)
+    r = requests.get(photo["url"], headers={"User-Agent": USER_AGENT}, timeout=60)
+    r.raise_for_status()
+    (dossier / nom).write_bytes(r.content)
+    photo = {k: v for k, v in photo.items() if k != "telecharger"}
+    photo["url"] = "/photos/" + nom
+    return photo
+
+
 def trouver_photo(sujet, rubrique, journal=print, recherche=""):
-    """Ordre : 1) vraie photo du sujet (Wikipédia/Commons)  2) photo d'illustration Pexels
-    3) photo par défaut de la rubrique (Commons puis Pexels)  4) rien (bandeau coloré)."""
+    """Ordre : 1) vraie photo du sujet (Wikipédia/Commons)  2) photo d'illustration (Pixabay, ou Pexels)
+    3) photo par défaut de la rubrique (Commons puis banque)  4) rien (bandeau coloré)."""
     if os.environ.get("LEFIL_SIMULATION") == "1":
         return None
     defaut = rubrique.get("photo_defaut", rubrique["nom"])
@@ -151,8 +205,8 @@ def trouver_photo(sujet, rubrique, journal=print, recherche=""):
     if sujet:
         essais += [("Wikipédia", _depuis_wikipedia, sujet), ("Commons", _recherche_commons, sujet)]
     if recherche:
-        essais.append(("Pexels", recherche_pexels, recherche))
-    essais += [("défaut rubrique", _recherche_commons, defaut), ("Pexels rubrique", recherche_pexels, defaut)]
+        essais.append(("banque de photos", recherche_banque, recherche))
+    essais += [("défaut rubrique", _recherche_commons, defaut), ("banque de photos rubrique", recherche_banque, defaut)]
     for nom, fonction, requete in essais:
         try:
             photo = fonction(requete)

@@ -24,7 +24,8 @@ Garde cette copie : elle permet de revenir en arrière à tout moment.
 ### 2. Créer les clés gratuites
 - Gemini (rédaction) : https://aistudio.google.com/apikey
 - Groq (rédaction, secours) : https://console.groq.com/keys
-- Pexels (vraies photos) : crée un compte sur https://www.pexels.com/fr-fr/ puis demande ta clé sur https://www.pexels.com/api/
+- Pixabay (vraies photos) : crée un compte gratuit sur https://pixabay.com, puis va sur https://pixabay.com/api/docs/ :
+  ta clé s'affiche dans la section « Parameters » (ligne `key`) une fois connecté.
 
 ### 3. Mettre le projet sur GitHub
 Le projet contient plus de 1 500 fichiers : l'envoi par le navigateur est limité à 100 fichiers à la fois.
@@ -38,7 +39,7 @@ Dans le dépôt GitHub : **Settings → Secrets and variables → Actions → Ne
 |---|---|
 | `GEMINI_API_KEY` | ta clé Gemini |
 | `GROQ_API_KEY` | ta clé Groq |
-| `PEXELS_API_KEY` | ta clé Pexels |
+| `PIXABAY_API_KEY` | ta clé Pixabay |
 | `FTP_SERVER` | le serveur FTP OVH (du type `ftp.clusterXXX.hosting.ovh.net`) |
 | `FTP_USER` | ton identifiant FTP |
 | `FTP_PASSWORD` | ton mot de passe FTP |
@@ -99,9 +100,9 @@ Complète les champs `[À COMPLÉTER]` dans `content/mentions-legales.html` (nom
 ## Les photos
 
 - **Articles d'actu** : le robot cherche d'abord une vraie photo du sujet sur Wikimedia Commons (personne, lieu, institution),
-  puis une photo d'illustration réaliste sur Pexels, et en dernier recours affiche le bandeau coloré de la rubrique.
+  puis une photo d'illustration réaliste sur Pixabay (copiée sur ton site, comme l'exigent ses règles), et en dernier recours affiche le bandeau coloré de la rubrique.
   Le photographe et la source sont toujours crédités sous la photo.
-- **Guides** : au premier passage, chaque guide reçoit automatiquement une vraie photo Pexels (ligne `photo_recherche` du guide).
+- **Guides** : au premier passage, chaque guide reçoit automatiquement une vraie photo Pixabay (ligne `photo_recherche` du guide).
   Pour en changer : supprime les lignes `photo_url`, `photo_credit` et `photo_page` du guide, et modifie `photo_recherche`.
 - Aucune image n'est générée par IA.
 
