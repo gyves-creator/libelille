@@ -182,7 +182,7 @@ def page_optique(o, tous):
 # Doublons optique : l'adresse de gauche redirige (301) vers celle de droite et n'est plus listée
 OPTIQUE_DOUBLONS = {"leader-optique.html": "/leader-optique.php"}
 # Pages gardées en ligne mais pas affichées dans la liste de la rubrique Optique & Audition
-OPTIQUE_HORS_RUBRIQUE = {"/optical-center-coupe-du-monde-russie.php"}
+OPTIQUE_HORS_RUBRIQUE = {"/optical-center-coupe-du-monde-russie.php", "/offre-emploi-opticien.php"}
 
 
 def charger_optique():
