@@ -100,5 +100,23 @@
     "titres_sources": [
       "\"Si le Smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME"
     ]
+  },
+  {
+    "titre": "Couple de Butry-sur-Oise contraint à démolir sa maison pour 37 cm de différence",
+    "texte": "Un couple du Val‑d’Oise a découvert que sa maison, pourtant autorisée, était construite 37 cm en dessous du niveau requis, exposant le bâtiment au risque d’inondation. Les autorités l’obligent à la démolition.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-09T21:32:08+00:00",
+    "titres_sources": [
+      "Ils sont obligés de détruire leur maison pour une erreur de 37 cm"
+    ]
+  },
+  {
+    "titre": "Macron et Merz discuteraient de la succession de Lagarde à la BCE",
+    "texte": "Selon Le Monde, le président français et le chancelier allemand auraient évoqué ce week‑end la succession de Christine Lagarde à la BCE, avec Pablo Hernández de Cos et Klaas Knot comme principaux candidats. Ils devraient également choisir deux nouveaux membres du directoire.",
+    "rubrique": "international",
+    "publie_le": "2026-11-09T21:32:08+00:00",
+    "titres_sources": [
+      "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence"
+    ]
   }
 ]
