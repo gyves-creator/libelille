@@ -651,9 +651,11 @@ def flux_et_sitemaps(actus, guides, pages, optique):
 <description>{e(SITE['slogan'])}</description><language>fr-fr</language>{items}</channel></rss>""")
 
     def url_xml(u, lastmod=None):
-        lm = f"<lastmod>{lastmod[:10]}</lastmod>" if lastmod else ""
+        # date ET heure pour les articles (Google repasse plus vite sur ce qui vient de changer)
+        lm = f"<lastmod>{lastmod if 'T' in str(lastmod) else str(lastmod)[:10]}</lastmod>" if lastmod else ""
         return f"<url><loc>{e(absolu(u))}</loc>{lm}</url>"
-    urls = [url_xml("/")] + [url_xml(f"/rubrique/{s}/") for s in TOUTES] + ([url_xml("/rubrique/local/")] if LOCAL else [])
+    dernier = actus[0]["publie_le"] if actus else None
+    urls = [url_xml("/", dernier)] + [url_xml(f"/rubrique/{s}/") for s in TOUTES] + ([url_xml("/rubrique/local/")] if LOCAL else [])
     urls += [url_xml(url_de(a), a["publie_le"]) for a in actus]
     urls += [url_xml(g["url"], g["date"]) for g in guides]
     urls += [url_xml(p["url"], p.get("date")) for p in pages]
@@ -667,7 +669,8 @@ def flux_et_sitemaps(actus, guides, pages, optique):
 <news:title>{e(a['titre'])}</news:title></news:news></url>""" for a in actus if dt(a["publie_le"]) >= limite)
     ecrire("/news-sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
            'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">' + news + "</urlset>")
-    ecrire("/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {absolu('/sitemap.xml')}\nSitemap: {absolu('/news-sitemap.xml')}\n")
+    ecrire("/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {absolu('/sitemap.xml')}\nSitemap: {absolu('/news-sitemap.xml')}\n"
+                          f"Sitemap: {absolu('/rss.xml')}\n")
 
 
 def main():
