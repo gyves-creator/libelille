@@ -378,12 +378,13 @@ def page_accueil(actus, guides):
         elements += [(b["publie_le"], "breve", b) for b in charger_breves()]
         elements.sort(key=lambda x: x[0], reverse=True)
         lignes_fil = []
-        for quand, genre, x in elements[:16]:
+        for quand, genre, x in elements[:12]:
             h = f'<time>{heure_locale(cfg, dt(quand)):%Hh%M}</time>'
             if genre == "article":
                 lignes_fil.append(f'<li>{h}<a href="{lien(url_de(x))}">{e(x["titre"])}</a></li>')
             else:
-                lignes_fil.append(f'<li class="breve">{h}<p><strong>{e(x["titre"])}</strong> {e(x["texte"])}</p></li>')
+                lignes_fil.append(f'<li class="breve">{h}<details><summary>{e(x["titre"])}</summary>'
+                                  f'<p>{e(x["texte"])}</p></details></li>')
         fil = "".join(lignes_fil)
         haut = f"""<section class="une-zone"><div class="une-principale">{carte(une, 'une')}</div>
 <div class="une-secondaires">{''.join(carte(a, 'compacte') for a in suite)}</div>

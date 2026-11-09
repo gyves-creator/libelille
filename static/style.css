@@ -70,8 +70,12 @@ main { max-width: var(--largeur); margin: 0 auto; padding: 28px 20px 60px; }
 .fil-direct li { display: grid; grid-template-columns: 52px 1fr; gap: 6px; padding: 9px 0; border-bottom: 1px dotted var(--filet); font-size: 14px; line-height: 1.35; }
 .fil-direct time { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; }
 .fil-direct a:hover { text-decoration: underline; }
-.fil-direct li.breve p { margin: 0; color: var(--gris); }
-.fil-direct li.breve strong { display: block; color: inherit; font-weight: 600; margin-bottom: 2px; }
+.fil-direct li.breve summary { cursor: pointer; list-style: none; }
+.fil-direct li.breve summary::-webkit-details-marker { display: none; }
+.fil-direct li.breve summary::after { content: " +"; color: var(--accent); font-weight: 700; }
+.fil-direct li.breve details[open] summary::after { content: " −"; }
+.fil-direct li.breve summary:hover { text-decoration: underline; }
+.fil-direct li.breve p { margin: 6px 0 0; color: var(--gris); font-size: 13px; }
 
 .titre-section { font-family: var(--serif); font-size: 26px; margin: 0 0 18px; display: flex; align-items: center; gap: 14px; }
 .titre-section::after { content: ""; flex: 1; height: 1px; background: var(--encre); }
