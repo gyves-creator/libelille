@@ -5,6 +5,7 @@ Ordre : 1) photo principale de la page Wikipédia du sujet  2) recherche Commons
 (CC BY, CC BY-SA, CC0, domaine public) sont acceptées, avec crédit de l'auteur.
 """
 import os
+import re
 
 import requests
 
@@ -107,6 +108,9 @@ def _recherche_commons(requete, titre_doit_contenir=None):
             continue
         if titre_doit_contenir and not any(m in res["title"].lower() for m in titre_doit_contenir):
             continue
+        if titre_doit_contenir and re.search(r"painting|still.life|vanitas|met dp|museum|map|logo|\.svg",
+                                              res["title"].lower().replace("_", " ")):
+            continue  # pour les illustrations : pas de tableaux, cartes ni logos
         infos = _infos_fichier(res["title"])
         if infos:
             infos["cle"] = cle

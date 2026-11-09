@@ -2,7 +2,7 @@
 # Le robot prend une photo libre sur Wikimedia Commons (recherche en anglais) et la garde dans legacy/photos/optique/.
 # Pour changer une photo : supprime le fichier legacy/photos/optique/<page>.jpg et, si besoin, change la recherche.
 40-pourcent-optical-center.php: "eyeglasses shop"
-avis-optical-center.php: "eyeglasses on table"
+avis-optical-center.php: "eyeglasses closeup"
 black-friday-optical-center.php: "eyeglasses display"
 meilleur-lunettes-de-vue.php: "eyeglasses frames"
 meilleur-magasin-optique.php: "eyeglasses frames shelf"
