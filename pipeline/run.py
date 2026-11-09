@@ -7,12 +7,16 @@ import os
 import sys
 from datetime import timedelta
 
-from . import photos, redaction, sources
+from . import breves, photos, redaction, sources
 from .util import (
     RACINE,
     ARTICLES, ETAT, charger_config, ecrire_json, heure_locale, lire_json,
     maintenant, meme_sujet, slugifier, tous_les_articles,
 )
+
+class _SeulementBreves(Exception):
+    pass
+
 
 def quota_du_passage(cfg, publies_aujourdhui):
     """Étale les publications sur la journée au lieu de tout publier le matin."""
@@ -125,7 +129,19 @@ def main(journal=print):
         journal(f"   ✓ publié ({nb_mots} mots{', avec photo' if photo else ', sans photo'})")
         return True
 
+    # une seule lecture des flux par rubrique et par passage (articles + brèves)
+    _cache, _collecter = {}, sources.collecter
+    def collecter_cache(rub, fenetre, journal=journal):
+        cle = (rub["slug"], fenetre)
+        if cle not in _cache:
+            _cache[cle] = _collecter(rub, fenetre, journal)
+        return _cache[cle]
+    sources.collecter = collecter_cache
+
+    mode = os.environ.get("LEFIL_MODE", "").strip()
     try:
+        if mode == "breves":
+            raise _SeulementBreves
         # ── A. Rubriques régulières (national, présidentielle) : étalées sur la journée ──
         n_reg = sum(1 for a in aujourdhui if a["rubrique"] in slugs_reg)
         a_publier = quota_du_passage(cfg, n_reg)
@@ -194,8 +210,19 @@ def main(journal=print):
             if publier(ev, rub):
                 locaux += 1
         publies_total += locaux
+    except _SeulementBreves:
+        journal("Passage de la demi-heure : brèves seulement")
     except redaction.EchecRedaction:
         journal("Arrêt : fournisseurs d'IA indisponibles (clé absente ou invalide, modèle retiré ou quota atteint).")
+
+    # ── C. Brèves du fil (à chaque passage) ──
+    try:
+        rubs_breves = [r for r in reguliers if not en_silence_electoral(r, cfg)]
+        nb_breves = breves.passage(cfg, rubs_breves, recents, liens_utilises, journal)
+        journal(f"{nb_breves} brève(s) ajoutée(s) au fil.")
+    except Exception as exc:  # une brève ratée ne doit jamais bloquer le site
+        journal(f"Brèves : erreur {exc}")
+    sources.collecter = _collecter
 
     ecrire_json(ETAT / "liens_utilises.json", sorted(liens_utilises)[-3000:])
     journal(f"Terminé : {publies_total} article(s) publié(s).")

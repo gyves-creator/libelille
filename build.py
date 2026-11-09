@@ -358,14 +358,33 @@ def optique_pour(url, n=3):
     return [OPTIQUE[(k + i * 7) % len(OPTIQUE)] for i in range(n)]
 
 
+def charger_breves(heures=30):
+    """Brèves récentes du fil (content/breves/AAAA-MM-JJ.json)."""
+    limite = maintenant() - timedelta(hours=heures)
+    tout = []
+    for f in sorted((RACINE / "content" / "breves").glob("*.json"))[-2:]:
+        tout += lire_json(f, [])
+    return [b for b in tout if dt(b["publie_le"]) >= limite]
+
+
 def page_accueil(actus, guides):
     if actus:
         # À la une : l'article le plus récent qui a une photo (sinon le plus récent tout court).
         recents = actus[:8]
         une = next((a for a in recents if a.get("photo")), actus[0])
         suite = [a for a in actus if a is not une][:4]
-        fil = "".join(f'<li><time>{heure_locale(cfg, dt(a["publie_le"])):%Hh%M}</time>'
-                      f'<a href="{lien(url_de(a))}">{e(a["titre"])}</a></li>' for a in actus[:12])
+        # Le fil : articles et brèves mêlés, du plus récent au plus ancien
+        elements = [(a["publie_le"], "article", a) for a in actus[:15]]
+        elements += [(b["publie_le"], "breve", b) for b in charger_breves()]
+        elements.sort(key=lambda x: x[0], reverse=True)
+        lignes_fil = []
+        for quand, genre, x in elements[:16]:
+            h = f'<time>{heure_locale(cfg, dt(quand)):%Hh%M}</time>'
+            if genre == "article":
+                lignes_fil.append(f'<li>{h}<a href="{lien(url_de(x))}">{e(x["titre"])}</a></li>')
+            else:
+                lignes_fil.append(f'<li class="breve">{h}<p><strong>{e(x["titre"])}</strong> {e(x["texte"])}</p></li>')
+        fil = "".join(lignes_fil)
         haut = f"""<section class="une-zone"><div class="une-principale">{carte(une, 'une')}</div>
 <div class="une-secondaires">{''.join(carte(a, 'compacte') for a in suite)}</div>
 <aside class="fil-direct"><h2 class="titre-section">Le fil</h2><ol>{fil}</ol></aside></section>"""

@@ -2,7 +2,8 @@ name: Publication automatique
 
 on:
   schedule:
-    - cron: "17 4-21 * * *"     # toutes les heures, de 5h à 22h (heure de Paris en hiver ; 6h à 23h en été)
+    - cron: "17 4-21 * * *"     # toutes les heures : articles + brèves (5h-22h heure de Paris en hiver ; 6h-23h en été)
+    - cron: "47 5-20 * * *"     # à la demi-heure : brèves du fil seulement (passage court)
   workflow_dispatch:
     inputs:
       nombre:
@@ -37,6 +38,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Photos des guides (Pixabay)
+        if: github.event.schedule != '47 5-20 * * *'
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
@@ -50,6 +52,7 @@ jobs:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           LEFIL_QUOTA: ${{ github.event.inputs.nombre }}
+          LEFIL_MODE: ${{ github.event.schedule == '47 5-20 * * *' && 'breves' || '' }}
         run: python -m pipeline.run
 
       - name: Enregistrer les nouveaux articles et photos

@@ -17,7 +17,7 @@ site:
 
 publication:
   articles_par_jour: 10        # national + présidentielle (les villes ont leur propre règle, 1 par ville et par jour)
-  max_par_passage: 3
+  max_par_passage: 2     # 2 articles maximum par passage (un passage toutes les 30 min) : publications étalées
   heure_debut: 6
   heure_fin: 23
   # Créneaux de publication (heure de Paris → nombre d'articles nationaux), calés juste AVANT les pics de lecture :
@@ -33,6 +33,13 @@ publication:
     20: 1     # pour la soirée
   fenetre_heures: 8
   mots_min: 250
+
+# Brèves du fil (titre + 2 phrases, sans page) : à chaque passage, toutes les 30 minutes
+breves:
+  par_passage: 2
+  heure_debut: 6
+  heure_fin: 23
+  fenetre_heures: 4
 
 ia:
   fournisseurs:
@@ -134,7 +141,7 @@ rubriques:
       rattrapage: 16           # à partir de 16h, si rien n'a été publié : meilleur sujet du jour (en ligne pour le retour du travail)
       seuil_medias: 2          # « info importante » = reprise par au moins 2 médias…
       fraicheur_heures: 4      # … ou contenant un mot-clé important, et de moins de 4h
-      max_par_passage: 4
+      max_par_passage: 2
     photo_defaut: "Paris ville rue"
     filtre: '\bparis\b|parisien|arrondissement|île-de-france|ile-de-france|seine-saint-denis|hauts-de-seine|val-de-marne|ratp|périphérique|saint-denis|boulogne-billancourt|montreuil'
     exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
