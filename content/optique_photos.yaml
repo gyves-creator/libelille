@@ -1,0 +1,16 @@
+# Pages Optique & Audition dont l'image d'origine n'est pas une vraie photo (bannière, texte, dessin).
+# Le robot prend une photo libre sur Wikimedia Commons (recherche en anglais) et la garde dans legacy/photos/optique/.
+# Pour changer une photo : supprime le fichier legacy/photos/optique/<page>.jpg et, si besoin, change la recherche.
+40-pourcent-optical-center.php: "eyeglasses shop"
+avis-optical-center.php: "optician store"
+black-friday-optical-center.php: "eyeglasses display"
+meilleur-lunettes-de-vue.php: "eyeglasses frames"
+meilleur-magasin-optique.php: "optician shop"
+meilleur-opticien-en-ligne.php: "glasses laptop"
+offre-emploi-opticien.php: "optometrist examination"
+offre-optical-center.php: "eyeglasses sale"
+offre-unique-optical-center.php: "pair of glasses"
+optical-center-prend-ampleur.php: "optical store"
+optical-center.php: "optician"
+opticien-en-ligne.php: "eyewear"
+opticien-mutualiste.php: "optometrist"

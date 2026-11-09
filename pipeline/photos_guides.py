@@ -38,6 +38,60 @@ def telecharger_choisies():
             print(f"✗ {f.name} : photo choisie non téléchargée ({exc})")
 
 
+def chercher_commons(requete):
+    """Renvoie (photo, réponse téléchargée) ou (None, None)."""
+    mots = [w.lower() for w in requete.split() if len(w) > 3]
+    photo, r = None, None
+    for _ in range(4):  # si un fichier est refusé (429), on passe au suivant
+        time.sleep(5)  # Wikimedia limite le nombre de requêtes
+        try:
+            photo = _recherche_commons(requete, titre_doit_contenir=mots)
+            if not photo:
+                break
+            url = photo["url"]
+            if "/thumb/" not in url:
+                # les originaux sont limités pour les robots : on demande une vignette
+                nom_f = url.split("?")[0].rsplit("/", 1)[1]
+                url = url.split("?")[0].replace("/commons/", "/commons/thumb/", 1) + f"/960px-{nom_f}"
+            r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
+            if r.ok:
+                return photo, r
+            print(f"  ({r.status_code} sur {photo['page']}, essai suivant)")
+        except Exception as exc:
+            print(f"  ({exc}, essai suivant)")
+        if photo:
+            marquer_utilisee(photo)
+        photo, r = None, None
+    return None, None
+
+
+def photos_optique():
+    """Pages Optique & Audition listées dans content/optique_photos.yaml : vraie photo à la place d'une bannière."""
+    import json
+    import yaml
+    liste = RACINE / "content" / "optique_photos.yaml"
+    if not liste.exists():
+        return
+    dossier = RACINE / "legacy" / "photos" / "optique"
+    dossier.mkdir(parents=True, exist_ok=True)
+    fichier_credits = RACINE / "state" / "optique_photos.json"
+    credits = json.loads(fichier_credits.read_text(encoding="utf-8")) if fichier_credits.exists() else {}
+    for page, requete in (yaml.safe_load(liste.read_text(encoding="utf-8")) or {}).items():
+        nom = page.rsplit(".", 1)[0] + ".jpg"
+        if (dossier / nom).exists():
+            continue
+        photo, r = chercher_commons(requete)
+        if not photo:
+            print(f"– {page} : rien sur Commons pour « {requete} »")
+            continue
+        (dossier / nom).write_bytes(r.content)
+        credits[page] = {"url": f"/photos/optique/{nom}", "credit": f'{photo["credit"]} ({photo["licence"]})',
+                         "page": photo["page"]}
+        marquer_utilisee(photo)
+        print(f"✓ {page} ← Commons : {photo['page']}")
+    fichier_credits.write_text(json.dumps(credits, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def depuis_commons():
     """Ligne « photo_commons: <recherche en anglais> » : prend une photo libre sur Wikimedia Commons
     (jamais deux fois la même) et la télécharge dans legacy/photos/."""
@@ -49,29 +103,8 @@ def depuis_commons():
         m = re.search(r'^photo_commons:\s*"?(.+?)"?\s*$', entete, re.M)
         if not m or "photo_url:" in entete:
             continue
-        mots = [w.lower() for w in m.group(1).split() if len(w) > 3]
-        photo, r = None, None
-        for _ in range(4):  # si un fichier est refusé (429), on passe au suivant
-            time.sleep(5)  # Wikimedia limite le nombre de requêtes
-            try:
-                photo = _recherche_commons(m.group(1), titre_doit_contenir=mots)
-                if not photo:
-                    break
-                url = photo["url"]
-                if "/thumb/" not in url:
-                    # les originaux sont limités pour les robots : on demande une vignette
-                    nom_f = url.split("?")[0].rsplit("/", 1)[1]
-                    url = url.split("?")[0].replace("/commons/", "/commons/thumb/", 1) + f"/960px-{nom_f}"
-                r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
-                if r.ok:
-                    break
-                print(f"  ({r.status_code} sur {photo['page']}, essai suivant)")
-            except Exception as exc:
-                print(f"  ({exc}, essai suivant)")
-            if photo:
-                marquer_utilisee(photo)
-            photo, r = None, None
-        if not photo or r is None:
+        photo, r = chercher_commons(m.group(1))
+        if not photo:
             print(f"– {f.name} : rien sur Commons pour « {m.group(1)} »")
             continue
         nom = f.stem + ".jpg"
@@ -87,6 +120,7 @@ def depuis_commons():
 def main():
     telecharger_choisies()
     depuis_commons()
+    photos_optique()
     if not (os.environ.get("PIXABAY_API_KEY") or os.environ.get("PEXELS_API_KEY")):
         print("Aucune clé de banque de photos (PIXABAY_API_KEY) : photos des guides inchangées.")
         return 0

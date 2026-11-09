@@ -165,7 +165,9 @@ def extraire_optique(t):
 def page_optique(o, tous):
     url = o["url"]
     img = o.get("image")
-    figure = f'<figure class="photo-article"><img src="{e(lien(img))}" alt="{e(o["h1"])}"></figure>' if img else ""
+    credit = (f'<figcaption><span class="credit">Photo : <a href="{e(o["photo_page"])}" rel="nofollow noopener">'
+              f'{e(o["photo_credit"])} / Wikimedia Commons</a></span></figcaption>') if o.get("photo_credit") else ""
+    figure = f'<figure class="photo-article"><img src="{e(lien(img))}" alt="{e(o["h1"])}">{credit}</figure>' if img else ""
     contenu = f"""<article class="article optique"><header>
 <a class="etiquette r-optique" href="{lien("/rubrique/optique/")}">{e(nom_rub("optique"))}</a>
 <h1>{e(o['h1'])}</h1></header>{figure}<div class="texte">{o['corps_html']}</div></article>
@@ -180,6 +182,9 @@ def page_optique(o, tous):
 def charger_optique():
     """Pages optique : même adresse, même texte, nouveau design (le contenu est repris de legacy/)."""
     lignes = []
+    fc = RACINE / "state" / "optique_photos.json"
+    photos_remplacees = {k: v for k, v in (json.loads(fc.read_text(encoding="utf-8")) if fc.exists() else {}).items()
+                         if (RACINE / "legacy" / v["url"].lstrip("/")).exists()}
     for f in sorted((RACINE / "legacy").glob("*.*")):
         if f.suffix not in (".php", ".html") or f.name.startswith(("touc", "sbjp")):
             continue
@@ -192,9 +197,13 @@ def charger_optique():
         titre = html.unescape(re.sub(r"<[^>]+>|\s+", " ", m.group(1))).strip() if m else f.stem
         img = re.search(r'<img[^>]*src="(?:https?://www\.libelille\.fr)?(/[^"]+\.(?:jpe?g|png|webp))"', t)
         x = extraire_optique(t)
-        lignes.append({"url": "/" + f.name, "titre": re.sub(r"\s*-\s*libelille.*$", "", titre, flags=re.I),
-                       "rubrique": "optique", "type": "optique", "image": x["image"] or (img.group(1) if img else None),
-                       "date": None, **{k: v for k, v in x.items() if k != "image"}})
+        o = {"url": "/" + f.name, "titre": re.sub(r"\s*-\s*libelille.*$", "", titre, flags=re.I),
+             "rubrique": "optique", "type": "optique", "image": x["image"],
+             "date": None, **{k: v for k, v in x.items() if k != "image"}}
+        if f.name in photos_remplacees:   # vraie photo à la place d'une bannière ou d'un dessin
+            ph = photos_remplacees[f.name]
+            o.update(image=ph["url"], photo_credit=ph["credit"], photo_page=ph["page"])
+        lignes.append(o)
     return lignes
 
 
