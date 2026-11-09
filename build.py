@@ -474,7 +474,7 @@ def htaccess():
         "ErrorDocument 410 /410.html",
         "",
         "RewriteEngine on",
-        "RewriteCond %{HTTPS} off",
+        "RewriteCond %{SERVER_PORT} ^80$",
         "RewriteRule .* https://www.libelille.fr%{REQUEST_URI} [R=301,L]",
         "RewriteCond %{HTTP_HOST} ^libelille\\.fr$ [NC]",
         "RewriteRule ^(.*)$ https://www.libelille.fr/$1 [R=301,L]",
