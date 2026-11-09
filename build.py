@@ -184,7 +184,8 @@ OPTIQUE_DOUBLONS = {"leader-optique.html": "/leader-optique.php"}
 # Pages gardées en ligne mais pas affichées dans la liste de la rubrique Optique & Audition
 OPTIQUE_HORS_RUBRIQUE = {"/optical-center-coupe-du-monde-russie.php", "/offre-emploi-opticien.php",
                          "/optical-center-prend-ampleur.php", "/recrutement-opticien-audioprothesiste.php",
-                         "/meilleur-opticien-2020.php"}
+                         "/meilleur-opticien-2020.php", "/opticien-coronavirus-restecheztoi.php",
+                         "/tendances-2017-lunettes-de-soleil.php"}
 
 
 def charger_optique():
