@@ -12,7 +12,16 @@
   ],
   "rubrique": "strasbourg",
   "publie_le": "2026-11-09T19:19:47+00:00",
-  "photo": null,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Stra%C3%9Fburg_%28Frankreich%29%2C_Petite_France_--_2011_--_1759.jpg/1280px-Stra%C3%9Fburg_%28Frankreich%29%2C_Petite_France_--_2011_--_1759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stra%C3%9Fburg_(Frankreich),_Petite_France_--_2011_--_1759.jpg",
+    "legende": "Petite France in Strasbourg , France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Straßburg (Frankreich), Petite France -- 2011 -- 1759.jpg"
+  },
   "sources": [
     {
       "media": "dna.fr",

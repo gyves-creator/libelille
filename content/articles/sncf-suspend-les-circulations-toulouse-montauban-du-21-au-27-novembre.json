@@ -12,7 +12,16 @@
   ],
   "rubrique": "toulouse",
   "publie_le": "2026-11-09T18:32:45+00:00",
-  "photo": null,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%2831%29_Universit%C3%A9_Toulouse_1_Capitole_-_Entr%C3%A9e_principale%2C_site_de_l%27Arsenal.jpg/1280px-%2831%29_Universit%C3%A9_Toulouse_1_Capitole_-_Entr%C3%A9e_principale%2C_site_de_l%27Arsenal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:(31)_Universit%C3%A9_Toulouse_1_Capitole_-_Entr%C3%A9e_principale,_site_de_l%27Arsenal.jpg",
+    "legende": "Toulouse 1 Capitole University - Main entrance, Arsenal site.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:(31) Université Toulouse 1 Capitole - Entrée principale, site de l'Arsenal.jpg"
+  },
   "sources": [
     {
       "media": "Toulouse7.com",

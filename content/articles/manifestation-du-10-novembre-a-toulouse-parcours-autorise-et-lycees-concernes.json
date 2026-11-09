@@ -12,7 +12,16 @@
   ],
   "rubrique": "toulouse",
   "publie_le": "2026-11-09T18:06:43+00:00",
-  "photo": null,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg/1280px-Toulouse_Capitole_Night_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Toulouse_Capitole_Night_Wikimedia_Commons.jpg",
+    "legende": "Capitole of Toulouse, and the square of the same name with the Occitan cross designed by Raymond Moretti on the ground.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Toulouse Capitole Night Wikimedia Commons.jpg"
+  },
   "sources": [
     {
       "media": "Actu.fr",
