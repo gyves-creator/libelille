@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/emploi-et-travail.jpg"
+photo_credit: "Shixart1985 (CC BY 2.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Woman_stretches_at_home_office_desk_while_working_on_laptop.jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "home office laptop desk"
 photo_recherche: "person working laptop home office"
 titre: "Chômage, auto-entreprise, télétravail : vos options"
