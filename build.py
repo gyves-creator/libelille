@@ -372,9 +372,12 @@ def page_accueil(actus, guides):
         # À la une : l'article le plus récent qui a une photo (sinon le plus récent tout court).
         # La une et les 4 titres à côté : actualité nationale seulement (les villes ont leur bloc « Près de chez vous »)
         nationaux = [a for a in actus if a["rubrique"] not in LOCAL] or actus
-        recents = nationaux[:8]
-        une = next((a for a in recents if a.get("photo") and a["rubrique"] != "sport"), None) \
-            or next((a for a in recents if a.get("photo")), nationaux[0])
+        # priorité aux grandes infos françaises : présidentielle, politique, économie, société, puis le reste
+        ordre = {"presidentielle": 0, "politique": 1, "economie": 2, "societe": 3, "international": 4, "tech": 5, "sport": 6}
+        limite = maintenant() - timedelta(hours=12)
+        recents = [a for a in nationaux[:10] if dt(a["publie_le"]) >= limite] or nationaux[:8]
+        avec_photo = [a for a in recents if a.get("photo")] or recents
+        une = min(avec_photo, key=lambda a: (ordre.get(a["rubrique"], 9), -dt(a["publie_le"]).timestamp()))
         suite = [a for a in nationaux if a is not une][:4]
         # Le fil : articles et brèves mêlés, du plus récent au plus ancien
         elements = [(a["publie_le"], "article", a) for a in actus[:15]]
