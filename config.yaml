@@ -13,7 +13,7 @@ site:
   # Ton compte AdSense (repris de l'ancien site). Laisse vide pour ne pas afficher de publicité.
   adsense_client: "ca-pub-2944434087067586"
   # Google Analytics 4 (facultatif) : identifiant du type G-XXXXXXX
-  ga4: ""
+  ga4: "G-VGP4SCH6ML"
 
 publication:
   articles_par_jour: 10        # national + présidentielle (les villes ont leur propre règle, 1 par ville et par jour)
