@@ -101,8 +101,84 @@ def charger_pages():
     return pages
 
 
+OPTIQUE_GARDER = {"p", "h2", "h3", "h4", "ul", "ol", "li", "a", "strong", "b", "em", "i", "img", "br",
+                  "table", "thead", "tbody", "tr", "td", "th", "blockquote"}
+
+
+def extraire_optique(t):
+    """Reprend le contenu d'une ancienne page optique (titre, description, texte) sans son ancienne mise en page."""
+    from bs4 import BeautifulSoup, ProcessingInstruction, Comment
+    soup = BeautifulSoup(t, "html.parser")
+    titre = soup.title.get_text(" ", strip=True) if soup.title else ""
+    def meta(nom):
+        m = soup.find("meta", attrs={"name": nom})
+        return (m.get("content") or "").strip() if m else ""
+    h1 = soup.find("h1")
+    h1_txt = re.sub(r"\s+", " ", h1.get_text(" ", strip=True)) if h1 else titre
+    corps = soup.body or soup
+    for n in corps.find_all(string=lambda x: isinstance(x, (ProcessingInstruction, Comment))):
+        n.extract()
+    for sel in ["ul.navbar", "div#img", "script", "noscript", "ins", "iframe", "style", "#fb-root", ".fb-like",
+                "g\\:plusone", "h1"]:
+        for n in corps.select(sel):
+            n.decompose()
+    for n in corps.find_all(lambda x: x.name and ":" in x.name):
+        n.decompose()
+    for a in corps.find_all("a"):
+        h = a.get("href", "")
+        if "twitter.com/share" in h or "mentions-legales" in h or "comparateur" in h:
+            a.decompose()
+    image = None
+    for img in corps.find_all("img"):
+        src = img.get("src", "")
+        if re.search(r"rachatdecredit|comparateur-rachat", src):
+            img.decompose()
+            continue
+        src = re.sub(r"^https?://(www\.)?libelille\.fr", "", src)
+        if image is None and src.startswith("/"):
+            image = src
+            img.decompose()          # affichée en grand en tête d'article
+            continue
+        img["src"] = src
+        img["loading"] = "lazy"
+    for n in list(corps.find_all(True)):
+        if n.name not in OPTIQUE_GARDER:
+            n.unwrap()
+            continue
+        garder = {"href", "src", "alt", "title", "loading"}
+        for att in list(n.attrs):
+            if att not in garder:
+                del n[att]
+        if n.name == "a" and n.get("href"):
+            n["href"] = re.sub(r"^https?://(www\.)?libelille\.fr(?=/)", "", n["href"])
+    for p in corps.find_all("p"):
+        if not p.get_text(strip=True) and not p.find("img"):
+            p.decompose()
+    html_corps = str(corps.decode_contents()) if hasattr(corps, "decode_contents") else str(corps)
+    html_corps = re.sub(r"(<br\s*/?>\s*){2,}", "<br>", html_corps)
+    html_corps = re.sub(r"^(\s|<br\s*/?>)+", "", html_corps.strip())
+    # texte resté hors paragraphe : on l'enveloppe pour la mise en page
+    return {"titre_exact": titre, "description": meta("description"), "mots_cles": meta("keywords"),
+            "h1": h1_txt, "image": image, "corps_html": html_corps.strip()}
+
+
+def page_optique(o, tous):
+    url = o["url"]
+    img = o.get("image")
+    figure = f'<figure class="photo-article"><img src="{e(lien(img))}" alt="{e(o["h1"])}"></figure>' if img else ""
+    contenu = f"""<article class="article optique"><header>
+<a class="etiquette r-optique" href="{lien("/rubrique/optique/")}">{e(nom_rub("optique"))}</a>
+<h1>{e(o['h1'])}</h1></header>{figure}<div class="texte">{o['corps_html']}</div></article>
+{bloc_optique("À lire aussi en Optique & Audition", optique_pour(url, 4), "compact")}"""
+    head = jsonld("Article", o["h1"], o.get("description", ""), url, None, img, nom_rub("optique")) + og(o["h1"], o.get("description"), img)
+    if o.get("mots_cles"):
+        head += f'<meta name="keywords" content="{e(o["mots_cles"])}">\n'
+    ecrire(url, page(o["h1"], contenu, o.get("description", ""), url, head, rub_active="optique",
+                     titre_exact=o.get("titre_exact") or None))
+
+
 def charger_optique():
-    """Pages optique copiées telles quelles : on lit seulement leur titre pour la rubrique."""
+    """Pages optique : même adresse, même texte, nouveau design (le contenu est repris de legacy/)."""
     lignes = []
     for f in sorted((RACINE / "legacy").glob("*.*")):
         if f.suffix not in (".php", ".html") or f.name.startswith(("touc", "sbjp")):
@@ -115,8 +191,10 @@ def charger_optique():
         m = re.search(r"(?is)<h1[^>]*>(.*?)</h1>", t) or re.search(r"(?is)<title>(.*?)</title>", t)
         titre = html.unescape(re.sub(r"<[^>]+>|\s+", " ", m.group(1))).strip() if m else f.stem
         img = re.search(r'<img[^>]*src="(?:https?://www\.libelille\.fr)?(/[^"]+\.(?:jpe?g|png|webp))"', t)
+        x = extraire_optique(t)
         lignes.append({"url": "/" + f.name, "titre": re.sub(r"\s*-\s*libelille.*$", "", titre, flags=re.I),
-                       "rubrique": "optique", "type": "optique", "image": img.group(1) if img else None, "date": None})
+                       "rubrique": "optique", "type": "optique", "image": x["image"] or (img.group(1) if img else None),
+                       "date": None, **{k: v for k, v in x.items() if k != "image"}})
     return lignes
 
 
@@ -167,7 +245,7 @@ def tete_pub():
     return s
 
 
-def page(titre, contenu, description="", canonique="/", extra_head="", rub_active=""):
+def page(titre, contenu, description="", canonique="/", extra_head="", rub_active="", titre_exact=None):
     nav_actu = "".join(
         f'<a href="{lien(f"/rubrique/{r}/")}"{" class=actif" if r == rub_active else ""}>{e(v["nom"])}</a>'
         for r, v in ACTU.items() if r not in LOCAL)
@@ -178,6 +256,8 @@ def page(titre, contenu, description="", canonique="/", extra_head="", rub_activ
         f'<a href="{lien(f"/rubrique/{r}/")}"{" class=actif" if r == rub_active else ""}>{e(v["nom"])}</a>'
         for r, v in SECTIONS.items())
     titre_complet = f"{titre} — {SITE['nom']}" if titre != SITE["nom"] else f"{SITE['nom']} — {SITE['slogan']}"
+    if titre_exact:
+        titre_complet = titre_exact
     return f"""<!DOCTYPE html>
 <html lang="{SITE['langue']}">
 <head>
@@ -489,7 +569,7 @@ def htaccess():
     lignes += ["", "# Anciennes pages supprimées"] + [f"Redirect gone {q(a)}" for a in r["410"]]
     anciens = []
     for f in sorted((RACINE / "legacy").glob("*.*")):
-        if f.suffix in (".php", ".html"):
+        if f.suffix in (".php", ".html") and not any(o["url"] == "/" + f.name for o in OPTIQUE):
             try:
                 f.read_bytes().decode("utf-8")
             except UnicodeDecodeError:
@@ -580,6 +660,8 @@ def main():
         page_guide(g, tous)
     for p in pages:
         page_ancienne(p, tous)
+    for o in optique:
+        page_optique(o, tous)
     par_annee = defaultdict(list)
     for p in pages:
         if p["rubrique"] == "archives" and p.get("date"):
@@ -590,7 +672,7 @@ def main():
     n301, n410 = htaccess()
     flux_et_sitemaps(actus, guides, pages, optique)
     print(f"Site généré : {len(actus)} actus, {len(guides)} guides, {len(pages)} anciens articles, "
-          f"{len(optique)} pages optique intactes, {n301} redirections, {n410} suppressions → {SORTIE}")
+          f"{len(optique)} pages optique (même adresse, nouveau design), {n301} redirections, {n410} suppressions → {SORTIE}")
 
 
 if __name__ == "__main__":
