@@ -1,0 +1,42 @@
+{
+  "slug": "gouvernement-hausse-du-smic-de-1-6-a-1502-des-le-1er-decembre",
+  "titre": "Gouvernement : hausse du SMIC de 1,6 % à 1502 € dès le 1er décembre",
+  "chapeau": "Le ministre du Travail a annoncé une revalorisation du salaire minimum de 1,6 % à compter du 1er décembre, portant le SMIC à 1502 €. Cette décision suscite des réactions contrastées de la part des syndicats, des organisations patronales et de la CFE‑CGC.",
+  "corps": "## Une hausse annoncée par le gouvernement\nLundi, lors d’une conférence sociale à Matignon, le ministre du Travail, Jean‑Pierre Farandou, a présenté la nouvelle revalorisation du SMIC. Le salaire minimum devrait augmenter de près de 24 € par mois, soit une hausse de 1,6 % qui le portera à 1502 € à partir du 1er décembre. Sébastien Lecornu, porte‑parole du gouvernement, a qualifié cette mesure de « deuxième hausse la plus importante en vingt ans », soulignant son importance dans le contexte économique actuel.\n\n## Les syndicats jugent la mesure insuffisante\nLes principaux syndicats ont immédiatement critiqué le niveau de l’augmentation. La CGT a qualifié la proposition de « miettes », estimant qu’elle ne répond pas aux attentes des salariés. La CFDT a exprimé une position similaire, jugeant la hausse « insuffisante ». Christelle Thieffinne, présidente de la CFE‑CGC, a déclaré ne pas vouloir « assister à une smicardisation du pays », dénonçant un éventuel tassement des grilles salariales.\n\n## Le patronat alerte sur le poids des charges salariales\nDu côté des employeurs, Alain Fontaine, président de l’Association des bistrots et cafés de France et propriétaire du restaurant Le Mesturet à Paris, a rappelé que les charges sur les salaires pèsent de plus en plus lourdement depuis plusieurs décennies. Il a indiqué que la masse salariale représente une contrainte majeure, évoquant une pression qui n’est pas observée depuis « dix ans, depuis quarante ans ». Cette prise de parole intervient dans un contexte où les organisations patronales réclamaient depuis plusieurs semaines un soutien plus important au pouvoir d’achat des salariés.\n\n## Perspectives et enjeux futurs\nLa revalorisation du SMIC s’inscrit dans une série de mesures visant à soutenir le pouvoir d’achat, mais les divergences entre les acteurs économiques laissent entrevoir des négociations à venir. Les syndicats promettent de poursuivre leurs revendications, tandis que le patronat continue de mettre en avant le coût des charges sociales comme un facteur de compétitivité. Le gouvernement devra donc concilier ces positions dans les prochains mois, alors que l’impact de la hausse sur l’inflation et sur la compétitivité des entreprises reste à évaluer.",
+  "mots_cles": [
+    "SMIC",
+    "hausse salariale",
+    "syndicats",
+    "patronat",
+    "gouvernement"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-09T19:03:11+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg/1280px-Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "© Patrice Normand/Leextra via opale",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_(cropped_2).jpg",
+    "legende": "Official portrait of Sébastien Lecornu (French Minister of the Armed Forces des Armées) ©Patrice Normand/Leextra",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "\"Le problème, c'est qu'on est étouffé par la masse salariale\", déplore le président de l'Association des bistrots et cafés de France, après l'annonce d'une hausse du smic",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/le-probleme-c-est-qu-on-est-etouffe-par-la-masse-salariale-deplore-le-president-de-l-association-des-bistrots-et-cafes-de-france-apres-l-annonce-d-une-hausse-du-smic_8274740.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre",
+      "url": "https://www.lemonde.fr/economie/video/2026/11/09/le-gouvernement-annonce-une-hausse-du-smic-de-1-6-a-partir-du-1-decembre_6808661_3234.html"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Le gouvernement annonce une revalorisation du smic de 1,6% pour le porter à 1502 euros dès le 1er décembre",
+      "url": "https://www.lefigaro.fr/social/le-gouvernement-annonce-une-revalorisation-du-smic-de-1-6-pour-le-porter-a-1502-euros-des-le-1er-decembre-20261109"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
