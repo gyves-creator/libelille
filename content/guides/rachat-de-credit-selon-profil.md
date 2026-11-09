@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/rachat-de-credit-selon-profil.jpg"
+photo_credit: "Crew crew (CC0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Couple_working_at_home_(Unsplash).jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "Couple working at home Unsplash"
 photo_recherche: "couple reviewing finances laptop"
 titre: "Rachat de crédit selon votre situation"
