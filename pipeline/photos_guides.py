@@ -8,6 +8,7 @@ Ne refait rien pour les guides déjà illustrés : on peut le lancer à chaque p
 Pour changer la photo d'un guide : supprime ses lignes photo_url / photo_credit / photo_page.
 """
 import os
+import time
 import re
 import sys
 
@@ -48,6 +49,7 @@ def depuis_commons():
         m = re.search(r'^photo_commons:\s*"?(.+?)"?\s*$', entete, re.M)
         if not m or "photo_url:" in entete:
             continue
+        time.sleep(5)  # Wikimedia limite le nombre de requêtes
         try:
             photo = _recherche_commons(m.group(1))
             if not photo:
