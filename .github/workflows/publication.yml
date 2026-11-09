@@ -69,4 +69,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ${{ secrets.FTP_PROTOCOLE || 'ftp' }}
           local-dir: ./public/
-          server-dir: ${{ secrets.FTP_DOSSIER || 'www/' }}
+          server-dir: ${{ secrets.FTP_DOSSIER || 'libelille.fr/' }}
