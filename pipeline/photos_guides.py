@@ -49,21 +49,30 @@ def depuis_commons():
         m = re.search(r'^photo_commons:\s*"?(.+?)"?\s*$', entete, re.M)
         if not m or "photo_url:" in entete:
             continue
-        time.sleep(5)  # Wikimedia limite le nombre de requêtes
-        try:
-            mots = [w.lower() for w in m.group(1).split() if len(w) > 3]
-            photo = _recherche_commons(m.group(1), titre_doit_contenir=mots)
-            if not photo:
-                print(f"– {f.name} : rien sur Commons pour « {m.group(1)} »")
-                continue
-            for essai in range(3):
-                r = requests.get(photo["url"], headers={"User-Agent": USER_AGENT}, timeout=60)
-                if r.status_code != 429:
+        mots = [w.lower() for w in m.group(1).split() if len(w) > 3]
+        photo, r = None, None
+        for _ in range(4):  # si un fichier est refusé (429), on passe au suivant
+            time.sleep(5)  # Wikimedia limite le nombre de requêtes
+            try:
+                photo = _recherche_commons(m.group(1), titre_doit_contenir=mots)
+                if not photo:
                     break
-                time.sleep(30)
-            r.raise_for_status()
-        except Exception as exc:
-            print(f"✗ {f.name} : {exc}")
+                url = photo["url"]
+                if "/thumb/" not in url:
+                    # les originaux sont limités pour les robots : on demande une vignette
+                    nom_f = url.split("?")[0].rsplit("/", 1)[1]
+                    url = url.split("?")[0].replace("/commons/", "/commons/thumb/", 1) + f"/960px-{nom_f}"
+                r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=60)
+                if r.ok:
+                    break
+                print(f"  ({r.status_code} sur {photo['page']}, essai suivant)")
+            except Exception as exc:
+                print(f"  ({exc}, essai suivant)")
+            if photo:
+                marquer_utilisee(photo)
+            photo, r = None, None
+        if not photo or r is None:
+            print(f"– {f.name} : rien sur Commons pour « {m.group(1)} »")
             continue
         nom = f.stem + ".jpg"
         (dossier / nom).write_bytes(r.content)
