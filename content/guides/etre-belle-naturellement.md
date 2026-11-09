@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/etre-belle-naturellement.jpg"
+photo_credit: "Shixart1985 (CC BY 2.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Woman_applies_skincare_product_in_bathroom.jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "woman skincare cosmetics"
 photo_recherche: "woman skincare routine mirror"
 titre: "Être belle naturellement : routine et bons gestes"

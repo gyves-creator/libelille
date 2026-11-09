@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/animal-en-surpoids.jpg"
+photo_credit: "Pets Adviser from Brooklyn, USA (CC BY 2.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Overweight_pug,_senior_dog_(8109018571).jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "overweight dog"
 photo_recherche: "dog walking leash park"
 titre: "Chien, chat, cheval : gérer le poids de son animal"

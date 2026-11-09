@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/confiance-et-image-de-soi.jpg"
+photo_credit: "Basile Morin (CC BY-SA 4.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Water_reflection_of_a_smiling_woman_planting_rice.jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "smiling woman portrait"
 photo_recherche: "confident smiling woman portrait"
 titre: "Image de soi : s'accepter et se plaire"

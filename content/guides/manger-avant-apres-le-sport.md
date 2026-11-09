@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/manger-avant-apres-le-sport.jpg"
+photo_credit: "Vyacheslav Argenberg (CC BY 4.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Tropical_breakfast,_Fruit_salad.jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "healthy breakfast fruit"
 photo_recherche: "banana water bottle gym"
 titre: "Que manger avant et après le sport ?"
