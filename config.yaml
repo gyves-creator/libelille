@@ -46,7 +46,7 @@ ia:
     - nom: gemini
       natif: true   # API native : les nouvelles clés « AQ. » sont refusées par la route compatible OpenAI
       cle_env: GEMINI_API_KEY
-      modele: "gemini-2.5-flash"
+      modele: "gemini-3.8-flash"
     - nom: groq
       url: "https://api.groq.com/openai/v1/chat/completions"
       cle_env: GROQ_API_KEY
