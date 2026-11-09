@@ -1,0 +1,37 @@
+{
+  "slug": "france-accuse-l-iran-d-une-cyberattaque-sur-les-refrigerateurs-de-supermarches",
+  "titre": "France accuse l'Iran d'une cyberattaque sur les réfrigérateurs de supermarchés",
+  "chapeau": "Paris a désigné des juges d'instruction pour enquêter sur une attaque informatique qui a paralysé les systèmes de froid de plusieurs centaines de magasins. Le ministre des Affaires étrangères, Jean‑Noël Barrot, a indiqué que les responsables seraient liés à une unité des Gardiens de la Révolution iranienne.",
+  "corps": "## Une attaque sans précédent sur l’infrastructure frigorifique\nDans la nuit du 11 au 12 octobre, les systèmes de réfrigération de près de sept cents supermarchés français ont été compromis, provoquant une hausse anormale des températures. Selon les autorités, l’incident constitue une cyberattaque d’une ampleur et d’une agressivité inédites. \"C'est une attaque d'une ampleur inédite et d'une agressivité inédite\", a déclaré le ministre des Affaires étrangères, Jean‑Noël Barrot, soulignant la gravité de la situation.\n\n## Enquête judiciaire et accusations contre l’Iran\nLe parquet français a ouvert une enquête visant trois personnes présumées membres d’un groupe de pirates informatiques lié aux Gardiens de la Révolution, l’une des forces armées d’Iran. Des juges d’instruction ont été nommés pour mener les investigations, qui portent notamment sur les activités d’une unité cyber du Corps des Gardiens de la Révolution. Les autorités françaises avancent que les preuves recueillies orientent l’enquête vers la République islamique d’Iran, bien que les détails techniques de l’intrusion n’aient pas été rendus publics.\n\n## Conséquences pour le secteur de la distribution\nL’incident a affecté la chaîne du froid dans un grand nombre d’établissements, entraînant des pertes potentielles de denrées périssables et des perturbations logistiques. Les enseignes concernées ont dû activer des procédures d’urgence pour sécuriser leurs stocks et rétablir les températures normales. L’affaire relance le débat sur la vulnérabilité des infrastructures critiques face aux cybermenaces, notamment dans le domaine de la distribution alimentaire.\n\n## Réactions diplomatiques et perspectives\nLe gouvernement français a communiqué son intention de poursuivre les responsables, tant au niveau judiciaire que diplomatique. La dénonciation officielle de l’Iran intervient dans un contexte de tensions accrues entre Paris et Téhéran sur plusieurs dossiers de cybersécurité. Aucun représentant iranien n’a encore commenté les accusations, et les autorités iraniennes n’ont pas confirmé d’implication.\n\nL’enquête se poursuit, et les autorités françaises insistent sur la nécessité de renforcer la protection des systèmes numériques essentiels pour éviter la répétition d’incidents similaires.",
+  "mots_cles": [
+    "cyberattaque",
+    "réfrigérateurs",
+    "supermarchés",
+    "Iran",
+    "Gardiens de la Révolution"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-09T21:54:38+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jean-No%C3%ABl_Barrot_2023_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Tomohiro Ohsumi / European Union, 2023 / EC - Audiovisual Service",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jean-No%C3%ABl_Barrot_2023_cropped.jpg",
+    "legende": "Jean-Noël Barrot, French Minister for Digital Transition and Telecommunications (L), poses with Margrethe Vestager, Executive Vice-President of the European Commission in charge of Europe fit for the ",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Piratage des frigos : la France accuse l’Iran et les Gardiens de la révolution",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/piratage-des-frigos-la-france-accuse-l-iran-et-les-gardiens-de-la-revolution_8275106.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Cyberattaques contre des frigos de supermarchés : la France accuse l'Iran",
+      "url": "https://www.france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -118,5 +118,23 @@
     "titres_sources": [
       "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence"
     ]
+  },
+  {
+    "titre": "Pesticides interdits autorisés par dérogations temporaires en France",
+    "texte": "Des pesticides interdits sont autorisés en France grâce à des dérogations temporaires de l'État, renouvelées régulièrement. Ces autorisations répétées soulèvent des questions sur la politique de protection de l'environnement.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-09T21:54:48+00:00",
+    "titres_sources": [
+      "Pesticides : des dérogations qui deviennent la règle"
+    ]
+  },
+  {
+    "titre": "Plus de 200 défenseurs de l'environnement tués aux Philippines",
+    "texte": "Plus de 200 défenseurs de l'environnement ont été tués aux Philippines ces dernières années. Ces décès concernent des habitants qui s'opposent aux compagnies minières et à l'abattage illégal d'arbres, et qui subissent intimidations et menaces de mort.",
+    "rubrique": "international",
+    "publie_le": "2026-11-09T21:54:48+00:00",
+    "titres_sources": [
+      "Plus de 200 défenseurs de l’environnement tués aux Philippines ces dernières années"
+    ]
   }
 ]

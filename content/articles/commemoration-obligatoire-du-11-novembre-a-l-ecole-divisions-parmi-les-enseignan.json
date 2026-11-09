@@ -1,0 +1,36 @@
+{
+  "slug": "commemoration-obligatoire-du-11-novembre-a-l-ecole-divisions-parmi-les-enseignan",
+  "titre": "Commémoration obligatoire du 11-Novembre à l'école : divisions parmi les enseignants",
+  "chapeau": "Une nouvelle mesure impose aux établissements scolaires d'organiser une cérémonie en hommage aux « morts pour la France » pour les élèves du CM1 à la terminale. Les syndicats d'enseignants dénoncent un risque d'embrigadement et une possible instrumentalisation politique à l'approche de la présidentielle.",
+  "corps": "## Une obligation nouvelle pour les établissements\nÀ compter de cette année, toutes les écoles françaises doivent prévoir, au sein même de leurs locaux, une cérémonie officielle le 11‑novembre. Cette mesure s’applique aux élèves du CM1 jusqu’à la terminale et vise à rendre hommage aux personnes décédées au service de la France. Le dispositif prévoit également la possibilité d’inviter des élus, ce qui alimente les débats au sein du corps enseignant.\n\n## Les syndicats expriment leurs inquiétudes\nLes organisations syndicales d’enseignants ont rapidement réagi en appelant au boycott de la cérémonie. Elles redoutent que la journée ne devienne un vecteur d’embrigadement des jeunes, voire une forme de militarisation de l’école. Le caractère obligatoire de l’événement est perçu comme une contrainte qui pourrait être détournée à des fins politiques, notamment à quelques mois de la prochaine élection présidentielle. Les syndicats soulignent que la présence d’élus pourrait accentuer le risque d’instrumentalisation du souvenir.\n\n## Un débat qui reflète des tensions plus larges\nCette polémique s’inscrit dans un contexte où la commémoration du 11‑novembre, déjà largement observée à l’échelle nationale, se voit désormais transposée de façon plus formelle dans le cadre scolaire. Les divergences d’opinion entre les autorités éducatives, qui défendent la nécessité d’un enseignement du devoir de mémoire, et les syndicats, qui craignent une utilisation politique du rite, illustrent les tensions actuelles autour du rôle de l’école dans la transmission de l’histoire. Aucun consensus n’a encore émergé quant à la mise en œuvre concrète de la cérémonie ni à la manière de garantir son caractère pédagogique sans en faire un outil de propagande.\n\n## Perspectives pour l’avenir\nAlors que la date de la présidentielle se rapproche, les observateurs s’interrogent sur l’impact potentiel de cette mesure sur le climat électoral. Les syndicats restent vigilants et envisagent de poursuivre leurs actions de contestation si la cérémonie devait être perçue comme un instrument de campagne. De leur côté, les autorités éducatives insistent sur le caractère obligatoire de la commémoration, rappelant l’importance de la mémoire collective dans la formation des jeunes citoyens.",
+  "mots_cles": [
+    "commémoration scolaire",
+    "syndicats enseignants",
+    "Armistice 1918",
+    "politisation école"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-09T21:54:41+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Armisticetrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Armisticetrain.jpg",
+    "legende": "This photograph of the Compiègne Wagon was taken in the forest of Compiègne after reaching an agreement for the armistice that ended World War I. This railcar was given to Ferdinand Foch for military ",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale",
+      "url": "https://www.franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "11-Novembre : la commémoration obligatoire à l’école divise les enseignants",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/09/11-novembre-la-commemoration-obligatoire-a-l-ecole-divise-les-enseignants_6808691_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
