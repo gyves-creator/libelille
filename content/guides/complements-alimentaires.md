@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/complements-alimentaires.jpg"
+photo_credit: "Jernej Furman from Slovenia (CC BY 2.0)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Omega_3_capsules_in_white_bottle_(52715127894).jpg"
+photo_source: "Wikimedia Commons"
 photo_commons: "dietary supplements capsules"
 photo_recherche: "vitamin supplements pills"
 titre: "Compléments alimentaires : utiles ou pas ?"

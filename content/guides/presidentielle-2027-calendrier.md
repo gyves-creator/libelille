@@ -1,4 +1,8 @@
 ---
+photo_url: "/photos/presidentielle-2027-calendrier.jpg"
+photo_credit: "Rama (CC BY-SA 2.0 fr)"
+photo_page: "https://commons.wikimedia.org/wiki/File:Election_MG_3455.JPG"
+photo_source: "Wikimedia Commons"
 photo_commons: "ballot box France election"
 photo_recherche: "ballot box voting France"
 titre: "Présidentielle 2027 : le calendrier et comment voter"
