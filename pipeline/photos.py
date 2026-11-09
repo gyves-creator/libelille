@@ -90,7 +90,7 @@ def _depuis_wikipedia(sujet):
     return None
 
 
-def _recherche_commons(requete):
+def _recherche_commons(requete, titre_doit_contenir=None):
     data = _get(
         COMMONS,
         {
@@ -104,6 +104,8 @@ def _recherche_commons(requete):
     for res in data.get("query", {}).get("search", []):
         cle = "commons:" + res["title"]
         if cle in utilisees():
+            continue
+        if titre_doit_contenir and not any(m in res["title"].lower() for m in titre_doit_contenir):
             continue
         infos = _infos_fichier(res["title"])
         if infos:

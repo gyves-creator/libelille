@@ -51,11 +51,16 @@ def depuis_commons():
             continue
         time.sleep(5)  # Wikimedia limite le nombre de requêtes
         try:
-            photo = _recherche_commons(m.group(1))
+            mots = [w.lower() for w in m.group(1).split() if len(w) > 3]
+            photo = _recherche_commons(m.group(1), titre_doit_contenir=mots)
             if not photo:
                 print(f"– {f.name} : rien sur Commons pour « {m.group(1)} »")
                 continue
-            r = requests.get(photo["url"], headers={"User-Agent": USER_AGENT}, timeout=60)
+            for essai in range(3):
+                r = requests.get(photo["url"], headers={"User-Agent": USER_AGENT}, timeout=60)
+                if r.status_code != 429:
+                    break
+                time.sleep(30)
             r.raise_for_status()
         except Exception as exc:
             print(f"✗ {f.name} : {exc}")
