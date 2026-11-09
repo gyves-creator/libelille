@@ -1,0 +1,248 @@
+# ─────────────────────────────────────────────────────────────
+#  libelille.fr — configuration (c'est le seul fichier à modifier)
+# ─────────────────────────────────────────────────────────────
+
+site:
+  nom: "Libelille"
+  slogan: "L'actualité, vite et clairement"
+  domaine: "www.libelille.fr"
+  langue: "fr"
+  fuseau: "Europe/Paris"
+  mention_ia: "Article rédigé avec l'aide d'une intelligence artificielle et publié sous la responsabilité de la rédaction."
+  afficher_sources: false
+  # Ton compte AdSense (repris de l'ancien site). Laisse vide pour ne pas afficher de publicité.
+  adsense_client: "ca-pub-2944434087067586"
+  # Google Analytics 4 (facultatif) : identifiant du type G-XXXXXXX
+  ga4: ""
+
+publication:
+  articles_par_jour: 10        # national + présidentielle (les villes ont leur propre règle, 1 par ville et par jour)
+  max_par_passage: 3
+  heure_debut: 6
+  heure_fin: 23
+  # Créneaux de publication (heure de Paris → nombre d'articles nationaux), calés juste AVANT les pics de lecture :
+  # trajets du matin (7h-9h), pause déjeuner (12h-14h), retour du travail (17h-19h), soirée (21h-22h).
+  # Si un créneau n'a pas pu être rempli (pas de sujet), le retard est rattrapé au passage suivant.
+  creneaux:
+    6: 2      # en ligne pour les trajets du matin
+    7: 1
+    11: 2     # pour la pause déjeuner
+    12: 1
+    16: 2     # pour le retour du travail
+    17: 1
+    20: 1     # pour la soirée
+  fenetre_heures: 8
+  mots_min: 250
+
+ia:
+  fournisseurs:
+    - nom: gemini
+      url: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+      cle_env: GEMINI_API_KEY
+      modele: "gemini-2.5-flash"
+    - nom: groq
+      url: "https://api.groq.com/openai/v1/chat/completions"
+      cle_env: GROQ_API_KEY
+      modele: "llama-3.3-70b-versatile"
+
+# Rubriques d'actualité alimentées chaque jour par le robot.
+# « filtre » : ne garder que les dépêches dont le titre ou le résumé correspond (expression régulière).
+# « priorite » : bonus pour que la rubrique passe avant les autres (au moins 1 article par jour garanti).
+# « consignes » : règles de rédaction supplémentaires pour cette rubrique.
+rubriques:
+  - nom: Présidentielle 2027
+    slug: presidentielle
+    quota: 2
+    priorite: 50
+    photo_defaut: "urne électorale bureau de vote"
+    filtre: 'présidentielle|presidentielle|élysée|candidat|parrainage|sondage|primaire'
+    blackout_scrutins: ["2027-04-18", "2027-05-02"]
+    consignes: |
+      Cet article porte sur l'élection présidentielle. Règles impératives :
+      - Neutralité totale : même ton, même rigueur et même vocabulaire pour tous les candidats et tous les partis.
+        Aucun adjectif valorisant ou dévalorisant, aucune opinion, aucun pronostic de ta part.
+      - Présente les faits et les positions tels que rapportés, en les attribuant clairement (« selon… », « a déclaré… »).
+        Si un candidat est critiqué ou contesté dans les dépêches, mentionne aussi sa réponse si elle y figure.
+      - Sondages : cite l'institut, la date, la taille de l'échantillon et rappelle qu'un sondage est une photographie
+        de l'opinion à un instant donné, pas une prédiction. Ne cite jamais un sondage sans ces éléments.
+      - Ne donne jamais de conseil de vote et n'appelle pas à voter pour ou contre qui que ce soit.
+      - Pour les dates, l'inscription sur les listes et les modalités de vote, renvoie vers service-public.gouv.fr.
+    flux:
+      - https://www.lemonde.fr/politique/rss_full.xml
+      - https://www.francetvinfo.fr/politique.rss
+      - https://www.lefigaro.fr/rss/figaro_politique.xml
+      - https://www.france24.com/fr/france/rss
+  - nom: Politique
+    slug: politique
+    quota: 2
+    photo_defaut: "Assemblée nationale hémicycle"
+    flux:
+      - https://www.lemonde.fr/politique/rss_full.xml
+      - https://www.francetvinfo.fr/politique.rss
+      - https://www.lefigaro.fr/rss/figaro_politique.xml
+      - https://www.france24.com/fr/france/rss
+  - nom: International
+    slug: international
+    quota: 2
+    photo_defaut: "Globe terrestre"
+    flux:
+      - https://www.lemonde.fr/international/rss_full.xml
+      - https://www.francetvinfo.fr/monde.rss
+      - https://www.lefigaro.fr/rss/figaro_international.xml
+      - https://www.france24.com/fr/europe/rss
+  - nom: Économie
+    slug: economie
+    quota: 2
+    photo_defaut: "Palais Brongniart Bourse de Paris"
+    flux:
+      - https://www.lemonde.fr/economie/rss_full.xml
+      - https://www.francetvinfo.fr/economie.rss
+      - https://www.lefigaro.fr/rss/figaro_economie.xml
+  - nom: Société
+    slug: societe
+    quota: 1
+    photo_defaut: "Rue de Paris foule"
+    flux:
+      - https://www.lemonde.fr/societe/rss_full.xml
+      - https://www.francetvinfo.fr/societe.rss
+      - https://www.lefigaro.fr/rss/figaro_actualite-france.xml
+  - nom: Sport
+    slug: sport
+    quota: 1
+    photo_defaut: "Stade de France"
+    flux:
+      - https://www.lemonde.fr/sport/rss_full.xml
+      - https://www.francetvinfo.fr/sports.rss
+      - https://www.lefigaro.fr/rss/figaro_sport.xml
+  - nom: Tech
+    slug: tech
+    quota: 1
+    photo_defaut: "Centre de données serveurs"
+    flux:
+      - https://www.lemonde.fr/pixels/rss_full.xml
+      - https://www.francetvinfo.fr/internet.rss
+      - https://www.numerama.com/feed/
+
+
+  # ── Actualité locale : les 8 plus grandes villes (regroupées sous l'onglet « Local ») ──
+  - nom: Paris
+    slug: paris
+    groupe: local
+    quota: 2
+    declenchement: &declenchement_local
+      debut: 8                 # rien avant 8h
+      rattrapage: 16           # à partir de 16h, si rien n'a été publié : meilleur sujet du jour (en ligne pour le retour du travail)
+      seuil_medias: 2          # « info importante » = reprise par au moins 2 médias…
+      fraicheur_heures: 4      # … ou contenant un mot-clé important, et de moins de 4h
+      max_par_passage: 4
+    photo_defaut: "Paris ville rue"
+    filtre: '\bparis\b|parisien|arrondissement|île-de-france|ile-de-france|seine-saint-denis|hauts-de-seine|val-de-marne|ratp|périphérique|saint-denis|boulogne-billancourt|montreuil'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: &consignes_local |
+      Cet article est une actualité locale. Règles impératives :
+      - Commence par l'essentiel pour les habitants : quoi, où (quartier, rue, commune), quand, et ce que ça change pour eux
+        (route coupée, transports perturbés, consignes des autorités).
+      - Faits divers : ne donne jamais le nom d'une victime, d'un mineur ou d'un suspect non condamné.
+        Respecte la présomption d'innocence (« un homme a été interpellé », « une enquête est ouverte »), jamais « le coupable ».
+        Aucun détail macabre ou sensationnaliste.
+      - Si une seule source rapporte l'information, reste prudent : utilise le conditionnel et n'ajoute rien qu'elle ne dit pas.
+      - Termine si possible par une information pratique (numéro utile, site de la mairie ou de la préfecture, déviation).
+    flux:
+      - http://www.leparisien.fr/actualites-a-la-une.rss.xml
+      - https://news.google.com/rss/search?q=Paris%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Marseille
+    slug: marseille
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Marseille ville rue"
+    filtre: 'marseill|bouches-du-rhône|bouches-du-rhone|aix-en-provence|aubagne|la ciotat|vitrolles|martigues|\brtm\b|prado|vélodrome|velodrome'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - https://www.laprovence.com/rss
+      - https://news.google.com/rss/search?q=Marseille%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Lyon
+    slug: lyon
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Lyon ville rue"
+    filtre: '\blyon|lyonnais|villeurbanne|vénissieux|venissieux|vaulx-en-velin|métropole de lyon|\btcl\b|rhône|rhone'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - https://www.leprogres.fr/rss
+      - https://news.google.com/rss/search?q=Lyon%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Toulouse
+    slug: toulouse
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Toulouse ville rue"
+    filtre: 'toulous|haute-garonne|blagnac|colomiers|tisséo|tisseo|muret'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - https://www.ladepeche.fr/rss.xml
+      - https://news.google.com/rss/search?q=Toulouse%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Nice
+    slug: nice
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Nice ville rue"
+    filtre: '\bnice\b|niçois|nicois|alpes-maritimes|cannes|antibes|cagnes|menton|grasse|\blignes d''azur'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - https://www.nicematin.com/rss
+      - https://news.google.com/rss/search?q=Nice%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Nantes
+    slug: nantes
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Nantes ville rue"
+    filtre: 'nantes|nantais|loire-atlantique|saint-nazaire|rezé|reze|saint-herblain|\btan\b'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - https://www.ouest-france.fr/rss-en-continu.xml
+      - https://news.google.com/rss/search?q=Nantes%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Montpellier
+    slug: montpellier
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Montpellier ville rue"
+    filtre: 'montpelli|hérault|herault|lattes|castelnau-le-lez|sète|sete|\btam\b'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - http://www.midilibre.fr/rss.xml
+      - https://news.google.com/rss/search?q=Montpellier%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  - nom: Strasbourg
+    slug: strasbourg
+    groupe: local
+    quota: 2
+    declenchement: *declenchement_local
+    photo_defaut: "Strasbourg ville rue"
+    filtre: 'strasbourg|strasbourgeois|bas-rhin|alsace|schiltigheim|illkirch|eurométropole|\bcts\b'
+    exclure: 'présidentielle|élysée|gouvernement|ministre|assemblée nationale|sénat|budget 2027|bourse|cac 40'
+    consignes: *consignes_local
+    flux:
+      - https://www.dna.fr/rss
+      - https://news.google.com/rss/search?q=Strasbourg%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+
+# Rubriques « magazine » : guides et anciens articles (pas alimentées par le robot).
+sections:
+  - {nom: Argent, slug: argent}
+  - {nom: Santé, slug: sante}
+  - {nom: Beauté & Mode, slug: beaute}
+  - {nom: Optique & Audition, slug: optique}
+  - {nom: Famille, slug: famille}
+  - {nom: Maison, slug: maison}
+  - {nom: Loisirs, slug: loisirs}
+  - {nom: People, slug: people}
+  - {nom: Archives, slug: archives}
