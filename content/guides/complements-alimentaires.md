@@ -1,4 +1,5 @@
 ---
+photo_commons: "dietary supplements capsules"
 photo_recherche: "vitamin supplements pills"
 titre: "Compléments alimentaires : utiles ou pas ?"
 url: /sante/complements-alimentaires/

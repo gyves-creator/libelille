@@ -1,4 +1,5 @@
 ---
+photo_commons: "ballot box France election"
 photo_recherche: "ballot box voting France"
 titre: "Présidentielle 2027 : le calendrier et comment voter"
 url: /presidentielle-2027/calendrier-et-vote/

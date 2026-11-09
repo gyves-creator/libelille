@@ -1,4 +1,5 @@
 ---
+photo_commons: "woman skincare cosmetics"
 photo_recherche: "woman skincare routine mirror"
 titre: "Être belle naturellement : routine et bons gestes"
 url: /beaute/etre-belle-naturellement/

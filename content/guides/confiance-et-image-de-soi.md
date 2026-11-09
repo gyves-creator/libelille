@@ -1,4 +1,5 @@
 ---
+photo_commons: "smiling woman portrait"
 photo_recherche: "confident smiling woman portrait"
 titre: "Image de soi : s'accepter et se plaire"
 url: /beaute/confiance-et-image-de-soi/

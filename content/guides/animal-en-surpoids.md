@@ -1,4 +1,5 @@
 ---
+photo_commons: "overweight dog"
 photo_recherche: "dog walking leash park"
 titre: "Chien, chat, cheval : gérer le poids de son animal"
 url: /maison/animal-en-surpoids/

@@ -1,4 +1,5 @@
 ---
+photo_commons: "healthy breakfast fruit"
 photo_recherche: "banana water bottle gym"
 titre: "Que manger avant et après le sport ?"
 url: /sante/manger-avant-apres-le-sport/
