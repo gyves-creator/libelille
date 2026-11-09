@@ -1,0 +1,29 @@
+{
+  "slug": "sncf-suspend-les-circulations-toulouse-montauban-du-21-au-27-novembre",
+  "titre": "SNCF suspend les circulations Toulouse‑Montauban du 21 au 27 novembre",
+  "chapeau": "Les trains entre Toulouse et Montauban seront interrompus du 21 au 27 novembre 2026. La mesure concerne l’ensemble de la ligne régionale qui dessert de nombreux usagers quotidiens.",
+  "corps": "## Suspension annoncée\nLes services ferroviaires assurés par la SNCF sur la ligne reliant Toulouse à Montauban seront arrêtés pendant une semaine, du 21 au 27 novembre 2026. Cette décision, confirmée par le site officiel de la SNCF, implique la suspension de toutes les circulations entre les deux villes pendant la période indiquée.\n\n## Impact sur les déplacements locaux\nCette interruption affecte les voyageurs habituels, notamment les navetteurs et les usagers des correspondances vers d’autres destinations du réseau régional. En l’absence de trains, les résidents sont invités à se tourner vers les alternatives de transport proposées par la SNCF, telles que les services de bus de substitution ou les solutions de covoiturage, et à consulter régulièrement le site internet ou l’application mobile de la compagnie pour connaître les horaires actualisés.\n\n## Consignes pratiques\nLes usagers peuvent obtenir des informations complémentaires et les éventuelles consignes de sécurité sur le site officiel de la SNCF ou en appelant le service clientèle. Il est recommandé de vérifier les horaires de remplacement avant tout déplacement et de prévoir des temps de trajet supplémentaires. Pour toute question relative à la suspension, le numéro de contact de la SNCF reste disponible sur le site web.\n\n## Contexte du service\nLa ligne Toulouse‑Montauban constitue un axe majeur du réseau TER Occitanie, assurant plusieurs dizaines de trajets quotidiens entre les deux agglomérations. Son arrêt temporaire, bien que limité dans le temps, nécessite une adaptation des déplacements pour les habitants des communes desservies.",
+  "mots_cles": [
+    "SNCF",
+    "Toulouse",
+    "Montauban",
+    "circulation interrompue",
+    "transports"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-09T18:32:45+00:00",
+  "photo": null,
+  "sources": [
+    {
+      "media": "Toulouse7.com",
+      "titre": "La ligne SNCF Toulouse Montauban à l’arrêt",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0FVRVJJSTVtUFQ5cU45cDhsdUIxSVVqSjJ0RjgzRWRob3dWVkNOSkpOcThINjkzX2RRdEREWjZFMFF5UU5oN3BiWHhablMwRkVoYzBxQWtIZGZxWU1xY2RpOGp6SkpBc1RoNUpQdnpVM0wxdU9qNklvYVlVSGdyRQ?oc=5"
+    },
+    {
+      "media": "www.garesetconnexions.sncf",
+      "titre": "Arrêt des circulations entre Toulouse et Montauban du 21-11-26 au 27-11-26",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGJOWlJrOV9BQUNvVFJtWWp0aHZwMExZTWlZek8yd2s5TmstZjJRY1VnSktvOE10SDhMU3loMFkzYS13djA0MkctUkM0ZGFzNC03NFhiWFlFb0J6c1FSazhpNUpBczBZdG9zaV95LW5vSXdxcG5FTDJWaXpHZENoYUE1NC1sbUk5bHg4bHBVQkhMWHhXcHk5WHh6aTEzYS0xNndaZDNmZVdSS0pobzlPcG4xTUl1aHd3R1NqbS0wWFdXYUh4c2RSekhFSQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
