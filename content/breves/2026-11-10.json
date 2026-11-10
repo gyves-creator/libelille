@@ -403,5 +403,24 @@
     "titres_sources": [
       "IA, études en alternance interrompues faute de stage... A Saint-Denis des jeunes au chômage tanguent entre intérim et découragement"
     ]
+  },
+  {
+    "titre": "Journalistes portent plainte pour violences policières en manifestation",
+    "texte": "Des reporters et photographes ont déposé plusieurs plaintes après avoir été entravés, voire matraqués, par les forces de l’ordre lors de manifestations récentes à Paris, Lyon, Montpellier et Toulouse. Les faits sont signalés par Le Monde et franceinfo.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-10T19:00:32+00:00",
+    "titres_sources": [
+      "Mobilisations sociales : les plaintes de journalistes pour violences policières se multiplient",
+      "Deux plaintes déposées par plusieurs journalistes notamment pour \"violences volontaires\" de la part des forces de l'ordre, en marge des mobilisations parisiennes"
+    ]
+  },
+  {
+    "titre": "Jad Zahab appelle à réformer la loi sur la justice des mineurs",
+    "texte": "Lors du débat « Duel » sur franceinfo le 10 novembre, le porte‑parole du gouvernement, Jad Zahab, a proposé de revoir la législation relative à la justice des mineurs. Il a échangé avec le député RN Thomas Ménagé sur le mouvement lycéen.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-10T19:00:32+00:00",
+    "titres_sources": [
+      "\"Il faut qu'on revoie la loi sur la justice des mineurs\", suggère Jad Zahab, porte-parole de Gabriel Attal"
+    ]
   }
 ]

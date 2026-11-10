@@ -1,0 +1,33 @@
+{
+  "slug": "nvidia-perd-sa-deuxieme-place-de-capitalisation-apres-un-scandale",
+  "titre": "Nvidia perd sa deuxième place de capitalisation après un scandale",
+  "chapeau": "Un scandale d'espionnage a fait chuter les actions de Nvidia de plus de six pour cent à Wall Street. La perte de valeur a entraîné une diminution de plus de 400 milliards de dollars de la capitalisation boursière, faisant basculer le groupe hors de la deuxième place mondiale.",
+  "corps": "## Chute boursière et perte de rang\nAprès le dévoilement du scandale d'espionnage ce week-end, le cours de l'action Nvidia a enregistré une forte baisse, dépassant les six pour cent sur les marchés américains. Cette évolution a entraîné une perte de plus de 400 milliards de dollars de capitalisation, suffisante pour faire perdre à l’entreprise américaine sa position de deuxième plus grande capitalisation mondiale. Les investisseurs ont réagi rapidement, traduisant leurs inquiétudes par une vente massive des titres du groupe.\n\n## Contexte du secteur de l’intelligence artificielle\nNvidia, leader reconnu dans la conception de puces graphiques et de solutions pour l’intelligence artificielle, évolue dans un environnement où les attentes sont élevées. Les récentes inquiétudes concernant la dynamique du marché de l’IA, notamment les incertitudes sur la demande et les régulations potentielles, ont amplifié la sensibilité du titre aux nouvelles négatives. Le scandale d’espionnage, en plus de toucher l’image de l’entreprise, a ainsi été perçu comme un facteur aggravant dans un contexte déjà tendu.\n\n## Répercussions sur le marché et perspectives\nLa perte de la deuxième place de capitalisation mondiale place Nvidia derrière d’autres géants technologiques dont la valeur boursière reste stable. Les analystes soulignent que la correction pourrait être partielle si l’entreprise parvient à contenir les conséquences juridiques et à rétablir la confiance des partenaires. En attendant, la volatilité du titre reste élevée, les acteurs du marché surveillant de près les développements liés à l’enquête et aux éventuelles sanctions.\n\n## Réaction des autorités et des parties prenantes\nLes autorités de régulation américaines ont été informées de l’affaire, mais aucune décision officielle n’a encore été rendue publique. De leur côté, les clients et partenaires de Nvidia attendent des clarifications sur les mesures prises pour sécuriser leurs données et leurs projets. La situation met en lumière les enjeux de cybersécurité dans le secteur technologique, où les fuites d’informations stratégiques peuvent rapidement se traduire par des impacts financiers majeurs.",
+  "mots_cles": [
+    "Nvidia",
+    "espionnage",
+    "capitalisation boursière",
+    "intelligence artificielle",
+    "Wall Street"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-10T19:00:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Coolcaesar",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+    "legende": "Nvidia headquarters in Santa Clara, California. Photographed by user Coolcaesar on August 4, 2018.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:NVIDIA Headquarters.jpg"
+  },
+  "sources": [
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
