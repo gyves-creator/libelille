@@ -385,5 +385,23 @@
     "titres_sources": [
       "Cyberattaques, propagande, manipulation de l'opinion... La France face à la multiplication des opérations iraniennes"
     ]
+  },
+  {
+    "titre": "Manifestation de professeurs à Paris pour soutenir lycéens",
+    "texte": "Il semblerait que des professeurs aient défilé à Paris pour soutenir leurs lycéens, rassemblant près de 6 000 personnes selon la préfecture de police. Le ministère de l’Éducation nationale indiquerait que 1,55 % du personnel éducatif aurait participé à la grève mardi.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T18:23:45+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens"
+    ]
+  },
+  {
+    "titre": "Chômage des 15-24 ans à Saint-Denis atteint 21 %",
+    "texte": "Il semblerait que le taux de chômage des 15‑24 ans à Saint‑Denis atteigne 21 %, hausse de 1,6 point en un an, d’après les chiffres du 3e trimestre de l’Insee publiés mardi. Ce taux dépasserait de plus de cinq points la moyenne européenne des moins de 25 ans.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T18:23:45+00:00",
+    "titres_sources": [
+      "IA, études en alternance interrompues faute de stage... A Saint-Denis des jeunes au chômage tanguent entre intérim et découragement"
+    ]
   }
 ]
