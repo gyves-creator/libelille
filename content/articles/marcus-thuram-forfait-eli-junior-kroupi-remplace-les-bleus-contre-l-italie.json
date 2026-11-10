@@ -1,0 +1,38 @@
+{
+  "slug": "marcus-thuram-forfait-eli-junior-kroupi-remplace-les-bleus-contre-l-italie",
+  "titre": "Marcus Thuram forfait, Eli Junior Kroupi remplace les Bleus contre l'Italie",
+  "chapeau": "Le staff de l’équipe de France a annoncé le mardi 10 novembre l’indisponibilité de Marcus Thuram. Le jeune attaquant d20 ans, Eli Junior Kroupi, est appelé pour la première fois afin de le remplacer lors du prochain match de Ligue des Nations contre l’Italie.",
+  "corps": "## Un remplacement de dernière minute\nLe sélectionneur français a confirmé que Marcus Thuram, évoluant à l’Inter Milan, ne pourra pas rejoindre le groupe pour la rencontre prévue jeudi contre l’Italie en Ligue des Nations. Cette décision a été communiquée le mardi, laissant la place à un nouveau visage dans le onze. L’attaquant de Bournemouth, Eli Junior Kroupi, âgé de vingt ans, a ainsi été convoqué pour la première fois avec les Bleus.\n\n## Un troisième néophyte à Clairefontaine\nL’appel de Kroupi s’inscrit dans le cadre d’un rassemblement qui voit l’arrivée de plusieurs jeunes joueurs. En plus de lui, Pablo Pagis et Saël Kumbedi ont également été intégrés à la sélection ce mois de novembre, portant le nombre de nouveaux venus à trois. Tous trois évoluent dans des clubs différents, mais partagent le même objectif : profiter de cette opportunité pour s’imposer au sein de l’équipe nationale.\n\n## Le contexte du match à venir\nLe prochain affrontement opposera la France à l’Italie, deux nations historiques de la Ligue des Nations. La rencontre, prévue jeudi, revêt une importance particulière pour les Bleus qui cherchent à consolider leur position dans le groupe. L’absence de Thuram, régulièrement sollicité en attaque, pousse le staff à ajuster la composition offensive, avec Kroupi comme première option de remplacement.\n\n## Perspectives pour le jeune attaquant\nIntégré à l’effectif pour la première fois, Kroupi rejoindra les entraînements à Clairefontaine, le centre de formation de la fédération française. Son expérience en Premier League, où il évolue avec Bournemouth, constitue un atout pour le staff qui mise sur la fraîcheur et la dynamique des jeunes talents. Les prochains jours seront déterminants pour évaluer son adaptation au système de jeu de l’équipe et son éventuelle participation lors du match contre l’Italie.",
+  "mots_cles": [
+    "Marcus Thuram",
+    "Eli Junior Kroupi",
+    "Ligue des Nations",
+    "Équipe de France",
+    "Italie"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-10T15:56:23+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/%C3%89quipe_de_France_de_football%2C_janvier_1914.jpg/1280px-%C3%89quipe_de_France_de_football%2C_janvier_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agence Rol",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89quipe_de_France_de_football,_janvier_1914.jpg",
+    "legende": "25 janvier 1914, Lille (stade Victor-Boucquey), équipe de France de football. Debout : l'arbitre M. Mortimer, le juge de touche français, Gabriel Hanot (US Tourcoing), Émilien Devic (Red Star), Pierre",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Équipe de France de football, janvier 1914.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Bleus : Zidane appelle encore un petit nouveau avec Elie Junior Kroupi qui remplace Thuram",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/bleus-un-nouveau-forfait-pour-zidane-thuram-quitte-la-selection-20261110"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Eli Junior Kroupi appelé pour la première fois en équipe de France à la suite du forfait de Marcus Thuram",
+      "url": "https://www.franceinfo.fr/sports/foot/equipe-de-france/eli-junior-kroupi-appele-pour-la-premiere-fois-en-equipe-de-france-a-la-suite-du-forfait-de-marcus-thuram_8276507.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

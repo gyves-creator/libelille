@@ -1,0 +1,43 @@
+{
+  "slug": "commission-culturelle-classe-sans-suite-la-petition-visant-a-supprimer-cnews",
+  "titre": "Commission culturelle classe sans suite la pétition visant à supprimer CNews",
+  "chapeau": "Une pétition ayant recueilli plus d'un million de signatures pour supprimer CNews de l’audiovisuel français a été examinée par la commission des affaires culturelles et de l'éducation. Le vote, 28 contre 25, a conduit la commission à classer la démarche sans ouvrir de débat en hémicycle.",
+  "corps": "## Vote de la commission des affaires culturelles et de l'éducation\nLe texte de la pétition, qui réclame la suppression de la chaîne d'information CNews du paysage audiovisuel français, a été présenté à la commission des affaires culturelles et de l'éducation le mardi 10 novembre. Malgré le nombre important de signataires – plus d’un million – la commission a décidé de ne pas organiser de débat en hémicycle. Le scrutin a abouti à 28 voix contre 25, marquant une courte majorité d’opposition à la tenue d’un échange parlementaire sur le sujet.\n\n## Conséquences immédiates et suite possible\nEn classant la pétition sans suite, la commission a mis fin à la procédure qui aurait pu conduire à un débat plus large à l’Assemblée nationale. Cette décision ne signifie pas la clôture définitive du dossier ; le texte reste toutefois en attente d’éventuelles nouvelles initiatives parlementaires ou d’une relance par d’autres commissions. Aucun autre organe législatif n’a encore indiqué s’il reprendrait l’affaire.\n\n## Contexte institutionnel\nEn France, les pétitions citoyennes peuvent être soumises à l’Assemblée nationale lorsqu’elles dépassent le seuil du million de signatures. Elles sont alors examinées par les commissions compétentes, qui décident de la pertinence d’un débat en séance publique. La commission des affaires culturelles et de l'éducation, chargée notamment des questions liées aux médias, a le pouvoir de classer ou de transmettre les propositions aux assemblées plénières.\n\n## Signification pour le débat médiatique\nCNews, chaîne d’information en continu, occupe une place notable dans le paysage audiovisuel français. La demande de suppression reflète des tensions persistantes autour de la couverture médiatique et de la régulation des contenus. Le rejet de la pétition par la commission indique que, pour le moment, la majorité des parlementaires estime que la question ne justifie pas un débat plénier, tout en laissant la porte ouverte à d’éventuelles réévaluations futures.\n\nCette évolution montre comment les mécanismes parlementaires traduisent les mobilisations citoyennes en décisions institutionnelles, tout en soulignant le rôle décisif des commissions dans le filtrage des propositions législatives.",
+  "mots_cles": [
+    "CNews",
+    "pétition",
+    "Assemblée nationale",
+    "commission culturelle",
+    "débat parlementaire"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-10T15:56:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/W2566_CNews_VendeeGlobe_20170311-175530N9308CROP.jpg/1280px-W2566_CNews_VendeeGlobe_20170311-175530N9308CROP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Llann Wé²",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:W2566_CNews_VendeeGlobe_20170311-175530N9308CROP.jpg",
+    "legende": "Matériel reportage direct CNews .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:W2566 CNews VendeeGlobe 20170311-175530N9308CROP.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Pétition pour \"supprimer CNews de l’audiovisuel français\" : les députés ne donnent pas suite",
+      "url": "https://www.france24.com/fr/france/20261110-p%C3%A9tition-pour-supprimer-cnews-audiovisuel-fran%C3%A7ais-d%C3%A9put%C3%A9s-donnent-pas-suite"
+    },
+    {
+      "media": "Le Figaro - Politique - L'actualité du gouvernement et de l'opposition",
+      "titre": "Pétition contre CNews : quelles suites possibles à l’Assemblée nationale ?",
+      "url": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
