@@ -214,5 +214,25 @@
     "titres_sources": [
       "Comment la Chine parvient à acheter des puces Nvidia malgré les restrictions américaines"
     ]
+  },
+  {
+    "titre": "Le prix du gazole recule de 20 centimes, moyenne à 2,19 € le litre",
+    "texte": "Après plusieurs semaines de hausse, le litre de gazole s'établit à 2,19 € en moyenne le mardi 10 novembre, soit 20 centimes de moins qu'une semaine auparavant. La baisse résulte du déblocage des stocks stratégiques de l'État, bien que les tarifs restent élevés.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T13:10:52+00:00",
+    "titres_sources": [
+      "Prix des carburants : le gazole recule de 20 centimes en une semaine",
+      "Carburants : le prix du gazole en baisse «de 18 centimes en moyenne» depuis le début du mois, indique Serge Papin"
+    ]
+  },
+  {
+    "titre": "Le gouvernement annonce une hausse du SMIC de 0,6 % dès le 1er décembre",
+    "texte": "Lors d'une conférence sociale à Matignon le 9 novembre, le Premier ministre a annoncé une revalorisation du SMIC de 0,6 % à compter du 1er décembre, soit une hausse d'environ 24 €. Les syndicats, dont la CGT, qualifient cette mesure de modeste.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-10T13:10:52+00:00",
+    "titres_sources": [
+      "Mobilisations en France : une revalorisation qu'il \"ne faut pas mépriser\"",
+      "Mobilisations en France : le Smic à 1 502 € net, \"des miettes\" selon la CGT"
+    ]
   }
 ]

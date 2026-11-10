@@ -1,0 +1,37 @@
+{
+  "slug": "tirs-de-mortiers-devant-un-lycee-au-sud-de-nantes-plusieurs-blesses-et-un-mineur",
+  "titre": "Tirs de mortiers devant un lycée au sud de Nantes, plusieurs blessés et un mineur interpellé",
+  "chapeau": "Des projectiles d'artillerie légère ont été tirés devant un lycée du sud de Nantes lundi, blessant légèrement plusieurs élèves. La police a arrêté un mineur en lien avec les faits mardi matin.",
+  "corps": "## Des tirs qui ont surpris la communauté scolaire\nLundi, des mortiers ont été lancés dans la cour d’un lycée situé au sud de Nantes, provoquant la panique parmi les élèves et le personnel. Selon les autorités, plusieurs adolescents ont subi des blessures légères et ont reçu les premiers soins sur place. Aucun état de gravité n’a été signalé, mais l’incident a entraîné la fermeture temporaire de l’établissement pour sécuriser les lieux.\n\n## Intervention policière et arrestation\nDans la matinée de mardi, les forces de l’ordre ont interpellé un mineur en lien avec les tirs. L’identité du jeune ne fait pas l’objet d’une diffusion publique, conformément aux règles de protection des mineurs. Une enquête a été ouverte pour déterminer les circonstances exactes de l’attaque et identifier d’éventuels complices.\n\n## Conséquences pour les habitants et les usagers\nLes résidents du quartier et les parents d’élèves sont invités à rester vigilants et à suivre les consignes de la police. Aucun renseignement n’a été donné sur d’éventuelles perturbations de la circulation ou des transports en commun, mais les autorités recommandent de privilégier les itinéraires alternatifs autour du lycée jusqu’à nouvel ordre. Les services de secours restent mobilisés pour assurer la sécurité du site et accompagner les victimes.\n\n## Mesures de prévention et suivi\nLe préfet de Loire‑Atlantique a rappelé l’importance de la coopération entre les habitants, les établissements scolaires et les forces de l’ordre pour prévenir de tels actes. Un point de presse est prévu dans les prochains jours afin d’informer la population des avancées de l’enquête et des éventuelles mesures de renforcement de la sécurité autour des établissements éducatifs.\n\nEn attendant les conclusions de l’enquête, les habitants peuvent contacter le numéro d’urgence de la police locale (17) ou le service municipal d’information de la mairie de Nantes pour toute information supplémentaire.",
+  "mots_cles": [
+    "mortier",
+    "lycée",
+    "Nantes",
+    "blessés",
+    "interpellation"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-10T13:10:45+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ch%C3%A2teau_des_Ducs_de_Bretagne_%C3%A0_Nantes_-_Anne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Olga.Mach",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_Ducs_de_Bretagne_%C3%A0_Nantes_-_Anne.jpg",
+    "legende": "4 Place Marc Elder à Nantes",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "Nouveaux tirs de mortiers devant ce lycée près de Nantes : un mineur interpellé ce mardi matin",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSXVTejk5QTV3NURTWXc1dXRES2duOUNpdWVzYUw3b0lZMDNuTm1KcnlUNkhaYUhaUWMzUWpYb0ZIWm9La3ZQX1c3dGJHb3FFYy1NcDFpdUtsbjZJaFE0QlVXQkxobWpEVzNfWF9BWHg5c3NTOWxudXNPMFEtOU1UZm5lV19SNnVmYnprOGpIM21hZjYtbzJ0UFhRUnRxU2xiV0dzVWFiQkhUMmt0OGEyZlNhYzllTHRaVGJ4SWVuMmY5YVhfRzlRSHVpWGNDUDZocHN6R2xPMVl2YTVQMEtsNXo4RHBhX3NmSlFSczFQdkU2Yl9tc3RiRmlEZU1NcHZqRU5UcWlmMS1SUQ?oc=5"
+    },
+    {
+      "media": "maville.com",
+      "titre": "Nouveaux tirs de mortiers devant ce lycée près de Nantes : un mineur interpellé ce mardi matin",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY180dmNNc0l3U2tQUDNPR3NhVWt2cUtoODZGRGxGUnNtQ0Mxc2Q0Z2k1c1owWjFKVzdvOWFlOE9pdDVvX08tNTI2REw3anJrOHJGbDVXMVJWY2VqMEc3Q2NqYkwyT0JvU1YzdG1lMk1RdGVHVVNLUjI1ZjFTcHRBLU10aE14cDM3Z2VxbXRZSmwxZzNDeW9meWV1ZktxeWFGa2ZybGRqX0xmZU44SmpjOEVOdmFKRUhBUkd5VFFsTE12S1QxR01iR3YzOWV0cWhJRVE5S29EMG1jTnpUaFQ1QXBnWlh5NTBjSFhGODh1ck4xZE0?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

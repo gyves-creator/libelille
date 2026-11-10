@@ -1,0 +1,37 @@
+{
+  "slug": "walking-foot-un-nicois-raconte-l-essor-du-sport-sur-la-cote-d-azur",
+  "titre": "Walking-foot : un Niçois raconte l'essor du sport sur la Côte d'Azur",
+  "chapeau": "Joseph Mezzasalma, membre de l'Entente Sportive Niçoise, a expliqué les raisons de la popularité croissante du walking‑foot dans la région niçoise. L'interview, publiée le 10 novembre 2026, met en lumière les spécificités de cette discipline qui séduit de plus en plus d'Azuréens.",
+  "corps": "## Un sport en pleine expansion à Nice\nLe walking‑foot, variante du football où la course est remplacée par la marche, gagne du terrain sur la Côte d'Azur. Selon Joseph Mezzasalma, athlète de l'Entente Sportive Niçoise, la pratique séduit par son accessibilité : elle ne nécessite pas le même niveau de condition physique que le football traditionnel et permet à un public plus large de participer. Cette dynamique est observée notamment dans les quartiers de la ville où des terrains sont régulièrement réservés pour des matchs informels.\n\n## Le témoignage d’un pratiquant local\nLors d’une entrevue, Mezzasalma a souligné que le walking‑foot répond à une demande de sport « plus doux », tout en conservant les aspects tactiques et collectifs du football. Il a indiqué que le nombre d’équipes affiliées à l’Entente Sportive Niçoise augmente, même si aucun chiffre précis n’a été communiqué. Le sportif a également précisé que les clubs de la région organisent des tournois locaux, offrant ainsi aux habitants la possibilité de s’initier ou de se mesurer à d’autres équipes.\n\n## Quelles implications pour les Niçois ?\nPour les résidents, cette popularité accrue se traduit par une offre élargie d’activités sportives. Les terrains de football municipaux, notamment ceux situés à proximité du centre-ville, sont parfois aménagés pour accueillir des séances de walking‑foot, ce qui peut entraîner des ajustements d’horaires d’utilisation. Les autorités locales n’ont pas indiqué de modifications majeures des infrastructures, mais les clubs invitent les citoyens à consulter leurs calendriers afin de connaître les créneaux disponibles.\n\n## Où se renseigner ?\nLes personnes intéressées par la pratique du walking‑foot peuvent se rapprocher de l’Entente Sportive Niçoise, dont les coordonnées sont généralement disponibles sur le site officiel de la ville de Nice ou sur les réseaux sociaux du club. Aucun numéro d’urgence spécifique n’est requis, mais la mairie de Nice reste le point de contact principal pour toute question relative à l’usage des installations sportives.",
+  "mots_cles": [
+    "walking-foot",
+    "Nice",
+    "sport",
+    "Joseph Mezzasalma"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-10T13:10:41+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nice-night-view-with-blurred-cars_1200x900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "W. M. Connolley",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Nice-night-view-with-blurred-cars_1200x900.jpg",
+    "legende": "A view along the Quai des États-Unis and the Promenade des Anglais in Nice at night. Picture taken from the hotel Suisse.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nice-night-view-with-blurred-cars 1200x900.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "« Ceux qui essaient comprennent que c’est un sport à part entière » : ce Niçois explique l’essor du walking-foot",
+      "url": "https://www.nicematin.com/sports/football/ceux-qui-essaient-comprennent-que-c-est-un-sport-a-part-entiere-ce-nicois-explique-l-essor-du-walking-foot-10752580"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "« Ceux qui essaient comprennent que c’est un sport à part entière » : ce Niçois explique l’essor du walking-foot",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcExLc0xiVm1NYzkyeTFwNnhhX0xWeXNLLWFxTEQzOXpLNGlPQmltdGhaRjMycXdFVDFVQkp6X2lvRE9ZTWFRUHpTcFpiM2FWaVZlM2hYNXJHWjZ5R0NwTnZrRl90LTQxbm5CZGlaYjBGZTctQ1EzRk1NR1ZoakRnc0tlZ2N2QnFkNVVNakNQS0lTZFkzb01JY1MzQ1BLQWZLaHI1UVNwTTZLRWdzQ2N4VHIxVkc2UEt2ZTJLWFlOcHU3SHEtVkdBQWFNYm5EaWo5a3FBWGZHUTFCVUhIcXJuQUVFdGc4T3FNVXNEaWpB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
