@@ -476,5 +476,23 @@
     "titres_sources": [
       "ENQUÊTE FRANCETV. Faux site écolo, photos générées par IA... Les dessous d'une opération d'ingérence iranienne en France"
     ]
+  },
+  {
+    "titre": "Essence sous 2 €, diesel 20 cents moins, pétrole < 90 $",
+    "texte": "Le litre d’essence est redevenu inférieur à deux euros, tandis que le diesel coûte en moyenne vingt centimes de moins qu’il y a dix jours. Le pétrole a chuté sous les 90 $ le baril, première fois depuis août, et la France vend ses réserves stratégiques.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T20:54:11+00:00",
+    "titres_sources": [
+      "\"Si l'on garde les mêmes tendances…\" : L'essence repasse enfin sous la barre des deux euros, mais pour combien de temps ?"
+    ]
+  },
+  {
+    "titre": "Carambolage en Bulgarie : 11 morts, 51 blessés, brouillard épais",
+    "texte": "Deux carambolages survenus mardi 10 novembre en Bulgarie ont fait au moins onze décès et cinquante‑et‑une personnes blessées. Un épais brouillard aurait fortement contribué aux collisions impliquant des dizaines de véhicules dans les deux sens de circulation.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T20:54:11+00:00",
+    "titres_sources": [
+      "Un carambolage fait au moins 11 morts et 51 blessés en Bulgarie"
+    ]
   }
 ]
