@@ -16,5 +16,25 @@
     "titres_sources": [
       "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle"
     ]
+  },
+  {
+    "titre": "Reprise des négociations Ukraine-Russie à Abu Dhabi sous médiation US",
+    "texte": "Les pourparlers directs entre l'Ukraine et la Russie reprennent mardi et mercredi à Abu Dhabi, sous l'égide des États‑Unis, après plus de huit mois d'interruption. Les deux parties ont indiqué vouloir accorder une attention particulière aux enjeux humanitaires.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T06:37:14+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : les négociations entre l’Ukraine et la Russie, sous médiation américain, vont reprendre ce mardi à Abou Dhabi",
+      "En direct : les négociations directes entre l'Ukraine et la Russie reprennent à Abu Dhabi",
+      "Faute de courage politique, l’Europe reléguée au second rôle dans les négociations sur l’Ukraine, à Abu Dhabi"
+    ]
+  },
+  {
+    "titre": "Manifestations étudiantes prévues mardi après appel du 10 novembre",
+    "texte": "Des étudiants, lycéens et enseignants organiseraient une nouvelle journée d'action mardi, suite à l'appel du 10 novembre. Selon franceinfo, les négociations avec le gouvernement seraient bloquées, deux mois après le lancement du mouvement de contestation.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-10T06:37:14+00:00",
+    "titres_sources": [
+      "DIRECT. Manifestations du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action mardi"
+    ]
   }
 ]
