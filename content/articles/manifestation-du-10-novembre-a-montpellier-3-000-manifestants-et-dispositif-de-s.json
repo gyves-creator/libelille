@@ -1,0 +1,36 @@
+{
+  "slug": "manifestation-du-10-novembre-a-montpellier-3-000-manifestants-et-dispositif-de-s",
+  "titre": "Manifestation du 10 novembre à Montpellier : 3 000 manifestants et dispositif de sécurité renforcé",
+  "chapeau": "Le mardi 10 novembre 2026, environ trois mille personnes ont défilé dans les rues de Montpellier dans le cadre d’une mobilisation nationale. Les forces de l’ordre ont mis en place un dispositif de sécurité important, entraînant des consignes de prudence pour les riverains.",
+  "corps": "## Un cortège de plusieurs milliers de participants à Montpellier\nLe 10 novembre 2026, la ville de Montpellier a été le théâtre d’un rassemblement d’envergure, avec une estimation de trois mille manifestants recensés dans le centre urbain. Le cortège s’est développé le long des principaux axes, rassemblant des participants issus de divers secteurs qui expriment leur mécontentement dans le cadre de la crise sociale qui secoue la France depuis plusieurs semaines. Dans la ville voisine d’Alès, une cinquantaine de personnes ont également manifesté, soulignant la dimension régionale du mouvement.\n\n## Un dispositif de sécurité renforcé\nLes autorités locales ont annoncé la mise en place d’un dispositif de sécurité important pour encadrer la manifestation. Bien que les détails opérationnels n’aient pas été précisés dans les informations disponibles, la présence accrue de forces de l’ordre implique généralement un renforcement des contrôles d’accès, la mise en place de postes de police temporaires et la surveillance des principaux points de passage. Les habitants sont invités à rester vigilants et à suivre les consignes diffusées par la préfecture et la mairie, notamment en cas de modifications temporaires de la circulation ou de l’accès aux services publics.\n\n## Contexte national de la crise sociale\nCette mobilisation s’inscrit dans une série de rassemblements prévus sur l’ensemble du territoire français, où la crise sociale se poursuit. Les revendications portent sur des questions économiques et sociales qui mobilisent une partie importante de la population. Les médias nationaux, dont Midi Libre, assurent un suivi en direct de l’évolution du mouvement, soulignant la portée nationale de ces manifestations.\n\n## Informations pratiques pour les riverains\nLes habitants de Montpellier sont encouragés à consulter les sites officiels de la mairie et de la préfecture pour obtenir les dernières informations concernant les éventuelles perturbations de la circulation ou les restrictions d’accès à certains quartiers. En cas d’urgence ou de besoin d’assistance, le numéro de la police municipale (17) et le numéro d’urgence national (112) restent les points de contact privilégiés. Les services de transport en commun peuvent également publier des avis de modification d’itinéraires sur leurs plateformes habituelles.",
+  "mots_cles": [
+    "manifestation",
+    "Montpellier",
+    "sécurité",
+    "crise sociale"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-10T14:20:56+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Place_de_la_Com%C3%A9die_%282377437375%29.jpg/1280px-Place_de_la_Com%C3%A9die_%282377437375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wolfgang Staudt from Saarbruecken, Germany",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Place_de_la_Com%C3%A9die_(2377437375).jpg",
+    "legende": "Take here a large view! Montpellier en francés y oficialmente, Montpelhièr en occitano, es una ciudad del sur de Francia, capital de la región de Languedoc-Rosellón y del departamento Hérault. Esta cr",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "EN DIRECT Manifestation du 10 novembre : le cortège s’étoffe avec 3 000 manifestants à Montpellier, une cinquantaine à Alès… Les dernières infos",
+      "url": "https://www.midilibre.fr/2026/11/10/en-direct-manifestation-du-10-novembre-un-cortege-a-montpellier-des-milliers-de-personnes-attendues-dans-les-rues-de-france-les-dernieres-infos-13645205.php"
+    },
+    {
+      "media": "InfOccitanie",
+      "titre": "Montpellier : manifestation du 10 novembre, un important dispositif de sécurité",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWhqbXE1eGpLTVozWXltX004Wk1icmc5YmZvV19ncnpEUDZ5ODBSSVN5UzJYVm1MalMtd3ZuUzNaeFl1OXJjV05tRTBZWm84Qy1kbU5adU9Bb2kxZk1UaHBOTVM4UXhQVldWWE16N2lOM21ScXRYMGY1NjJMTmdWbEF0bU9QMXVTeTQ3eHFibzRRbWU0dDBsazlNc1ZsUlhnWjhz?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

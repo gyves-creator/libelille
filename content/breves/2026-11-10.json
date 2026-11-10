@@ -253,5 +253,24 @@
     "titres_sources": [
       "Anthropic prévoit de lever jusqu’à 64 milliards de dollars pour son entrée en Bourse"
     ]
+  },
+  {
+    "titre": "Alldritt et Marchand pressentis dans XV face à l'Afrique du Sud",
+    "texte": "Grégory Alldritt devrait débuter en troisième ligne centre et Julien Marchand être titulaire au talonnage pour la France contre les Springboks. Le match aura lieu vendredi 13 novembre au Stade de France, dans le cadre de la cinquième journée du Championnat des nations.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-10T14:21:08+00:00",
+    "titres_sources": [
+      "Rugby: quelques retours dans l'Équipe de France pour faire face aux Springboks",
+      "XV de France : Grégory Alldritt et Julien Marchand pressentis pour débuter face aux Springboks"
+    ]
+  },
+  {
+    "titre": "Plafond de défiscalisation des heures supplémentaires porté à 10 000 €",
+    "texte": "Le gouvernement envisagerait de relever à 10 000 euros le plafond de défiscalisation des heures supplémentaires, afin d’inciter les salariés à travailler davantage. Cette mesure présentée lors de la conférence sociale du 9 novembre, viserait à soutenir le pouvoir d’achat.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T14:21:08+00:00",
+    "titres_sources": [
+      "\"On est récompensé pour notre travail\" : vers plus d'heures supplémentaires défiscalisées ?"
+    ]
   }
 ]
