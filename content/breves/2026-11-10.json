@@ -513,5 +513,23 @@
     "titres_sources": [
       "Boxe : «Jake, t’es mort !»… Cédric Doumbé et Jake Paul font monter la tension à Paris avant leur duel de Noël"
     ]
+  },
+  {
+    "titre": "Tempête Charles : alerte rouge dans le sud du Portugal",
+    "texte": "La tempête Charles devrait atteindre le Portugal, où le sud, dont Lisbonne, a été placé en alerte rouge mardi soir. Le Premier ministre Luis Montenegro a rappelé de ne pas sous‑estimer les risques d’inondations et les phénomènes météorologiques extrêmes.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T21:48:55+00:00",
+    "titres_sources": [
+      "La tempête Charles arrive au Portugal, placé en alerte mercredi par crainte de « phénomènes météorologiques extrêmes »"
+    ]
+  },
+  {
+    "titre": "IA : les deepfakes, une menace de désinformation",
+    "texte": "Des experts indiqueraient que l’intelligence artificielle permet de créer des vidéos truquées, appelées deepfakes, utilisées par des escrocs pour faire dire aux personnes ce qu’ils souhaitent. Ces contenus pourraient piéger le public et compliquer la vérification des informations.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-10T21:48:55+00:00",
+    "titres_sources": [
+      "Élise Lucet, Michel Cymes, Jean-Marc Jancovici… Comment sont fabriqués les deepfakes ?"
+    ]
   }
 ]
