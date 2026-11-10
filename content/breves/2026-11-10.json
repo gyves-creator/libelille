@@ -458,5 +458,23 @@
     "titres_sources": [
       "Budget 2027 : après un passage chaotique à l’Assemblée, les sénateurs prennent le relais"
     ]
+  },
+  {
+    "titre": "Au moins sept morts, dont un adolescent, lors de frappes à Gaza",
+    "texte": "Il semblerait que des frappes israéliennes à Gaza aient fait au moins sept victimes, parmi lesquelles un garçon de 13 ans, selon la Défense civile et des hôpitaux. L'armée israélienne affirme avoir ciblé des agents militaires dans plusieurs zones, sans préciser davantage.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T20:27:49+00:00",
+    "titres_sources": [
+      "A Gaza, au moins sept personnes sont mortes dans des frappes israéliennes, dont un jeune de 13 ans, rapporte la Défense civile"
+    ]
+  },
+  {
+    "titre": "Un faux site écolo utilisé par l'Iran pour diffuser de la propagande en France",
+    "texte": "Il semblerait qu'un document consulté par L'Œil du 20 Heures révèle que des services iraniens ont créé un média environnemental factice afin de diffuser des publications hostiles aux autorités françaises. Cette opération d'ingérence serait orchestrée depuis Téhéran.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-10T20:27:49+00:00",
+    "titres_sources": [
+      "ENQUÊTE FRANCETV. Faux site écolo, photos générées par IA... Les dessous d'une opération d'ingérence iranienne en France"
+    ]
   }
 ]
