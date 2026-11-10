@@ -160,5 +160,23 @@
     "titres_sources": [
       "En raison de son «rôle essentiel», le droit au sport doit être inscrit «au cœur de la Constitution»"
     ]
+  },
+  {
+    "titre": "Physiciens du LHCb détectent une désintégration rare en deux muons",
+    "texte": "Des physiciens de l’expérience LHCb au CERN ont observé pour la première fois la désintégration d’une particule subatomique en deux muons. Cet événement, qui ne se produit qu’une fois sur dix milliards, pourrait aider à identifier de nouvelles particules liées à la matière noire.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-10T11:32:19+00:00",
+    "titres_sources": [
+      "Les physiciens ont vu un événement subatomique qui ne se produit qu’une fois sur 10 milliards"
+    ]
+  },
+  {
+    "titre": "Conseillère régionale porte plainte après jet d'essence à Chelles",
+    "texte": "Une conseillère régionale a porté plainte après un jet de bouteille d’essence lors d’une manifestation à Chelles, devant le lycée où étaient présents des parents d’élèves. Valérie Pécresse, présidente de la région Île-de-France, a précisé que les parents réclamaient la reprise des cours.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-10T11:32:19+00:00",
+    "titres_sources": [
+      "DIRECT. Manifestations du 10 novembre : une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence en banlieue parisienne"
+    ]
   }
 ]
