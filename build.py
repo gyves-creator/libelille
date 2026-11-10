@@ -286,7 +286,10 @@ def page(titre, contenu, description="", canonique="/", extra_head="", rub_activ
 <link rel="canonical" href="{e(absolu(canonique))}">
 <link rel="alternate" type="application/rss+xml" title="{e(SITE['nom'])}" href="{lien('/rss.xml')}">
 <link rel="stylesheet" href="{lien('/style.css')}">
+<link rel="icon" href="{lien('/favicon.ico')}" sizes="48x48">
 <link rel="icon" href="{lien('/favicon.svg')}" type="image/svg+xml">
+<link rel="icon" href="{lien('/favicon-96.png')}" type="image/png" sizes="96x96">
+<link rel="apple-touch-icon" href="{lien('/apple-touch-icon.png')}">
 {tete_pub()}{extra_head}
 </head>
 <body>
@@ -376,6 +379,15 @@ def charger_breves(heures=30):
     return [b for b in tout if dt(b["publie_le"]) >= limite]
 
 
+def identite_site():
+    """Nom et logo du site pour Google (nom affiché dans les résultats et logo)."""
+    d = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE["nom"], "alternateName": DOMAINE,
+          "url": absolu("/"), "inLanguage": "fr"},
+         {"@context": "https://schema.org", "@type": "NewsMediaOrganization", "name": SITE["nom"], "url": absolu("/"),
+          "logo": {"@type": "ImageObject", "url": absolu("/logo-512.png"), "width": 512, "height": 512}}]
+    return "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>\n' for x in d)
+
+
 def page_accueil(actus, guides):
     if actus:
         # À la une : l'article le plus récent qui a une photo (sinon le plus récent tout court).
@@ -428,7 +440,7 @@ def page_accueil(actus, guides):
     une_opt = [o for u in OPTIQUE_UNE for o in OPTIQUE if o["url"] == u]
     blocs.append(bloc_optique("Optique & Audition", une_opt))
     ecrire("/", page(SITE["nom"], haut + "".join(blocs), canonique="/", rub_active="une",
-                     extra_head=f'<meta name="description" content="{e(SITE["slogan"])}">'))
+                     extra_head=identite_site()))
 
 
 def page_rubrique(slug, elements):
