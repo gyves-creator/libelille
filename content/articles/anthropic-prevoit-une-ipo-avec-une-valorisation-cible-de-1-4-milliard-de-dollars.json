@@ -1,0 +1,38 @@
+{
+  "slug": "anthropic-prevoit-une-ipo-avec-une-valorisation-cible-de-1-4-milliard-de-dollars",
+  "titre": "Anthropic prévoit une IPO avec une valorisation cible de 1,4 milliard de dollars",
+  "chapeau": "La société derrière l'IA Claude, Anthropic, maintient son calendrier d'introduction en bourse prévue pour le 19 novembre. Elle vise une valorisation maximale de 1 400 milliards de dollars, légèrement inférieure aux prévisions antérieures.",
+  "corps": "## Un objectif de valorisation révisé\nAnthropic, la start‑up qui développe l'intelligence artificielle nommée Claude, a indiqué qu'elle pourrait atteindre une valorisation de 1 400 milliards de dollars lors de son entrée en bourse. Cette estimation se situe en dessous des premières prévisions publiées par la société, sans que le montant exact de la révision ne soit précisé. Le prix d’introduction des actions devrait également être revu à la baisse, bien que le niveau exact de cet ajustement ne soit pas communiqué.\n\n## Calendrier confirmé pour le 19 novembre\nLa société confirme que la cotation est prévue dès le jeudi 19 novembre. Aucun détail supplémentaire n’est fourni sur le processus de placement, les souscripteurs ou le nombre d’actions qui seront émises. Le maintien du timing intervient alors que le secteur de l’intelligence artificielle connaît des fluctuations importantes sur les marchés financiers, un contexte qui influence généralement les évaluations des entreprises technologiques en phase d’introduction.\n\n## Contexte du marché de l’IA\nLe marché de l’intelligence artificielle a connu, ces derniers mois, une volatilité notable, avec des variations de cours importantes pour les sociétés cotées dans ce domaine. Cette instabilité peut affecter les valorisations attendues lors d’une IPO, incitant les entreprises à ajuster leurs objectifs de prix et de capitalisation. Anthropic, en tant que créateur de Claude, évolue dans cet environnement et ajuste ses prévisions en conséquence.\n\n## Procédure d’introduction en bourse\nUne introduction en bourse consiste à proposer des actions d’une société privée à des investisseurs publics, ce qui permet de lever des capitaux et de donner une visibilité accrue à l’entreprise. La valorisation annoncée représente le montant total estimé de la société une fois les actions émises prises en compte. Les ajustements de prix d’introduction sont courants et reflètent les conditions de marché au moment de la cotation.\n\nAnthropic poursuit donc son projet d’introduction tout en adaptant son ambition de valorisation aux réalités du marché actuel, sans annoncer de changement de date ou de stratégie de placement au-delà de ce qui a déjà été communiqué.",
+  "mots_cles": [
+    "Anthropic",
+    "IA Claude",
+    "introduction en bourse",
+    "valorisation",
+    "marché de l'intelligence artificielle"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-10T16:59:44+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Claude_ru_wiki.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Прикли",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Claude_ru_wiki.png",
+    "legende": "Ответ Claude на вопрос о том, что такое Википедия",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Claude ru wiki.png"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Anthr opic vise une valorisation allant jusqu’à 1.400 milliards de dollars pour son entrée en Bourse",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/anthropic-prevoit-de-lever-jusqu-a-64-milliards-de-dollars-pour-son-entree-en-bourse-20261110"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/ia-anthropic-maintient-le-timing-de-son-entree-en-bourse-et-vise-jusqu-a-1-400-milliards-de-dollars-de-valorisation_6808850_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

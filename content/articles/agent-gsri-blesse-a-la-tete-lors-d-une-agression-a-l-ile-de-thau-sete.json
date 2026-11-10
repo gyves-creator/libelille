@@ -1,0 +1,37 @@
+{
+  "slug": "agent-gsri-blesse-a-la-tete-lors-d-une-agression-a-l-ile-de-thau-sete",
+  "titre": "Agent GSRI blessé à la tête lors d’une agression à l’Île de Thau, Sète",
+  "chapeau": "Un agent du Groupement de sûreté résidentielle interbailleur a été blessé à la tête par un projectile lors d’une intervention dans le quartier de l’Île de Thau, à Sète, le soir du 7 novembre. Les autorités ont ouvert une enquête et la zone a été sécurisée.",
+  "corps": "## Une agression au cœur du quartier de l’Île de Thau\nDans la soirée du 7 novembre, un équipage du Groupement de sûreté résidentielle interbailleur (GSRI) a été interpellé par un projectile qui a touché la tête d’un de ses agents. L’incident s’est produit dans le quartier de l’Île de Thau, à Sète, sans que le nom de la victime ne soit rendu public.\n\n## Réactions des services de l’ordre\nLes forces de l’ordre ont rapidement sécurisé les lieux et ont ouvert une enquête pour identifier les auteurs de l’agression. Aucun autre blessé n’a été signalé et aucune information n’a été donnée quant à d’éventuelles perturbations de la circulation ou des services publics dans le secteur.\n\n## Contexte et mesures de prévention\nLe GSRI est un dispositif de sécurité dédié aux résidences interbailleurs, chargé de veiller à la tranquillité des occupants et de prévenir les troubles à l’ordre public. Cet acte de violence rappelle les risques auxquels les agents de terrain peuvent être exposés lors de leurs missions. Les autorités locales invitent les riverains à signaler tout comportement suspect et à suivre les consignes de sécurité émises par la police.\n\n## Informations pratiques pour les habitants\nEn cas d’urgence, les habitants peuvent contacter le numéro national de police (17) ou le secours d’urgence (112). Pour suivre l’évolution de l’enquête ou obtenir des informations complémentaires, le site de la mairie de Sète ou le service de police municipale restent les points de référence.",
+  "mots_cles": [
+    "GSRI",
+    "Sète",
+    "agression",
+    "Île de Thau",
+    "sécurité"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-10T16:59:49+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/La_Grace_%28ship%2C_2010%29%2C_S%C3%A8te%2C_H%C3%A9rault_01.jpg/1280px-La_Grace_%28ship%2C_2010%29%2C_S%C3%A8te%2C_H%C3%A9rault_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Christian Ferrer",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Grace_(ship,_2010),_S%C3%A8te,_H%C3%A9rault_01.jpg",
+    "legende": "On the left La Grace (2010, Czech brig , replica of a brig from 18th century) and on the right the Chemins du Vent (1948, english coaster ), moored at the Général Durand Embankment in front of the Sai",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "Un agent du GSRI blessé à la tête après le jet d’un projectile lors d’une intervention à l’Île de Thau, à Sète",
+      "url": "https://www.midilibre.fr/2026/11/10/un-agent-du-gsri-blesse-a-la-tete-apres-le-jet-dun-projectile-lors-dune-intervention-a-lile-de-thau-13646047.php"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Voiture endommagée, agent blessé à la tête : un équipage du GSRI pris pour cible à Sète",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTB6dVNRaTkwcC1mSGNpYUVreDViT2xOUjJSMl9iOFIwR29jcUZJX09QUXFmZHpvRU1HOXJNX2NFcVZGQS1hdHFEZ1lfbFNNT0FxbnkxRWxYTFZZNzlaYkd4UmZGeWtDZmJCZXhuRXIyUUswbjVFakdOanhiT2p3QjFfeGx1TUtVeGlmZV9TTlFzX05uR1JnVnVUREFLeFBTeHBZOG5XMGVRYWxxclNQTFRkWDlEdmc1VkxsVkRFZ01lQWtpN19DVmFpdGtyU0Y1?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

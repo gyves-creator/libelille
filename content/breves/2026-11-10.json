@@ -330,5 +330,23 @@
     "titres_sources": [
       "\"On aime bien courir après cette légende\" : sur les traces d'un mystérieux trésor perdu au cœur des montagnes de l'Arizona"
     ]
+  },
+  {
+    "titre": "80 ans de la Nuit de Cristal : témoignage d'un survivant à Berlin",
+    "texte": "Selon France 24, à Berlin, le survivant George Shefi, âgé d'environ 95 ans, a raconté sa fuite lors de la Nuit de Cristal de 1938 lors des cérémonies du 80ᵉ anniversaire. Cette intervention intervient alors que l’Allemagne enregistre un nombre record d’infractions qualifiées d’antisémites.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T16:59:57+00:00",
+    "titres_sources": [
+      "Allemagne : commémorations des 80 ans de la Nuit de Cristal, un des survivants témoigne"
+    ]
+  },
+  {
+    "titre": "Incendie du Nid d'Aigle : arrestation d'un suspect en Allemagne",
+    "texte": "France 24 rapporte qu'un individu présentant un trouble psychique a été interpellé le samedi 7 novembre après l'incendie du Nid d'Aigle, ancien refuge d'Adolf Hitler en Allemagne. Les autorités privilégient la piste d’un acte volontaire, relançant le débat sur la préservation du site.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T16:59:57+00:00",
+    "titres_sources": [
+      "Allemagne : l'ancien refuge de montagne d'Hitler doit-il être restauré ?"
+    ]
   }
 ]
