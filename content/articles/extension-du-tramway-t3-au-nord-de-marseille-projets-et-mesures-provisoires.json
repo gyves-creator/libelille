@@ -1,0 +1,32 @@
+{
+  "slug": "extension-du-tramway-t3-au-nord-de-marseille-projets-et-mesures-provisoires",
+  "titre": "Extension du tramway T3 au nord de Marseille : projets et mesures provisoires",
+  "chapeau": "Selon La Provence, le projet d’extension du tramway T3 vers le nord de la ville se préciserait avec des expropriations, une enquête publique et la mise en place d’un service de bus temporaire. Les habitants des quartiers concernés pourraient voir leurs déplacements modifiés dans les semaines à venir.",
+  "corps": "## Un projet qui se concrétise progressivement\nD’après les informations publiées, l’extension du tramway T3, déjà en service dans le centre de Marseille, serait en cours de définition pour atteindre de nouveaux quartiers du nord. Le dispositif impliquerait notamment des procédures d’expropriation afin de libérer les emprises nécessaires, ainsi qu’une enquête publique destinée à recueillir les avis des riverains et des acteurs locaux. Ces étapes, annoncées comme essentielles, sont présentées comme des jalons avant le démarrage des travaux.\n\n## Un service de substitution pendant les travaux\nEn attendant la réalisation du tracé définitif, la municipalité envisagerait la mise en place d’un service de bus provisoire. Ce dispositif aurait pour objectif de garantir la continuité de la desserte des zones concernées, en compensant l’éventuelle interruption ou la réduction de la circulation automobile liée aux travaux. Les habitants seraient ainsi appelés à suivre les indications relatives aux itinéraires de bus temporaires, qui pourraient être affichées dans les arrêts et communiquées via les sites officiels de la ville.\n\n## Conséquences pratiques pour les riverains\nLes résidents des rues et quartiers situés le long du futur tracé pourraient être informés de la nécessité de quitter leurs logements ou de subir des aménagements temporaires, conformément aux procédures d’expropriation en cours. Les autorités locales indiqueraient que les démarches se feraient dans le respect des droits des occupants, avec la possibilité de recourir aux services d’assistance de la mairie pour toute question administrative. Par ailleurs, les usagers des transports en commun sont invités à consulter régulièrement le site de la métropole ou à contacter le service d’information du réseau pour connaître les horaires et les points d’arrêt du bus provisoire.\n\n## Où obtenir des renseignements complémentaires\nPour toute précision relative à l’avancement du projet, aux modalités d’expropriation ou aux itinéraires du service de bus temporaire, les habitants peuvent se rendre sur le site officiel de la Ville de Marseille ou appeler le numéro d’information dédié aux projets d’aménagement urbain. Les panneaux d’affichage municipaux ainsi que les points d’accueil de la mairie resteront également ouverts pour répondre aux interrogations des riverains.",
+  "mots_cles": [
+    "tramway T3",
+    "Marseille",
+    "expropriation",
+    "bus provisoire",
+    "enquête publique"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-10T08:59:21+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
+    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "La Provence",
+      "titre": "Expropriations, enquête publique, bus provisoire… L’extension du tramway T3 au nord de Marseille se précise",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNTlBLVpBbElRc0IyYTRvMEQtRmhOb09lOHAxTGVzUmhvd3JYcERib2x6UG9pQUg4YUw2ek5DemRGRmFRMFQxT1NmQ3pZenBLdllXZU9TT25FMS1rdHMzZ3pyR0p1Y3A1Zzc4R01GNVhsZzVKNGJzS2F3TTQycjB5T3dIcVV6dkZ3cTg0NnFmQTFUQUhuR0xCQmktcG9tMjRneHBVTV9oeVRFY0FZTFdqUHFZYm1UcGVsUVJhV2JTalRTOUZBZmI5VGtrX1k4QzViTDlHUHFQMUdnVEZubHVzQnp0Y1p6LTFOQ25JYUdSak5NNHVr?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

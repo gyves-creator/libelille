@@ -75,5 +75,24 @@
     "titres_sources": [
       "PODCAST. Riner candidat, crainte d'un fichage d'élèves à Brest et nos émissions devraient diminuer : ça dit quoi ce 10 novembre ?"
     ]
+  },
+  {
+    "titre": "Sophie Binet juge insuffisante la hausse du SMIC de 1,6 %",
+    "texte": "Selon franceinfo, la secrétaire générale de la CGT aurait déclaré que la revalorisation de 1,6 % du salaire minimum ne serait pas à la hauteur de l’augmentation du coût de la vie. Elle aurait exprimé son mécontentement lors de la conférence sociale de Matignon.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T08:59:29+00:00",
+    "titres_sources": [
+      "La hausse du smic de 1,6% n'est \"pas à la hauteur de l'explosion du coût de la vie\", juge Sophie Binet",
+      "Chômage, hausse du smic, salaires... Le \"8h30 franceinfo\" de Sophie Binet"
+    ]
+  },
+  {
+    "titre": "Jensen Huang lié à une affaire de «sexpionnage» avec suspecte chinoise",
+    "texte": "D’après franceinfo, le PDG de Nvidia serait associé à une femme soupçonnée d’attaches avec les services de renseignement chinois, rappelant la technique de séduction utilisée autrefois par la Stasi. Cette affaire mettrait en lumière le recours au «sexpionnage».",
+    "rubrique": "politique",
+    "publie_le": "2026-11-10T08:59:29+00:00",
+    "titres_sources": [
+      "De la Stasi à Nvidia : les pièges amoureux, une vieille arme de l'espionnage"
+    ]
   }
 ]
