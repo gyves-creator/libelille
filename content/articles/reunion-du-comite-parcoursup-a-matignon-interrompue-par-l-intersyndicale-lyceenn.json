@@ -1,0 +1,38 @@
+{
+  "slug": "reunion-du-comite-parcoursup-a-matignon-interrompue-par-l-intersyndicale-lyceenn",
+  "titre": "Réunion du comité Parcoursup à Matignon interrompue par l’intersyndicale lycéenne et étudiante",
+  "chapeau": "Le premier comité de réforme de Parcoursup, présidé par le Premier ministre, s’est soldé par un départ massif des représentants lycéens et étudiants. Ils ont dénoncé la présence de l’union étudiante UNI et de parlementaires d’extrême droite.",
+  "corps": "## Une réunion à Matignon qui ne débouche sur aucune annonce\nL’assemblée, organisée dans les locaux du Premier ministre à Matignon, devait lancer les travaux de réforme du dispositif d’orientation post‑baccalauréat connu sous le nom de Parcoursup. Au cours de la séance, aucune décision ni communiqué officiel n’a été présenté, ce qui a alimenté le mécontentement des organisations présentes.\n\n## Le départ de l’intersyndicale lycéenne et étudiante\nDes porte‑parole de l’intersyndicale, regroupant des représentants de lycées et d’étudiants, ont quitté la réunion avant son terme. Leur retrait a été motivé par la présence du syndicat étudiant UNI, ainsi que de deux parlementaires identifiés comme appartenant à l’extrême droite : Thierry Tesson, député du RN pour le Nord, et Gaëlle Frontoni, sénatrice de l’UDR des Alpes‑Maritimes. Les manifestants ont ainsi « claqué la porte » du comité, estimant que ces présences compromettaient la légitimité du débat.\n\n## Contexte du débat sur Parcoursup\nParcoursup, plateforme nationale d’admission post‑baccalauréat, fait l’objet d’une réforme annoncée par le gouvernement afin d’alléger les procédures de candidature et de mieux répondre aux attentes des lycéens et des établissements d’enseignement supérieur. Le comité de réforme, mis en place à Matignon, réunit des représentants de l’État, des syndicats étudiants, des organisations lycéennes et des parlementaires. La participation de membres du RN et de l’UDR a suscité des tensions, les organisations étudiantes estimant que ces acteurs n’étaient pas compatibles avec les objectifs d’équité et de transparence attendus du dispositif.\n\n## Divergences et perspectives\nLes sources rapportent unanimement le retrait des représentants de l’intersyndicale, mais aucune information supplémentaire n’est fournie quant aux suites prévues du comité. Le manque d’annonces officielles laisse incertain le calendrier de la réforme. Le débat devrait se poursuivre, éventuellement dans un cadre où la composition du comité sera réévaluée afin de répondre aux exigences de toutes les parties prenantes.",
+  "mots_cles": [
+    "Parcoursup",
+    "intersyndicale",
+    "Matignon",
+    "réforme",
+    "étudiants"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-10T05:59:29+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lettre_de_Montaigne_au_mar%C3%A9chal_de_Matignon%2C_26_janvier_1585.jpg/1280px-Lettre_de_Montaigne_au_mar%C3%A9chal_de_Matignon%2C_26_janvier_1585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Michel de Montaigne",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Lettre_de_Montaigne_au_mar%C3%A9chal_de_Matignon,_26_janvier_1585.jpg",
+    "legende": "Letter from Michel de Montaigne to the Marechal de Matignon, 26 January 1585.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Lettre de Montaigne au maréchal de Matignon, 26 janvier 1585.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
+      "url": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme Parcoursup tourne court",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html#xtor=RSS-3-%5Bgeneral%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

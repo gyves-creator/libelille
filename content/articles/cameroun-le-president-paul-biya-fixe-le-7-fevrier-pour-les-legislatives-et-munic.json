@@ -1,0 +1,37 @@
+{
+  "slug": "cameroun-le-president-paul-biya-fixe-le-7-fevrier-pour-les-legislatives-et-munic",
+  "titre": "Cameroun : le président Paul Biya fixe le 7 février pour les législatives et municipales",
+  "chapeau": "Le chef de l’État camerounais, Paul Biya, a annoncé la tenue des élections législatives et municipales le 7 février. Cette échéance marque le premier scrutin depuis sa réélection en octobre 2025, qui avait suscité de vives contestations.",
+  "corps": "## Convocation officielle\nLe président Paul Biya, âgé de 93 ans, a officiellement décrété que les élections législatives et municipales se tiendront le 7 février. Cette décision intervient après plusieurs reports et constitue le premier calendrier électoral établi depuis la dernière présidentielle d’octobre 2025. Le texte de convocation, publié par les autorités camerounaises, ne précise pas de modifications de la législation électorale, mais indique simplement la date à laquelle les électeurs seront appelés aux urnes.\n\n## Contexte de la réélection de 2025\nEn octobre 2025, Paul Biya a été réélu pour un huitième mandat à la tête du Cameroun, consolidant ainsi son statut de doyen mondial des chefs d’État. Le scrutin de 2025 avait été fortement contesté par l’opposition et une partie de la population, qui dénonçaient des irrégularités et des fraudes. Les manifestations qui ont suivi ont été réprimées dans le sang, entraînant des dizaines de blessés et plusieurs décès, selon les rapports des organisations locales.\n\n## Enjeux des prochaines élections\nLes législatives et municipales du 7 février revêtent une importance particulière pour la scène politique camerounaise. Elles seront l’occasion pour les partis d’opposition de mesurer leur capacité à mobiliser les électeurs après le climat de tension qui a suivi la présidentielle. Pour le gouvernement, ces scrutins constituent également un moyen de légitimer le mandat de Paul Biya à la fois au niveau national et international, en affichant le respect du processus démocratique.\n\n## Réactions et perspectives\nLes différents acteurs politiques n’ont pas encore publié de déclarations officielles détaillées. Certains observateurs soulignent que le calendrier fixé laisse peu de temps aux partis d’opposition pour organiser leurs campagnes, tandis que d’autres estiment que la tenue des élections dans un délai raisonnable montre une volonté de stabiliser le pays. Les organisations de la société civile et les partenaires internationaux suivront de près le déroulement de ces scrutins, notamment en ce qui concerne la transparence du vote et le respect des droits fondamentaux.\n\nLe déroulement du 7 février sera donc scruté tant par les Camerounais que par la communauté internationale, qui attendent des signes clairs quant à la capacité du pays à organiser des élections crédibles après une période marquée par des tensions et des violences.",
+  "mots_cles": [
+    "Paul Biya",
+    "élections camerounaises",
+    "législatives",
+    "municipales",
+    "opposition"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-10T05:59:31+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Paul_Biya_in_December_14th%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "United States Department of State Africa U.S.-Africa Leaders Summit: Photos and Videos",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Biya_in_December_14th,_2022.jpg",
+    "legende": "President Joe Biden and First Lady Jill Biden pose for photo line photos with delegation heads of the U.S.-Africa Leader Summit, Wednesday, December 14, 2022, in the Diplomatic Reception Room of the W",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février",
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Au Cameroun, le président Paul Biya convoque des législatives et municipales le 7 février",
+      "url": "https://www.franceinfo.fr/monde/afrique/cameroun/au-cameroun-le-president-paul-biya-convoque-des-legislatives-et-municipales-le-7-fevrier_8275235.html#xtor=RSS-3-%5Bgeneral%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

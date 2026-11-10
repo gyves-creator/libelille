@@ -1,0 +1,20 @@
+[
+  {
+    "titre": "Le Conseil de l'IA propose un encadrement renforcé des assistants IA",
+    "texte": "Le Conseil de l'IA et du numérique, mandaté par le gouvernement, a présenté mardi 10 novembre un rapport recommandant un encadrement plus strict des assistants IA tels que ChatGPT, Gemini ou Grok. Le document souligne la nécessité de protéger les utilisateurs contre l’exploitation de leurs vulnérabilités.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T05:59:35+00:00",
+    "titres_sources": [
+      "Une commission préconise de mieux encadrer les assistants IA, de ChatGPT à Gemini ou Grok"
+    ]
+  },
+  {
+    "titre": "Anthropic dévoile Fable 5.2, modèle IA plus performant et économique",
+    "texte": "Anthropic a lancé Fable 5.2, une version améliorée et moins coûteuse de son modèle d’intelligence artificielle, mise à disposition du grand public. En parallèle, le modèle Mythos 5.2 sera limité à un petit nombre d’organisations, invoquant des préoccupations de cybersécurité.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T05:59:35+00:00",
+    "titres_sources": [
+      "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle"
+    ]
+  }
+]
