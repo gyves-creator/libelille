@@ -348,5 +348,24 @@
     "titres_sources": [
       "Allemagne : l'ancien refuge de montagne d'Hitler doit-il être restauré ?"
     ]
+  },
+  {
+    "titre": "Italie - France : match de Ligue des Nations et entraînement annulé",
+    "texte": "Le match France-Italie, prévu jeudi lors de la cinquième journée de la Ligue des Nations, aurait lieu en Italie. La fédération italienne aurait demandé l'annulation de tout entraînement des Bleus sur le terrain du San Siro.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-10T17:29:41+00:00",
+    "titres_sources": [
+      "Italie-France : à quelle heure et sur quelle chaîne suivre le choc qui pourrait propulser les Bleus de Zidane en quarts de la Ligue des nations ?",
+      "Italie-France : pourquoi les Bleus de Zidane ne s’entraîneront pas à San Siro"
+    ]
+  },
+  {
+    "titre": "Assemblée nationale supprime l’article 16 bis de la loi Résilience",
+    "texte": "Le mardi 10 novembre, l’Assemblée nationale aurait voté la suppression de l’article 16 bis du projet de loi Résilience, qui interdisait les portes dérobées aux messageries chiffrées. Cette modification retire l’obstacle légal à d’éventuelles obligations d’accès de l’État.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-10T17:29:41+00:00",
+    "titres_sources": [
+      "Loi Résilience : les députés suppriment l’article qui aurait empêché l’État d’imposer des portes dérobées"
+    ]
   }
 ]
