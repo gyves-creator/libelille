@@ -1,0 +1,37 @@
+{
+  "slug": "billets-frauduleux-mise-en-garde-pour-le-concert-de-florent-pagny-a-nice",
+  "titre": "Billets frauduleux : mise en garde pour le concert de Florent Pagny à Nice",
+  "chapeau": "Le concert de Florent Pagny, prévu le 7 décembre 2026 au Palais Nikaïa, affiche complet. La salle alerte les spectateurs sur les réseaux sociaux contre la revente de billets falsifiés, rappelant que seuls les sites officiels sont autorisés.",
+  "corps": "## Un concert complet, mais des risques de fraude\nLe spectacle de Florent Pagny, qui doit se tenir le 7 décembre prochain dans l’enceinte du Palais Nikaïa, a affiché complet dès les premières semaines de mise en vente. Face à cette forte demande, la direction du lieu a publié un message d’avertissement sur ses comptes officiels, signalant la présence de profils en ligne proposant des billets à des prix variables, mais qui s’avèrent souvent contrefaits.\n\n## Comment se procurer un billet en toute sécurité\nLes organisateurs précisent que la revente de places reste possible, à condition qu’elle s’effectue via les plateformes reconnues par le Palais Nikaïa. Les sites de billetterie agréés, ainsi que le guichet officiel du théâtre, sont les seules voies garantissant la validité du titre d’accès. Toute offre provenant d’individus non identifiés ou d’annonces non liées aux canaux officiels doit être considérée avec prudence.\n\n## Consignes pratiques pour les habitants de Nice\nLes riverains et les visiteurs de la ville sont invités à vérifier l’authenticité d’un billet avant tout paiement. En cas de doute, il est recommandé de consulter la page officielle du Palais Nikaïa ou de contacter directement le service clientèle du lieu. Les informations de contact sont généralement disponibles sur le site internet du théâtre, où il est également possible de signaler toute tentative de fraude.\n\n## Rappel des bonnes pratiques\nEn France, la revente de billets à des prix supérieurs au tarif initial est encadrée par la loi, qui impose aux revendeurs de disposer d’une autorisation préalable. Cette réglementation vise à protéger les consommateurs contre les arnaques et à garantir une distribution équitable des places. Les spectateurs doivent donc privilégier les canaux officiels pour éviter tout désagrément le jour du concert.\n\nEn cas de besoin d’assistance, le Palais Nikaïa peut être joint par téléphone au numéro indiqué sur son site, ou via le formulaire de contact disponible en ligne. Les autorités locales restent également à disposition pour toute déclaration relative à des pratiques frauduleuses.",
+  "mots_cles": [
+    "concert",
+    "billets frauduleux",
+    "Palais Nikaïa",
+    "Florent Pagny",
+    "revente"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-10T11:57:09+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Palais_nikaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Renzo Giusti",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_nikaia.jpg",
+    "legende": "Palais Nikaia in Nice, France.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Vous voulez assister au concert de Florent Pagny le 7 décembre prochain à Nice ? Attention à ces faux profils qui tentent de revendre des billets frauduleux",
+      "url": "https://www.nicematin.com/culture/musique/vous-voulez-assister-au-concert-de-florent-pagny-le-7-decembre-prochain-a-nice-attention-a-ces-faux-profils-qui-tentent-de-revendre-des-billets-frauduleux-10757371"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Vous voulez assister au concert de Florent Pagny le 7 décembre prochain à Nice ? Attention à ces faux profils qui tentent de revendre des billets frauduleux",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOamIwOE9MYTU3cFhBdGJfcS03R1J0bXFycHhNcVZ1OENHRi10R2FOVjhfbGx4R3FQTVVDYUNCQ004aWlZSmJ0WVgyNkZuT2R4VF8zRUEzLVhyazJKUllWR3VrT09lZk1sLXFpdXV1bFdqckJqUUQ4TTVyY2p2cm0xMzhFUFBlQ3F6R2RXODl2d2RXbzVMM2xtXzBsMGZuY2kzT09TQ3V3bTZzb0dxb0ZFeXM5TWZGcUpIZkxlbGNtRDJWblphZTFNSnJwOTJiS1ltRmxBYUlyeEdQMEo5bkFZVlNRdndxNUJDQnJSc0stY3MxNVNtY2hPNXJGb2VxQ3gtTUZKMEpvTFRRY19zWUZmUDBCNlRGcG9mUWpOdHhxYXdBOU1fMHMyU0E5MWhJQQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

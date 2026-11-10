@@ -1,0 +1,37 @@
+{
+  "slug": "un-dessin-menacant-decouvert-a-la-maternelle-de-la-salvetat-saint-gilles",
+  "titre": "Un dessin menaçant découvert à la maternelle de La Salvetat-Saint-Gilles",
+  "chapeau": "Un dessin représentant un individu armé visant l’école a été trouvé sur la vitre d’une maternelle de La Salvetat-Saint-Gilles lundi matin. Les autorités ont immédiatement placé les 130 élèves et 15 adultes présents en confinement et ont déposé une plainte.",
+  "corps": "## Découverte et mesures d’urgence\nVers 8 h 30, les membres du personnel de la maternelle de La Salvetat-Saint-Gilles ont constaté un dessin collé sur une vitre, représentant un personnage armé qui semblait menacer l’établissement. Face à cet élément jugé inquiétant, la direction a déclenché le protocole de sécurité prévu pour ce type de situation. Tous les enfants, au nombre d’environ cent trente, ainsi que les quinze adultes présents (enseignants, surveillants et personnel administratif) ont été confinés à l’intérieur de l’établissement pendant que les forces de l’ordre arrivaient sur les lieux.\n\n## Intervention des autorités\nLes services de police se sont rendus rapidement à l’école afin d’évaluer la gravité du dessin et de sécuriser les lieux. Une plainte a été déposée contre l’auteur du geste, dont l’identité n’a pas été rendue publique. Aucun élément ne laisse à penser qu’une menace réelle se soit matérialisée ; la réaction a été purement préventive, conformément aux procédures de protection des établissements scolaires. L’enquête est ouverte pour déterminer les motivations et identifier le responsable.\n\n## Conséquences pour les familles et la vie locale\nLe confinement a duré plusieurs heures, pendant lesquelles les parents ont été informés par téléphone et via les canaux de communication de la municipalité. Les cours ont été suspendus pour la journée, et les transports scolaires ont été réorganisés afin de garantir le retour sécurisé des enfants. Les autorités locales ont rappelé aux habitants que de telles mesures, bien que perturbatrices, visent à assurer la sécurité de tous les usagers de l’école.\n\n## Recommandations pratiques\nLes parents dont les enfants étaient présents sont invités à contacter le service de la petite enfance de la mairie pour toute question relative à la prise en charge post‑incident. En cas de besoin, le numéro d’urgence de la police nationale (17) reste disponible. La mairie de La Salvetat-Saint-Gilles a indiqué que le bâtiment restera fermé le reste de la journée afin de permettre aux équipes de nettoyage et aux enquêteurs de procéder à une vérification complète.\n\nLes habitants sont encouragés à signaler tout comportement suspect ou tout élément similaire aux forces de l’ordre, afin de prévenir d’éventuelles situations similaires à l’avenir.",
+  "mots_cles": [
+    "dessin menaçant",
+    "maternelle",
+    "La Salvetat-Saint-Gilles",
+    "confinement scolaire",
+    "plainte"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-10T11:57:04+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/La_Salvetat-Saint-Gilles_Chateau_Raymond_IV_AL_04.jpg/1280px-La_Salvetat-Saint-Gilles_Chateau_Raymond_IV_AL_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agloforto",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Salvetat-Saint-Gilles_Chateau_Raymond_IV_AL_04.jpg",
+    "legende": "Château Raymond IV à la Salvetat-Saint-Gilles, septembre 2022, façade Nord",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "130 enfants et 15 adultes confinés, \"dessin menaçant\" saisi, plainte déposée... Que s'est-il passé, lundi, dans cette école maternelle près de Toulouse ?",
+      "url": "https://www.ladepeche.fr/2026/11/10/130-enfants-et-15-adultes-confines-dessin-menacant-saisi-plainte-deposee-que-sest-il-passe-lundi-dans-cette-ecole-maternelle-pres-de-toulouse-13645410.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "130 enfants et 15 adultes confinés, \"dessin menaçant\" saisi, plainte déposée... Que s'est-il passé, lundi, dans cette école maternelle près de Toulouse",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdXB6RXJWZFVuS1E5cE9ERU5iRU1faUZPNWRCdHpHeC1qcHpSamxvQ3dBYWs5ckxEbGFSSFVIT0hzeTVyR3J5emFISUdsYWZOZHVCbGFwdmFmZThjTGowcUpZUU9uRXRReEowQkFsSjdQZ1RjN0R6WHM1OWY4T1dITEpCUWdnU1dJR19JcUNzdTVMMzNmRlYyTUlScGZ3SVpBTzRxQlVtTmNrbG15Q2c0UFpocFBUV2ZmZU9XZzZuZGZycnhMUHNNMDN0UW1XTzBHNEttdjZhaTlKOVhEOF80RmhGVlNjVDFDT3lVTTdOeGtBeFZrbDdQbXh1OXNBaDR5aHl0OXg2MDBNdGdHczdvQW5ST3JEaFhZQWc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
