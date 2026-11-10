@@ -56,5 +56,24 @@
       "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
       "Infox transphobe sur Brigitte Macron : le couple présidentiel porte plainte dans le Tennessee contre Candace Owens"
     ]
+  },
+  {
+    "titre": "Spurs, neuvième victoire consécutive, grâce à Wembanyama",
+    "texte": "Victor Wembanyama a brillé, menant les San Antonio Spurs à leur neuvième victoire consécutive. Les Spurs ont battu Phoenix 122-96 lors du match de la nuit du 9 au 10 novembre.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-10T07:54:08+00:00",
+    "titres_sources": [
+      "NBA : Victor Wembanyama cartonne encore, les Spurs font la passe de neuf",
+      "NBA : les Spurs l'emportent avec un grand Wembanyama"
+    ]
+  },
+  {
+    "titre": "Teddy Riner se lance à l’Élysée, polémique fichage lycéens et baisse des émissions",
+    "texte": "Le mardi 10 novembre, le judoka Teddy Riner a annoncé sa candidature à l’élection présidentielle. Des parents dénoncent la demande de photos de trois lycéens par la police, et le Global Carbon Project prévoit une baisse des émissions de gaz à effet de serre en 2026.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-10T07:54:08+00:00",
+    "titres_sources": [
+      "PODCAST. Riner candidat, crainte d'un fichage d'élèves à Brest et nos émissions devraient diminuer : ça dit quoi ce 10 novembre ?"
+    ]
   }
 ]
