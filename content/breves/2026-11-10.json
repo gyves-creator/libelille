@@ -494,5 +494,24 @@
     "titres_sources": [
       "Un carambolage fait au moins 11 morts et 51 blessés en Bulgarie"
     ]
+  },
+  {
+    "titre": "Violence contre une élue à Chelles, le président la condamne",
+    "texte": "Le président Emmanuel Macron a dénoncé l’agression d’une élue à Chelles, où elle a reçu une bouteille d’essence devant un lycée bloqué. Le ministre de l’Éducation a qualifié les faits de crime et une enquête pour tentative d’homicide volontaire a été ouverte.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-10T21:23:23+00:00",
+    "titres_sources": [
+      "\"La violence n'a pas sa place en démocratie\", condamne Emmanuel Macron après l'agression d'une élue devant un lycée bloqué à Chelles",
+      "Une élue blessée devant un lycée de Chelles : le ministre de l'Éducation nationale évoque \"des comportements criminels\""
+    ]
+  },
+  {
+    "titre": "Doumbé et Jake Paul s’affrontent verbalement avant le combat de Dubaï",
+    "texte": "Selon Le Figaro, Cédric Doumbé et Jake Paul auraient échangé des provocations lors d’une conférence de presse à Paris mardi, en vue de leur duel prévu le 24 décembre à Dubaï. Cette tension médiatique précéderait le combat de Noël.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-10T21:23:23+00:00",
+    "titres_sources": [
+      "Boxe : «Jake, t’es mort !»… Cédric Doumbé et Jake Paul font monter la tension à Paris avant leur duel de Noël"
+    ]
   }
 ]
