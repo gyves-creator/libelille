@@ -367,5 +367,23 @@
     "titres_sources": [
       "Loi Résilience : les députés suppriment l’article qui aurait empêché l’État d’imposer des portes dérobées"
     ]
+  },
+  {
+    "titre": "Livret A et LDDS : possible hausse du taux en février",
+    "texte": "Le livret A et le LDDS, placements réglementés, sont actuellement rémunérés à 1,7 %. Le Figaro indique qu’une hausse importante du taux pourrait être annoncée en février, portée par l’inflation.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T17:53:38+00:00",
+    "titres_sources": [
+      "Vers une importante hausse du taux du livret A en février, porté par l’inflation ?"
+    ]
+  },
+  {
+    "titre": "Iran : cyberattaques contre la France jugées d’une agressivité sans précédent",
+    "texte": "Le ministre Jean‑Noël Barrot a qualifié les récentes cyberattaques iraniennes contre la France d’une agressivité exceptionnelle. Selon franceinfo, ces actions, dont le piratage de réfrigérateurs connectés en octobre, s’inscrivent dans une campagne de manipulation de l’opinion menée par le régime iranien.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T17:53:38+00:00",
+    "titres_sources": [
+      "Cyberattaques, propagande, manipulation de l'opinion... La France face à la multiplication des opérations iraniennes"
+    ]
   }
 ]
