@@ -1,0 +1,38 @@
+{
+  "slug": "chomage-francais-stable-a-8-2-au-troisieme-trimestre-2026",
+  "titre": "Chômage français stable à 8,2 % au troisième trimestre 2026",
+  "chapeau": "Le taux de chômage en France s'est maintenu à 8,2 % au troisième trimestre, selon les dernières publications de l'Insee. Cette légère baisse trimestrielle contraste avec une hausse annuelle observée pour toutes les catégories d'âge.",
+  "corps": "## Un léger recul trimestriel\nLes dernières données de l'Institut national de la statistique et des études économiques (Insee) indiquent que le nombre de personnes sans emploi en France a diminué de 0,1 point de pourcentage par rapport au trimestre précédent, stabilisant le taux de chômage à 8,2 % au troisième trimestre 2026. Cette évolution met fin à une séquence de six trimestres consécutifs d'augmentation du taux de chômage.\n\n## Une hausse sur l'année\nSi le chiffre du trimestre montre une stabilisation, l'analyse annuelle révèle une tendance différente. Sur une période de douze mois, le taux de chômage a progressé de 0,4 point de pourcentage, touchant toutes les tranches d'âge. Cette hausse annuelle indique que, malgré le léger rebond du dernier trimestre, le marché du travail reste sous pression pour l'ensemble de la population active.\n\n## Contexte et méthodologie\nL'Insee élabore ses estimations du chômage à partir d'enquêtes auprès des ménages, en appliquant la définition du Bureau international du travail (BIT). Le taux de chômage correspond à la proportion de personnes en âge de travailler qui sont sans emploi, disponibles pour travailler et recherchent activement un poste. Les variations trimestrielles sont souvent influencées par des facteurs saisonniers, tandis que les évolutions annuelles offrent une perspective plus stable sur les dynamiques du marché du travail.\n\n## Implications pour la politique économique\nLes chiffres publiés offrent aux décideurs une base pour ajuster les mesures de soutien à l'emploi. La stabilisation du taux de chômage au cours du dernier trimestre pourrait être interprétée comme un signe de résilience, mais la hausse sur l'année souligne la nécessité de politiques ciblées, notamment pour les jeunes et les travailleurs plus âgés, qui ont enregistré des augmentations similaires. Les autorités restent attentives aux indicateurs de recrutement et aux évolutions sectorielles afin d'orienter les actions de formation et d'incitation à l'embauche.\n\nEn résumé, le tableau du chômage en France au troisième trimestre 2026 présente une stabilisation ponctuelle à 8,2 %, mais s'inscrit dans une tendance annuelle de hausse qui touche l'ensemble des groupes d'âge, rappelant la complexité du contexte économique actuel.",
+  "mots_cles": [
+    "chômage",
+    "Insee",
+    "France",
+    "taux de chômage",
+    "marché du travail"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-10T10:00:28+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inventaire_communal_1988._55%2C_Meuse_-_Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques_%3B_Service_central_des_enqu%C3%AAtes_et_%C3%A9tudes_statistiques_-_bpt6k91177799_%2824_of_62%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Institut national de la statistique et des études économiques (France). Fonction indéterminée France. Ministère de l'agr",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Inventaire_communal_1988._55,_Meuse_-_Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques_;_Service_central_des_enqu%C3%AAtes_et_%C3%A9tudes_statistiques_-_bpt6k91177799_(24_of_62).jpg",
+    "legende": "Sujet : Équipements communaux Meuse, Département de la -- Communes -- Statistiques Meuse, Département de la Communes -- Statistiques Échelle(s) : 1:525 000 Numérisé par le partenaire Appartient à l’en",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Inventaire communal 1988. 55, Meuse - Institut national de la statistique et des études économiques ; Service central des enquêtes et études statistiques - bpt6k91177799 (24 of 62).jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Le chômage quasiment stable, à 8,2%, au troisième trimestre",
+      "url": "https://www.lefigaro.fr/social/le-chomage-quasiment-stable-a-8-2-au-troisieme-trimestre-20261110"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Le chômage se stabilise au troisième trimestre en France, à 8,2 %",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/10/le-chomage-se-stabilise-au-troisieme-trimestre-a-8-2_6808794_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

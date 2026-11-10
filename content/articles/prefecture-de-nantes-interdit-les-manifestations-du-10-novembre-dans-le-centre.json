@@ -1,0 +1,38 @@
+{
+  "slug": "prefecture-de-nantes-interdit-les-manifestations-du-10-novembre-dans-le-centre",
+  "titre": "Préfecture de Nantes interdit les manifestations du 10 novembre dans le centre",
+  "chapeau": "La préfecture de Nantes a déclaré interdit tout rassemblement non déclaré prévu le 10 novembre dans le centre de la ville. Cette décision implique des restrictions de circulation et des consignes de sécurité pour les habitants et les participants éventuels.",
+  "corps": "## Interdiction officielle\nLa préfecture a officiellement bloqué toute manifestation ou rassemblement non déclaré dans le périmètre du centre de Nantes le 10 novembre. Cette mesure, prise en application du code de la sécurité intérieure, vise à prévenir tout débordement et à garantir l’ordre public. Aucun détail supplémentaire n’a été communiqué sur les raisons précises de cette interdiction, si ce n’est la volonté d’éviter des incidents lors d’une mobilisation attendue.\n\n## Conséquences pour les riverains\nLes habitants du centre nantais sont invités à rester vigilants quant aux éventuelles perturbations de la circulation. Les autorités locales peuvent mettre en place des déviations temporaires ou renforcer les contrôles de police dans les zones concernées. Les services de transport en commun, notamment les lignes de bus et le tramway, pourraient subir des ajustements d’horaires ou des détours, même si aucune information précise n’a encore été diffusée.\n\n## Cadre légal et procédures\nEn France, la préfecture dispose du pouvoir de suspendre ou d’interdire les rassemblements qui ne sont pas déclarés au moins trois jours à l’avance. Cette prérogative s’applique lorsque les autorités estiment que la tenue d’un rassemblement pourrait menacer la sécurité publique ou la tranquillité des habitants. Les organisateurs doivent donc déposer une déclaration auprès de la préfecture ; à défaut, la manifestation peut être légalement bloquée.\n\n## Informations pratiques\nLes personnes souhaitant obtenir des précisions sur les mesures prises peuvent contacter la préfecture de Loire‑Atlantique au 02 40 01 50 50 ou consulter le site officiel de la préfecture. En cas de besoin immédiat, le numéro d’urgence police‑gendarmerie (17) reste disponible. Les habitants sont également encouragés à suivre les communications de la mairie de Nantes et des services de transport pour connaître les éventuelles modifications d’itinéraires ou de services le jour même.",
+  "mots_cles": [
+    "Nantes",
+    "manifestation",
+    "préfecture",
+    "rassemblement",
+    "sécurité"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-10T10:01:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nantes_-_Hotel_de_ville_05.jpg/1280px-Nantes_-_Hotel_de_ville_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Selbymay",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_-_Hotel_de_ville_05.jpg",
+    "legende": "Sculpted escutcheon of Nantes city hall with latin motto Favet Neptunus Eunti - France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes - Hotel de ville 05.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actu.fr",
+      "titre": "Mobilisation du 10 novembre à Nantes : les manifestations interdites par la préfecture dans le centre",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWtnN0VHcE1WUTBIUnRjN2pWemlzZnZIZTgxbm1iLVk5SnZXSm9mdEpRUWpCMW9MOGVpYndHcGtkR1RDTFdHc3ZNQ29YNGxadDU1UzVWRWlpTG1DcEhaSzdhZnhnbUl4eEtSakI5eXQ3TFdNMW50TGpQTlNxZGZqYkYwN3hzN1FQSk5wcTZfTTVsOVp6MWhPZUNSYW5JVGJ2c3JwczBIVE55ZXc2Y0VhUUVEd1k1X1p2YVRlcGFKVHdUNzlCZnNDV0xWUWFzVWFEOWNLaHJkN2swMW1ubGNVei1ub2dXa2lyTkd2eTAybDU?oc=5"
+    },
+    {
+      "media": "https://infos-media-nantes.fr/",
+      "titre": "Nantes : rassemblements non déclarés interdits le 10 novembre, les mesures de la préfecture",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wTDd3ZUU3bkhabnczdUs3dVJuMHBGWDZaeEFnM0hhOWhrOWVMZ0hNWEF1MG1hNHg4Rm81RFh6STFSQ21NRnkxdnRKTHk2dkE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

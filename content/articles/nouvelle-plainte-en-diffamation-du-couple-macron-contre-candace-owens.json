@@ -1,0 +1,41 @@
+{
+  "slug": "nouvelle-plainte-en-diffamation-du-couple-macron-contre-candace-owens",
+  "titre": "Nouvelle plainte en diffamation du couple Macron contre Candace Owens",
+  "chapeau": "Le président Emmanuel Macron et la première dame Brigitte Macron ont déposé une nouvelle action judiciaire aux États‑Unis contre l’influenceuse américaine Candace Owens. La procédure, engagée dans le Tennessee, vise à faire sanctionner la diffusion d’une théorie selon laquelle Brigitte Macron serait transgenre.",
+  "corps": "## Un nouveau recours judiciaire\nLe couple présidentiel a introduit, le 10 novembre 2026, une plainte pour diffamation à l’encontre de Candace Owens, figure reconnue du mouvement conservateur américain. L’influenceuse est accusée d’avoir diffusé et exploité une information erronée affirmant que Brigitte Macron aurait effectué une transition de genre. Cette accusation, qualifiée d’« infox », a été largement relayée sur les réseaux sociaux et a donné une visibilité internationale à la théorie complotiste.\n\n## Le contexte des précédentes démarches\nCette action fait suite à une première plainte déposée en 2025 aux États‑Unis, devant un tribunal du Delaware. À cette occasion, le magistrat avait estimé que la podcasteuse ne pouvait être tenue responsable à titre personnel, invoquant la prescription. Le rejet de cette première démarche a conduit le couple à relancer les poursuites, cette fois dans le Tennessee, État où réside Candace Owens.\n\n## Les enjeux de la procédure\nLe choix du Tennessee comme juridiction repose sur le principe de compétence territoriale, qui permet de saisir la justice dans le lieu de résidence du défendeur. La plainte invoque les dispositions françaises et américaines relatives à la diffamation, bien que le contenu litigieux ait été diffusé en ligne, rendant la question de la loi applicable complexe. Les autorités américaines n’ont pas encore rendu de décision, et aucune audience n’est prévue dans les prochains jours.\n\n## Réactions et perspectives\nLes médias français ont souligné le caractère inédit d’une action judiciaire portée par le couple présidentiel contre une personnalité étrangère pour une propositional diffamatoire liée à l’identité de genre. Aucun représentant officiel n’a commenté la procédure au moment de la rédaction. La suite de l’affaire dépendra des conclusions du tribunal du Tennessee, qui devra déterminer si les propos de Candace Owens constituent une diffamation au sens du droit américain.\n\nEn attendant, la diffusion de l’allégation continue de susciter des débats sur les limites de la liberté d’expression en ligne et sur la protection de la vie privée des personnalités publiques.",
+  "mots_cles": [
+    "diffamation",
+    "Candace Owens",
+    "Brigitte Macron",
+    "procédure judiciaire"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-10T10:00:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Candace_Owens_%2853805331465%29_%28cropped%29.jpg/1280px-Candace_Owens_%2853805331465%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gage Skidmore from Surprise, AZ, United States of America",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Candace_Owens_(53805331465)_(cropped).jpg",
+    "legende": "Candace Owens speaking with attendees at the 2024 Young Women's Leadership Summit at the San Antonio Marriott Rivercenter on the River Walk in San Antonio, Texas.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/brigitte-macron/le-couple-presidentiel-a-depose-une-nouvelle-plainte-en-diffamation-contre-l-influenceuse-complotiste-candace-owens_8275838.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Infox sur Brigitte Macron : nouvelle manœuvre judiciaire du couple présidentiel contre Candace Owens",
+      "url": "https://www.france24.com/fr/france/20261110-infox-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Infox transphobe sur Brigitte Macron : le couple présidentiel porte plainte dans le Tennessee contre Candace Owens",
+      "url": "https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
