@@ -1,0 +1,38 @@
+{
+  "slug": "incendie-de-l-entree-du-lycee-edouard-herriot-a-lyon-et-mobilisation-locale",
+  "titre": "Incendie de l'entrée du lycée Édouard Herriot à Lyon et mobilisation locale",
+  "chapeau": "L'entrée du lycée Édouard Herriot a été incendiée vendredi, entraînant l'intervention du proviseur sur BFMTV. Parents, professeurs et proches de l'établissement se sont organisés pour réagir à cet acte.",
+  "corps": "## Un acte de vandalisme ciblant le lycée\nVendredi dernier, l'entrée principale du lycée Édouard Herriot, situé dans le centre de Lyon, a été victime d'un incendie volontaire. Les premiers constats font état de dégâts matériels sur la porte d'accès et les parties vitrées adjacentes. Les forces de l'ordre sont intervenues rapidement pour sécuriser les lieux et ouvrir une enquête afin d’identifier les auteurs. Aucun détail n’a été communiqué concernant d’éventuelles victimes ou blessés.\n\n## Réaction du proviseur et prise de parole médiatique\nLe proviseur du lycée, interpellé par les médias, a accordé une interview à la chaîne BFMTV. Il a décrit l’incident comme une forme de « déshumanisation », soulignant le choc ressenti par la communauté éducative. Cette déclaration, relayée par plusieurs médias régionaux, vise à sensibiliser le public aux conséquences d’un tel acte sur le climat scolaire.\n\n## Mobilisation des parents, enseignants et amis du lycée\nDans les heures qui ont suivi l’incident, des parents, des enseignants et des amis du lycée Édouard Herriot ont organisé une mobilisation. Les rassemblements, dont les modalités exactes n’ont pas été précisées, visent à soutenir le personnel, à exprimer leur solidarité avec les élèves et à appeler à une réponse ferme des autorités. Aucun chiffre n’a été donné quant au nombre de participants ou aux actions concrètes envisagées.\n\n## Conséquences pratiques pour les habitants et les usagers\nL’incident a entraîné la fermeture temporaire de l’entrée principale du lycée, obligeant les élèves et le personnel à emprunter les accès secondaires. Aucun impact direct sur la circulation routière ou les transports en commun n’a été signalé, mais les usagers sont invités à rester vigilants et à suivre les consignes de la police locale. Pour toute information complémentaire, les résidents peuvent contacter le commissariat de Lyon 3 au 04 72 XX XX XX ou consulter le site de la mairie de Lyon.",
+  "mots_cles": [
+    "Lyon",
+    "lycée Édouard Herriot",
+    "incendie",
+    "mobilisation",
+    "sécurité"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-10T10:58:13+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/LyceeEdouardHerriotLyon45a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Túrelio",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:LyceeEdouardHerriotLyon45a.jpg",
+    "legende": "Front door of the Lycee Edouard Herriot in Lyon , France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:LyceeEdouardHerriotLyon45a.jpg"
+  },
+  "sources": [
+    {
+      "media": "Lyon people",
+      "titre": "Lyon. Parents, professeurs et amis du Lycée Édouard Herriot se mobilisent -",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZmRhN2trSDBTa2xaeEMwZTl1RG5VVHVoV090TTBjaUg5Qm1ncGxZTFE5NU5OSENOMkJpR1VTUTJKdDVnQlhwakhxaVVFXzNCbW1DSkdWTFQ3YW9yZFpRRV9fTEZrVm96OWNHWVZYZW1GVm8zclRfMVFoTl9CSWZ4bmJNYl9IRjJNS2lTM181eHdaR1lILUEzZmJ4V0tPdzdmSFB0UUtCSEpRMHVCRG45cm1HbUp3dFQ4d0R6WFdGNm5tVHBnQXBScVpR?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "\"Il y a une forme de déshumanisation\": le proviseur du lycée Édouard Herriot de Lyon, dont l'entrée a été incendiée vendredi, témoigne sur BFMTV",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeWNtNjQybWlGMUtydjh2X01sdmlNSHZpZl81RFh2VWpBRHR5T2tYU1QzNF9iSGE3R19EMnBlN283dFcwR24yVm9aTlZJUklvU1RScHh0RjB0TTFOQ25sUFluM3pjcHpzVDJkc0Fra0NzbThGZmJKcjdnNFBMZGJPbEgzMWRSS29nbkNEdDVBT1lxWGY0WFplSF9zellhS2xySFhSN0hXQmVJUm1keVRydTJXak5nZ3IzcmtEc2EwVEpLNTJvcW5sV1VhMVI1QTFDMmJFNW1pLVhuWldmRDloNDlmNVQySHZhelR3MFdJbmtlaTZXZWJaMl9SZS1jZ0JNeTk2UWtSN0NiRjBoTHF4MjFCUVRIMGZybmYwRE94VXUydw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

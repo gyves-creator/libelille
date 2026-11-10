@@ -142,5 +142,23 @@
       "Le décret pour sanctionner les branches ayant des minima conventionnels sous le smic publié au journal officiel",
       "Salaires : un décret publié pour sanctionner les branches dont les minima sont inférieurs au smic"
     ]
+  },
+  {
+    "titre": "Un adolescent palestinien de 14 ans tué en Cisjordanie occupée",
+    "texte": "Selon Le Monde, l’armée israélienne aurait tué un adolescent palestinien de 14 ans en Cisjordanie occupée. Les forces israéliennes utiliseraient régulièrement des balles réelles contre des Palestiniens, y compris des mineurs, lors de jets de pierres depuis 1967.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T10:58:25+00:00",
+    "titres_sources": [
+      "En Cisjordanie occupée, un adolescent palestinien de 14 ans tué par l’armée israélienne"
+    ]
+  },
+  {
+    "titre": "Des acteurs du sport français demandent l’inscription du droit au sport",
+    "texte": "Lors de la manifestation «Demain le sport», huit acteurs majeurs du sport français auraient appelé à inscrire le droit au sport au cœur de la Constitution, le qualifiant de rôle essentiel. Cette initiative viserait à renforcer la reconnaissance juridique du sport.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-10T10:58:25+00:00",
+    "titres_sources": [
+      "En raison de son «rôle essentiel», le droit au sport doit être inscrit «au cœur de la Constitution»"
+    ]
   }
 ]
