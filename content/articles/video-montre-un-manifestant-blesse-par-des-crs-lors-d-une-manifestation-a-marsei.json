@@ -1,0 +1,37 @@
+{
+  "slug": "video-montre-un-manifestant-blesse-par-des-crs-lors-d-une-manifestation-a-marsei",
+  "titre": "Vidéo montre un manifestant blessé par des CRS lors d'une manifestation à Marseille",
+  "chapeau": "Une vidéo diffusée par France Inter montre un manifestant frappé par plusieurs CRS en marge d'une manifestation à Marseille le 31 octobre. L'événement soulève des questions sur le déroulement des forces de l'ordre lors de manifestations locales.",
+  "corps": "## Un incident filmé lors d'une manifestation à Marseille\nLe 31 octobre, une manifestation s'est déroulée dans la ville de Marseille, dans le département des Bouches‑du‑Rhône. Au cours de cet événement, une altercation a opposé des manifestants à des membres des Compagnies républicaines de sécurité (CRS). Une séquence vidéo, obtenue par France Inter, montre un manifestant recevant des coups de la part de plusieurs CRS alors qu'il se trouvait en marge du cortège.\n\n## Réactions et enquêtes en cours\nLes images ont été relayées par plusieurs médias, dont franceinfo et la chaîne Facebook de France Inter, qui ont souligné la gravité de la scène filmée. Aucun détail supplémentaire n’a été fourni quant aux raisons précises de l’intervention des forces de l'ordre ni aux circonstances exactes de la confrontation. Les autorités compétentes n’ont pas encore publié de communiqué officiel, mais il est habituel que de telles vidéos entraînent l’ouverture d’une enquête afin de déterminer les responsabilités et d’évaluer le respect du protocole d’usage de la force.\n\n## Conséquences pour les habitants et les usagers\nPour les riverains et les usagers des transports, cet incident n’a pas entraîné de perturbations majeures signalées dans les dépêches. Aucun détournement de voie ou arrêt de service n’a été mentionné. Toutefois, les habitants sont invités à rester vigilants lors de manifestations futures et à suivre les consignes de sécurité communiquées par la préfecture ou la mairie de Marseille.\n\n## Informations pratiques\nEn cas de besoin d’assistance ou de signalement d’incidents similaires, les citoyens peuvent contacter le numéro d’urgence de la police nationale (17) ou se rendre sur le site officiel de la mairie de Marseille, qui propose des mises à jour sur la sécurité publique et les manifestations en cours. Les services de la préfecture des Bouches‑du‑Rhône restent également disponibles pour toute question relative aux forces de l’ordre et aux procédures d’enquête.\n\nL’affaire reste en cours d’examen, et les autorités locales sont attendues pour fournir davantage de précisions sur les circonstances et les suites judiciaires éventuelles.",
+  "mots_cles": [
+    "Marseille",
+    "manifestation",
+    "CRS",
+    "vidéo",
+    "enquête"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-10T07:17:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
+    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo",
+      "titre": "À Marseille, une vidéo montre un manifestant blessé se faire frapper par plusieurs CRS en marge d'une manifestation",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcER6SVRkZGRKdFFSNC0yVXNEMk9HUFloWEpQQUNYY2lfZUhYVmUxeFUyWkRjZzJxbm9FR0g5d1dhODhXYlhkS1ZJaEN0eFl0NGQ0SVdqSUlXNVN0Wjl0OC14c2FQaWlkakVoQnRIRzljbkt1N1IzakxzZnF1eWFmcFc0RDA5aFlvRDRubXd5QkRKZDZYM2VjQ2xOeHJjSHRTZV9hS1lOaVVLaTVzNE4tREdTam91ang3bER2NVYzQmpPTmJHclNfVE5KQUM0R3hOWXBhWDZObzd3NG9xQnJBeHcySEJTR0g4X2ZRajFXY0JtLXdYZEFGY1JBdENkYWh3RU1ubjNteUNUc0lzUVdldlV3?oc=5"
+    },
+    {
+      "media": "Facebook",
+      "titre": "France Inter. . Dix jours après les blessures dont a été victime Rémi, un homme de 39 ans, à Marseille (Bouches-du-Rhône), le 31 octobre dernier, en marge d'une manifestation, une vidéo que France Inter a pu consulter montre que ce dernier a été frappé par",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnhPckpYU2IyTENTYm9qVDA0bGlwWjFJQk5EellVaGZEeWJadnE4MVN4c0RtUEpuRExmWHFWN3FwbGJkb2dmXzQ3YU9zZG1VaTlTUklKY2lHcXlpYmVkSlNEb1RyaHQ5RlU5NEY3Q29nRWhOeVFRV2ZuVjZEZDB1blZhcGs1ekJsblI2N2ZFNi1QTEJiUU00UWtmMmh4M2lGU2FmVGE2N2drOVhSSi1Ja09lMm1XdldaWklzN01jOHlLZzRRNmVvdTFB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

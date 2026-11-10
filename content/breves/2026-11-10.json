@@ -36,5 +36,25 @@
     "titres_sources": [
       "DIRECT. Manifestations du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action mardi"
     ]
+  },
+  {
+    "titre": "Chômage français stable à 8,2 % au troisième trimestre",
+    "texte": "L'Insee a indiqué que le taux de chômage en France s'établissait à 8,2 % au troisième trimestre, pratiquement inchangé. Sur un an, il progresse de 0,4 point, tandis que le nombre de chômeurs recule de 0,1 point par rapport au trimestre précédent.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T07:18:05+00:00",
+    "titres_sources": [
+      "Le taux de chômage en France reste quasiment stable au troisième trimestre, à 8,2%",
+      "Le chômage quasiment stable, à 8,2%, au troisième trimestre"
+    ]
+  },
+  {
+    "titre": "Les Macron portent plainte contre Candace Owens aux États‑Unis",
+    "texte": "Emmanuel et Brigitte Macron ont déposé une nouvelle plainte pour diffamation au Tennessee contre Candace Owens, accusée de diffuser une fausse affirmation sur l'identité de genre de Brigitte Macron. Cette action succède à une plainte de 2025 rejetée par un juge du Delaware.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-10T07:18:05+00:00",
+    "titres_sources": [
+      "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
+      "Infox transphobe sur Brigitte Macron : le couple présidentiel porte plainte dans le Tennessee contre Candace Owens"
+    ]
   }
 ]

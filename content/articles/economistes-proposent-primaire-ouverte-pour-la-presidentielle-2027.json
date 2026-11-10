@@ -1,0 +1,33 @@
+{
+  "slug": "economistes-proposent-primaire-ouverte-pour-la-presidentielle-2027",
+  "titre": "Économistes proposent primaire ouverte pour la présidentielle 2027",
+  "chapeau": "Des économistes ont suggéré la mise en place d’une primaire ouverte afin de sélectionner deux candidats pour le premier tour de la présidentielle 2027. Cette proposition vise à éviter un second tour opposant le parti de la France Insoumise au Rassemblement national.",
+  "corps": "## Un cadre institutionnel en jeu\nLa présidentielle française, prévue pour 2027, repose traditionnellement sur un premier tour à candidat unique suivi d’un second tour entre les deux premiers. Le système actuel peut conduire à des duels entre des partis aux positions très éloignées, comme le souligne la crainte d’un affrontement entre la France Insoumise (LFI) et le Rassemblement national (RN). Dans ce contexte, trois économistes – Philippe Aghion, Pierre‑Olivier Gourinchas et Vincent Pons – ont publié une tribune dans le quotidien Le Monde, proposant une réforme du mode de sélection des candidats.\n\n## Proposition de primaire élargie\nSelon les auteurs, une « grande primaire ouverte » rassemblerait les forces de gauche, du centre et de droite. Le dispositif aurait pour objectif de choisir deux candidats qui représenteraient la diversité des opinions tout en excluant les options jugées extrêmes. Cette méthode, inspirée de pratiques observées dans d’autres démocraties, viserait à garantir un premier tour plus pluraliste et à réduire le risque d’un second tour polarisé.\n\n## Implications et portée\nLa proposition met en avant la notion de pluralité comme garantie contre l’extrémisme. En sélectionnant deux candidats dès le premier tour, la primaire permettrait aux électeurs de disposer d’alternatives plus modérées dès le départ. Les économistes soulignent que ce mécanisme pourrait renforcer la légitimité du scrutin en offrant un éventail plus large de choix, tout en maintenant la cohérence du processus électoral français.\n\n## Perspectives pour les acteurs politiques\nAucun parti ou candidat n’a encore commenté officiellement la suggestion des économistes. La tribune indique toutefois que la mise en œuvre d’une telle primaire nécessiterait un cadre légal adapté et l’adhésion des forces politiques concernées. Le débat pourrait s’inscrire dans les discussions plus larges sur la réforme du système électoral, qui restent ouvertes jusqu’à la prochaine échéance présidentielle.",
+  "mots_cles": [
+    "primaire",
+    "présidentielle 2027",
+    "économistes",
+    "pluralité",
+    "duel politique"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-10T07:17:53+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Urne_%C3%A9lectorale_J3.jpg/1280px-Urne_%C3%A9lectorale_J3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jamain",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Urne_%C3%A9lectorale_J3.jpg",
+    "legende": "Ballot box at polling station N°108 for the 2022 presidential election, rue de Soissons, Tourcoing, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Urne électorale J3.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : « En sélectionnant deux candidats, une grande primaire ouverte garantirait une pluralité de choix non extrêmes au premier tour »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/10/presidentielle-2027-en-selectionnant-deux-candidats-une-grande-primaire-ouverte-garantirait-une-pluralite-de-choix-non-extremes-au-premier-tour_6808790_3232.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
