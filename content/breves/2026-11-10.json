@@ -196,5 +196,23 @@
     "titres_sources": [
       "Le RC Lens limoge Yannick Cahuzac et se met déjà en quête d'un troisième entraîneur cette saison"
     ]
+  },
+  {
+    "titre": "La CGT critique la hausse du Smic jugée insuffisante",
+    "texte": "La CGT considérerait l'augmentation du Smic proposée par le gouvernement comme trop faible. Sa secrétaire nationale, Sophie Binet, aurait dénoncé ces annonces, estimant qu'elles ne répondent pas aux besoins des salariés.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-10T12:34:36+00:00",
+    "titres_sources": [
+      "La CGT juge trop faible l'augmentation du Smic proposé par le gouvernement"
+    ]
+  },
+  {
+    "titre": "La Chine contournerait les restrictions US pour acquérir puces Nvidia",
+    "texte": "Des entreprises chinoises chercheraient à se procurer des puces Nvidia malgré les interdictions américaines. Le scandale impliquant le dirigeant de Nvidia, Jensen Huang, aurait mis en lumière les stratégies utilisées pour assurer l'approvisionnement en IA.",
+    "rubrique": "international",
+    "publie_le": "2026-11-10T12:34:36+00:00",
+    "titres_sources": [
+      "Comment la Chine parvient à acheter des puces Nvidia malgré les restrictions américaines"
+    ]
   }
 ]
