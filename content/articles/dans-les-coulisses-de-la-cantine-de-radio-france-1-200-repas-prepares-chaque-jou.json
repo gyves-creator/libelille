@@ -1,0 +1,32 @@
+{
+  "slug": "dans-les-coulisses-de-la-cantine-de-radio-france-1-200-repas-prepares-chaque-jou",
+  "titre": "Dans les coulisses de la cantine de Radio France : 1 200 repas préparés chaque jour",
+  "chapeau": "Une immersion au cœur de la restauration collective de la Maison de la Radio révèle le fonctionnement d’une cuisine d’entreprise capable de servir près de 1 200 repas quotidiens. Le reportage détaille les étapes de préparation, l’origine des ingrédients et l’organisation logistique nécessaire pour nourrir un large effectif chaque jour.",
+  "corps": "## Une cuisine industrielle au service de la communauté Radio France\nAu sein de la Maison de la Radio, la cantine de Radio France opère comme une véritable petite usine alimentaire. Chaque journée débute par la réception de livraisons d’ingrédients provenant de fournisseurs sélectionnés selon des critères de qualité et de traçabilité. Les produits sont stockés dans des zones réfrigérées avant d’être acheminés vers les postes de travail où les équipes de cuisiniers et d'aides‑cuisiniers entament la préparation des plats.\n\n## Le processus de préparation des 1 200 repas\nLe flux de travail est organisé en plusieurs stations : découpe, cuisson, assemblage et finition. Les recettes, élaborées par le chef de cuisine, sont conçues pour répondre aux exigences nutritionnelles et aux goûts variés des salariés. La production suit un planning précis afin de garantir que chaque repas soit prêt à temps pour le service du midi. Parmi les plats proposés, on retrouve des options chaudes, des salades composées et, comme le souligne le reportage, des frites préparées en petite quantité pour les amateurs.\n\n## Logistique et gestion des flux\nPour nourrir un public de plus de mille personnes, la cantine mise sur une gestion rigoureuse des stocks et sur la planification des menus. Les équipes utilisent des outils informatisés pour suivre les quantités d'ingrédients et anticiper les besoins en fonction du nombre de convives prévus. Cette organisation permet de limiter le gaspillage alimentaire tout en assurant la fraîcheur des produits servis.\n\n## Un aperçu de la vie quotidienne de la cantine\nL’immersion dans les coulisses offre également un regard sur le rythme soutenu des équipes, qui doivent coordonner leurs actions dans un espace parfois restreint. Le reportage montre comment la cantine s'adapte aux variations d'affluence, notamment lors d'événements internes ou de journées de forte affluence. Au final, la visite met en évidence le rôle essentiel de la restauration collective dans le bien‑être des salariés, en leur offrant un repas équilibré et accessible chaque jour.",
+  "mots_cles": [
+    "restauration collective",
+    "cantine d'entreprise",
+    "Radio France",
+    "cuisine industrielle",
+    "repas quotidiens"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-11T19:05:45+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Restructuration_de_la_Maison_de_Radio_France%2C_Paris%2C_par_AS.Architecture-Studio.jpg/1280px-Restructuration_de_la_Maison_de_Radio_France%2C_Paris%2C_par_AS.Architecture-Studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Architecture-Studio",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Restructuration_de_la_Maison_de_Radio_France,_Paris,_par_AS.Architecture-Studio.jpg",
+    "legende": "Restructuration de la Maison de Radio France, Paris, par AS.Architecture-Studio",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Les coulisses de votre restaurant d’entreprise",
+      "url": "https://www.franceinfo.fr/economie/entreprises/les-coulisses-de-votre-restaurant-d-entreprise_8278124.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

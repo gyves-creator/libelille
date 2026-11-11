@@ -386,5 +386,23 @@
     "titres_sources": [
       "De la fuite d’Hitler en soucoupe volante au mythe des Illuminati, un essai plonge dans les croyances irrationnelles de l’extrême droite"
     ]
+  },
+  {
+    "titre": "Des professeurs et un avocat réclament la fin des blocages universitaires",
+    "texte": "Selon Le Monde, le professeur Pierre-Yves Gautier et l’avocat Christophe Perchet demanderaient la fin des blocages d’universités, jugeant la liberté d’étudier aussi fondamentale que le droit de manifester. Ces blocages, touchant des étudiants de toutes filières, seraient critiqués pour leurs effets négatifs sur la scolarité.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-11T19:05:54+00:00",
+    "titres_sources": [
+      "Blocages d’universités : « La liberté d’étudier est aussi fondamentale que celle de manifester »"
+    ]
+  },
+  {
+    "titre": "Le Parlement suédois envisage la déchéance de nationalité des binationaux",
+    "texte": "Selon Le Monde, le parlement suédois aurait approuvé une révision constitutionnelle visant à retirer la nationalité aux binationaux dont la citoyenneté aurait été obtenue par fraude ou condamnés pour des crimes portant gravement atteinte aux intérêts vitaux du pays. Le gouvernement suivant définirait les modalités.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T19:05:54+00:00",
+    "titres_sources": [
+      "En Suède, le Parlement ouvre la voie à la déchéance de nationalité des binationaux"
+    ]
   }
 ]
