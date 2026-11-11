@@ -278,5 +278,23 @@
     "titres_sources": [
       "Black Friday 2026 : les meilleures offres de ce 11 novembre, dénichées en direct"
     ]
+  },
+  {
+    "titre": "Des microbes exposés aux côtés de la \"Ronde de nuit\" à Amsterdam",
+    "texte": "Le musée Artis‑Micropia d’Amsterdam a présenté les bactéries qui vivent sur la « Ronde de nuit » de Rembrandt. Les micro‑organismes ne constituent aucune menace pour la conservation de l’œuvre.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T15:28:11+00:00",
+    "titres_sources": [
+      "La \"Ronde de nuit\" de Rembrandt et ses petits microbes exposés au musée Artis-Micropia à Amsterdam"
+    ]
+  },
+  {
+    "titre": "Cagnotte de 21 000 € pour sauver une ferme laitière dans l’Aisne",
+    "texte": "Dans l’Aisne, un éleveur laitier ayant perdu près de la moitié de son troupeau a reçu le soutien des habitants et de donateurs via une cagnotte en ligne. Plus de 21 000 € ont déjà été collectés pour maintenir la ferme familiale, exploité depuis quatre générations.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-11T15:28:11+00:00",
+    "titres_sources": [
+      "\"Ça nous permet de continuer, sinon tout s'arrêterait\" : des habitants se mobilisent pour sauver la ferme d’un agriculteur"
+    ]
   }
 ]
