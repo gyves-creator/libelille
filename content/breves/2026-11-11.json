@@ -350,5 +350,23 @@
     "titres_sources": [
       "Batterie électrique : une exmplosion ravage une maison dans l'Oregon"
     ]
+  },
+  {
+    "titre": "Route du Rhum : Herrmann et Bonafous proches du podium Imoca",
+    "texte": "Le navigateur allemand Boris Herrmann et la skippeuse française Élodie Bonafous seraient attendus jeudi pour compléter le podium Imoca de la Route du Rhum. Leur présence pourrait finaliser le classement des trois premiers du segment multicoques.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-11T18:00:03+00:00",
+    "titres_sources": [
+      "Route du Rhum : Herrmann et la Française Bonafous tout proches de compléter le podium Imoca"
+    ]
+  },
+  {
+    "titre": "Pape Léon XIV accueilli en triomphe lors de son passage en Argentine",
+    "texte": "Le pape Léon XIV aurait été reçu en triomphe en Argentine, marquant une étape de son voyage latino‑américain après son départ mercredi vers le Pérou. Cette ferveur témoignerait d’un fort engouement populaire pour sa visite.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-11T18:00:03+00:00",
+    "titres_sources": [
+      "« C’est un triomphe absolu sur la terre de son prédécesseur » : l’Argentine conquise par le pape Léon XIV"
+    ]
   }
 ]

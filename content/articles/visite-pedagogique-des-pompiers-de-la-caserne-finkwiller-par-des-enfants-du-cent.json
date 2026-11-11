@@ -1,0 +1,38 @@
+{
+  "slug": "visite-pedagogique-des-pompiers-de-la-caserne-finkwiller-par-des-enfants-du-cent",
+  "titre": "Visite pédagogique des pompiers de la caserne Finkwiller par des enfants du centre Rotterdam",
+  "chapeau": "Le mercredi 4 novembre, dix enfants de neuf ans du Centre culturel et social Rotterdam ont découvert la caserne Finkwiller de Strasbourg dans le cadre de l’atelier « Quand je serai grand, je serai… ». Cette initiative, portée par le service de prévention des sapeurs-pompiers, a offert aux jeunes une immersion dans le quotidien des secours.",
+  "corps": "## Une immersion au cœur de la caserne\n\nDans le cadre de l’atelier intitulé « Quand je serai grand, je serai… », proposé par le Centre culturel et social Rotterdam, une dizaine d’enfants âgés de neuf ans ont été accueillis à la caserne Finkwiller, située dans le quartier de Finkwiller à Strasbourg. La visite s’est déroulée le mercredi 4 novembre et a été organisée en collaboration avec le service de prévention des sapeurs-pompiers. Au cours de la matinée, les jeunes participants ont pu parcourir les différents espaces de la caserne, observer les véhicules d’intervention, et poser de nombreuses questions sur les missions quotidiennes des pompiers.\n\nL’un des moments forts a consisté en une mise en situation simulée d’une intervention. Les enfants ont ainsi pu suivre le déroulement d’une alerte, assister au briefing des équipes et observer le départ des engins sur une fausse scène d’urgence. Cette mise en scène a été conçue pour rendre l’expérience à la fois ludique et éducative, tout en sensibilisant les participants aux gestes de sécurité à adopter en cas d’incendie.\n\n## Le rôle éducatif des services de secours\n\nLes services de secours de Strasbourg, comme dans de nombreuses collectivités françaises, intègrent régulièrement des actions de prévention et de sensibilisation auprès du public, notamment les scolaires et les associations locales. Ces démarches visent à familiariser les jeunes avec les procédures de sécurité, à encourager le respect des consignes de prévention et à développer une image positive des métiers de secours.\n\nLe centre Rotterdam, quant à lui, propose des ateliers visant à explorer les aspirations professionnelles des enfants. L’activité « Quand je serai grand, je serai… » s’inscrit dans cette logique en offrant aux participants la possibilité de découvrir différents métiers, dont celui de sapeur-pompier, à travers des visites concrètes et des démonstrations pratiques.\n\nLes autorités locales soulignent que ce type d’initiative contribue à renforcer la cohésion sociale et à préparer les jeunes à réagir de manière appropriée face à des situations d’urgence. Les habitants de Strasbourg souhaitant organiser des visites similaires sont invités à se rapprocher du service de prévention des sapeurs-pompiers ou de la mairie pour obtenir davantage d’informations.",
+  "mots_cles": [
+    "Strasbourg",
+    "Caserne Finkwiller",
+    "atelier",
+    "enfants",
+    "sécurité incendie"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-11T17:59:55+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Caserne_Finkwiller_Strasbourg_5.jpg/1280px-Caserne_Finkwiller_Strasbourg_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Chabe01",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Caserne_Finkwiller_Strasbourg_5.jpg",
+    "legende": "Caserne Finkwiller, Strasbourg.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Caserne Finkwiller Strasbourg 5.jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. Quand les enfants du centre Rotterdam plongent dans le quotidien des pompiers",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUxCbzJOa1NuYmZwbkE3clVrNll1SXBwV1ZUR19hTUhwVGJOVHc2bFp1ZWRjclBDQnJHQmQxZnV2MnZjeGttLUlaRjYyY2RlN1FZSXV0SzVsb1lsbzdaZGF0cmMtOEpmV2x5SzhjNGQ3UDgxN0w3Zmh6LWxFdDdhdkFzSU1tUHl6RHFoM1dhc1FjLTdpWjFWZWJnMGlaTWkxNzdCaHVzVHRvYWxRbHUxbWI1b1k3elgz?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Quand les enfants du centre Rotterdam plongent dans le quotidien des pompiers",
+      "url": "https://www.dna.fr/education/2026/11/11/quand-les-enfants-du-centre-rotterdam-plongent-dans-le-quotidien-des-pompiers"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
