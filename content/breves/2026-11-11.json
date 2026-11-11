@@ -106,5 +106,23 @@
     "titres_sources": [
       "À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr"
     ]
+  },
+  {
+    "titre": "Négociation ukrainienne sous l’égide américaine, analyse de France 24",
+    "texte": "Une négociation sur la guerre en Ukraine serait conduite sous l’égide des États‑Unis, selon France 24. Léa Delfolie, correspondante de France 24 à Dubaï, analyse la situation.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T09:37:51+00:00",
+    "titres_sources": [
+      "Guerre en Ukraine : une négociation sous égide américaine"
+    ]
+  },
+  {
+    "titre": "Macron rend hommage aux disparus lors de la cérémonie du 11‑novembre",
+    "texte": "Emmanuel Macron aurait rendu hommage aux soldats disparus lors de la cérémonie du 11 novembre, selon franceinfo. Il participerait pour la dernière fois en tant que chef de l’État, avec un accent particulier sur le maréchal Foch.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-11T09:37:51+00:00",
+    "titres_sources": [
+      "DIRECT. Cérémonie du 11-Novembre : Emmanuel Macron rend hommage \"à ceux qui ne sont jamais revenus\""
+    ]
   }
 ]
