@@ -1,0 +1,36 @@
+{
+  "slug": "etudiant-en-medecine-mis-en-examen-pour-viols-a-l-urgence-du-chu",
+  "titre": "Étudiant en médecine mis en examen pour viols à l'urgence du CHU",
+  "chapeau": "Un étudiant en quatrième année de médecine, âgé de 22 ans, a été mis en examen pour deux faits de viol et d'agression sexuelle sur des patientes lors de son stage aux urgences du CHU de Toulouse. La cheffe des urgences a précisé qu’il s’agit d’un acte isolé et que le service continue d’assurer ses missions habituelles.",
+  "corps": "## Faits et procédure judiciaire\nL’enquête porte sur un étudiant en médecine, inscrit en quatrième année, qui aurait commis deux viols et deux agressions sexuelles sur des patientes prises en charge aux urgences du Centre Hospitalier Universitaire (CHU) de Toulouse. Les faits se seraient déroulés pendant son stage au service des urgences. Suite aux déclarations des victimes, le parquet a ouvert une enquête et l’étudiant a été placé sous le statut de mise en examen. Aucun autre élément n’a été communiqué sur les circonstances exactes ni sur d’éventuelles mesures de protection prises à l’égard des patientes.\n\n## Réaction de l'hôpital et continuité des soins\nLa cheffe du service des urgences a déclaré que cet incident constituait un acte isolé, le fait d’un individu, et non le reflet d’un dysfonctionnement organisationnel du service. Le CHU a rappelé que les protocoles de prise en charge et de sécurité des patientes restent pleinement appliqués. Aucun changement dans l’organisation des urgences n’a été annoncé, et le service continue d’accueillir les patients dans les mêmes conditions qu’auparavant.\n\n## Informations pratiques pour les habitants\nLes autorités sanitaires invitent les personnes ayant été victimes ou témoins de faits similaires à se rapprocher du commissariat de police le plus proche ou à composer le numéro national d’assistance aux victimes (3118). En cas d’urgence médicale, le numéro d’appel d’urgence (15) reste à utiliser. Le CHU de Toulouse met à disposition une ligne d’écoute dédiée aux victimes d’agressions sexuelles, accessible via le site officiel de l’établissement.\n\nLes services de secours et d’urgence de la ville demeurent opérationnels, aucune déviation ni fermeture de service n’est à signaler à ce jour. Les habitants de Toulouse peuvent donc continuer à se rendre aux urgences du CHU sans modification de leurs habitudes de déplacement ou de prise en charge médicale.",
+  "mots_cles": [
+    "viol",
+    "CHU Toulouse",
+    "étudiant en médecine",
+    "urgences"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-11T12:00:54+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/H%C3%B4tel_Dieu_de_Toulouse_-_La_cour_int%C3%A9rieure.jpg/1280px-H%C3%B4tel_Dieu_de_Toulouse_-_La_cour_int%C3%A9rieure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Dieu_de_Toulouse_-_La_cour_int%C3%A9rieure.jpg",
+    "legende": "Hôtel-Dieu Saint-Jacques courtyard Toulouse .",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Étudiant en médecine mis en examen pour viol et agression sexuelle à Toulouse, \"C'est un acte isolé, le fait d'un individu, pas un défaut d'organisation\", explique la cheffe des urgences",
+      "url": "https://www.ladepeche.fr/2026/11/11/etudiant-en-medecine-mis-en-examen-pour-viol-et-agression-sexuelle-a-toulouse-cest-un-acte-isole-le-fait-dun-individu-pas-un-defaut-dorganisation-13645500.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Étudiant en médecine mis en examen pour viol et agression sexuelle à Toulouse, \"C'est un acte isolé, le fait d'un individu, pas un défaut d'organisation\", explique la cheffe des urgences",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZGtGUUxtc2ZDQVhrTWtNUlA1TXNZZ1l6YlliczF5djNIcHpnaWxENDdzazkxVlduMzlZZjhZekhnMFFkZDhrelNqeWkwZFhWTTV4UTdHX2ppX3Rabk9yeVIxMGN4RVZldlp2YkdqMFZOX2lHMC1PMkVFTkFXaE9wQnRvbWhUM2JQcjBtZE9FSk1BZGhUVXdJSHZWZkt5aTRFOFBUT2pCVWhsMkUteUc2OFJEUDJCVGxrZ1FpUHJEZF9McmR0LTVXQ3VvVjRuM2tzbkFlZUxETmoyUlZGemVGQUhwbWxSSVQ5Mmp5YzFKZkpubEhOaGNvQ05vU3pLMDBiOVR0MERzNmtmcWhmNjNrR29XaUN6cE55N1c5Y0w3Zw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

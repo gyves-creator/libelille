@@ -197,5 +197,26 @@
     "titres_sources": [
       "L'auteur et acteur britannique David Walliams est accusé de prédation sexuelle"
     ]
+  },
+  {
+    "titre": "Grève générale en Espagne contre la crise du logement",
+    "texte": "Des syndicats espagnols ont appelé à une grève générale ce mercredi pour protester contre la hausse des loyers et les expulsions, à 18 jours des élections législatives. Des manifestations sont prévues à Madrid, notamment dans le quartier de Lavapiés, et à Barcelone.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T12:01:09+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+      "En Espagne, une grève générale pour défendre l'accès au logement et le pouvoir d'achat",
+      "En Espagne, une grève générale pour défendre l’accès au logement et le pouvoir d’achat"
+    ]
+  },
+  {
+    "titre": "Antoine Dupont titularisé à l'ouverture contre l'Afrique du Sud",
+    "texte": "Le XV de France alignera Antoine Dupont en demi d'ouverture lors du match du Championnat des nations contre les champions du monde, l'Afrique du Sud, vendredi soir à 21h10. Ce choix vise à pallier les nombreuses blessures qui touchent l'équipe.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-11T12:01:09+00:00",
+    "titres_sources": [
+      "Antoine Dupont en numéro 10, la surprise de Fabien Galthié pour affronter l’Afrique du Sud",
+      "Antoine Dupont aligné à l'ouverture pour résoudre le casse-tête de Fabien Galthié avant d'affronter l'Afrique du Sud"
+    ]
   }
 ]
