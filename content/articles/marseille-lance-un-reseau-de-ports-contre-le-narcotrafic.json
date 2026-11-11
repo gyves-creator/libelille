@@ -1,0 +1,36 @@
+{
+  "slug": "marseille-lance-un-reseau-de-ports-contre-le-narcotrafic",
+  "titre": "Marseille lance un réseau de ports contre le narcotrafic",
+  "chapeau": "Les autorités marseillaises annoncent la création d’un dispositif commun entre les ports de la ville pour lutter contre le trafic de stupéfiants. Cette initiative est présentée en marge du sommet du G7 qui se tient à Marseille.",
+  "corps": "## Un dispositif inédit pour la ville portuaire\nDans le cadre du G7, les responsables locaux ont présenté un nouveau cadre de coopération entre les différents ports de Marseille. L’objectif déclaré est de renforcer la lutte contre le narcotrafic, phénomène longtemps associé aux flux maritimes de la région. Aucun détail opérationnel n’a été communiqué, mais l’accent est mis sur la mise en commun des moyens de contrôle et d’échange d’informations.\n\n## Contexte de la lutte antidrogue à Marseille\nMarseille, première porte d’entrée du commerce maritime en France, a historiquement été point d’entrée pour divers trafics illicites, dont les stupéfiants. Les services de police, la douane et les exploitants portuaires travaillent depuis plusieurs années à améliorer la détection des cargaisons suspectes. La mise en place d’un réseau de ports vient s’inscrire dans cette dynamique de coopération renforcée, conformément aux engagements nationaux de lutte contre le trafic de drogue.\n\n## Impacts attendus pour les riverains et usagers\nLes habitants du quartier du Vieux-Port et les usagers des terminaux maritimes sont invités à rester vigilants, sans toutefois subir de perturbations immédiates. Aucun changement de circulation ou de service public n’a été annoncé à ce stade. Les autorités précisent que le dispositif vise avant tout à prévenir les infiltrations de produits illicites, sans impacter les activités économiques normales du port.\n\n## Informations pratiques\nPour toute question relative à ce nouveau dispositif, les citoyens peuvent se rapprocher de la mairie de Marseille via le site officiel ou le numéro d’accueil général. Les professionnels du secteur maritime sont encouragés à consulter les bulletins d’information diffusés par la Chambre de commerce et d'industrie de Marseille.",
+  "mots_cles": [
+    "Marseille",
+    "ports",
+    "narcotrafic",
+    "G7"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-11T09:02:48+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
+    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Actu.fr",
+      "titre": "\"Traiter le mal à la racine\" : c'est quoi ce réseau de ports lancé à Marseille pour lutter contre le narcotrafic ?",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZEx2NHBYV29zRFNPVjByc3hhTHNYTTZ6REpiekRELUttV2pUZ1RlV2I0THBVTG1QMkpsUEdQd0U0a1lHZGpvQnVTY3J1dlc2UHNNZVowRDl2UTVDeFFXcHdSSUxGQXVhSGJsby05Vkdxemo3Sjh1MXdCYkZfamFwSHJZdXlpbW5sT0J5ZnBHSGY4b0ljOTN6bWZ2dll1czNiMVJTb1VkbEtrMTQxVlBzMUdCeFF1VFdqMXg0OF80U3JaVnN4c1Atakg4azhHYUdxa1F0bEJScHpHWVh3bGFIRmcxdWJQMC1uUUVSZjBTY3N5cDJyc0dWZGRQaGotUDNMdlhpY1M0bXBCaUpvVnc?oc=5"
+    },
+    {
+      "media": "La Provence",
+      "titre": "En marge du G7, à Marseille, les ports s'unissent contre le narcotrafic",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZkM5eGI1NG1ZSk1pT1FmZ19Da2h6aWZkWU1FU09yQ2c4VTYxQVdFSHRYdE1VR2Y5VTFsVThFTlV1QTdxT1JrNGxubjhqZVBuX1p6OEZwcG9aMWhXZERobEdIQXVPbTlmal9oeWljRk9BZnppOWNIb1hiMU5MbnE0YzBEcDVmR3dLTW1GTENfWHZGUEgtakFqYUxTWnZ0YTRWWENOYjFfX3c1OXUwb3M2dm9qb1kyWGhnR2xQRGV4LVk0VjAtaE5EQ3BncXdhOEl4c1VuajFBLWF5YXBtb2JvSTNscUR4bEhWNEE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

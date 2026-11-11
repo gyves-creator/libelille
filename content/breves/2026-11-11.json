@@ -88,5 +88,23 @@
     "titres_sources": [
       "NBA : les Celtics battent les Sixers et se hissent en tête à l'Est"
     ]
+  },
+  {
+    "titre": "AliExpress et Joybuy lancent leurs dernières promos du Singles Day 11.11",
+    "texte": "AliExpress propose aujourd'hui ses offres phares du Singles Day, tandis que Joybuy entame le dernier jour de ses promotions high‑tech. Des codes de réduction sont mis à disposition pour réduire le prix des produits sélectionnés.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-11T09:02:55+00:00",
+    "titres_sources": [
+      "11.11 : les plus grosses promos du Singles Day tombent aujourd’hui, notre sélection AliExpress et Joybuy (EN DIRECT)"
+    ]
+  },
+  {
+    "titre": "Google DeepMind teste la sécurité du code de Signal avec 80 IA",
+    "texte": "Google DeepMind a déployé 80 agents d'intelligence artificielle pour analyser le code source de Signal et vérifier le respect de ses garanties de chiffrement. Cette première validation montre que le protocole reste conforme, bien que des limites subsistent.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-11T09:02:55+00:00",
+    "titres_sources": [
+      "À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr"
+    ]
   }
 ]

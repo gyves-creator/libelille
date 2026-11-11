@@ -1,0 +1,37 @@
+{
+  "slug": "paris-photo-2026-le-rendez-vous-annuel-de-la-photographie-a-paris",
+  "titre": "Paris Photo 2026 : le rendez‑vous annuel de la photographie à Paris",
+  "chapeau": "L’édition 2026 du salon Paris Photo se prépare à se tenir dans la capitale. Les organisateurs ont présenté les grandes lignes du programme, destiné aux professionnels comme au grand public.",
+  "corps": "## Un événement phare pour les amateurs et les professionnels\nParis Photo, le salon international dédié à la photographie, revient pour sa édition 2026. Bien que les dates précises n’aient pas encore été communiquées, l’événement est prévu à Paris, comme les années précédentes, et s’inscrit dans la continuité du calendrier culturel de la ville. Le salon réunit galeries, artistes, collectionneurs et institutions autour d’expositions, de conférences et de ventes, offrant ainsi un point de rencontre incontournable pour les acteurs du marché de la photographie.\n\n## Programme annoncé et attentes\nLes communiqués de presse mettent en avant une programmation diversifiée, avec des espaces consacrés aux nouvelles tendances photographiques, aux projets expérimentaux et aux rétrospectives d’artistes reconnus. Les visiteurs pourront ainsi découvrir des œuvres allant du noir et blanc classique aux installations numériques immersives. Le salon prévoit également des ateliers et des tables‑rondes, destinés à favoriser les échanges entre créateurs et professionnels du secteur.\n\n## Impacts pour les habitants et les visiteurs\nPour les Parisiens, la tenue de Paris Photo implique généralement une affluence importante dans les quartiers où se déroulent les expositions, ainsi que des perturbations ponctuelles des transports en commun et de la circulation routière. Les autorités municipales annoncent habituellement des déviations et des informations en temps réel sur le site de la mairie et les réseaux sociaux. Les habitants sont invités à consulter les canaux officiels afin d’ajuster leurs déplacements pendant la période du salon.\n\n## Informations pratiques\nLes organisateurs recommandent de se tenir informés via le site officiel du salon, qui publiera les dates exactes, le programme détaillé et les modalités d’accès. Les professionnels souhaitant exposer ou participer aux conférences sont invités à s’inscrire dès que les dossiers d’inscription seront ouverts. Pour toute question logistique, le service d’accueil du salon reste joignable par téléphone et par courriel, dont les coordonnées seront diffusées sur le site.\n\nEn résumé, Paris Photo 2026 s’annonce comme un moment fort du calendrier culturel parisien, mêlant découverte artistique et opportunités professionnelles, tout en demandant aux riverains de prêter attention aux éventuelles mesures de circulation temporaires.",
+  "mots_cles": [
+    "Paris Photo",
+    "photographie",
+    "exposition",
+    "événement",
+    "Paris"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-11T09:02:45+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Paris_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Schuiten Luc",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_photo.jpg",
+    "legende": "Photo exposition Paris",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "S-quive",
+      "titre": "Paris Photo 2026 : quand la figure se cache dans la lumière",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbU5RX0lMYXNHSTk5Z3d0SEd1Y1Z1MjNUNGlsaGNzMGQwQlpkMHR2RkJrRWxuSG5aeldhbFNJTjBQVGd3V21scmNsYl9VWTNWblFDcVJHb01GdUZhSmxhVTVmNy1FMlJvc2RvUkE1LVEzcGc4cmxXTGw0Tkc3bWx4TWo2a1JINFFMTWl0SlMzazFlaFE?oc=5"
+    },
+    {
+      "media": "MilK Decoration",
+      "titre": "Paris Photo : voici ce qu’il faut attendre de l’édition 2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMExWUXZtQVhTd2xxRVBVbEVKNklOa1c2TWdOOEtuTDJIOXl1NmtfTE9pWWpMc0NBbkJiWmhlLWd2dXhxUVprdmlYN1dtSTk0eWJsRFRkbVByTUxieGRiQ0NMSzQ0a2tleFB0RDFoVU1LUkIxd1dlVU9WMk9iQTRXbTd3MjJHeGtiTWdnODl0UEZrZw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
