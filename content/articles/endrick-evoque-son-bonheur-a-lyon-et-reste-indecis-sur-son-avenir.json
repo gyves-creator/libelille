@@ -1,0 +1,38 @@
+{
+  "slug": "endrick-evoque-son-bonheur-a-lyon-et-reste-indecis-sur-son-avenir",
+  "titre": "Endrick évoque son bonheur à Lyon et reste indécis sur son avenir",
+  "chapeau": "Le jeune attaquant Endrick, ancien joueur de l'Olympique Lyonnais, a déclaré que la ville était le lieu où il a été le plus heureux. Il n'a toutefois pas donné de précisions sur la suite de sa carrière, laissant les supporters dans l'attente.",
+  "corps": "## Un sentiment partagé par le joueur\nEndrick, qui a évolué au sein de l'OL, a récemment affirmé que son passage à Lyon avait été le moment le plus heureux de sa vie professionnelle. Cette déclaration, relayée par plusieurs médias, souligne le lien affectif que le footballeur entretient avec la ville et son club. Aucun détail supplémentaire n’a été fourni quant à un éventuel retour ou à une prolongation de contrat.\n\n## Aucune indication sur la suite\nLes propos d’Endrick restent vagues quant à son avenir. Il n’a pas annoncé de décision précise, ni indiqué un projet de transfert ou de renouvellement. Les sources consultées ne mentionnent aucune information supplémentaire, ni aucune réaction officielle du club ou de la direction sportive. Ainsi, les supporters lyonnais restent dans l’expectative, sans savoir si le joueur envisagera de revenir ou de s’engager ailleurs.\n\n## Conséquences pour les supporters locaux\nSi aucune évolution concrète n’est annoncée, la situation n’entraîne aucune modification immédiate pour les habitants de Lyon. Les matchs de l’OL se poursuivent normalement, les transports et les services liés aux rencontres sportives restent inchangés. Les fans peuvent toutefois suivre les prochaines communications du club ou du joueur pour être informés d’éventuels développements.\n\n## Informations pratiques\nPour les supporters souhaitant rester informés, le site officiel de l’Olympique Lyonnais ainsi que les comptes officiels du club sur les réseaux sociaux diffusent régulièrement les actualités. En cas de questions ou de besoins spécifiques, le service d’information du club est joignable via le formulaire de contact disponible en ligne.",
+  "mots_cles": [
+    "Endrick",
+    "Olympique Lyonnais",
+    "football",
+    "Lyon",
+    "transfert"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-11T10:06:34+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Thiago Arantes",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Endrick_sele%C3%A7%C3%A3o_vs_inglaterra.jpg",
+    "legende": "Endrick durant la convocatòria de la selecció brasilera, març de 2024",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Endrick seleção vs inglaterra.jpg"
+  },
+  "sources": [
+    {
+      "media": "Olympique & Lyonnais",
+      "titre": "Mercato – OL : Endrick n’oublie pas Lyon et reste flou sur son avenir",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDB6X1ZLcjhOSW9JS0JyUXhsNUdURlVuSnViZTg5SU0tMVFkbU9yaEwwcnVZVDdTN0xFM0RqVUJ3eWQtRWtScVpfYjBVaUIzOXJ2Y1VYeTNwM3RlOWU1YzItS25qRG1feHU1cUZ4eGxUZkV1MDFCRlM1S2NXS084MkpwaGFvSGxjUkVJaWlnX1FBLWplb29VSTQ0U0FMdjA3VG5KRnNxdVBJNnJUdVJ2NFBXWVY?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "EX-OL : Endrick : \"Lyon, là où j'ai été le plus heureux\"",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS0xXbnhRUkJhV3ZRZWFVQ1FpUGMweHZpei12aWhZeVVMM3hoWjlFOXBDWUYxMFdBbTd3eUVCUU56WHdVZFh4LThNcTY2dnBKNXRNZGZHekpjN3ViSURGNlJMM0pMNFBYb2dXa2dRR3l3NW5TYVM0QnduNWZnd3ZVcWtQS0FLS2R5ZExVOWFFc0p2WnRqb0l3QU9oVExVaEF5SnlCVXQ1WUlKb3JHT29JdTJKOGEwdWZvRkVmU3M5MjYyazc1LVVyS0RsaHd4QQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "macron-rend-hommage-aux-disparus-lors-du-11-novembre-derniere-fois",
+  "titre": "Macron rend hommage aux disparus lors du 11‑novembre, dernière fois",
+  "chapeau": "Le président Emmanuel Macron a participé, pour la dernière fois en tant que chef de l’État, à la cérémonie du 11 novembre. Le programme a été centré sur le souvenir du maréchal Ferdinand Foch.",
+  "corps": "## Dernière présence de Macron à la commémoration\nLe 11 novembre 2026, Emmanuel Macron a assisté à la cérémonie officielle de l’Armistice, marquant ainsi son ultime apparition à ce rite national depuis le début de son mandat. Dans son allocution, le président a dédié son discours aux « ceux qui ne sont jamais revenus », rappelant la perte humaine engendrée par la Grande guerre et les conflits qui ont suivi. Cette formule, reprise dans le communiqué de franceinfo, souligne le caractère solennel de la journée et l’engagement du chef de l’État à honorer la mémoire des victimes.\n\n## Le maréchal Ferdinand Foch à l’honneur\nCette édition de la commémoration a mis en avant la figure du maréchal Ferdinand Foch, commandant suprême des forces alliées en 1918. Le choix de placer le maréchal au centre du programme reflète une volonté de rappeler le rôle joué par les chefs militaires français dans la victoire de l’Armistice. Des hommages spécifiques, notamment la lecture de citations et la présentation d’objets symboliques liés à Foch, ont ponctué la cérémonie, offrant aux participants un rappel historique de l’importance de la stratégie et du leadership militaire dans la fin du conflit.\n\n## Le cadre traditionnel de la cérémonie\nComme chaque année, la cérémonie s’est déroulée sur l’avenue des Champs‑Élysées, avec le dépôt de gerbes au tombeau du Soldat inconnu, suivi du lever du drapeau et de la sonnerie des cloches à midi. Le rituel, institué après la Première guerre mondiale, rassemble les représentants de l’État, les familles de victimes et les survivants. La présence du président, même pour la dernière fois, a confirmé la continuité de la tradition républicaine qui lie chaque génération à la mémoire du 11 novembre.\n\n## Perspectives pour les futures commémorations\nLe départ de Macron du rôle de chef de l’État implique que la prochaine cérémonie sera présidée par son successeur, qui devra choisir le ton et les thèmes à mettre en avant. Le rappel du maréchal Foch pourrait rester une référence, mais d’autres figures ou enjeux contemporains pourraient également être intégrés, selon les orientations politiques et les attentes du public. La continuité du cérémonial, toutefois, demeure assurée par les institutions militaires et civiles chargées de perpétuer le souvenir de l’Armistice.",
+  "mots_cles": [
+    "Armistice",
+    "Emmanuel Macron",
+    "Maréchal Foch",
+    "cérémonie 11 novembre"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-11T10:06:28+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/1280px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Nebojša Tejić",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+    "legende": "Foto: Nebojša Tejić / STA",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "DIRECT. Cérémonie du 11-Novembre : Emmanuel Macron rend hommage \"à ceux qui ne sont jamais revenus\"",
+      "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

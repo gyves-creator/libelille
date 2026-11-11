@@ -1,0 +1,38 @@
+{
+  "slug": "knesset-premiere-session-sous-tension-apres-les-elections",
+  "titre": "Knesset : première session sous tension après les élections",
+  "chapeau": "Les députés nouvellement élus ont prêté serment le mardi 10 novembre, marquant le lancement de la première session de la Knesset. La réunion a été marquée par des débats vifs, des tensions entre les partis et la présence annoncée de manifestants d’extrême droite devant le parlement.",
+  "corps": "## Débuts mouvementés de la nouvelle législature\nLe mardi 10 novembre, les nouveaux membres de la Knesset ont officiellement prêté serment, ouvrant ainsi la première séance de la législature issue des dernières élections législatives israéliennes. Cette cérémonie d’intronisation a immédiatement donné le ton d’une période politique agitée, les députés devant prochainement élire le président du Parlement, fonction équivalente au président de la Knesset.\n\n## Débats et tensions au cœur du parlement\nLors du discours d’ouverture prononcé par le Premier ministre sortant, Benjamin Netanyahu, les échanges se sont rapidement enflammés. Des débats intenses ont opposé les différents groupes parlementaires, avec une attention particulière portée sur les interventions de Netanyahu et de ses alliés, qui ont ciblé les partis arabes présents à la Knesset. Parallèlement, plusieurs organisations d’extrême droite ont appelé à des manifestations devant le bâtiment législatif, accentuant le climat de tension déjà palpable à l’intérieur de la salle.\n\n## Enjeux pour le nouveau gouvernement\nDans le même temps, le nouveau Premier ministre, Gadi Eisenkot, se trouve confronté à la tâche de constituer une coalition viable. Les déclarations de Netanyahu et de ses partenaires indiquent une volonté de restreindre l’influence des partis arabes, ce qui complique la recherche d’alliés de circonstance. La formation d’un gouvernement stable dépendra donc de la capacité d’Eisenkot à négocier avec des formations politiques aux positions parfois divergentes, tout en tenant compte des pressions exercées par les mouvements de droite qui souhaitent influencer le processus législatif.\n\n## Perspectives pour la Knesset\nLes prochains jours seront décisifs pour la Knesset, tant sur le plan institutionnel que politique. L’élection du président du Parlement devra se dérouler dans un contexte où les divisions internes sont déjà visibles. Le déroulement de la première session, marqué par des débats houleux et des manifestations annoncées, laisse entrevoir une période législative où les équilibres de pouvoir seront constamment remis en question, conditionnant la capacité du gouvernement d’Eisenkot à mettre en œuvre son programme.",
+  "mots_cles": [
+    "Knesset",
+    "Israël",
+    "Benjamin Netanyahu",
+    "Gadi Eisenkot",
+    "tensions parlementaires"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-11T10:06:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1280px-Knesset_front_side_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Clema12",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg",
+    "legende": "Photograph of the Knesset in Jerusalem (Israeli parliament), front side",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Knesset front side - 2022.jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "En Israël, en images, la première session sous tension à la Knesset",
+      "url": "https://www.lemonde.fr/international/video/2026/11/11/en-israel-en-images-premiere-session-sous-tension-a-la-knesset_6808946_3210.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Israël : après les élections législatives, une première session mouvementée au Parlement",
+      "url": "https://www.franceinfo.fr/monde/israel/israel-apres-les-elections-legislatives-une-premiere-session-mouvementee-au-parlement_8277392.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

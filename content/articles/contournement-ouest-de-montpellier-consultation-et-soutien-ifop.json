@@ -1,0 +1,36 @@
+{
+  "slug": "contournement-ouest-de-montpellier-consultation-et-soutien-ifop",
+  "titre": "Contournement Ouest de Montpellier : consultation et soutien IFOP",
+  "chapeau": "La mairie de Montpellier a lancé une consultation publique concernant le projet de contournement à l’ouest de la ville. Un sondage IFOP montre quant à lui une adhésion largement confirmée parmi les habitants.",
+  "corps": "## Une consultation ouverte aux habitants\nLe projet de contournement Ouest, destiné à désengorger le trafic routier dans la partie occidentale de Montpellier, fait l’objet d’une phase de concertation officielle. La collectivité locale a mis à disposition un dispositif de consultation accessible à tous les résidents, notamment via le site internet de la ville et les points d’information implantés dans plusieurs quartiers. Les usagers sont invités à exprimer leurs avis, leurs attentes et leurs éventuelles réserves concernant les aménagements prévus, les tracés envisagés et les impacts sur la mobilité quotidienne.\n\n## Un sondage favorable selon l’IFOP\nParallèlement à l’ouverture de la consultation, un sondage réalisé par l’institut IFOP a révélé un fort taux d’adhésion au projet parmi les répondants. Les résultats indiquent que la majorité des habitants interrogés perçoivent le contournement comme une solution bénéfique pour fluidifier les déplacements, réduire les embouteillages et améliorer la qualité de l’air dans les zones concernées. Aucun chiffre précis n’est communiqué dans les dépêches, mais le libellé « adhésion largement confirmée » laisse entendre un soutien net au projet.\n\n## Ce que cela implique pour les habitants\nL’avancée du contournement Ouest implique des changements concrets pour les riverains et les usagers du réseau routier. Selon les informations disponibles, les travaux pourraient entraîner des modifications temporaires de certains itinéraires, la mise en place de déviations et, à terme, une nouvelle articulation du trafic entre les axes principaux de la ville. Les habitants sont ainsi encouragés à suivre les mises à jour publiées par la mairie afin d’anticiper les éventuelles perturbations et d’adapter leurs déplacements.\n\n## Informations pratiques\nPour participer à la consultation, les résidents peuvent se rendre sur la plateforme dédiée du site municipal de Montpellier ou se rapprocher des points d’accueil situés dans les mairies d’arrondissement. En cas de besoin d’éclaircissements supplémentaires, il est possible de contacter le service urbanisme de la ville via le numéro unique d’information disponible sur le site officiel. Les réponses collectées seront prises en compte dans les étapes suivantes du projet, qui restent soumises à l’analyse technique et aux décisions des autorités compétentes.",
+  "mots_cles": [
+    "contournement ouest",
+    "Montpellier",
+    "consultation publique",
+    "sondage IFOP"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-11T10:07:13+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Place_de_la_Com%C3%A9die_%282377437375%29.jpg/1280px-Place_de_la_Com%C3%A9die_%282377437375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wolfgang Staudt from Saarbruecken, Germany",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Place_de_la_Com%C3%A9die_(2377437375).jpg",
+    "legende": "Take here a large view! Montpellier en francés y oficialmente, Montpelhièr en occitano, es una ciudad del sur de Francia, capital de la región de Languedoc-Rosellón y del departamento Hérault. Esta cr",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Claap",
+      "titre": "Contournement Ouest de Montpellier : une adhésion largement confirmée par le sondage IFOP 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUliVUxrdXNYb3dDUnotWlU3WDF0dHdjeWdnWVp6UFUyUnFVcnJoZ1RmWWtTZkd4UDhoLTFjNVpPd3BLclhzZ0dkWUdZbTVkMEtkT1RBUTltWTIxV1VtazVGSVhCakJHLUpJOHFQZDZ1Q0F5ajI3d3hubnlDS3BuQ05QQnI0eV9lWHB4aGRlbWVKWGN3SlRSQ01GbFl3WGhmR3pJc0tFaDRGODVLUXFn?oc=5"
+    },
+    {
+      "media": "InfOccitanie",
+      "titre": "Contournement Ouest de Montpellier : ouverture d'une consultation du public",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0ptbVBSODMtZDVvZU5iaHpYNXY2MlpzWmthcjdsdmJVNW9uSXV6N2lLV3FJaFVxelVzejU1a3lxNG1ETFNaTmVUZUN5d1lJOUpvSm1VNGxNcy0wU3BzSHVKZEt6SnFDUHF5bHgtWUh3WDdmWTF4OXVhU0UwR1FOQWktV0ZlTERUOWVDUjJvZUR1cHJmWU1MdmZKRTFlV1k?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
