@@ -1,0 +1,33 @@
+{
+  "slug": "alerte-de-l-aecs-les-objets-connectes-domestiques-menaces",
+  "titre": "Alerte de l’AECS : les objets connectés domestiques menacés",
+  "chapeau": "L’Agence européenne de cybersécurité a lancé un avertissement concernant la vulnérabilité des appareils ménagers connectés, après des incidents signalés dans des supermarchés. Elle incite les usagers à prendre des mesures de protection pour éviter que leurs équipements domestiques ne deviennent des cibles de cyberattaques.",
+  "corps": "## Des incidents déjà constatés dans le commerce\nDes perturbations liées à des cyberattaques ont récemment touché des réfrigérateurs et d’autres équipements connectés installés dans des supermarchés. Ces faits ont mis en lumière la capacité des cybercriminels à exploiter les failles des objets reliés à internet, même lorsqu’ils sont destinés à un usage professionnel. L’agence européenne de cybersécurité (AECS) cite ces cas comme un signal d’alarme pour les consommateurs, soulignant que les mêmes technologies sont aujourd’hui présentes dans les foyers, sous forme d’aspirateurs robotisés, de serrures électroniques, de tondeuses automatiques ou de thermostats intelligents.\n\n## Recommandations de l’AECS pour les foyers\nDans son communiqué, l’AECS rappelle que la sécurité des objets connectés dépend en grande partie des pratiques adoptées par les utilisateurs. Elle recommande notamment de changer les mots de passe par défaut, d’activer les mises à jour automatiques du firmware, et de segmenter le réseau domestique en séparant les appareils IoT d’un réseau dédié. L’agence souligne également l’importance de désactiver les fonctions inutilisées, comme le contrôle à distance, lorsqu’elles ne sont pas nécessaires. Aucun chiffre précis n’est fourni sur le nombre d’appareils concernés, la mise en garde restant générale.\n\n## Un cadre réglementaire en évolution\nL’avertissement de l’AECS s’inscrit dans un contexte plus large où les législateurs européens travaillent à renforcer les exigences de sécurité pour les produits connectés. Des directives récentes visent à imposer aux fabricants des procédures de test et de certification avant la mise sur le marché. Toutefois, la mise en œuvre de ces mesures reste progressive, et la responsabilité de la protection finale repose en grande partie sur les propriétaires d’appareils.\n\n## Vers une prise de conscience des risques\nSi les incidents observés dans le commerce ont été médiatisés, les risques pour les ménages restent moins visibles, d’où la nécessité d’une sensibilisation accrue. L’AECS encourage les utilisateurs à consulter les guides de sécurité publiés par les fabricants et à rester informés des alertes de cybersécurité. En l’absence de données chiffrées détaillées, l’accent est mis sur la prévention et la vigilance quotidienne afin de réduire la surface d’exposition des objets connectés domestiques.",
+  "mots_cles": [
+    "objets connectés",
+    "cybersécurité",
+    "AECS",
+    "maison",
+    "risques"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-11T15:58:16+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/ENISA_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "European Union Agency for Cybersecurity",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:ENISA_logo.png",
+    "legende": "European Union Agency for Cybersecurity logo as of 2023",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:ENISA logo.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "Cyberattaques : les objets connectés de nos maisons sont-ils suffisamment protégés ?",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-les-objets-connectes-de-nos-maisons-sont-ils-suffisamment-proteges_8277902.html#xtor=RSS-3-%5Binternet%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

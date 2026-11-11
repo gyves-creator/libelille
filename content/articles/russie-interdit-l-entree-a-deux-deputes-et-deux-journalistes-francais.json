@@ -1,0 +1,38 @@
+{
+  "slug": "russie-interdit-l-entree-a-deux-deputes-et-deux-journalistes-francais",
+  "titre": "Russie interdit l'entrée à deux députés et deux journalistes français",
+  "chapeau": "Moscou a décidé d'interdire l'accès à son territoire à deux parlementaires et deux reporters français. Cette mesure fait suite à l'expulsion de la chroniqueuse Xenia Fedorova, considérée pro‑Kremlin, par la France à la fin du mois de juillet.",
+  "corps": "## Une décision ciblée\nLa Russie a annoncé l'interdiction d'entrée sur son sol pour les députés Sacha Houlié et Arthur Delaporte ainsi que pour les journalistes Ariane Chemin et Paul Gogo. Selon les autorités russes, cette sanction répond à la participation de ces quatre personnalités au prétendu harcèlement de Xenia Fedorova, une chroniqueuse de la chaîne CNews connue pour ses positions favorables au Kremlin. La mesure a été prise peu après que la France a expulsé Fedorova à la fin du mois de juillet, décision que Moscou a qualifiée d'« hostile ». \n\n## Contexte des tensions bilatérales\nL'action de Moscou s'inscrit dans un contexte de relations franco‑russes déjà fragilisées. Les deux pays connaissent depuis plusieurs années des désaccords sur des questions de politique étrangère, de droits humains et de souveraineté informationnelle. Le ciblage d’élus et de journalistes français illustre la persistance de ces frictions, comme le souligne le quotidien Le Monde. Aucun autre détail n’a été fourni quant aux procédures d’application de l’interdiction ni aux éventuelles répercussions diplomatiques immédiates.\n\n## Réactions et implications\nLes autorités françaises n'ont pas encore commenté officiellement la décision russe. Les deux députés concernés appartiennent à des partis parlementaires actifs dans les débats sur les relations extérieures, tandis que les journalistes travaillent pour des médias couvrant l'actualité politique. L'absence de déclaration publique laisse incertain l'impact de cette mesure sur les échanges entre les deux nations, notamment dans les domaines de la coopération législative et de la liberté de la presse.\n\n## Perspectives\nÀ ce stade, la sanction reste limitée à l'interdiction d'entrée et ne s'accompagne pas de poursuites judiciaires ou d'autres sanctions. Elle souligne toutefois la capacité de la Russie à recourir à des mesures symboliques pour répondre à des actions perçues comme hostiles. Le suivi de cette situation dépendra des évolutions diplomatiques entre Paris et Moscou et de la manière dont les acteurs concernés réagiront aux tensions en cours.",
+  "mots_cles": [
+    "Russie",
+    "France",
+    "députés français",
+    "journalistes français",
+    "relations diplomatiques"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-11T15:58:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_%28panorama%29.jpg/1280px-Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_%28panorama%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Юрий Д.К.",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_(panorama).jpg",
+    "legende": "Москва. Здание Генеральной прокуратуры РФ (панорама)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Moscow - 6-2026 - Prosecutor General’s Office of the Russian Federation (panorama).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+      "url": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La Russie interdit l’entrée sur son territoire à deux députés et deux journalistes français, après l’expulsion de Xenia Fedorova",
+      "url": "https://www.lemonde.fr/international/article/2026/11/11/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-apres-l-expulsion-de-xenia-fedorova_6808983_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
