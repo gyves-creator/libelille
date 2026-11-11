@@ -218,5 +218,26 @@
       "Antoine Dupont en numéro 10, la surprise de Fabien Galthié pour affronter l’Afrique du Sud",
       "Antoine Dupont aligné à l'ouverture pour résoudre le casse-tête de Fabien Galthié avant d'affronter l'Afrique du Sud"
     ]
+  },
+  {
+    "titre": "Alertes à la bombe : centaines d'écoles évacuées en Europe",
+    "texte": "Des alertes à la bombe ont entraîné l'évacuation de plusieurs centaines d'écoles en Italie, au Royaume-Uni et en Irlande, dont environ 300 en Italie. Le ministre de l'Éducation a annoncé la mobilisation et le gouvernement italien a tenu une réunion d'urgence.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T13:17:55+00:00",
+    "titres_sources": [
+      "DIRECT. Alertes à la bombe visant des écoles en Europe : des centaines d'établissements évacués en Italie, en Irlande et au Royaume-Uni",
+      "En Italie, des centaines d’écoles évacuées à la suite de fausses alertes à la bombe ; des « messages menaçants » envoyés à des établissements scolaires au Royaume-Uni et en Irlande",
+      "Italie et Irlande du Nord : des centaines d’écoles visées par des alertes à la bombe"
+    ]
+  },
+  {
+    "titre": "Analyse sur Poutine et portrait du négociateur russe Medinski",
+    "texte": "Le chercheur de l'IFAS David Rigoulet‑Roze a indiqué que Vladimir Poutine a le temps d'agir, évoquant les pourparlers entre Moscou, Kiev et les États‑Unis ainsi que enjeux hivernaux pour l'Ukraine. Il a présenté Vladimir Medinski, historien nationaliste, comme négociateur de la délégation russe médiation américaine.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T13:17:55+00:00",
+    "titres_sources": [
+      "Guerre en Ukraine : \"Vladimir Poutine sait qu'il a le temps pour lui\", analyse David Rigoulet-Roze, chercheur à l'Institut français d'analyse stratégique",
+      "Guerre en Ukraine : qui est le négociateur russe Vladimir Medinski ?"
+    ]
   }
 ]
