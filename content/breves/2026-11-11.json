@@ -296,5 +296,23 @@
     "titres_sources": [
       "\"Ça nous permet de continuer, sinon tout s'arrêterait\" : des habitants se mobilisent pour sauver la ferme d’un agriculteur"
     ]
+  },
+  {
+    "titre": "Bricolage : les enseignes misent sur les petits prix",
+    "texte": "Face à une chute des ventes depuis trois ans, les distributeurs de bricolage multiplient les promotions à bas prix. Lidl aurait ainsi ouvert un magasin éphémère dédié à ce secteur à Marseille.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-11T16:34:07+00:00",
+    "titres_sources": [
+      "Bricolage : face à la baisse des ventes, les enseignes misent sur les petits prix"
+    ]
+  },
+  {
+    "titre": "Enquête espagnole contre TikTok pour contenus pédocriminels",
+    "texte": "En Espagne, les autorités auraient ouvert une enquête sur TikTok pour diffusion présumée de vidéos d’agressions sexuelles sur enfants. L’association Maldita.es aurait recensé plus de 1 000 vidéos totalisant 48 millions de vues, peu retirées.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-11T16:34:07+00:00",
+    "titres_sources": [
+      "En Espagne, une enquête ouverte contre TikTok pour diffusion présumée de contenus pédocriminels"
+    ]
   }
 ]
