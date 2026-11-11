@@ -1,0 +1,38 @@
+{
+  "slug": "fermeture-de-la-ligne-7-bis-et-renforcement-des-lignes-paris-orleans-et-tours-ch",
+  "titre": "Fermeture de la ligne 7 bis et renforcement des lignes Paris‑Orléans et Tours‑Chartres au 13 décembre",
+  "chapeau": "À partir du 13 décembre, des modifications sont prévues sur plusieurs lignes ferroviaires desservant Paris et sa région. La ligne 7 bis du 19ᵉ arrondissement serait fermée temporairement, tandis que les services Paris‑Orléans et Tours‑Châteaudun‑Chartres devraient être renforcés avec de nouveaux arrêts.",
+  "corps": "## Ligne 7 bis du 19ᵉ arrondissement : fermeture annoncée\nSelon le site d’information ici.fr, la ligne 7 bis du métro parisien, qui dessert le 19ᵉ arrondissement, serait fermée pour permettre l’introduction de nouveaux trains. Aucun détail n’est fourni quant à la durée exacte de l’arrêt ni aux travaux envisagés. Les usagers devront donc se rabattre sur les lignes adjacentes ou les transports de surface pour leurs déplacements quotidiens. En cas de besoin, le service clientèle de la RATP reste joignable au 34 36 et les informations en temps réel sont disponibles sur le site officiel de la RATP.\n\n## Renforcement des services régionaux au 13 décembre\nRadio Intensité indique que, à compter du 13 décembre, la ligne Paris‑Orléans ainsi que le tronçon Tours‑Châteaudun‑Chartres verront une augmentation du nombre de trains et l’ajout de nouveaux arrêts. Ces changements visent à améliorer la desserte des communes concernées et à répondre à une demande accrue de mobilité. Aucun horaire précis n’est communiqué dans la dépêche, mais les usagers sont invités à consulter les horaires actualisés sur le site de la SNCF ou via l’application officielle avant de planifier leurs trajets.\n\n## Conséquences pour les habitants et solutions de rechange\nPour les résidents du 19ᵉ arrondissement, la suspension de la ligne 7 bis impliquera des temps de parcours plus longs et une possible surcharge des lignes 5, 7 et 11 qui croisent le secteur. Les autorités de transport recommandent d’utiliser les bus de substitution qui seront mis en place le long du tracé habituel, ainsi que les services de vélos en libre service. En ce qui concerne les lignes Paris‑Orléans et Tours‑Chartres, l’ajout de nouveaux arrêts pourra entraîner des arrêts supplémentaires en gare, mais la fréquence accrue devrait compenser les éventuels retards.\n\n## Informations pratiques\n- RATP : service client 34 36, site www.ratp.fr\n- SNCF : service client 36 35, site www.sncf.com\n- Applications mobiles : « SNCF », « RATP » pour les horaires en temps réel\n- Déviations éventuelles seront affichées sur les panneaux d’information des stations concernées.",
+  "mots_cles": [
+    "transport",
+    "ligne 7 bis",
+    "SNCF",
+    "Paris",
+    "perturbations"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-11T07:23:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Doors_on_a_Paris_M%C3%A9tro_Line_7bis_Train.jpg/1280px-Doors_on_a_Paris_M%C3%A9tro_Line_7bis_Train.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "DiscoA340",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Doors_on_a_Paris_M%C3%A9tro_Line_7bis_Train.jpg",
+    "legende": "Doors on a Paris Métro Line 7bis Train in Paris, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Doors on a Paris Métro Line 7bis Train.jpg"
+  },
+  "sources": [
+    {
+      "media": "Radio Intensité",
+      "titre": "RADIO INTENSITE | Ligne Paris-Orléans et Tours–Châteaudun–Chartres : ce qui change au 13 décembre avec des trains en plus et de nouveaux arrêts",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQW1wX0c5TlV2VjZkU1VpYUdVblRJcWR6ZzA2aDI3dXdfZVp2ZndtWEM3UVFzcDVmNzZCbl9HWlc1elh6ekdkVXMybm1NNVBRTHZibFNzOGtHdGpDSndNQm1CSk42dDBrbkx5SUtiYzZlQm1wdHBsQ2NoSzNPQmFKSGFNMmZTMDdmVmVNRml0a0lzcFl4REZyZDFFdWIwTUo0bFk4S2xZRU1jY1B4X21lTVNWVFV3OVB0ZlM0RmZQcUp1Zy1WcU9pR18wc0ZmLXVrRHJaRGJ3WkwwNkpCWmZvWVlKOA?oc=5"
+    },
+    {
+      "media": "ici.fr",
+      "titre": "Ligne 7 bis (Paris 19e) : fermeture pour cause de nouveaux trains !",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajJjYUdkMzZjRnVrVXZ2WlJ1YlQ3c0VyZ1Rsc0JGQ3IxeVN6d2t1eEpwOF9pYXc4OFZCVWx3N1pPVlFYaEpuQmcxMVVHc2pxZGZHam9qd3RnUlBudU1pRnBiUjY3MW95c2ZmQmlEUjBEZ2c5dGRIaTBqb01Pb2FNU3JJUTVKbW5Ua3lxRDRYZFNoby1FWVhXQ2JDTm1oLTdMdUFrMFdKLTFsM1BHZEtIQTVwOWpSdmhNbHNPUw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

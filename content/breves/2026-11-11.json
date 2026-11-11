@@ -52,5 +52,23 @@
     "titres_sources": [
       "Christophe Gleizes détenu depuis 500 jours : le monde du sport maintient le pressing"
     ]
+  },
+  {
+    "titre": "Cyberattaques iraniennes ciblent des installations frigorifiques françaises",
+    "texte": "Des cyberattaques attribuées à l'Iran auraient visé plusieurs infrastructures en France, dont des installations frigorifiques, soulevant des interrogations sur la vulnérabilité des secteurs essentiels. Des experts discuteraient des mesures de riposte possibles.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-11T07:23:35+00:00",
+    "titres_sources": [
+      "A suivre Loïc de la Mornais : Frigos piratés : quelle riposte contre l’Iran ?"
+    ]
+  },
+  {
+    "titre": "Première séance mouvementée de la Knesset après les élections",
+    "texte": "La première session du Parlement israélien, tenue le mardi 10 novembre, aurait été marquée par des tensions entre députés, le Premier ministre sortant Netanyahu ciblant les partis arabes. Le nouveau Premier ministre Gadi Eisenkot chercherait à rassembler des alliés de circonstance.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T07:23:35+00:00",
+    "titres_sources": [
+      "Israël : après les élections législatives, une première session mouvementée au Parlement"
+    ]
   }
 ]

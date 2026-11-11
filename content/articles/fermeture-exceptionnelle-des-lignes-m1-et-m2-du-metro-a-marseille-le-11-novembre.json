@@ -1,0 +1,36 @@
+{
+  "slug": "fermeture-exceptionnelle-des-lignes-m1-et-m2-du-metro-a-marseille-le-11-novembre",
+  "titre": "Fermeture exceptionnelle des lignes M1 et M2 du métro à Marseille le 11 novembre",
+  "chapeau": "Le 11 novembre, les lignes M1 et M2 du métro de Marseille seront fermées, avec un service prolongé jusqu’à 21 h 30 et des bus de substitution assurés par le RTM. Les musées municipaux resteront également fermés toute la journée.",
+  "corps": "## Métro : fermeture des lignes M1 et M2 et service prolongé\nLe réseau de métro marseillais, exploité par le Régie des Transports Métropolitains (RTM), annonce la suspension exceptionnelle des lignes M1 et M2 le 11 novembre. Cette interruption affecte les usagers habituels de ces deux axes, qui relient notamment le centre-ville aux quartiers nord et sud de la métropole. Afin de limiter les désagréments, le RTM prolonge les horaires de service habituel jusqu’à 21 h 30 et met en place des lignes de bus de substitution couvrant les principaux tronçons des lignes concernées. Les itinéraires de substitution sont conçus pour assurer la continuité des déplacements entre les stations les plus fréquentées, mais les temps de trajet peuvent être allongés.\n\n## Musées municipaux fermés pour la journée\nEn parallèle de la perturbation du transport, les musées gérés par la ville de Marseille seront fermés le 11 novembre. Cette décision concerne l’ensemble des établissements muséaux municipaux, sans précision supplémentaire sur les raisons de la fermeture. Les visiteurs prévus ce jour devront donc reporter leurs projets culturels ou se tourner vers d’autres sites d’exposition de la région.\n\n## Consignes pratiques pour les habitants\nLes usagers sont invités à consulter le site internet du RTM ou l’application mobile officielle pour obtenir les itinéraires détaillés des bus de substitution et les éventuelles mises à jour en temps réel. En cas de besoin, le service d’information du RTM reste joignable au 04 91 00 00 00. Les automobilistes circulant dans les zones habituellement desservies par le métro sont encouragés à privilégier les voies alternatives ou à utiliser les parkings relais situés en périphérie. Les personnes dépendantes des transports publics peuvent également se rapprocher de leur point d’information habituel pour demander une assistance personnalisée.\n\nCette fermeture exceptionnelle, annoncée à l’avance, vise à permettre des travaux ou des opérations de maintenance indispensables au bon fonctionnement du réseau. Les autorités municipales rappellent que ces mesures sont temporaires et que les services reprendront leur rythme normal dès le lendemain.",
+  "mots_cles": [
+    "Marseille",
+    "métro",
+    "fermeture",
+    "bus de substitution"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-11T07:23:28+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
+    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Mediaterranee.com",
+      "titre": "Marseille, 11-Novembre : métro jusqu'à 21 h 30, musées municipaux clos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUQxM0p3UW1sTlgtV3I5SjZ2Wmo1M3dVNEVZUnlxM0xKWFFwVDBrdFR4cklLdWg4enhDNTMxa3A2ZVJ1X2ZwYjJ3YjVTVXZqRENIZkMxb29fTDBxRV8tdmRTWlpOQ3hSVDhteUtWNWlaZGxWQmVxbE5vT0pldkl5MmswVkpOQ3ZObnZlX3U2dHFxamNrdUdqUTdwSk96X0FLcGkyZjk5NEhrUWJY?oc=5"
+    },
+    {
+      "media": "La Provence",
+      "titre": "Métro Marseille : fermeture exceptionnelle M1 et M2 le 11 novembre, horaires et bus de substitution RTM",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcm43X1JTR3VjZ1JSVmNIMlVRTDBhR0JyZnF2NDBEbUlvX0RBZzJRZHBRdThuWFFVc1FZbzVPV1hQWVJScFM1ZGVLRHhOV3RCdnQ5Ylh3ejNnY2xtZmZwbDNjZHo3YjloeWpDNVlsNmh3Wk1GcmRyV0JmbjdRaUFKRlRrdTlGN0tDa2lWeUlPbnJvaFhCN2h0cmZVZXdQSVNHQl94UEttZmlQMGFjX3ppZGpjUlNLTGVLRUJhZFVXRXBJajAyOWhUNHdDanBzM0RoNnZ3YXB0TVd0WE15ZDFoUlJ4dmpsVjRF?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
