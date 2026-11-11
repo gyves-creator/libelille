@@ -422,5 +422,23 @@
     "titres_sources": [
       "Procès du triple narchomicide de 2020 : le parquet général dénonce des « meurtres d’une sauvagerie sans nom » et requiert quatre condamnations à perpétuité"
     ]
+  },
+  {
+    "titre": "Le livre-programme de Mélenchon devance Jaenada et Bardella",
+    "texte": "Franceinfo indique que le livre-programme « L'Avenir en commun » de Jean‑Luc Mélenchon serait le plus vendu en France la semaine de sa sortie, devançant le roman Goncourt de Philippe Jaenada et l’ouvrage de Jordan Bardella. Cette position suggère un fort intérêt pour le programme du candidat.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-11T20:06:54+00:00",
+    "titres_sources": [
+      "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du Goncourt"
+    ]
+  },
+  {
+    "titre": "Upamecano rassure avant le duel France‑Italie en Ligue des Nations",
+    "texte": "Le défenseur français Upamecano déclarerait que les Bleus sont prêts et ne craignent pas l’Italie avant le match de jeudi soir en Ligue des Nations. Il qualifierait la rencontre de très gros match, soulignant l’importance du défi.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-11T20:06:54+00:00",
+    "titres_sources": [
+      "«On est prêt, ce sera un très gros match» : Upamecano et les Bleus n’ont pas peur de l’Italie"
+    ]
   }
 ]
