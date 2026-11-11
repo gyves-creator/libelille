@@ -1,0 +1,31 @@
+{
+  "slug": "un-juge-americain-refuse-de-rejeter-la-plainte-de-trump-contre-la-bbc",
+  "titre": "Un juge américain refuse de rejeter la plainte de Trump contre la BBC",
+  "chapeau": "Le tribunal fédéral a décidé de maintenir la plainte pour diffamation déposée par l’ancien président Donald Trump contre la BBC. La décision ouvre la voie à une procédure judiciaire qui pourrait examiner le montage vidéo contesté par le plaignant.",
+  "corps": "## Décision judiciaire\nLe juge des États‑Unis a refusé de mettre fin à la procédure intentée par Donald Trump, ancien président des États‑Unis, contre la British Broadcasting Corporation (BBC). La plainte, déposée pour diffamation, reproche à la chaîne britannique d’avoir diffusé un montage vidéo jugé trompeur, présentant les propos de Trump le jour de l’assaut du Capitole. La décision du magistrat signifie que le dossier sera examiné plus en profondeur, sans que la plainte ne soit immédiatement rejetée.\n\n## Contexte de l’accusation\nDonald Trump affirme que la séquence vidéo diffusée par la BBC altère le sens de ses déclarations faites le 6 janvier 2021, date où des partisans du président ont pris d’assaut le Capitole à Washington. Selon le plaignant, le montage aurait été conçu pour le présenter sous un jour négatif, constituant ainsi une atteinte à sa réputation. La BBC, service public britannique, a été régulièrement critiquée par Trump pour sa couverture médiatique, qu’il juge partiale.\n\n## Implications possibles\nLa poursuite, si elle progresse, pourrait soulever des questions relatives à la liberté de la presse et aux limites de la diffamation aux États‑Unis, où la jurisprudence tend à protéger les déclarations publiques, même lorsqu’elles sont controversées. Le fait que le tribunal ait choisi de ne pas rejeter la plainte à ce stade indique que les arguments présentés par Trump méritent un examen plus complet. Aucun détail supplémentaire n’a été communiqué sur les arguments de la BBC ou sur la stratégie juridique de la défense.\n\n## Suivi de l’affaire\nAucun calendrier précis n’a été annoncé pour les audiences à venir. La décision du juge constitue la première étape d’un processus qui pourrait s’étendre sur plusieurs mois. Les observateurs juridiques attendent de voir si la plainte aboutira à un jugement définitif ou si elle sera finalement classée sans suite. En attendant, le débat sur la responsabilité des médias dans la représentation des propos politiques reste d’actualité.",
+  "mots_cles": [
+    "Donald Trump",
+    "BBC",
+    "diffamation",
+    "justice américaine"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-11T11:07:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Daniel Torok",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+    "legende": "Official Presidential Portrait of President Donald J. Trump in his second term",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Un juge américain refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC",
+      "url": "https://www.franceinfo.fr/economie/medias/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc_8277491.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

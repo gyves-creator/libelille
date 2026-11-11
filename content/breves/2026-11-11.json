@@ -160,5 +160,23 @@
     "titres_sources": [
       "Mouvement lycéen : parents d’élèves, parlez-nous de votre positionnement vis-à-vis de la mobilisation"
     ]
+  },
+  {
+    "titre": "Un avocat alerte sur une responsabilité pénale à géométrie variable",
+    "texte": "Vincent Brengarth, avocat d'un complice de l'assassin de Samuel Paty, aurait alerté dans une tribune au Monde sur une logique de criminalisation à géométrie variable. Par ailleurs, certains s'interrogent sur la responsabilité pénale de l'extrême droite dans la diffusion d'idées susceptibles d'inciter à la violence.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-11T11:07:47+00:00",
+    "titres_sources": [
+      "Attentat de Trappes : « Les principes qui gouvernent la responsabilité pénale ne sauraient être à géométrie variable selon les idées défendues »"
+    ]
+  },
+  {
+    "titre": "La NASA lance un appel à candidatures pour coloniser la Lune",
+    "texte": "La NASA aurait lancé, via franceinfo-Monde, un appel à candidatures réservé aux citoyens américains pour rejoindre une première colonie d'astronautes sur la Lune. L'objectif serait d'établir une présence humaine d'ici 2036 afin de préparer les futures missions habitées vers Mars.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T11:07:47+00:00",
+    "titres_sources": [
+      "\"Vivre la plus grande aventure de l'humanité\" : la Nasa recrute des astronautes pour aller \"travailler\" sur la Lune"
+    ]
   }
 ]

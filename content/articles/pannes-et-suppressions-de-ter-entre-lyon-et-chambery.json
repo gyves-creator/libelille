@@ -1,0 +1,33 @@
+{
+  "slug": "pannes-et-suppressions-de-ter-entre-lyon-et-chambery",
+  "titre": "Pannes et suppressions de TER entre Lyon et Chambéry",
+  "chapeau": "Le 11 novembre 2026, des pannes et des suppressions de trains TER ont été signalées sur la ligne reliant Lyon à Chambéry. Les usagers doivent s’attendre à des retards et à des annulations, et sont invités à consulter les informations actualisées.",
+  "corps": "## Impact sur la desserte régionale\nLes services TER de la région Auvergne‑Rhône‑Alpes assurent chaque jour de nombreux déplacements entre Lyon, capitale économique, et Chambéry, ville universitaire et touristique. La ligne concernée constitue un axe fréquenté par des navetteurs, des étudiants et des vacanciers. Selon le titre de l’article publié le 11 novembre 2026, des pannes techniques ainsi que des suppressions de trains ont perturbé le trafic sur ce tronçon. Aucun détail quant au nombre de circulations affectées n’est fourni, mais la mention de \"pannes et suppressions\" implique que les horaires habituels ne sont pas respectés et que certaines liaisons sont complètement annulées.\n\n## Conseils aux voyageurs\nFace à ces perturbations, les usagers sont encouragés à vérifier en temps réel les informations diffusées par la SNCF. Les sites internet, applications mobiles et panneaux d’affichage en gare donnent les mises à jour sur les retards et les annulations. En cas de suppression de train, des solutions de remplacement, notamment des bus de substitution, peuvent être mises en place, bien que le communiqué ne précise pas leur existence. Les passagers disposant de billets doivent se présenter aux guichets ou aux points de contact SNCF pour obtenir un éventuel réacheminement ou un remboursement selon les conditions tarifaires.\n\nLes autorités locales, dont la préfecture et la mairie de Lyon, n’ont pas publié de consignes spécifiques dans la dépêche consultée. Il convient donc de rester attentif aux annonces officielles et de planifier les déplacements en tenant compte d’un délai supplémentaire. Les usagers qui rencontreraient des difficultés peuvent contacter le service clientèle de la SNCF au numéro dédié au transport régional ou consulter le site dédié aux perturbations du réseau TER Auvergne‑Rhône‑Alpes.\n\nEn résumé, la situation actuelle requiert une vigilance accrue de la part des voyageurs entre Lyon et Chambéry. Les pannes et suppressions de TER annoncées le 11 novembre 2026 entraînent des retards et des annulations, incitant les usagers à se renseigner régulièrement et à envisager des alternatives de transport.",
+  "mots_cles": [
+    "TER",
+    "Lyon",
+    "Chambéry",
+    "retards",
+    "annulations"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-11T11:07:35+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/B%C3%BCrogeb%C3%A4ude_der_Soci%C3%A9t%C3%A9_Nationale_des_Chemins_de_fer_Fran%C3%A7ais_%28SNCF%29.JPG/1280px-B%C3%BCrogeb%C3%A4ude_der_Soci%C3%A9t%C3%A9_Nationale_des_Chemins_de_fer_Fran%C3%A7ais_%28SNCF%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "SK Sturm Fan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:B%C3%BCrogeb%C3%A4ude_der_Soci%C3%A9t%C3%A9_Nationale_des_Chemins_de_fer_Fran%C3%A7ais_(SNCF).JPG",
+    "legende": "Bürogebäude der de:Société Nationale des Chemins de fer Français (SNCF) von der de:Seine aus gesehen im März 2015",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bürogebäude der Société Nationale des Chemins de fer Français (SNCF).JPG"
+  },
+  "sources": [
+    {
+      "media": "Le Dauphiné Libéré",
+      "titre": "« Un train en retard vaut mieux qu’un train qui brûle » : pannes et suppressions de TER entre Lyon et Chambéry",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2Y0OHp3TGtUX3ZUc290YzRhZW9NUTdYa2NiZXl5RlVFdXZhUFBKdVJhalpFM3JJbEluSWdXcjBIelZxT2RodnBqT1F5UVdXaUlvclFtMVYxU1FSNl9sM0VLTkUyMGE2cW1zYnVpbl9xbUtmcnhYUmt4ckNTXzRLNVNpSEUtY0JUVURVYlkzcDZvaHF2RW5uZWd2WW9aOTVsLWFTYjRaVktXWFd0M0pzMndlRHhaZHoteDBhX1dWRHVndHJZTzhBcXo4REhxcE1rUU1GZlBvVzhxcjlKSzQzOC1Xd1Z4dw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
