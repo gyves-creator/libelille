@@ -314,5 +314,23 @@
     "titres_sources": [
       "En Espagne, une enquête ouverte contre TikTok pour diffusion présumée de contenus pédocriminels"
     ]
+  },
+  {
+    "titre": "Le chef de l'ONU réclame la fin des énergies fossiles à la COP31",
+    "texte": "Le secrétaire général de l'ONU aurait demandé lors de la COP31 la disparition des énergies fossiles, comparant leur sort à celui des dinosaures. Il aurait ajouté que la crise climatique dépasse les gouvernements et que les lobbies freinent les transformations nécessaires.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T17:02:46+00:00",
+    "titres_sources": [
+      "A la COP31, le chef de l'ONU appelle à l'extinction des énergies fossiles, \"comme les dinosaures\""
+    ]
+  },
+  {
+    "titre": "L'Iran menacerait de riposter contre les bases américaines en Europe",
+    "texte": "Téhéran aurait menacé de répliquer si les États‑Unis lançaient des frappes depuis des bases européennes, ciblant toute installation d'où décolleraient des avions de combat. Cette mise en garde viserait à dissuader toute opération militaire contre l'Iran.",
+    "rubrique": "international",
+    "publie_le": "2026-11-11T17:02:46+00:00",
+    "titres_sources": [
+      "L'Iran menace de représailles en cas d'attaques américaines depuis des bases européennes"
+    ]
   }
 ]

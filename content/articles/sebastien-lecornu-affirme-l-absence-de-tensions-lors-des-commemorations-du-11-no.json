@@ -1,0 +1,31 @@
+{
+  "slug": "sebastien-lecornu-affirme-l-absence-de-tensions-lors-des-commemorations-du-11-no",
+  "titre": "Sébastien Lecornu affirme l'absence de tensions lors des commémorations du 11‑novembre dans les écoles",
+  "chapeau": "Le ministre de l'Éducation nationale, Sébastien Lecornu, a indiqué qu'aucune difficulté n'avait été signalée lors des cérémonies du 11‑novembre dans les établissements scolaires. Il a fait ces remarques lors d'une interview sur les chaînes BFMTV et RMC.",
+  "corps": "## Commémorations scolaires du 11‑novembre\nEn France, le 11‑novembre marque l'anniversaire de l'Armistice de 1918, qui a mis fin aux combats de la Première Guerre mondiale. Depuis plusieurs décennies, les écoles sont invitées à organiser des activités pédagogiques et cérémoniales pour rendre hommage aux soldats morts au combat et rappeler les leçons de la paix. Ces manifestations peuvent prendre la forme de lectures de textes, d'expositions de documents historiques, ou de dépôts de gerbes sur les monuments aux morts locaux. Le dispositif national prévoit un accompagnement des enseignants afin d’assurer la qualité et la pertinence des interventions.\n\n## Déclarations du ministre de l’Éducation\nLors d’une interview diffusée sur BFMTV et relayée par RMC, le ministre de l’Éducation nationale, Sébastien Lecornu, a affirmé ne pas avoir reçu « aucun écho de moment de tension ou de refus sur le terrain à ce stade ». Cette remarque vise à rassurer l’opinion publique quant au bon déroulement des cérémonies dans les établissements, après que certaines régions aient connu, par le passé, des débats autour de la place du souvenir de la guerre dans les programmes scolaires.\n\n## Un climat généralement serein mais des enjeux persistants\nLes commémorations du 11‑novembre restent, dans la plupart des écoles, un moment de recueillement partagé entre élèves, enseignants et familles. Néanmoins, le sujet du devoir de mémoire continue de susciter des discussions, notamment sur la manière d’aborder les conflits contemporains à la lumière du passé. Le ministère de l’Éducation, en coordination avec le ministère des Armées et les associations de vétérans, travaille régulièrement à l’élaboration de supports pédagogiques afin de garantir une approche équilibrée et respectueuse.\n\n## Perspectives pour les prochaines sessions\nLe constat exprimé par le ministre laisse entrevoir une continuité du dispositif actuel, sans indication de changements majeurs pour les années à venir. Les autorités éducatives restent toutefois vigilantes et encouragent les établissements à signaler tout incident ou difficulté afin d’ajuster rapidement les mesures d’accompagnement. Cette vigilance s’inscrit dans la volonté de préserver le caractère solennel de la commémoration tout en respectant la diversité des sensibilités au sein du corps étudiant.",
+  "mots_cles": [
+    "Armistice",
+    "commémorations scolaires",
+    "Sébastien Lecornu",
+    "Éducation nationale"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-11T17:02:30+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg/1280px-Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "© Patrice Normand/Leextra via opale",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_(cropped_2).jpg",
+    "legende": "Official portrait of Sébastien Lecornu (French Minister of the Armed Forces des Armées) ©Patrice Normand/Leextra",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre dans les écoles",
+      "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
