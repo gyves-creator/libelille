@@ -1,0 +1,32 @@
+{
+  "slug": "eric-zemmour-lance-sa-candidature-sara-knafo-au-c-ur-de-la-campagne",
+  "titre": "Eric Zemmour lance sa candidature, Sara Knafo au cœur de la campagne",
+  "chapeau": "Le président du parti Reconquête a officialisé sa candidature à l’élection présidentielle de 2027. Il s’appuie sur la popularité de Sara Knafo, sa compagne, pour renforcer son équipe de campagne.",
+  "corps": "## Une candidature officielle au sein de Reconquête\nLe 11 novembre 2026, le président du parti Reconquête, Eric Zemmour, a annoncé officiellement son intention de se présenter à l’élection présidentielle de 2027. Cette déclaration a été relayée par plusieurs médias nationaux, confirmant que le mouvement poursuit son ambition de porter un candidat à l’élection du premier mandat de la Ve République. La procédure de candidature suit les règles fixées par le Conseil constitutionnel, notamment la collecte de 500 parrainages d’élus, avant la validation officielle de la candidature.\n\n## Le rôle de Sara Knafo dans la campagne\nParallèlement à cette annonce, les observateurs politiques ont souligné le rôle grandissant de Sara Knafo, compagne d’Eric Zemmour, au sein du mouvement. Selon le même article, elle jouit d’une forte popularité parmi les militants de Reconquête. Cette popularité est présentée comme un atout pour la campagne, notamment pour mobiliser les sympathisants et renforcer la visibilité du programme. Aucun détail supplémentaire n’est fourni sur les fonctions précises qu’elle occupera, mais la mention de son influence indique qu’elle pourrait intervenir dans la stratégie de communication ou dans l’organisation des meetings.\n\n## Une concurrence à droite avec David Lisnard\nLe même communiqué indique que la candidature d’Eric Zemmour s’inscrit dans un contexte de concurrence à droite, où l’émergence de David Lisnard est également signalée. Le texte ne précise pas la nature exacte de cette émergence, mais le fait de le nommer comme concurrent suggère une diversification des options à droite de l’échiquier politique. Aucun autre parti ou candidat n’est mentionné dans les informations disponibles.\n\n## Le cadre général de la campagne présidentielle\nEn France, l’élection présidentielle se déroule en deux tours si aucun candidat ne remporte la majorité absolue au premier tour. Les candidats doivent respecter les exigences légales relatives à la campagne, notamment le financement, la publicité et le respect du principe d’égalité des temps de parole. Les électeurs inscrits sur les listes électorales sont appelés à se rendre dans les bureaux de vote le jour du scrutin, dont les modalités sont détaillées sur le site officiel du service public.\n\nCes éléments constituent le cadre dans lequel Eric Zemmour, soutenu par Sara Knafo, prépare sa campagne pour 2027, tout en faisant face à la dynamique concurrentielle évoquée avec David Lisnard.",
+  "mots_cles": [
+    "Eric Zemmour",
+    "Sara Knafo",
+    "Présidentielle 2027",
+    "Reconquête",
+    "David Lisnard"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-11T05:08:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg/1280px-Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Anh De France",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg",
+    "legende": "Portrait d'Éric Zemmour en avril 2022.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"Elle va apporter son capital popularité\" : quel sera le rôle de Sarah Knafo auprès d'Eric Zemmour dans la campagne pour la présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/elle-va-apporter-son-capital-popularite-quel-sera-le-role-de-sarah-knafo-aupres-d-eric-zemmour-dans-la-campagne-pour-la-presidentielle_8269433.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
