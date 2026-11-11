@@ -70,5 +70,23 @@
     "titres_sources": [
       "Israël : après les élections législatives, une première session mouvementée au Parlement"
     ]
+  },
+  {
+    "titre": "Le terme « ghost job » intégré au dictionnaire Collins 2026",
+    "texte": "Le dictionnaire britannique Collins a ajouté en 2026 l’expression « ghost job », désignant une offre d’emploi publiée sans réelle intention de recruter. Cette pratique, souvent utilisée pour collecter des CV ou renforcer l’image d’une entreprise, est désormais reconnue.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-11T07:56:53+00:00",
+    "titres_sources": [
+      "Vous postulez peut-être à un emploi qui n'existe pas : le phénomène des \"offres fantômes\""
+    ]
+  },
+  {
+    "titre": "Celtics 123-101, tête de la Conférence Est",
+    "texte": "Les Celtics de Boston ont battu les Sixers de Philadelphie 123-101 mardi, s’imposant ainsi en première place du classement de la Conférence Est. Cette victoire renforce leur position dans la course aux playoffs.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-11T07:56:53+00:00",
+    "titres_sources": [
+      "NBA : les Celtics battent les Sixers et se hissent en tête à l'Est"
+    ]
   }
 ]
