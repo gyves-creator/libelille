@@ -1,0 +1,36 @@
+{
+  "slug": "fc-nantes-feminin-accueille-l-ol-lyonnes-a-la-beaujoire",
+  "titre": "FC Nantes féminin accueille l'OL Lyonnes à la Beaujoire",
+  "chapeau": "Le club de football féminin du FC Nantes doit recevoir l'équipe de l'OL Lyonnes dans son stade principal. La rencontre, annoncée pour le mois de novembre, mobilise les supporters locaux autour d'un événement sportif majeur.",
+  "corps": "## Un match attendu par les amateurs de football féminin\nLe FC Nantes, section féminine du club nantais, est programmé pour accueillir l'OL Lyonnes au Stade de la Beaujoire. Selon les informations publiées, il s'agit de la première fois que les joueuses nantaises reçoivent cette équipe réputée au sein du stade. La date exacte n'est pas précisée, mais l'annonce a été diffusée le 11 novembre 2026, ce qui indique une tenue prochaine du match.\n\n## Conséquences pour les habitants et les usagers\nL'organisation d'une rencontre de ce niveau implique des ajustements ponctuels dans la circulation autour du stade, notamment sur les voies d'accès principales comme la rue de la Beaujoire et les quais de la Loire. Les autorités municipales sont susceptibles de mettre en place des déviations temporaires et d'augmenter les fréquences de transport en commun, notamment les lignes de bus desservant le quartier. Les résidents sont invités à consulter les panneaux d'information et le site de la ville de Nantes pour connaître les éventuelles restrictions de stationnement le jour de l'événement.\n\n## Contexte du football féminin en France\nL'OL Lyonnes, filiale du club Olympique Lyonnais, figure parmi les équipes les plus titrées du football féminin français, avec de multiples championnats nationaux et titres européens. Le FC Nantes, quant à lui, évolue dans les divisions inférieures mais ambitionne de renforcer sa visibilité et son attractivité grâce à des rencontres de ce type. Accueillir l'OL à la Beaujoire représente une occasion de promouvoir le sport féminin auprès du public nantais et de soutenir le développement de la pratique locale.\n\n## Informations pratiques pour les spectateurs\nLes supporters souhaitant assister à la rencontre peuvent se renseigner sur les modalités de billetterie via le site officiel du FC Nantes ou le guichet du stade. Pour toute question relative à l'accès, aux transports ou aux mesures de sécurité, il est recommandé de contacter le service d'information de la mairie de Nantes au 02 40 41 30 30 ou de consulter la page dédiée aux événements sportifs sur le site de la ville. Les mises à jour seront publiées à l'approche du match afin d'informer les habitants des éventuelles modifications d'itinéraires ou de stationnement.",
+  "mots_cles": [
+    "football féminin",
+    "FC Nantes",
+    "Olympique Lyonnais",
+    "Stade de la Beaujoire"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-11T14:58:52+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Stade_de_la_Beaujoire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "The original uploader was Pirmil at French Wikipedia .",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Stade_de_la_Beaujoire.jpg",
+    "legende": "Le stade de la Beaujoire \"Louis Fonteneau\" à Nantes, lors de la coupe du Monde football de 1998. Reproduction autorisée par la Mairie de Nantes pour Wikipedia",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "FC Nantes. Les féminines vont enfin recevoir OL Lyonnes à la Beaujoire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVkc3RndnMVJsUmc1Q29GMXJCWTNoQldfcERTekgwazNPX0FLQW9ueFJ6TmNTQ1hzc3lKamlpc21pUy0xQXJpZHZySGNrdFFVdTJxOVdIc2h5eXc3RjhiNURGOXNrVkk1a2JVMUVBOUNpSlFUblV2Yjd0WWxEdk4zRmFnVU5Yb1ZMdmo2RGlmbE81Ulh3ekdCOEJOZk9UVGNUb3kwYksxdElPa3c5blMwVTZwN2ZsTFZGMzExblRUY18xbTBvUVBaLVZlMHEtMmx0OVQ1S29ZdGUyTjhBd2wyUUZHRXpkTS1FWGNUekJkV2Q?oc=5"
+    },
+    {
+      "media": "maville.com",
+      "titre": "FC Nantes. Les féminines vont enfin recevoir OL Lyonnes à la Beaujoire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWEZTUWpkOXBkZnl6SUhEM3VDTmlZc3ZuaHUwZ0lnVkJuTDROWUFmM3ZfbFpnSS1ESUxsZk4teENLY04tUmNVc0V1ZGJ2UDBlSXUwVHRkNHVFOEJtRy1CUlE5Z3hwVi1QVEpodFZqYm1ITUZKNWZXMVY5R18zR243emd6c1RfaUpBWkRNLWw1M2JfSno5cWNEMVJuZ0NQcFVkU3hmSHg3VGV3cy1WQWRnclhmRVg2OUI3eVQ2Zlk4N3E2Zzlhb3d5RWpBS3pkVFBFbkJ5WQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
