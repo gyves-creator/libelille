@@ -142,5 +142,23 @@
     "titres_sources": [
       "Le premier ministre du Kosovo, Albin Kurti, veut « une accession à l’UE fondée sur le mérite, et non pas par une porte dérobée »"
     ]
+  },
+  {
+    "titre": "IA : risques de comportements imprévus selon des experts",
+    "texte": "Selon Le Monde, les professeurs Jean Ponce et Isabelle Ryl indiqueraient que l'alignement, l'affinage et la distillation des grands modèles de langage peuvent engendrer des comportements inattendus. Ils souligneraient ainsi l'existence de vulnérabilités cachées dans ces systèmes.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-11T10:40:55+00:00",
+    "titres_sources": [
+      "Les vulnérabilités cachées des intelligences artificielles"
+    ]
+  },
+  {
+    "titre": "Parents sollicités sur mobilisation lycéenne",
+    "texte": "Le Monde inviterait les parents d’élèves de lycées en grève depuis près de sept semaines à partager leur position sur la mobilisation. Ils seraient encouragés à décrire leurs questionnements et leurs échanges avec leurs enfants ou les équipes éducatives.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-11T10:40:55+00:00",
+    "titres_sources": [
+      "Mouvement lycéen : parents d’élèves, parlez-nous de votre positionnement vis-à-vis de la mobilisation"
+    ]
   }
 ]
