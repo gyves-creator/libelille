@@ -1,0 +1,38 @@
+{
+  "slug": "corentin-horeau-et-basile-bourgnon-remportent-la-route-du-rhum-en-imoca-et-ocean",
+  "titre": "Corentin Horeau et Basile Bourgnon remportent la Route du Rhum en Imoca et Ocean Fifty",
+  "chapeau": "Les navigateurs français Corentin Horeau et Basile Bourgnon ont franchi la ligne d'arrivée de la Route du Rhum à Pointe‑à‑Pitre avec un écart de deux minutes. Les deux vainqueurs ont ainsi remporté leurs catégories respectives, Imoca et Ocean Fifty, lors de l'édition 2026 de la course transatlantique.",
+  "corps": "## Victoires françaises à la ligne d'arrivée\nLe dernier tronçon de la Route du Rhum s'est clôturé en Guadeloupe avec l'arrivée quasi simultanée de deux bateaux français. Basile Bourgnon, engagé dans la catégorie Ocean Fifty, a touché le quai à 6 h 12 (heure de Paris), devançant son compatriote Corentin Horeau, qui a franché la ligne à 6 h 14. Cette différence de deux minutes a permis à chacun de s’imposer dans son segment respectif, le premier pour Bourgnon en Ocean Fifty et le second pour Horeau en Imoca.\n\n## Un double succès pour la voile française\nCes résultats confirment la présence forte de la France dans la compétition, qui réunit chaque quatre ans des monoplaces et des multicoques partant de Saint‑Malo vers la pointe sud‑est de la Guadeloupe. La catégorie Imoca regroupe des monocoques de 60 pieds, tandis que l’Ocean Fifty réunit des multicoques de 50 pieds, deux classes très prisées pour leurs performances en haute mer. Les temps d'arrivée, relevés à l'heure de Paris, soulignent la proximité des performances entre les deux bateaux, malgré leurs différences techniques.\n\n## Contexte de la course\nLa Route du Rhum, créée en 1978, est l'une des courses transatlantiques les plus emblématiques du calendrier de la voile. Elle se déroule en solitaire, ce qui impose aux skippers une maîtrise complète du navire et une résistance physique et mentale exceptionnelle. La traversée couvre environ 3 500 milles nautiques, reliant le littoral breton à la côte caraïbe. Les éditions récentes ont vu une diversification des catégories, permettant à des bateaux de tailles et de conceptions variées de concourir simultanément.\n\n## Perspectives pour les prochains défis\nLes performances de Horeau et Bourgnon seront étudiées par les équipes et les observateurs afin d’optimiser les stratégies de navigation pour les futures éditions. La proximité des arrivées suggère une compétition accrue dans les deux classes, où chaque minute compte. Les organisateurs de la Route du Rhum soulignent que la sécurité et l’innovation technologique restent des priorités, afin de garantir des courses à la fois spectaculaires et sûres pour les marins.",
+  "mots_cles": [
+    "Route du Rhum",
+    "Corentin Horeau",
+    "Basile Bourgnon",
+    "Imoca",
+    "Ocean Fifty"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-11T06:06:56+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Route_du_rhum_Pointe_du_Grouin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Remi Jouan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Route_du_rhum_Pointe_du_Grouin.jpg",
+    "legende": "Plaque commémorative de la Route du rhum à la pointe du Grouin.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Route du rhum Pointe du Grouin.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Route du Rhum : Horeau s’impose en Imoca et Bourgnon en Ocean Fifty, séparés seulement de deux minutes",
+      "url": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-horeau-s-impose-en-imoca-et-bourgnon-en-ocean-fifty-separes-de-deux-minutes-20261111"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Les navigateurs français Corentin Horeau et Basile Bourgnon remportent la Route du Rhum en Imoca et Ocean Fifty",
+      "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/les-navigateurs-francais-corentin-horeau-et-basile-bourgnon-remportent-la-route-du-rhum-en-imoca-et-ocean-fifty_8277284.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
