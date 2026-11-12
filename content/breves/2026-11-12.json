@@ -169,5 +169,23 @@
     "titres_sources": [
       "Une quarantaine de personnalités ont participé à un match de football symbolique pour demander la libération du journaliste Christophe Gleizes en Algérie"
     ]
+  },
+  {
+    "titre": "Fabien Roussel condamne l'extrême droite après l'attentat de Trappes",
+    "texte": "Le jeudi 12 novembre, Fabien Roussel, invité à franceinfo, a dénoncé l’extrême droite. Il réagit à la découverte de noms de personnalités de gauche sur un post‑it au domicile de Kévin Tessier, suspect de l’attentat raciste du 23 octobre à Trappes, Yvelines.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-12T11:13:26+00:00",
+    "titres_sources": [
+      "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel"
+    ]
+  },
+  {
+    "titre": "Pluies diluviennes font au moins cinq morts à Gaza",
+    "texte": "Des pluies diluviennes ont fait au moins cinq morts, dont trois enfants, à Gaza, selon les secours. Ces intempéries aggravent la détresse déjà critique des habitants.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T11:13:26+00:00",
+    "titres_sources": [
+      "Des pluies diluviennes aggravent la détresse des habitants de Gaza"
+    ]
   }
 ]

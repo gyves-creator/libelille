@@ -1,0 +1,42 @@
+{
+  "slug": "accident-au-nord-de-toulouse-bouchons-majeurs-sur-a64-n124-et-le-peripherique-su",
+  "titre": "Accident au nord de Toulouse : bouchons majeurs sur A64, N124 et le périphérique sud",
+  "chapeau": "Un accident sur une bretelle au nord de la ville a entraîné la fermeture de la sortie et des embouteillages importants ce jeudi matin. Les ralentissements touchent l'A64, la N124 et le périphérique sud, avec des files pouvant s'étendre sur plusieurs kilomètres.",
+  "corps": "## Bouchons sur les axes majeurs\n\nDepuis le matin du jeudi, la circulation dans le secteur nord de Toulouse est fortement perturbée. Un accident sur une bretelle de sortie a contraint les autorités à fermer l'accès, ce qui a immédiatement débouché sur des bouchons sur l'A64, la N124 ainsi que sur le périphérique sud. Les ralentissements sont signalés sur des tronçons pouvant atteindre cinq kilomètres de longueur, ralentissant considérablement le trafic aux heures de pointe.\n\n## Impact sur les déplacements des habitants\n\nLes usagers se retrouvent confrontés à des temps de trajet largement allongés, notamment ceux qui empruntent les routes mentionnées pour rejoindre le centre-ville ou les communes périphériques. Les services de la voirie ont indiqué que la situation reste évolutive et que les équipes d’intervention sont mobilisées pour sécuriser la zone et rétablir la fluidité du trafic dès que possible. En attendant, les automobilistes sont invités à suivre les panneaux de déviation et à rester vigilants.\n\n## Recommandations pratiques\n\nLes autorités locales conseillent aux conducteurs de consulter les informations en temps réel diffusées par les services de la préfecture et les applications de trafic avant de prendre la route. En cas de besoin, le numéro de la police municipale (17) reste disponible pour signaler tout incident ou obtenir des précisions sur les itinéraires alternatifs. Les sites officiels de la mairie de Toulouse et de la préfecture de la Haute-Garonne offrent également des mises à jour régulières sur la situation.\n\n## Perspectives de rétablissement\n\nLes équipes d’urgence continuent d’évaluer l’étendue des dommages et de travailler à la réouverture de la bretelle concernée. Aucun détail supplémentaire n’a été communiqué quant à la durée exacte des travaux, mais la priorité affichée est de rétablir la circulation normale dans les plus brefs délais.",
+  "mots_cles": [
+    "accident",
+    "bouchons",
+    "Toulouse",
+    "circulation",
+    "A64"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-12T11:13:18+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Montage_Toulouse_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "See above. Compilation by Milou34",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montage_Toulouse_3.jpg",
+    "legende": "De haut en bas et de gauche à droite: Pont Saint-Pierre de Toulouse, Ariane 5 (Cité de l’Espace), Basilique Saint-Sernin de Toulouse, Place du Capitole de Toulouse, Airbus A380, Musée des Augustins de",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Un accident au nord et des bouchons un peu partout : le point sur la circulation à Toulouse ce jeudi matin",
+      "url": "https://www.ladepeche.fr/2026/11/12/un-accident-au-nord-et-des-bouchons-un-peu-partout-le-point-sur-la-circulation-a-toulouse-ce-jeudi-matin-13648481.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Un accident au nord et des bouchons un peu partout : le point sur la circulation à Toulouse ce jeudi matin",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckNNc3FSRlRDczFacHZLblBjcE1RQTE0bjlmbXlNeFlMTkFYdXBlMjhFenJfSTl2TE1oOU1wTW5KNS1iaFlwZ3pRM0VKa2twVExILWZRNVFPMWdBMnNES0Nyazdwa19uV3NrcDFaa1lNdFBCZTliU1M4MkI1dmNVckl6dlFkRVZpcHM4OVpIS1N4eHpHOVRWS0lKQnJPSTkxUkRkbl93NlZiQUtQbHIzck5hbjJBSTViR3NBeThURXpjLV9na2thdnRzMDNsQ0lnN1NldFBPLTJibXBqNFlYTzJseS1EYmxo?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Accident sur cette autoroute au nord de Toulouse : une bretelle de sortie fermée à la circulation",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1A3ZWFhaFdTTFY4QmFLZEhjT183UENtU3gtVXd6SEtBVDNqcW9DU1otVFlBc204UFpOeUgyYnp3NTZ2MS1QaWNiQTBLN2FtbURmYnZaYm5RVUF3WVljZXAxTWpEN2JNd3ZLWFhlSkJhZHFTYmZsOGxvbmxpeFBUUjloV3ZYMHdFNTVlZlZmWTE0RjZOSm54QXhoNHd4UTJXUHhJTjFUZFVPaVFaZlJNY1h6d2RZV0JvemFnRkUySkRPSC1YMmJrTjJNMl9oNUhzTkZ3UU1wTUNBblZPUW9mNm9hS3JEb3c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

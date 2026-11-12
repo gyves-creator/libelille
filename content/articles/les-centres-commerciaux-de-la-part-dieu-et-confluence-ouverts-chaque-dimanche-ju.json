@@ -1,0 +1,37 @@
+{
+  "slug": "les-centres-commerciaux-de-la-part-dieu-et-confluence-ouverts-chaque-dimanche-ju",
+  "titre": "Les centres commerciaux de la Part-Dieu et Confluence ouverts chaque dimanche jusqu'à Noël",
+  "chapeau": "À partir de ce dimanche, les magasins de la Part-Dieu et de Confluence à Lyon resteront ouverts tous les dimanches jusqu'à la période de Noël. Cette mesure temporaire modifie l'organisation habituelle du commerce dominical dans la métropole.",
+  "corps": "## Une ouverture dominicale exceptionnelle\r\nDans le cadre d'une décision prise par la municipalité lyonnaise, les deux principaux pôles commerciaux de la ville, le centre commercial de la Part-Dieu et celui de Confluence, seront accessibles chaque dimanche jusqu'aux fêtes de fin d'année. L'initiative vise à offrir aux habitants une plus grande flexibilité pour leurs achats, notamment à l'approche des préparatifs de Noël.\r\n\r\n## Impact pour les habitants\r\nPour les Lyonnais, cela signifie la possibilité de faire leurs courses, de profiter des boutiques et des services de restauration sans devoir se libérer en semaine. Les commerçants de ces zones, déjà autorisés à ouvrir le dimanche en vertu de la législation sur les zones commerciales, maintiendront leurs horaires habituels, généralement de 10 h à 20 h, bien que chaque magasin puisse adapter ses heures d'ouverture.\r\n\r\n## Cadre légal et contexte\r\nEn France, la plupart des commerces sont tenus de fermer le dimanche, à l'exception des zones commerciales classées « zones touristiques ou à forte densité d'emploi ». La Part-Dieu et Confluence figurent parmi ces zones, ce qui explique pourquoi elles peuvent légalement prolonger leurs ouvertures dominicales. La décision de prolonger ces heures jusqu'à Noël s'inscrit dans une pratique courante dans les grandes agglomérations, où les autorités locales adaptent les règles pour répondre aux besoins saisonniers des consommateurs.\r\n\r\n## Informations pratiques\r\nLes habitants souhaitant profiter de cette mesure peuvent se rendre directement aux adresses habituelles : la Part-Dieu, située au cœur du quartier du même nom, et Confluence, au bord du Rhône. Pour connaître les éventuelles modifications d'horaires spécifiques à certains magasins, il est recommandé de consulter les sites internet des centres ou de contacter le service d'information de la mairie de Lyon via le numéro 04 72 10 10 10. Les informations officielles sont également disponibles sur le site de la ville, section \"Vie locale\".",
+  "mots_cles": [
+    "Part-Dieu",
+    "Confluence",
+    "ouverture dimanche",
+    "Lyon",
+    "Noël"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-12T11:13:14+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/1280px-Lyon-part-dieu-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Aldg692VX",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg",
+    "legende": "Skyline (ligne d'horizon) des tours du quartier de la Part-Dieu, avec de gauche à droite : les tours Incity, Swiss life, Oxygène, Part-Dieu, To-Lyon et Silex 2.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "LYON 1ère",
+      "titre": "Lyon : les centres commerciaux de la Part-Dieu et de Confluence ouverts tous les dimanches jusqu'à Noël",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHdaU0FWanA4Z3k3amRkclRBRjh4ekJqTWpYY1BnS3hOZ2UwOFpFbGpCMEdjZzQtdHJnTFZBZTFoVC0ycGVWRmllaGl0ZDFFcGhTZUoyelV3MXAwbUlBbzVTd05kenAxeUdRakRoa1dUenhocE83YmF1QmRmRlRBRnNZRnNQR05iOTRybm04Y3hfdXBhMk5XOWNPY05GTEtvOTJUTlVPM0RnQnRjTTlxZWlUaGJfdVFzMTFLaDI2ZDVUdE1nT3Rkc0t4OGtWckI2X0E?oc=5"
+    },
+    {
+      "media": "Lyon Capitale",
+      "titre": "Lyon : les centres commerciaux de la Part-Dieu et de Confluence ouverts tous les dimanches jusqu’à Noël",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDBpVWVCQ1dyRGhmdkxPdHo2d3pucFh0T3JYQjdGZndBOXJUYVktZ1BUaWVSQ3l6ejlQUGUtNTVLcUxjYW9rbHU0U3EyVFZvVTdhZFJhaVhraEhZbU1nVFVHRl9xVWYwVkY1VmVaWHVTX0M0OXZYeUZmdG84TUNLWlRpRHJ5dFNZcDdOWXM0WXBxTXNjOXNOMXBvd1RPQ01CMUNYZXZQb1dOd29oM2VZMUFqTW5abnBxRUI0TC1UaHB0alhva0t2azg3N1gxcGxIbVFOWA?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
