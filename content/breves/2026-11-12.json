@@ -112,5 +112,23 @@
       "Foot : Pochettino vers Manchester United, Guardiola pour le remplacer à la tête des États-Unis ?",
       "Foot : Pochettino vers Manchester United et Guardiola pour lui succéder chez les USA"
     ]
+  },
+  {
+    "titre": "iOS 27.3 beta : Safari intègre le Global Privacy Control",
+    "texte": "La version bêta d’iOS 27.3 ajoute à Safari une fonction dite Global Privacy Control, qui signale aux sites de ne pas vendre ou partager les données de l’utilisateur. Les sites restent libres de ne pas respecter cette demande.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-12T09:36:05+00:00",
+    "titres_sources": [
+      "Dans iOS 27.3, Safari peut dire « non » aux bandeaux cookie à votre place (mais les sites web peuvent ignorer votre choix)"
+    ]
+  },
+  {
+    "titre": "Bleus : Mbappé forfait, Zidane s’exprime avant l’Italie",
+    "texte": "Selon Le Figaro, le sélectionneur des Bleus aurait confirmé l’indisponibilité de Mbappé et évoqué une « hécatombe bleue », tout en commentant les propos de Zidane avant le match contre l’Italie prévu jeudi soir au San Siro.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T09:36:05+00:00",
+    "titres_sources": [
+      "Mbappé forfait, hécatombe bleue, offre d’emploi à la Juventus : les vérités de Zidane avant Italie-France"
+    ]
   }
 ]
