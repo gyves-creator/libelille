@@ -1,0 +1,36 @@
+{
+  "slug": "teddy-riner-se-lance-dans-la-presidentielle-2027-reactions-et-enjeux",
+  "titre": "Teddy Riner se lance dans la présidentielle 2027, réactions et enjeux",
+  "chapeau": "Le judoka Teddy Riner, quintuple champion olympique, a officiellement annoncé sa candidature à l'élection présidentielle de 2027. Le sélectionneur de l'équipe de France de football, Zinédine Zidane, a exprimé son souhait de bonne chance au sportif.",
+  "corps": "## Une candidature inattendue\nLe champion de judo, connu pour ses titres olympiques et mondiaux, a déclaré son intention de se présenter à la prochaine élection présidentielle française, prévue en 2027. Cette annonce, faite le 11 novembre 2026, a immédiatement suscité des réactions dans le monde du sport et de la politique. Riner se décrit comme « ni de gauche, ni de droite », affirmant vouloir porter une image de gagnant au débat public.\n\n## Réaction de Zinédine Zidane\nInterrogé à Milan le même jour, le sélectionneur des Bleus, Zinédine Zidane, a limité son commentaire à la phrase « je n’ai pas à commenter ça ». Il a toutefois ajouté qu’il souhaitait « bonne chance » à Riner dans ses projets, soulignant qu’il ne pouvait que lui adresser ce vœu. Aucun autre détail n’a été fourni par le footballeur, qui est resté neutre quant aux implications politiques de la candidature.\n\n## Enjeux politiques de la candidature\nSelon l'analyse de franceinfo, le profil de Riner, largement apprécié pour son parcours sportif, pourrait toutefois être difficile à traduire en soutien électoral. Les différentes formations politiques ont déclaré ne pas se sentir menacées par l’entrée d’un nouveau candidat, mais reconnaissent que la popularité du judoka pourrait « bousculer la campagne ». Son positionnement hors des clivages traditionnels laisse ouverte la question de son programme et de son attractivité auprès de l’électorat.\n\n## Contexte électoral\nL'élection présidentielle française se déroule tous les cinq ans, avec un premier tour ouvert à tous les candidats remplissant les conditions légales, suivi d'un second tour entre les deux premiers. La tradition veut que les grands partis présentent leurs propres porte‑voix, mais l'apparition d'une figure sportive de premier plan rappelle les précédents où des personnalités issues du monde du spectacle ou du sport ont tenté de convertir leur notoriété en soutien politique. La candidature de Riner s’inscrit ainsi dans une dynamique où l’image de succès sportif est perçue comme un atout potentiel, même si son impact réel reste à mesurer.",
+  "mots_cles": [
+    "Teddy Riner",
+    "présidentielle 2027",
+    "Zinédine Zidane",
+    "politique française"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-12T10:11:04+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Georges Biard",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_Cannes_2016.jpg",
+    "legende": "Teddy Riner au festival de Cannes",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Teddy Riner candidat à la présidentielle 2027 : la réponse de Zinédine Zidane",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/teddy-riner-candidat-a-la-presidentielle-2027-la-reponse-de-zinedine-zidane-20261111"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "\"Il a une image de gagnant\" : quel candidat à la présidentielle a le plus à craindre de la candidature de Teddy Riner ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/il-a-une-image-de-gagnant-quel-candidat-a-la-presidentielle-a-le-plus-a-craindre-de-la-candidature-de-teddy-riner_8277656.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

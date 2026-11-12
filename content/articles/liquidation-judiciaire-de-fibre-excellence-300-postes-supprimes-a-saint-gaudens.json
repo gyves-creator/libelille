@@ -1,0 +1,43 @@
+{
+  "slug": "liquidation-judiciaire-de-fibre-excellence-300-postes-supprimes-a-saint-gaudens",
+  "titre": "Liquidation judiciaire de Fibre Excellence : 300 postes supprimés à Saint‑Gaudens",
+  "chapeau": "L'usine de pâte à papier Fibre Excellence, ancien leader français, voit sa liquidation judiciaire confirmée. La décision entraîne le licenciement de l'ensemble des quelque 300 salariés du site industriel et du siège.",
+  "corps": "## Confirmation de la liquidation judiciaire\n\nLes tribunaux de Toulouse ont officiellement validé la liquidation judiciaire de Fibre Excellence, société qui occupait autrefois une place dominante dans la production de pâte à papier en France. Cette décision met fin aux activités du groupe tant au niveau du site industriel situé à Saint‑Gaudens, dans la Haute‑Garonne, qu'au siège social implanté à Labège, près de Toulouse. Les procédures de liquidation entraînent la cessation définitive de l'activité et la mise en œuvre d'un plan de redressement judiciaire qui, dans ce cas, se traduit par la dissolution de l'entreprise.\n\n## Conséquences sociales immédiates\n\nLe plan de liquidation prévoit le licenciement de l'intégralité des effectifs, estimés à environ 300 salariés répartis entre l'usine de Saint‑Gaudens et le centre administratif de Labège. Aucun détail supplémentaire n'a été communiqué concernant les modalités d'accompagnement ou les éventuelles mesures de reclassement. La suppression de ces postes représente un choc économique pour la région, où l'usine constituait l'un des principaux employeurs du secteur industriel.\n\n## Perspectives de reconversion\n\nParallèlement à la clôture de Fibre Excellence, les médias évoquent la perspective d'un nouveau projet porté par un groupe portugais en partenariat avec la région Occitanie, prévu pour se concrétiser en 2027. Aucun élément précis n'est fourni sur la nature de ce projet, son envergure ou les emplois qu'il pourrait générer. La simple mention d'une éventuelle collaboration indique que les autorités locales restent attentives à la relance industrielle du site, mais les détails restent à confirmer.\n\n## Contexte du secteur de la pâte à papier\n\nLa pâte à papier, matière première essentielle à la fabrication du papier et du carton, a connu des mutations importantes ces dernières décennies, avec la concentration des acteurs et la pression croissante sur les coûts de production. L'effondrement d'un acteur historique comme Fibre Excellence reflète ces dynamiques, tout en soulignant la vulnérabilité des sites industriels implantés dans des zones à forte dépendance sectorielle. La liquidation judiciaire, procédure légale qui intervient lorsqu'une entreprise ne peut plus faire face à ses obligations financières, conduit à la vente de ses actifs pour apurer les dettes, souvent au détriment des salariés.\n\nCette situation illustre les enjeux économiques et sociaux auxquels sont confrontées les régions industrielles françaises, où la reconversion des sites et la préservation de l'emploi demeurent des défis majeurs.",
+  "mots_cles": [
+    "liquidation judiciaire",
+    "Fibre Excellence",
+    "pâte à papier",
+    "licenciement",
+    "Occitanie"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-12T10:11:01+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Saint-Gaudens_Papeterie_Fibre_Excellence.jpg/1280px-Saint-Gaudens_Papeterie_Fibre_Excellence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Patrice Bon",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint-Gaudens_Papeterie_Fibre_Excellence.jpg",
+    "legende": "Papeterie : Fibre Excellence",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Saint-Gaudens Papeterie Fibre Excellence.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "À Toulouse, la liquidation judiciaire de l’usine Fibre Excellence définitivement entérinée",
+      "url": "https://www.lefigaro.fr/societes/fibre-excellence-a-saint-gaudens-le-tribunal-de-commerce-de-toulouse-prononce-la-cessation-d-activite-de-l-usine-20261112"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "A Toulouse, la liquidation judiciaire de l’usine de pâte à papier Fibre Excellence définitivement entérinée ; 300 salariés vont être licenciés",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/12/a-toulouse-la-liquidation-judiciaire-de-l-usine-de-pate-a-papier-fibre-excellence-de-saint-gaudens-definitivement-enterinee-300-salaries-vont-etre-licencies_6809080_3234.html"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "La liquidation judiciaire de Fibre Excellence, l'ex-numéro 1 de la pâte à papier en France, définitivement entérinée",
+      "url": "https://www.franceinfo.fr/economie/la-liquidation-judiciaire-de-fibre-excellence-l-ex-numero-1-de-la-pate-a-papier-en-france-definitivement-enterinee_8278943.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

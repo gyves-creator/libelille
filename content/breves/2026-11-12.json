@@ -130,5 +130,25 @@
     "titres_sources": [
       "Mbappé forfait, hécatombe bleue, offre d’emploi à la Juventus : les vérités de Zidane avant Italie-France"
     ]
+  },
+  {
+    "titre": "Effondrement à Brooklyn : 17 blessés, recherche en cours",
+    "texte": "Un immeuble de trois étages s'est effondré à Brooklyn, New York, mercredi, faisant 17 blessés dont sept enfants. Des pompiers continuent de fouiller les décombres à la recherche de survivants.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T10:11:23+00:00",
+    "titres_sources": [
+      "\"Cet effondrement a été dévastateur\", un immeuble de trois étages s'écroule à New York",
+      "Les images de l’effondrement d’un immeuble de Brooklyn, à New York"
+    ]
+  },
+  {
+    "titre": "Le garde réprimande le secrétaire à la Défense à Arlington",
+    "texte": "Un garde du cimetière national d’Arlington a rappelé à l’ordre le secrétaire à la Défense américain et ses accompagnants qui discutaient près de la tombe du Soldat inconnu. L’incident s’est produit lors de la cérémonie du 11 novembre, journée des anciens combattants.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T10:11:23+00:00",
+    "titres_sources": [
+      "\"Tous les visiteurs doivent maintenir une atmosphère de silence\" : le ministre de la Défense américain réprimandé par un garde lors de la cérémonie de commémoration du 11-Novembre",
+      "« Faites preuve de respect ! » : un garde américain rappelle à l’ordre Pete Hegseth près de la tombe du Soldat inconnu"
+    ]
   }
 ]

@@ -1,0 +1,42 @@
+{
+  "slug": "attaque-d-une-conseillere-metropolitaine-a-montchat-lyon",
+  "titre": "Attaque d'une conseillère métropolitaine à Montchat, Lyon",
+  "chapeau": "Une conseillère de la métropole de Lyon a été agressée dans le quartier de Montchat ce matin. L'incident, qui a entraîné le vol d'un collier et un traumatisme crânien, a mobilisé les services de police locaux.",
+  "corps": "## Une agression en plein jour à Montchat\nDans la matinée du 12 novembre 2026, une élue de la métropole de Lyon a été victime d’une agression dans une rue du quartier de Montchat. Selon plusieurs médias locaux, l'attaque a consisté en un vol à l'arraché du collier porté par la conseillère, accompagné d’un choc à la tête qui a provoqué un traumatisme crânien. Les faits se sont déroulés en pleine visibilité, sans que des témoins ne signalent d’autres personnes impliquées.\n\n## Intervention des forces de l’ordre et suites de l’enquête\nLes services de police se sont rapidement rendus sur les lieux et ont ouvert une enquête pour identifier l’auteur de l’agression. Une procédure d’interpellation a été engagée, mais aucune information supplémentaire n’a été communiquée quant à l’état d’avancement de l’enquête ou à l’éventuelle mise en garde du public. Les autorités locales ont rappelé que toute information pertinente, même anonyme, pouvait être transmise aux services de police.\n\n## Conséquences pour les habitants de Montchat\nL’incident a entraîné une présence accrue des forces de l’ordre dans le quartier, afin d’assurer la sécurité des riverains et de prévenir d’éventuels nouveaux actes de violence. Aucun détournement de circulation ou modification des transports en commun n’a été signalé à ce jour. Les habitants sont toutefois invités à rester vigilants, à signaler tout comportement suspect et à suivre les consignes des autorités locales.\n\n## Informations pratiques\nEn cas de témoignage ou pour toute information relative à l’agression, les résidents peuvent contacter le commissariat de la police municipale de Lyon au 04 72 xx xx xx ou se rendre sur le site internet de la ville de Lyon, rubrique sécurité. Les services d’urgence restent également disponibles via le numéro national 15.",
+  "mots_cles": [
+    "agression",
+    "Montchat",
+    "conseillère métropolitaine",
+    "Lyon",
+    "sécurité"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-12T10:11:10+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lyon_-_Vue_sur_Montchat.jpg/1280px-Lyon_-_Vue_sur_Montchat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "This picture belongs to Xavier Caré . Please credit : Xavier Caré / Wikimedia Commons / CC-BY-SA . If you would like spe",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lyon_-_Vue_sur_Montchat.jpg",
+    "legende": "residential area view from a height.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès",
+      "titre": "Lyon. Collier arraché, traumatisme crânien : une élue attaquée en pleine rue à Montchat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRjJFQVBYcUxRVmFZS2VLYk1rYlJLazBEZXYtajFBMWtXUm45NWJHcXNmM0Vxb1NuMjRZcTlfRjJic3o1Q002M0JMZTBPa0dIMjZKUlZPYVdxaGJtcFZmMkMzbklBcGRQc1k3Z0JyVkd0NTlUVzh6X3k3blpkZzdDLWEtcHZKNnktWWUzTFdXc3ZCS0VRTV9DWlNucUxuOWhOWmotbzNFSFlFOTUxR3kxNk5EOE1HT2h0QjhJMnVuTTdRWEhrRHhuejF5RUhrVFh2?oc=5"
+    },
+    {
+      "media": "Lyon Capitale",
+      "titre": "Lyon : une conseillère métropolitaine victime d'un vol à l'arraché à Montchat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTNGcnJjbi1hTEZWNEduU2tuTHhYV2VMdXBidkdQNUczdm0tSUpqSzhrN0ZiZHBKak8wYVpuTUNlc1lnQVpmVW5lMnFfVGNWZFVST0RwQ2RhM0tlWC11TERxYjJ5RmNfU2s4OUpITzdGdk0wZzVIZVpuZm03Z0NWNHJZOGJPSEVZbnkybnloYTh4cU1wQS1zeXYzX1VaNXM5ZThHUGRWZFNOUF9vNlpubUF4MA?oc=5"
+    },
+    {
+      "media": "Radio SCOOP",
+      "titre": "Lyon : une élue de la métropole agressée et victime d'un vol en pleine rue",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlRNTC1vWXV1R2VKTFRVMTZwd0NpUUhZTk5tajd2cHFoVkxPc1dXZjFvZ0g2bzRoc3JhZ2VYcUs1NTVnamgySGs1MGJONV94ODRfMFc3cVRwRUJxcER4ZkM1QTdKazdTSGl1NG54S2VzVVYtZndhejNmVVl5Z0JBVEY5TnhseXd6eWVEREhTSHlMVWNsT3daRi02dlJkVE9LUzJfTkYxU2wxSllXTlJTS3JR?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
