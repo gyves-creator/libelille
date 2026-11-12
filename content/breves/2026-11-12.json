@@ -410,5 +410,23 @@
     "titres_sources": [
       "Au procès Zecler, le policier qui menotte mais ne voit ni n’entend rien"
     ]
+  },
+  {
+    "titre": "Grand oral Franceinfo : candidats promettent suppression de postes",
+    "texte": "Lors d’un grand oral de Franceinfo le 12 novembre, des candidats du bloc central, de la droite et de l’extrême droite ont proposé de réduire les effectifs de la fonction publique, en suivant une logique comptable. Cette mesure viserait à baisser les dépenses publiques.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-12T18:31:38+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : du bloc central à l’extrême droite, la surenchère des suppressions de postes de fonctionnaires"
+    ]
+  },
+  {
+    "titre": "Le Sénat envisagerait des allégements fiscaux pour les retraités",
+    "texte": "Le Sénat aurait présenté un projet de réforme fiscale incluant un abattement pour les retraités, des allégements de charges et des mesures sur les donations. Selon le texte, ces dispositions viseraient à réduire le déficit budgétaire.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-12T18:31:38+00:00",
+    "titres_sources": [
+      "Abattement « retraités », allégements de charges, donations… Les propositions surprenantes du Sénat sur la fiscalité"
+    ]
   }
 ]
