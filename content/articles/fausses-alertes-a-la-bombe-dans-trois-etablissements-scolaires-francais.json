@@ -1,0 +1,38 @@
+{
+  "slug": "fausses-alertes-a-la-bombe-dans-trois-etablissements-scolaires-francais",
+  "titre": "Fausses alertes à la bombe dans trois établissements scolaires français",
+  "chapeau": "Le ministère de l'Éducation nationale a signalé jeudi matin trois fausses alertes à la bombe dans des établissements scolaires. Les établissements mentionnés se trouvent à Marseille, dans le Jura et dans l'Aisne.",
+  "corps": "## Des alertes signalées sans précision initiale\nLe ministère de l'Éducation nationale a indiqué, dans un communiqué, la survenue de trois fausses alertes à la bombe dans des établissements scolaires français. Aucun détail sur les établissements concernés n’a été fourni dans le premier communiqué, qui se limitait à préciser les régions concernées : les Bouches-du-Rhône, le Jura et l’Aisne.\n\n## Identification des établissements concernés\nDes médias locaux ont ensuite précisé les sites visés. À Marseille, le lycée Don Bosco a été mentionné. Dans le département de l’Aisne, c’est l’IUT de Laon qui a fait l’objet d’une alerte. Enfin, dans le Jura, deux établissements ont été cités : le lycée Victor‑Bérard et le collège Hyacinthe‑Cazeaux de Morez. Cette précision porte le nombre d’établissements à quatre, bien que le ministère ait indiqué trois alertes distinctes, laissant entendre que les deux établissements du Jura ont pu être concernés par la même alerte.\n\n## Réaction des autorités éducatives\nLe ministère a rappelé que les alertes à la bombe, même lorsqu’elles s’avèrent infondées, mobilisent les services de sécurité et les équipes pédagogiques afin d’assurer la protection des élèves et du personnel. Aucun incident n’a été signalé, et les établissements ont repris leurs activités normales après vérification des faits. Les autorités locales, notamment les préfectures des départements concernés, n’ont pas publié de communiqué supplémentaire à ce stade.\n\n## Contexte des fausses alertes en milieu scolaire\nLes fausses alertes à la bombe constituent un phénomène récurrent dans plusieurs pays, souvent liées à des actes de désinformation ou à des malentendus. En France, la procédure de gestion de ce type d’incident repose sur la coordination entre le ministère de l’Éducation, les services de police et les autorités locales, afin de garantir une réponse rapide et proportionnée. Le signalement de ces trois alertes s’inscrit donc dans le cadre habituel de vigilance et de prévention mis en œuvre par les institutions éducatives.",
+  "mots_cles": [
+    "fausses alertes",
+    "bombe",
+    "écoles",
+    "Ministère de l'Éducation",
+    "sécurité scolaire"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-12T16:10:13+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_du_Minist%C3%A8re_de_l%27Education_Nationale_et_de_la_Jeunesse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Gouvernement de la République Française",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Logo_du_Minist%C3%A8re_de_l%27Education_Nationale_et_de_la_Jeunesse.png",
+    "legende": "Logotype of Ministry of National Education and Youth",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Logo du Ministère de l'Education Nationale et de la Jeunesse.png"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Trois fausses alertes à la bombe signalées jeudi matin dans des établissements scolaires en France, selon le ministère de l’éducation nationale",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/12/trois-fausses-alertes-a-la-bombe-signalees-jeudi-matin-dans-des-etablissements-scolaires-en-france-selon-le-ministere-de-l-education-nationale_6809119_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "Trois fausses alertes à la bombe dans des établissements scolaires des Bouches-du-Rhône, de l'Aisne et du Jura, annonce le ministère de l'Education nationale",
+      "url": "https://www.franceinfo.fr/societe/education/trois-fausses-alertes-a-la-bombe-dans-des-etablissements-scolaires-des-bouches-du-rhone-de-l-aisne-et-du-jura-annonce-le-ministere-de-l-education-nationale_8279504.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
