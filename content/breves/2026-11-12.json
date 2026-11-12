@@ -244,5 +244,23 @@
       "Le plan de relance agricole s’élèvera finalement à 725 millions d’euros, annonce Annie Genevard",
       "Plan de relance agricole : la ministre de l'Agriculture promet 725 millions d'euros, notamment pour \"l'adaptation au changement climatique\""
     ]
+  },
+  {
+    "titre": "Menaces de mort et messages haineux contre lycéens de Marseille",
+    "texte": "Des lycéens de la cité scolaire internationale Jacques‑Chirac, à Marseille, seraient menacés de mort et auraient reçu des messages racistes et antisémites après avoir bloqué leur lycée, via un groupe WhatsApp. Ces menaces auraient été signalées aux autorités.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T13:22:18+00:00",
+    "titres_sources": [
+      "Ils sont menacés car ils bloquent leur lycée"
+    ]
+  },
+  {
+    "titre": "Airbus prévoit 700 emplois avec nouvelle usine près de Toulouse",
+    "texte": "Airbus aurait prévu de créer 700 postes d’ici 2031 avec l’ouverture d’une nouvelle usine en Haute‑Garonne, près de Toulouse. Ce site viendrait compléter la production de l’usine historique de Saint‑Éloi, déjà saturée avec 9 300 avions en commande.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-12T13:22:18+00:00",
+    "titres_sources": [
+      "Airbus promet de créer 700 postes d'ici 2031, avec l'ouverture d'une nouvelle usine près de Toulouse"
+    ]
   }
 ]

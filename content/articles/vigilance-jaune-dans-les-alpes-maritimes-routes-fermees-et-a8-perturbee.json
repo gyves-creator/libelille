@@ -1,0 +1,37 @@
+{
+  "slug": "vigilance-jaune-dans-les-alpes-maritimes-routes-fermees-et-a8-perturbee",
+  "titre": "Vigilance jaune dans les Alpes-Maritimes : routes fermées et A8 perturbée",
+  "chapeau": "Une vigilance jaune a été décrétée ce jeudi 12 novembre 2026 dans les Alpes‑Maritimes et le Var à la suite de l’épisode méditerranéen. Les fortes pluies ont entraîné la fermeture de plusieurs axes, dont l’autoroute A8, et des inondations locales qui perturbent la circulation à Nice et dans ses environs.",
+  "corps": "## Vigilance jaune et conditions météorologiques\nLe département des Alpes‑Maritimes, ainsi que le Var, sont placés en vigilance jaune pluie‑inondation, orages et vagues‑submersion ce jeudi 12 novembre 2026. Les prévisions indiquent des précipitations intenses, rendant les chaussées glissantes et provoquant des débordements de cours d’eau. Les services de la préfecture et les services de secours surveillent en permanence le niveau des rivières et les zones à risque d’inondation.\n\n## Conséquences sur la circulation et consignes\nEn raison de la météo, plusieurs axes routiers ont été fermés à la circulation dans les Alpes‑Maritimes. L’autoroute A8, principale liaison entre Nice et l’arrière‑pays, a connu une succession d’accidents liés à la chaussée rendue glissante, voire inondée. Les embouteillages se sont ainsi multipliés, ralentissant les déplacements des usagers et entraînant des temps d’attente prolongés. Les autorités ont mis en place une surveillance accrue des cours d’eau et ont indiqué que les routes concernées restent fermées tant que la situation ne s’est pas stabilisée.\n\nLes conducteurs sont invités à éviter les déplacements non indispensables, à privilégier les itinéraires détournés indiqués par les panneaux de signalisation et à rester à l’écoute des bulletins d’information locale. En cas d’urgence, le numéro d’appel d’urgence (112) reste disponible, et les services de la préfecture peuvent être contactés via le site officiel de la préfecture des Alpes‑Maritimes pour connaître les dernières consignes et les déviations en cours.",
+  "mots_cles": [
+    "inondation",
+    "vigilance jaune",
+    "A8",
+    "Alpes-Maritimes",
+    "circulation"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-12T13:22:05+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Promenade_des_Anglais_%2822261311858%29.jpg/1280px-Promenade_des_Anglais_%2822261311858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "piet theisohn from Leverkusen, Germany",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(22261311858).jpg",
+    "legende": "Visit in Nice in great fall sun light",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Épisode méditerranéen : les Alpes-Maritimes et le Var en vigilance jaune, routes coupées et inondées, cours d’eau sous surveillance… suivez notre direct",
+      "url": "https://www.nicematin.com/meteo/alerte-meteo/episode-mediterraneen-les-alpes-maritimes-et-le-var-en-vigilance-jaune-routes-coupees-et-inondees-cours-d-eau-sous-surveillance-suivez-notre-direct-10758585"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Épisode méditerranéen : une succession d’accidents perturbe la circulation sur l’autoroute A8 dans les Alpes-Maritimes",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTEFLcEdfOU1oejY2Y3IwallHZzZ5MGZ6WV84US1xNDNnSzQycDJydWZrTlhPVWdkQ1lHYm1aX3JHUjUyUUZwSUJnczIyRUY0c3pQTGpOdm5NY0VVOFRmQzdHWmU3LWw4LVZsamI1REtmTHhSX1czTGduLW8xV0dMUGxhSjhwSUpCYUN3UHJOMXFNRUhxTzZQX2p4NVM5cUtCLWNUcl9LcWQ1Q3dLaXlIeE93M25fVml3OHFONkNxdGtEbDMyWkJkOWQ4UEVPbzI2NlpSS2RxMTZaZWVwaDVDUGg5b1FRVHFUYjNLdGtwc0lsVm00WXc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
