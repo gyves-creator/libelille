@@ -12,7 +12,16 @@
   ],
   "rubrique": "presidentielle",
   "publie_le": "2026-11-12T05:08:30+00:00",
-  "photo": null,
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ma%C3%ABl_de_Calan_2024.jpg/1280px-Ma%C3%ABl_de_Calan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "MFonzatti",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ma%C3%ABl_de_Calan_2024.jpg",
+    "legende": "Maël de Calan lors du relais de la flamme olympique de Paris 2024, à Brest",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Maël de Calan 2024.jpg"
+  },
   "sources": [
     {
       "media": "franceinfo- Politique",
