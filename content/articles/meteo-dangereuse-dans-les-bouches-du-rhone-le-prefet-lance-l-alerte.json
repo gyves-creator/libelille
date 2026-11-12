@@ -1,0 +1,33 @@
+{
+  "slug": "meteo-dangereuse-dans-les-bouches-du-rhone-le-prefet-lance-l-alerte",
+  "titre": "Météo dangereuse dans les Bouches-du-Rhône : le préfet lance l'alerte",
+  "chapeau": "Un phénomène météorologique jugé dangereux sévit actuellement dans les Bouches-du-Rhône. Le préfet a demandé aux habitants de rester très vigilants.",
+  "corps": "## Alerte du préfet\nLe préfet de la région a déclaré que les conditions météorologiques en cours dans les Bouches-du-Rhône sont qualifiées de dangereuses et a appelé à \"la plus grande vigilance\". Cette recommandation s’adresse à l’ensemble des résidents, aux usagers de la route et aux usagers des transports publics, ainsi qu’aux acteurs économiques locaux.\n\n## Conséquences possibles pour le quotidien\nBien que le type exact du phénomène ne soit pas précisé, les autorités préfectorales signalent que de telles situations peuvent entraîner des perturbations sur le réseau routier, notamment des risques d’aquaplanage ou de visibilité réduite. Les services de transport, notamment les bus et les trains régionaux, pourraient être soumis à des retards ou à des ajustements d’horaires en fonction de l’évolution du temps. Les habitants sont donc invités à rester informés via les bulletins météo officiels et à adapter leurs déplacements si nécessaire.\n\n## Recommandations pratiques\nDans le cadre de la vigilance demandée, les préfectures recommandent de suivre les consignes suivantes :\n- Consulter régulièrement les prévisions météo sur les sites institutionnels ou les applications dédiées.\n- Limiter les déplacements non essentiels, surtout dans les zones exposées aux vents forts ou aux précipitations intenses.\n- S’assurer que les véhicules sont en bon état de marche, notamment les essuie-glaces et les pneus.\n- Se tenir informé des éventuelles déviations ou fermetures de routes via les panneaux d’information ou les services d’information routière.\n\n## Où obtenir de l'aide et des informations complémentaires\nPour toute question ou signalement lié à la situation, les habitants peuvent contacter le service d’information de la préfecture au numéro dédié, disponible sur le site officiel de la préfecture des Bouches-du-Rhône. Les sites internet de la mairie de Marseille et du département publient également des mises à jour régulières sur les mesures prises et les consignes de sécurité.\n\nEn attendant l’évolution du phénomène, la priorité reste la sécurité des personnes. La préfecture continuera à suivre de près la situation et à communiquer toute nouvelle information pertinente.",
+  "mots_cles": [
+    "météo",
+    "alerte",
+    "préfecture",
+    "Bouches-du-Rhône",
+    "vigilance"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-12T09:09:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Numenius_phaeopus_in_Bouches_du_Rh%C3%B4ne%2C_France.jpg/1280px-Numenius_phaeopus_in_Bouches_du_Rh%C3%B4ne%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Pierre Dalous Camera location 43° 20′ 51.55″ N, 4° 47′ 01.89″ E View this and other nearby images on: OpenStreetMap 43.3",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Numenius_phaeopus_in_Bouches_du_Rh%C3%B4ne,_France.jpg",
+    "legende": "Whimbrel .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Numenius phaeopus in Bouches du Rhône, France.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actu.fr",
+      "titre": "Météo : un phénomène dangereux en cours dans les Bouches-du-Rhône, le préfet appelle \"à la plus grande vigilance\"",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2RPQkpqOXRfTXoyN3E2TEE3UnI3TG90Z1BFYmJkaHJUWkZIMUVycGs2MmZKamdWZEE5djZtckhmR25ZejA4TGdDdmxwVV91U0xVTURySjBvS2R0WWRSaTd4YXhiYXFpSDFBbUNYWjJGMWkwRlJyMUZyalQ0cjROVmJ5bG05RjlqN2JFNkpVNi1rNmNxUng4eURxWDBxN3pBV2JXQ2ZJT3RKUUwxYUQxWEV4NmFVV3NTdWJlQ0UyazhObXQxaGdISGJZdmplNkVnZ1BLVU9aT1RZc1Q1?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

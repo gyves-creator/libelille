@@ -92,5 +92,25 @@
     "titres_sources": [
       "Death Stranding 2 rejoint le PlayStation Plus Extra et Premium en novembre 2026"
     ]
+  },
+  {
+    "titre": "Liquidation judiciaire de Fibre Excellence, 300 postes menacés",
+    "texte": "Le tribunal de commerce de Toulouse a prononcé la liquidation judiciaire de Fibre Excellence, ancien leader français de la pâte à papier. L’entreprise devra licencier ses quelque 300 salariés du site de Saint‑Gaudens et du siège de Labège.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-12T09:09:31+00:00",
+    "titres_sources": [
+      "La liquidation judiciaire de Fibre Excellence, l'ex-numéro 1 de la pâte à papier en France, définitivement entérinée",
+      "Fibre Excellence à Saint-Gaudens : le tribunal de commerce de Toulouse prononce la cessation d’activité de l’usine"
+    ]
+  },
+  {
+    "titre": "Pochettino pressé par Manchester United, Guardiola envisagé par US Soccer",
+    "texte": "Mauricio Pochettino, sélectionneur des États‑Unis, serait pressenti pour succéder à Michael Carrick à Manchester United. La fédération américaine envisagerait Pep Guardiola comme éventuel remplaçant de Pochettino.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T09:09:31+00:00",
+    "titres_sources": [
+      "Foot : Pochettino vers Manchester United, Guardiola pour le remplacer à la tête des États-Unis ?",
+      "Foot : Pochettino vers Manchester United et Guardiola pour lui succéder chez les USA"
+    ]
   }
 ]
