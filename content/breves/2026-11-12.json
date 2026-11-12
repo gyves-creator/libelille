@@ -262,5 +262,25 @@
     "titres_sources": [
       "Airbus promet de créer 700 postes d'ici 2031, avec l'ouverture d'une nouvelle usine près de Toulouse"
     ]
+  },
+  {
+    "titre": "Jensen Huang évincé du poste de PDG de Nvidia",
+    "texte": "Le conseil d'administration de Nvidia a mis fin à la fonction de Jensen Huang, cofondateur et dirigeant depuis 33 ans, suite à des soupçons de lien avec une entrepreneuse chinoise suspectée d'espionnage. Aucun successeur n'est encore désigné, laissant incertaine la direction de l'entreprise en IA.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-12T13:55:56+00:00",
+    "titres_sources": [
+      "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, démis de ses fonctions",
+      "Nvidia sans Jensen Huang ? Le casse-tête de la succession"
+    ]
+  },
+  {
+    "titre": "Patrick et Isabelle Balkany expulsés de leur moulin à Giverny",
+    "texte": "Patrick et Isabelle Balkany ont été expulsés de leur moulin de Cossy à Giverny après leur condamnation définitive en 2024 pour fraude fiscale et blanchiment. Cette décision, dite temporaire, pourrait être révisée après un accord avec l'Agence de gestion des avoirs saisis, permettant leur retour.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-12T13:55:56+00:00",
+    "titres_sources": [
+      "Patrick et Isabelle Balkany expulsés de leur moulin de Giverny, dans l'Eure",
+      "Patrick et Isabelle Balkany priés de quitter leur moulin de Giverny, n’en ayant plus l’usufruit après une condamnation pour fraude fiscale"
+    ]
   }
 ]
