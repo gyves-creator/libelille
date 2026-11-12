@@ -374,5 +374,23 @@
     "titres_sources": [
       "Votre employeur peut-il vous accorder des jours de congés pour la sortie de \"GTA VI\" ?"
     ]
+  },
+  {
+    "titre": "Israël interdirait l’accès à Mélenchon et Panot",
+    "texte": "Selon franceinfo, Israël aurait refusé l’entrée à Jean‑Luc Mélenchon et à Mathilde Panot, invoquant une position anti‑israélienne jugée virulente. Mélenchon aurait déclaré regretter cette poursuite mais affirmer qu’il ne modifierait pas son discours s’il était élu.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-12T17:33:57+00:00",
+    "titres_sources": [
+      "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise"
+    ]
+  },
+  {
+    "titre": "Byron Donalds deviendrait le premier gouverneur noir de Floride",
+    "texte": "Le Monde indiquerait que Byron Donalds, républicain, serait devenu le premier gouverneur afro‑américain de Floride après les élections de mi‑mandat du 3 novembre, marquées par un raz‑de‑marée démocrate. Cette victoire ferait de lui le premier gouverneur noir de l’État.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T17:33:57+00:00",
+    "titres_sources": [
+      "Byron Donalds, premier gouverneur noir de Floride"
+    ]
   }
 ]
