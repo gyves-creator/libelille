@@ -13,13 +13,14 @@
   "rubrique": "nice",
   "publie_le": "2026-11-12T13:22:05+00:00",
   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Promenade_des_Anglais_%2822261311858%29.jpg/1280px-Promenade_des_Anglais_%2822261311858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "piet theisohn from Leverkusen, Germany",
-    "licence": "CC BY 2.0",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(22261311858).jpg",
-    "legende": "Visit in Nice in great fall sun light",
-    "source": "Wikimedia Commons"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Promenadedesanglais.jpg/1280px-Promenadedesanglais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Baptiste Rossi",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Promenadedesanglais.jpg",
+    "legende": "Vue de la Promenade des Anglais",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Promenadedesanglais.jpg"
   },
   "sources": [
     {

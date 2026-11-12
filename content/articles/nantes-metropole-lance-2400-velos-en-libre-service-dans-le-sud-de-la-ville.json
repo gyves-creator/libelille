@@ -12,13 +12,14 @@
   "rubrique": "nantes",
   "publie_le": "2026-11-12T12:06:58+00:00",
   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ch%C3%A2teau_des_Ducs_de_Bretagne_%C3%A0_Nantes_-_Anne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Olga.Mach",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nantes_-_p%C3%B4le_Valmy.jpg/1280px-Nantes_-_p%C3%B4le_Valmy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Fab5669",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_Ducs_de_Bretagne_%C3%A0_Nantes_-_Anne.jpg",
-    "legende": "4 Place Marc Elder à Nantes",
-    "source": "Wikimedia Commons"
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_-_p%C3%B4le_Valmy.jpg",
+    "legende": "Valmy centrer of Nantes Métropole, Carnot avenue, in Nantes (Loire-Atlantique, France)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes - pôle Valmy.jpg"
   },
   "sources": [
     {
