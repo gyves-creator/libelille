@@ -447,5 +447,24 @@
     "titres_sources": [
       "Menaces, violences, intimidations : la liberté d’informer malmenée, dénoncent des sociétés de journalistes"
     ]
+  },
+  {
+    "titre": "Darmanin saisit le CSM contre une substitut du parquet d'Auch",
+    "texte": "Le garde des Sceaux Gérald Darmanin a saisi le Conseil supérieur de la magistrature contre un substitut du parquet d'Auch. Cette décision fait suite aux critiques sur la gestion du dossier de la mort de Lyhanna et le manque de vérification des antécédents du suspect.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T19:38:16+00:00",
+    "titres_sources": [
+      "Mort de Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch après le « traitement défaillant » de la procédure",
+      "Affaire Lyhanna : Gérald Darmanin saisit le Conseil supérieur de la magistrature contre une substitut du procureur d'Auch pour ne pas avoir vérifié les antécédents du suspect"
+    ]
+  },
+  {
+    "titre": "Les 10 % les plus riches voient leur impôt baisser en 2025",
+    "texte": "Une étude de la Direction générale des finances publiques indique que l'impôt sur le revenu des 10 % des Français les plus aisés a reculé de 1,4 % en 2025. Pour le 0,1 % le taux moyen a baissé de 9,4 %, accentuant la différence de charge fiscale.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-12T19:38:16+00:00",
+    "titres_sources": [
+      "Pourquoi les Français les plus aisés ont-ils payé moins d'impôt sur le revenu en 2025 que l'année précédente ?"
+    ]
   }
 ]
