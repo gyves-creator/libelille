@@ -302,5 +302,23 @@
       "Présidentielle : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
       "Présidentielle : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité"
     ]
+  },
+  {
+    "titre": "Le prosecco dépasse le champagne dans les supermarchés français",
+    "texte": "Selon franceinfo, les ventes de prosecco auraient progressé de plus de 10 % dans les hypermarchés, tandis que celles de champagne auraient reculé d’environ 5 %. Cette évolution reflète un changement des habitudes de consommation des Français.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-12T15:37:45+00:00",
+    "titres_sources": [
+      "\"Le goût est sympa et c'est moins cher\" : le prosecco détrône le champagne en supermarché"
+    ]
+  },
+  {
+    "titre": "Des adolescentes placées à Bergerac tentent d'éviter la prison",
+    "texte": "Franceinfo rapporte que cinq mineures incarcérées dans un centre fermé de Bergerac bénéficieraient d’un accompagnement de l’unité judiciaire à priorité éducative pour désamorcer leurs conflits. Elles disposeraient de six mois pour tenter d’échapper à une peine d’emprisonnement.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T15:37:45+00:00",
+    "titres_sources": [
+      "VIDEO. Aider des mineures qui risquent la prison à \"déconstruire un rapport de confrontation à l'autre\" : le travail d'une UJPE, unité judiciaire à priorité éducative"
+    ]
   }
 ]
