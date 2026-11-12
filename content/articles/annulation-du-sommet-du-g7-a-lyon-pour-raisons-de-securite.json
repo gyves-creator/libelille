@@ -13,13 +13,14 @@
   "rubrique": "lyon",
   "publie_le": "2026-11-10T10:00:34+00:00",
   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Montage-Lyon-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Aldg692VX",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Station_V%C3%A9lo%27v_7036_rue_S%C3%A9bastien_Gryphe_%28Lyon%29_en_montage_%28mai_2019%29.jpg/1280px-Station_V%C3%A9lo%27v_7036_rue_S%C3%A9bastien_Gryphe_%28Lyon%29_en_montage_%28mai_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sebleouf",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Montage-Lyon-2023.jpg",
-    "legende": "Différentes vues de Lyon : De haut en bas, de gauche à droite : la basilique Notre-Dame de Fourvière, la place des Terreaux avec la fontaine Bartholdi et l’Hôtel de Ville, les toits du Vieux-Lyon, les",
-    "source": "Wikimedia Commons"
+    "page": "https://commons.wikimedia.org/wiki/File:Station_V%C3%A9lo%27v_7036_rue_S%C3%A9bastien_Gryphe_(Lyon)_en_montage_(mai_2019).jpg",
+    "legende": "Station Vélo'v 7036 en cours de montage, rue Sébastien Gryphe, dans le 7e arrondissement de Lyon.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Station Vélo'v 7036 rue Sébastien Gryphe (Lyon) en montage (mai 2019).jpg"
   },
   "sources": [
     {
