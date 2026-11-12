@@ -12,13 +12,14 @@
   "rubrique": "marseille",
   "publie_le": "2026-11-11T09:02:48+00:00",
   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Benh LIEU SONG",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
-    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
-    "source": "Wikimedia Commons"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chapelle_Notre-Dame-de-la-Garde-1000570.jpg/1280px-Chapelle_Notre-Dame-de-la-Garde-1000570.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Frank Schulenburg",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-de-la-Garde-1000570.jpg",
+    "legende": "Chapel Notre-Dame-de-la-Garde on a cliff overlooking the small town of Étretat on the coast of Normandy, France. The original chapel from the mid of the 19th century was destroyed during World War II.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Chapelle Notre-Dame-de-la-Garde-1000570.jpg"
   },
   "sources": [
     {

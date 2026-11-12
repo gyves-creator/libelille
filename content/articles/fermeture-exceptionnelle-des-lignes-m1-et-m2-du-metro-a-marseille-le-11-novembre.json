@@ -12,13 +12,14 @@
   "rubrique": "marseille",
   "publie_le": "2026-11-11T07:23:28+00:00",
   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Benh LIEU SONG",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
-    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
-    "source": "Wikimedia Commons"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/View_of_Marseille_from_Notre-Dame_de_la_Garde_4.jpg/1280px-View_of_Marseille_from_Notre-Dame_de_la_Garde_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "kallerna",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Marseille_from_Notre-Dame_de_la_Garde_4.jpg",
+    "legende": "Marseille old port seen from Notre-Dame de la Garde.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:View of Marseille from Notre-Dame de la Garde 4.jpg"
   },
   "sources": [
     {
