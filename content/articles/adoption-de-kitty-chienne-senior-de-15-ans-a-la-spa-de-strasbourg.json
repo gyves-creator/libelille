@@ -1,0 +1,38 @@
+{
+  "slug": "adoption-de-kitty-chienne-senior-de-15-ans-a-la-spa-de-strasbourg",
+  "titre": "Adoption de Kitty, chienne senior de 15 ans, à la SPA de Strasbourg",
+  "chapeau": "La SPA de Strasbourg recherche une famille pour Kitty, une chienne croisée labrador âgée de 15 ans. L’animalier souhaite offrir à la senior un cadre paisible pour profiter de sa retraite.",
+  "corps": "## Un appel à l’adoption pour une senior\nLa Société Protectrice des Animaux de Strasbourg a placé au registre de ses animaux disponibles une chienne de 15 ans, nommée Kitty. Issue d’un croisement labrador, elle attend désormais une famille prête à lui offrir la douceur et l’attention nécessaires à son âge avancé. L’objectif affiché par le refuge est de permettre à cette senior de vivre une retraite sereine, loin du tumulte quotidien des refuges.\n\n## Pourquoi adopter un chien âgé ?\nLes chiens seniors comme Kitty représentent souvent une option intéressante pour les adoptants. Leur tempérament est généralement plus posé, ils requièrent moins d’éducation intensive que les chiots et s’intègrent rapidement à un nouveau foyer. De plus, les refuges constatent que les animaux plus âgés sont souvent moins nombreux à être adoptés, ce qui crée un besoin particulier de visibilité pour ces compagnons. La SPA de Strasbourg souligne que chaque adoption d’un senior contribue à libérer de l’espace pour accueillir d’autres animaux en situation d’urgence.\n\n## Modalités d’adoption à la SPA de Strasbourg\nLes personnes intéressées par l’adoption de Kitty sont invitées à se rendre directement à la SPA de Strasbourg ou à consulter le site internet officiel de l’association pour connaître les démarches. Le processus standard inclut une visite du refuge, la présentation d’une candidature, ainsi qu’une évaluation du cadre de vie proposé afin de garantir le bien‑être du futur maître. Aucun frais d’adoption n’est mentionné dans les informations disponibles, mais il est d’usage que les frais de prise en charge (vaccins, stérilisation, etc.) soient à la charge de l’adoptant.\n\n## Un geste concret pour la communauté\nEn adoptant Kitty, les habitants de Strasbourg contribuent à la cause animale locale tout en bénéficiant d’un compagnon fidèle et affectueux. La SPA rappelle que les seniors ont besoin d’un environnement calme, d’une alimentation adaptée et de contrôles vétérinaires réguliers. Les futurs adoptants sont donc encouragés à se renseigner sur les besoins spécifiques des chiens âgés afin d’assurer une prise en charge optimale.\n\nPour toute information complémentaire, les résidents peuvent consulter le site de la SPA de Strasbourg ou se rendre sur place pendant les heures d’ouverture du refuge.",
+  "mots_cles": [
+    "adoption",
+    "chien senior",
+    "SPA Strasbourg",
+    "Kitty",
+    "animaux"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-12T15:03:02+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Rosa_Bonheur%27s_membership_card_of_Soci%C3%A9t%C3%A9_Protectrice_des_Animaux%2C_in_Mus%C3%A9e_Courbet%2C_Ornans%2C_2026.jpg/1280px-Rosa_Bonheur%27s_membership_card_of_Soci%C3%A9t%C3%A9_Protectrice_des_Animaux%2C_in_Mus%C3%A9e_Courbet%2C_Ornans%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "DimiTalen",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosa_Bonheur%27s_membership_card_of_Soci%C3%A9t%C3%A9_Protectrice_des_Animaux,_in_Mus%C3%A9e_Courbet,_Ornans,_2026.jpg",
+    "legende": "Rosa Bonheur's membership card of Société Protectrice des Animaux, in Musée Courbet, Ornans, 2026",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Rosa Bonheur's membership card of Société Protectrice des Animaux, in Musée Courbet, Ornans, 2026.jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. SPA : âgée de 15 ans, la chienne Kitty n’attend qu’une famille pour vivre une retraite paisible",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa0t2Y2JPZHVJa24xYkg0eWZMM1NGbS1XUmtUT1F3blRzVVdoUlRJaFhvTWVTUTVMMnN6ekNaU0pBbkFmVzUzTzlzUndIczBEekJHQllQS0xHd2NGQzZiOXdTTWN4V2JNMzdKa1ViZTdySS1WZVhOYW1INzBaNHU5MHNPZnptS1haa3h6bUl4RllIU2xNRHlQNFhIc1c0YmRTVkhZaV9oNlJkWUF3UlVibWNLc1Naem92UWVTS3J1ZkRGOWxnUGZUM21R?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. SPA : âgée de 15 ans, la chienne Kitty n’attend qu’une famille pour vivre une retraite paisible",
+      "url": "https://www.dna.fr/societe/2026/11/12/spa-agee-de-15-ans-la-chienne-kitty-n-attend-qu-une-famille-pour-vivre-une-retraite-paisible"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

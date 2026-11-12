@@ -1,0 +1,43 @@
+{
+  "slug": "jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-accusations-d-ant",
+  "titre": "Jordan Bardella porte plainte pour faux et usage de faux après accusations d'antisémitisme",
+  "chapeau": "Jordan Bardella, président du Rassemblement National, a déposé une plainte pour faux et usage de faux à la suite des accusations d'antisémitisme formulées par Mediapart. Il nie être l'auteur des écrits incriminés et rappelle déjà avoir saisi la justice pour diffamation contre le même site en septembre.",
+  "corps": "## Contexte des accusations\nMediapart, site d'investigation français, a publié des révélations indiquant que Jordan Bardella aurait tenu des propos antisémites en 2013, alors qu’il était jeune militant du Front national, ancêtre du Rassemblement National. Ces écrits, qui remontent à plusieurs années, ont été présentés comme une preuve d’une continuité idéologique que le président du parti a fermement contestée. Bardella a déclaré ne pas être l’auteur de ces textes et a rejeté la qualification d’antisémitisme qui leur était associée.\n\n## Les démarches judiciaires de Bardella\nFace à ces allégations, le président du Rassemblement National a choisi la voie judiciaire. Il a porté plainte pour faux et usage de faux, une infraction qui vise à sanctionner la production, la diffusion ou l’utilisation de documents falsifiés. La plainte a été déposée contre la plateforme X, identifiée comme le support de diffusion des écrits incriminés. En parallèle, il rappelle avoir déjà intenté une action en diffamation contre Mediapart à la fin du mois de septembre, avant même la révélation des écrits de 2013. Cette première procédure visait à contester la véracité des accusations et à protéger la réputation du dirigeant politique.\n\nLes deux procédures s’inscrivent dans le cadre du droit français, où la diffamation et le faux sont passibles de sanctions pénales et civiles. Le dépôt de plainte pour faux et usage de faux implique généralement une enquête visant à déterminer l’authenticité des documents et la responsabilité éventuelle de leurs diffuseurs. La plainte contre X indique que le parti estime que la plateforme a joué un rôle actif dans la mise à disposition du contenu incriminé, ce qui pourrait entraîner une responsabilité de l’hébergeur selon la législation en vigueur.\n\n## Réactions et implications politiques\nLes annonces de ces actions en justice ont été relayées par plusieurs médias nationaux, dont franceinfo, Le Monde et France 24, qui ont souligné la répétition de la démarche juridique de Bardella. Aucun des articles ne fournit de détails supplémentaires sur le contenu exact des écrits ou sur les réponses officielles de Mediapart. La situation illustre la tension récurrente entre les partis politiques français et les médias d’investigation, notamment lorsque des accusations portent sur des faits anciens et potentiellement sensibles. Pour le moment, les procédures sont en cours et aucune décision judiciaire n’a été rendue publique.\n\nLes développements futurs dépendront des investigations menées par les autorités compétentes et de la manière dont les parties impliquées présenteront leurs arguments devant les juridictions concernées.",
+  "mots_cles": [
+    "Jordan Bardella",
+    "Rassemblement National",
+    "Mediapart",
+    "faux et usage de faux",
+    "diffamation"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-12T15:02:48+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28Cropped%29.jpg/1280px-Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Raphael ATTAL @BootEXE",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_(Cropped).jpg",
+    "legende": "Jordan Bardella at the European Parliament",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Jordan Bardella - Strasbourg European Parliament September 2022 (Cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Le président du Rassemblement national, Jordan Bardella, porte plainte \"pour faux et usage de faux\" après les accusations d'antisémitisme portées par Mediapart",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/le-president-du-rassemblement-national-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-portees-par-mediapart_8279252.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Ecrits antisémites : Jordan Bardella porte plainte pour faux et usage de faux",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Accusations d'antisémitisme : Jordan Bardella a porté plainte pour faux et usage de faux",
+      "url": "https://www.france24.com/fr/france/20261112-france-accusations-antisemitisme-jordan-bardella-a-porte-plainte-pour-faux-et-usage-de-faux"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

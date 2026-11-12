@@ -1,0 +1,43 @@
+{
+  "slug": "jensen-huang-demissionne-de-nvidia-suite-a-des-revelations-d-espionnage",
+  "titre": "Jensen Huang démissionne de Nvidia suite à des révélations d'espionnage",
+  "chapeau": "Le cofondateur et dirigeant historique de Nvidia, Jensen Huang, a quitté ses fonctions de CEO et de membre du conseil d'administration. Sa démission intervient après la révélation d'une liaison avec une entrepreneuse chinoise suspectée d'espionnage pour Pékin.",
+  "corps": "## Une sortie soudaine après plus de trois décennies\nJensen Huang, qui a cofondé Nvidia il y a plus de trente ans et en a assuré la direction depuis, a annoncé sa démission avec effet immédiat. L’entreprise a confirmé qu’il quitte également le conseil d’administration. La directrice financière, Colette Kress, a été désignée pour assurer l’intérim du poste de chef de la direction. Aucun successeur définitif n’a encore été nommé, laissant le conseil face à un défi de succession dans une société où la plupart des décisions stratégiques étaient historiquement centralisées autour de son fondateur.\n\n## Le contexte des révélations\nLes annonces de la démission sont intervenues après la diffusion d’informations concernant deux relations extraconjugales de Huang, dont l’une impliquerait une entrepreneuse chinoise soupçonnée d’espionnage au profit de Pékin. Cette affaire a alimenté les tensions déjà existantes entre les États‑Unis et la Chine autour des technologies de pointe. Nvidia, acteur majeur du marché des puces destinées à l’intelligence artificielle, voit plusieurs de ses composants classés comme stratégiques par le gouvernement américain, ce qui justifie des restrictions d’exportation vers la Chine.\n\n## Réactions et enjeux géopolitiques\nDans le sillage de ces révélations, la Chine a accusé les États‑Unis de « fabriquer » des récits d’espionnage afin de renforcer un prétendu blocus technologique. Cette déclaration s’inscrit dans un débat plus large sur la souveraineté technologique et les mesures de contrôle des exportations appliquées aux entreprises américaines considérées comme essentielles à la chaîne d’approvisionnement de l’intelligence artificielle.\n\n## Perspectives pour Nvidia\nL’entreprise se trouve désormais à un carrefour décisif. En plus de gérer la transition de son leadership, elle doit rassurer ses partenaires et investisseurs sur la continuité de ses projets d’innovation dans un secteur où la concurrence chinoise progresse rapidement. Le conseil d’administration devra définir une nouvelle gouvernance capable de maintenir la position dominante de Nvidia sur le marché des semi‑conducteurs tout en naviguant les pressions géopolitiques croissantes.",
+  "mots_cles": [
+    "Jensen Huang",
+    "Nvidia",
+    "démission",
+    "espionnage",
+    "IA"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-12T15:02:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nvidia_SLI_GTX280.jpg/1280px-Nvidia_SLI_GTX280.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ростислав Александрович Луценко",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nvidia_SLI_GTX280.jpg",
+    "legende": "Nvidia SLI GTX280",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nvidia SLI GTX280.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "Le patron du géant de la tech Nvidia, Jensen Huang, démissionne après la révélation d'une liaison avec une femme soupçonnée d'espionnage pour la Chine",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-du-geant-de-la-tech-nvidia-jensen-huang-demissionne-apres-la-revelation-d-une-liaison-avec-une-femme-soupconnee-d-espionnage-pour-la-chine_8279405.html#xtor=RSS-3-%5Binternet%5D"
+    },
+    {
+      "media": "Numerama",
+      "titre": "C’est officiel : Jensen Huang démissionne de Nvidia",
+      "url": "https://www.numerama.com/tech/2373021-cest-officiel-jensen-huang-demissionne-de-nvidia.html"
+    },
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

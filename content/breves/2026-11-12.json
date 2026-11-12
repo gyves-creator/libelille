@@ -282,5 +282,25 @@
       "Patrick et Isabelle Balkany expulsés de leur moulin de Giverny, dans l'Eure",
       "Patrick et Isabelle Balkany priés de quitter leur moulin de Giverny, n’en ayant plus l’usufruit après une condamnation pour fraude fiscale"
     ]
+  },
+  {
+    "titre": "Rugby : changements de composition pour l'Irlande et l'Angleterre",
+    "texte": "Andy Farrell aurait aligné une équipe largement renouvelée pour affronter les Fidji à domicile ce samedi. L'Angleterre serait également très remaniée, avec Pollock titularisé, pour le match contre le Japon samedi.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T15:03:09+00:00",
+    "titres_sources": [
+      "Rugby, Championnat des nations : des changements à toutes les lignes pour l'Irlande face aux Fidji",
+      "Rugby, Championnat des Nations : l'Angleterre fortement remaniée face au Japon, Pollock titulaire"
+    ]
+  },
+  {
+    "titre": "Présidentielle : Zemmour veut supprimer 800 000 postes, Roussel propose 60 000 agents de proximité",
+    "texte": "Eric Zemmour déclarerait vouloir supprimer 800 000 emplois dans la fonction publique. Fabien Roussel proposerait d'instaurer 60 000 policiers, gendarmes et douaniers de proximité.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-12T15:03:09+00:00",
+    "titres_sources": [
+      "Présidentielle : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+      "Présidentielle : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité"
+    ]
   }
 ]
