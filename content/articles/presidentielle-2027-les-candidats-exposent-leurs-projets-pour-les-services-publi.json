@@ -13,13 +13,14 @@
   "rubrique": "presidentielle",
   "publie_le": "2026-11-12T19:02:40+00:00",
   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edouard_Philippe_3x4_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Wasasaq8",
-    "licence": "CC0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
-    "legende": "Edouard Philippe posant pour un portrait",
-    "source": "Wikimedia Commons"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%89douard_Philippe_2017.jpg/1280px-%C3%89douard_Philippe_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Nicolas Richoffer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2017.jpg",
+    "legende": "Édouard Philippe, Premier Ministre, le 05 septembre 2017 à Dijon.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Édouard Philippe 2017.jpg"
   },
   "sources": [
     {
