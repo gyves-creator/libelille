@@ -338,5 +338,23 @@
     "titres_sources": [
       "Des tirs font au moins un mort et quatre blessés à Washington, annonce la police"
     ]
+  },
+  {
+    "titre": "Des artisans modernisent des meubles anciens près de Nantes",
+    "texte": "À proximité de Nantes, une petite entreprise dirigée par Agnieszka et Marie rénove des meubles anciens, notamment des buffets, pour les adapter aux goûts actuels. Elles désossent les pièces afin de leur donner un style contemporain.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T16:41:56+00:00",
+    "titres_sources": [
+      "Près de Nantes, Agnieszka et Marie remettent les meubles de nos grands-parents au goût du jour"
+    ]
+  },
+  {
+    "titre": "Un homme jugé au Gard pour viols et enregistrements",
+    "texte": "Selon la presse, un homme serait jugé devant la cour criminelle du Gard pour avoir drogué, violé et filmé six femmes, sans contester les faits. Il aurait remercié un proche de la victime d’avoir alerté les gendarmes, ce qui aurait permis d’interrompre les actes.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T16:41:56+00:00",
+    "titres_sources": [
+      "L'homme jugé pour avoir drogué, violé et filmé six femmes \"ne conteste pas\" les faits devant la cour criminelle du Gard"
+    ]
   }
 ]
