@@ -392,5 +392,23 @@
     "titres_sources": [
       "Byron Donalds, premier gouverneur noir de Floride"
     ]
+  },
+  {
+    "titre": "Coulisses de l'annonce d'interdiction de l'abaya à l'école",
+    "texte": "Selon franceinfo, Gabriel Attal aurait annoncé en 2023 l’interdiction du port de l’abaya dans les établissements scolaires, décision qui aurait fortement accru sa popularité. L’enquête indique que la communication aurait été largement orchestrée.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-12T17:59:12+00:00",
+    "titres_sources": [
+      "VIDEO. \"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal"
+    ]
+  },
+  {
+    "titre": "Déclarations du policier K. lors du procès Zecler",
+    "texte": "Le Figaro rapporte que, lors du procès Zecler, le policier K. aurait affirmé n’avoir rien remarqué malgré les témoignages de brutalités envers le producteur à l’extérieur du studio. Il aurait justifié son inaction par une «grande agitation».",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T17:59:12+00:00",
+    "titres_sources": [
+      "Au procès Zecler, le policier qui menotte mais ne voit ni n’entend rien"
+    ]
   }
 ]
