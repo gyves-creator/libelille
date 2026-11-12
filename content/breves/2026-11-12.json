@@ -466,5 +466,23 @@
     "titres_sources": [
       "Pourquoi les Français les plus aisés ont-ils payé moins d'impôt sur le revenu en 2025 que l'année précédente ?"
     ]
+  },
+  {
+    "titre": "Robots omniprésents au Web Summit de Lisbonne",
+    "texte": "Selon France 24, le salon Web Summit à Lisbonne présenterait une abondance de robots, des unités de production aux assistants quotidiens. La journaliste Héloïse Mélan aurait exploré ces technologies, illustrant l’accélération de l’IA et de la robotique.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T20:00:40+00:00",
+    "titres_sources": [
+      "Web Summit de Lisbonne : les robots sont partout !"
+    ]
+  },
+  {
+    "titre": "Incendie à Montpellier, mortiers à Meaux et Toulouse, violences scolaires",
+    "texte": "Selon franceinfo, un incendie aurait touché un lycée de Montpellier et des mortiers d’artifice auraient été lancés dans les couloirs d’établissements à Meaux et près de Toulouse, jeudi 12 novembre. Le gouvernement envisagerait de renforcer les sanctions et de systématiser les réponses.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T20:00:40+00:00",
+    "titres_sources": [
+      "Comment enrayer les violences dans les lycées ?"
+    ]
   }
 ]
