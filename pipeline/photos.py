@@ -26,8 +26,8 @@ def utilisees():
 
 def marquer_utilisee(photo):
     """À appeler quand une photo est réellement publiée."""
-    if photo and photo.get("cle"):
-        utilisees().add(photo["cle"])
+    if photo and cle_de(photo):
+        utilisees().add(cle_de(photo))
         ecrire_json(FICHIER_UTILISEES, sorted(utilisees())[-20000:])
 
 WIKI = "https://fr.wikipedia.org/w/api.php"
@@ -87,8 +87,29 @@ def _depuis_wikipedia(sujet):
     )
     pages = data.get("query", {}).get("pages", [])
     if pages and pages[0].get("pageimage"):
-        return _infos_fichier("File:" + pages[0]["pageimage"])
+        titre = "File:" + pages[0]["pageimage"].replace("_", " ")
+        cle = "commons:" + titre
+        if cle in utilisees():
+            return None  # photo déjà utilisée : on cherchera une autre photo du même sujet sur Commons
+        infos = _infos_fichier(titre)
+        if infos:
+            infos["cle"] = cle
+        return infos
     return None
+
+
+def cle_de(photo):
+    """Identifiant stable d'une photo, quelle que soit la façon dont elle a été trouvée."""
+    if not photo:
+        return None
+    if photo.get("cle"):
+        return photo["cle"]
+    import urllib.parse
+    url = photo.get("url", "").split("?")[0]
+    if "wikimedia.org" in url:
+        nom = url.split("/thumb/")[-1].split("/")[2] if "/thumb/" in url else url.rsplit("/", 1)[-1]
+        return "commons:File:" + urllib.parse.unquote(nom).replace("_", " ")
+    return url or None
 
 
 def _recherche_commons(requete, titre_doit_contenir=None):
@@ -103,7 +124,7 @@ def _recherche_commons(requete, titre_doit_contenir=None):
         },
     )
     for res in data.get("query", {}).get("search", []):
-        cle = "commons:" + res["title"]
+        cle = "commons:" + res["title"].replace("_", " ")
         if cle in utilisees():
             continue
         if titre_doit_contenir and not any(m in res["title"].lower() for m in titre_doit_contenir):

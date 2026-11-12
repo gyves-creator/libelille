@@ -235,18 +235,63 @@ def main(journal=print):
     return publies_total
 
 
-def reparer_photos(cfg, journal=print, max_par_passage=5):
-    """Articles des 7 derniers jours publiés sans image : on leur cherche une photo (par défaut de la rubrique/ville)."""
+def _sujet_depuis_photo(photo):
+    """« Teddy_Riner_Cannes_2016.jpg » → « Teddy Riner Cannes » : pour chercher une AUTRE photo du même sujet."""
+    import re as _re
+    import urllib.parse
+    nom = urllib.parse.unquote((photo or {}).get("url", "").split("?")[0].rsplit("/", 1)[-1])
+    nom = _re.sub(r"^\d+px-", "", nom.rsplit(".", 1)[0]).replace("_", " ")
+    nom = _re.sub(r"\(.*?\)|\b\d+\b|\bcrop(ped)?\b|\b\d+x\d+\b", " ", nom, flags=_re.I)
+    return " ".join(nom.split()[:5])
+
+
+def _nom_propre_du_titre(titre):
+    """Premier nom de personne ou de lieu du titre (« Maël de Calan qualifie… » → « Maël de Calan »)."""
+    import re as _re
+    mots_vides = {"Le", "La", "Les", "Un", "Une", "Des", "En", "Au", "Aux", "À", "Pour", "Présidentielle", "Vidéo"}
+    for m in _re.finditer(r"[A-ZÉÈÀÂÎÔ][\w'’-]+(?:\s+(?:de|du|des|d’|d'|la|le)?\s*[A-ZÉÈÀÂÎÔ][\w'’-]+)+", titre):
+        mots = m.group(0).split()
+        while mots and mots[0] in mots_vides:
+            mots = mots[1:]
+        if len(mots) >= 2:
+            return " ".join(mots)
+    return ""
+
+
+def reparer_photos(cfg, journal=print, max_par_passage=6):
+    """Articles des 7 derniers jours sans image, ou avec une image déjà utilisée par un article plus ancien :
+    on leur cherche une autre photo (d'abord du même sujet, sinon la photo par défaut de la rubrique/ville)."""
     if os.environ.get("LEFIL_SIMULATION") == "1":
         return
     rubs = {r["slug"]: r for r in cfg["rubriques"]}
     limite = maintenant() - timedelta(days=7)
-    faits = 0
-    for f in sorted(ARTICLES.glob("*.json")):
+    tous = []
+    for f in ARTICLES.glob("*.json"):
         a = lire_json(f, None)
-        if not a or a.get("photo") or _dt(a["publie_le"]) < limite or a["rubrique"] not in rubs:
-            continue
-        photo = photos.trouver_photo("", rubs[a["rubrique"]], journal)
+        if a:
+            tous.append((a["publie_le"], f, a))
+    tous.sort(key=lambda x: x[0])
+    vues = set()
+    a_refaire = []
+    for _, f, a in tous:
+        cle = photos.cle_de(a.get("photo"))
+        if cle:
+            photos.utilisees().add(cle)  # tout ce qui est déjà en ligne compte comme utilisé
+        if (not a.get("photo") or cle in vues) and _dt(a["publie_le"]) >= limite and a["rubrique"] in rubs:
+            a_refaire.append((f, a))
+        if cle:
+            vues.add(cle)
+    faits = 0
+    for f, a in a_refaire[:max_par_passage]:
+        ancienne = a.get("photo")
+        photo = None
+        for sujet in [_nom_propre_du_titre(a["titre"]), _sujet_depuis_photo(ancienne) if ancienne else ""]:
+            if sujet:
+                photo = photos.trouver_photo(sujet, rubs[a["rubrique"]], journal)
+                if photo:
+                    break
+        if not photo:
+            photo = photos.trouver_photo("", rubs[a["rubrique"]], journal)
         if photo and photo.get("telecharger"):
             import hashlib
             try:
@@ -258,10 +303,8 @@ def reparer_photos(cfg, journal=print, max_par_passage=5):
             a["photo"] = photo
             ecrire_json(f, a)
             photos.marquer_utilisee(photo)
-            journal(f"📷 photo ajoutée à « {a['titre']} »")
+            journal(f"📷 {'nouvelle photo (doublon)' if ancienne else 'photo ajoutée'} : « {a['titre']} »")
             faits += 1
-            if faits >= max_par_passage:
-                break
 
 
 def enregistrer(art, ev, rub, photo, modele):
