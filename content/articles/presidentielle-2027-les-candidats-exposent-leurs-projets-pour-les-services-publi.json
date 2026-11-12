@@ -1,0 +1,32 @@
+{
+  "slug": "presidentielle-2027-les-candidats-exposent-leurs-projets-pour-les-services-publi",
+  "titre": "Présidentielle 2027 : les candidats exposent leurs projets pour les services publics",
+  "chapeau": "Lors d’une journée spéciale Franceinfo consacrée aux services publics, les candidats à l’élection présidentielle de 2027 ont présenté leurs programmes le 12 novembre 2026. Les propositions portent sur la fonction publique, la santé, les médias et le statut syndical de la magistrature.",
+  "corps": "## Des mesures contrastées pour la fonction publique\nLes candidats ont indiqué des orientations très différentes concernant les effectifs de la fonction publique. Bruno Retailleau, porte‑parole des Républicains, a déclaré vouloir « économiser 300 000 postes » en s’appuyant sur l’intelligence artificielle. De son côté, Eric Zemmour, du parti Reconquête, a proposé de supprimer 800 000 postes, sans préciser les modalités de mise en œuvre. Aucun des deux programmes ne détaille les critères de sélection ni les impacts attendus sur les services aux usagers.\n\n## Santé, syndicats et médias sous le feu des propositions\nMarine Tondelier, candidate écologiste, a promis l’ouverture de 2 000 centres de santé d’ici 2030, soulignant la nécessité de renforcer l’accès aux soins sur l’ensemble du territoire. Édouard Philippe, candidat Horizons, a quant à lui affirmé que la possibilité de se syndiquer doit être interdite dans la magistrature, une position qui suscite déjà des réactions au sein du monde judiciaire. Le même candidat a réitéré son refus de participer à une primaire de la droite et du centre, en précisant « Je ne me soumettrai pas à une primaire ». Raphaël Glucksmann, représentant du PS/Place publique, a mis en avant la défense d’une société où les grands médias ne seraient pas contrôlés par quelques oligarques, sans toutefois détailler les mécanismes de régulation envisagés.\n\n## Un débat centré sur les services publics\nTous les candidats se sont exprimés depuis le studio 104 de la Maison de la Radio et de la Musique, dans le cadre d’une émission dédiée aux enjeux du secteur public. Les interventions ont permis de mettre en lumière la diversité des approches : certains prônent une réduction massive des effectifs, d’autres misent sur l’expansion des infrastructures de santé ou la protection de l’indépendance médiatique. Aucun programme ne comporte de chiffres détaillés sur les budgets alloués, ni d’indications précises sur les étapes de mise en œuvre.\n\nLes propositions présentées constituent une photographie de l’opinion des candidats à un instant donné, mais ne constituent pas des prévisions de résultats électoraux. Pour les modalités d’inscription sur les listes et les conditions de vote, les électeurs sont invités à consulter le site officiel service‑public.gouv.fr.",
+  "mots_cles": [
+    "présidentielle 2027",
+    "services publics",
+    "fonction publique",
+    "santé",
+    "médias"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-12T19:02:40+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edouard_Philippe_3x4_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wasasaq8",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+    "legende": "Edouard Philippe posant pour un portrait",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

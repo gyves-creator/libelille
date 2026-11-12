@@ -428,5 +428,24 @@
     "titres_sources": [
       "Abattement « retraités », allégements de charges, donations… Les propositions surprenantes du Sénat sur la fiscalité"
     ]
+  },
+  {
+    "titre": "Finlande bloque les visas russes avant les championnats 2027",
+    "texte": "La Finlande ne délivrera plus de visas aux athlètes russes, y compris ceux sous bannière neutre, à compter du 16 novembre 2026. Cette mesure s’inscrit avant les championnats du monde de patinage artistique prévus en mars 2027, que le pays accueillera.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T19:02:48+00:00",
+    "titres_sources": [
+      "La Finlande annonce bloquer les visas des athlètes russes, alors que s’y profilent les championnats du monde de patinage artistique",
+      "La Finlande empêche les athlètes russes d’entrer sur son territoire"
+    ]
+  },
+  {
+    "titre": "Environ trente sociétés de journalistes alertent sur violences policières",
+    "texte": "Une trentaine d’associations de journalistes auraient signalé des agressions et intimidations subies par plusieurs reporters de la part de membres des forces de l’ordre. Elles appelleraient à renforcer la protection de la liberté d’informer.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-12T19:02:48+00:00",
+    "titres_sources": [
+      "Menaces, violences, intimidations : la liberté d’informer malmenée, dénoncent des sociétés de journalistes"
+    ]
   }
 ]
