@@ -13,13 +13,14 @@
   "rubrique": "lyon",
   "publie_le": "2026-11-09T18:32:39+00:00",
   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Montage-Lyon-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Montage-Lyon-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credit": "Aldg692VX",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Montage-Lyon-2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Montage-Lyon-2022.jpg",
     "legende": "Différentes vues de Lyon : De haut en bas, de gauche à droite : la basilique Notre-Dame de Fourvière, la place des Terreaux avec la fontaine Bartholdi et l’Hôtel de Ville, les toits du Vieux-Lyon, les",
-    "source": "Wikimedia Commons"
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montage-Lyon-2022.jpg"
   },
   "sources": [
     {

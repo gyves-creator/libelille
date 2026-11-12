@@ -13,13 +13,14 @@
   "rubrique": "marseille",
   "publie_le": "2026-11-09T18:32:34+00:00",
   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Notre_Dame_de_la_Garde.jpg/1280px-Notre_Dame_de_la_Garde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Benh LIEU SONG",
-    "licence": "CC BY-SA 3.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_la_Garde.jpg",
-    "legende": "Notre-Dame de la Garde basilica, in Marseille, Bouches-du-Rhône, France, seen from the Vieux port (old harbour)",
-    "source": "Wikimedia Commons"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/La_chapelle_Notre-Dame-de-la-Garde_et_les_falaises_d%27Etretat.jpg/1280px-La_chapelle_Notre-Dame-de-la-Garde_et_les_falaises_d%27Etretat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jörg Braukmann",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_chapelle_Notre-Dame-de-la-Garde_et_les_falaises_d%27Etretat.jpg",
+    "legende": "The Notre-Dame-de-la-Garde chapel and the cliffs of Étretat",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:La chapelle Notre-Dame-de-la-Garde et les falaises d'Etretat.jpg"
   },
   "sources": [
     {
