@@ -12,13 +12,14 @@
   "rubrique": "societe",
   "publie_le": "2026-11-11T17:02:30+00:00",
   "photo": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg/1280px-Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "© Patrice Normand/Leextra via opale",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Portrait_S%C3%A9bastien_Lecornu.jpg/1280px-Portrait_S%C3%A9bastien_Lecornu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "GautierGadriot",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es_(cropped_2).jpg",
-    "legende": "Official portrait of Sébastien Lecornu (French Minister of the Armed Forces des Armées) ©Patrice Normand/Leextra",
-    "source": "Wikimedia Commons"
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_S%C3%A9bastien_Lecornu.jpg",
+    "legende": "Sébastien Lecornu en 2020",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Portrait Sébastien Lecornu.jpg"
   },
   "sources": [
     {

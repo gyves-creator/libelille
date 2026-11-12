@@ -12,13 +12,14 @@
   "rubrique": "sport",
   "publie_le": "2026-11-12T10:11:04+00:00",
   "photo": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Georges Biard",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Teddy_Riner%2C_judoka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Jmex60",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_Cannes_2016.jpg",
-    "legende": "Teddy Riner au festival de Cannes",
-    "source": "Wikimedia Commons"
+    "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner,_judoka.jpg",
+    "legende": "French judoka Teddy Riner",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Teddy Riner, judoka.jpg"
   },
   "sources": [
     {
