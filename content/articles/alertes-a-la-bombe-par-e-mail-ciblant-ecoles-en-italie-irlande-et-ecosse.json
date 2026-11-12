@@ -1,0 +1,37 @@
+{
+  "slug": "alertes-a-la-bombe-par-e-mail-ciblant-ecoles-en-italie-irlande-et-ecosse",
+  "titre": "Alertes à la bombe par e‑mail ciblant écoles en Italie, Irlande et Écosse",
+  "chapeau": "Des courriels menaçants ont été diffusés mercredi 11 novembre à plusieurs milliers d'établissements scolaires en Italie, en Irlande du Nord et en Écosse. Les autorités locales ont minimisé le risque, tandis que le gouvernement italien a appelé à une plus grande vigilance face aux menaces de guerre hybride.",
+  "corps": "## Diffusion massive des menaces\nDes messages électroniques évoquant des bombes ont été envoyés le 11 novembre à un grand nombre d’écoles situées en Italie, à Belfast, à Dublin et à Édimbourg. Les courriels, qualifiés d’« alertes à la bombe », ont touché plusieurs milliers d’établissements, déclenchant des protocoles de sécurité dans les établissements concernés. Aucun dispositif explosif n’a été découvert à ce jour.\n\n## Réactions des gouvernements\nEn Irlande du Nord, à Dublin et à Édimbourg, les autorités locales ont indiqué que la situation était sous contrôle et que le danger était limité. En Italie, le Premier ministre Giorgia Meloni a publié une vidéo sur les réseaux sociaux dans laquelle elle a déclaré : « On n'a rien trouvé, dans aucune école ». Elle a ajouté que ces messages visaient avant tout à « faire peur », à provoquer « le soupçon » et « le chaos ». Le gouvernement italien a toutefois souligné la nécessité de sensibiliser la population aux risques liés à la guerre hybride, un concept qui désigne l’utilisation combinée de moyens militaires et non‑militaires pour déstabiliser un adversaire.\n\n## Contexte et mesures de précaution\nLes menaces de ce type s’inscrivent dans une tendance plus large où des acteurs utilisent des canaux numériques pour semer la panique dans des lieux publics, notamment les établissements éducatifs. Les protocoles de sécurité scolaire prévoient généralement l’évacuation des locaux, la vérification des lieux par les forces de l’ordre et la communication d’informations aux parents. Dans les pays concernés, les services de police ont été mobilisés pour analyser les courriels et vérifier l’absence de danger réel.\n\n## Perspectives\nAlors que les investigations se poursuivent, les autorités insistent sur le fait qu’aucune bombe n’a été dénichée et que les écoles peuvent reprendre leurs activités normales. Le gouvernement italien, tout en rassurant le public, continue de mettre en avant la nécessité d’une vigilance accrue face aux formes modernes de conflit, notamment les campagnes de désinformation et les menaces virtuelles qui peuvent rapidement se transformer en crises réelles.",
+  "mots_cles": [
+    "alertes à la bombe",
+    "écoles",
+    "guerre hybride",
+    "Giorgia Meloni",
+    "sécurité scolaire"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-12T05:08:33+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Governo Italiano",
+    "licence": "CC BY 3.0 it",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/it/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+    "legende": "Official portrait of Giorgia Meloni in 2024",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
+      "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
+      "url": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

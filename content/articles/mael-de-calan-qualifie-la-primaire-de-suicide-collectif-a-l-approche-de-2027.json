@@ -1,0 +1,32 @@
+{
+  "slug": "mael-de-calan-qualifie-la-primaire-de-suicide-collectif-a-l-approche-de-2027",
+  "titre": "Maël de Calan qualifie la primaire de « suicide collectif » à l'approche de 2027",
+  "chapeau": "Le président du conseil départemental du Finistère, soutenant le futur candidat Edouard Philippe, a dénoncé la tenue d’une primaire comme source de division. Il a exprimé son avis mercredi sur franceinfo, qualifiant l’éventualité d’un « suicide collectif ».",
+  "corps": "## Déclaration de Maël de Calan\nLe mercredi 11 novembre 2026, Maël de Calan, président du conseil départemental du Finistère et porte‑parole du soutien apporté à Edouard Philippe, est intervenu sur le direct de franceinfo. Il a affirmé que l’organisation d’une primaire en vue de l’élection présidentielle de 2027 constituerait, selon ses mots, « un suicide collectif ». Il a ajouté que ce processus engendrerait « deux à trois mois de division » au sein des forces politiques concernées.\n\n## Le débat autour de la primaire pour 2027\nDepuis plusieurs mois, la question de la tenue d’une primaire pour désigner le candidat de la droite et du centre est régulièrement débattue. Les partisans de la primaire y voient un moyen de rassembler les différentes sensibilités et d’offrir aux électeurs une visibilité accrue sur les programmes. Les opposants, quant à eux, soulignent les risques de désunion et de perte d’élan pendant la campagne, arguments qui rejoignent les propos de Maël de Calan.\n\n## Position du soutien à Edouard Philippe\nEn tant que soutien déclaré à la candidature d’Edouard Philippe, Maël de Calan a exprimé ses réserves quant à la capacité d’une primaire à préserver l’unité de la coalition qui se formerait autour du futur candidat. Son point de vue s’inscrit dans une dynamique plus large où certains responsables locaux et régionaux évaluent les conséquences d’une compétition interne prolongée avant la campagne présidentielle.\n\n## Contexte institutionnel\nLa loi française ne prévoit pas d’obligation de primaire pour les partis, mais plusieurs formations l’ont adoptée comme procédure interne depuis les élections de 2017. L’organisation d’une primaire implique généralement la mise en place d’un calendrier de campagnes, de débats et de votes internes, processus qui, selon les critiques, peut détourner les ressources et l’attention des enjeux nationaux. Le commentaire de Maël de Calan rappelle ainsi les inquiétudes exprimées par certains acteurs quant à la pertinence d’une telle démarche à l’approche de la présidentielle de 2027.\n\nCes éléments offrent un aperçu des positions exprimées au sein de la droite et du centre, sans préjuger des évolutions futures du scrutin. Pour les modalités d’inscription sur les listes électorales et les modalités de vote, les citoyens sont invités à consulter le site officiel service‑public.gouv.fr.",
+  "mots_cles": [
+    "primaire",
+    "présidentielle 2027",
+    "Maël de Calan",
+    "Edouard Philippe",
+    "division politique"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-12T05:08:30+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edouard_Philippe_3x4_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wasasaq8",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+    "legende": "Edouard Philippe posant pour un portrait",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
