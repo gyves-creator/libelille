@@ -16,5 +16,24 @@
     "titres_sources": [
       "REPORTAGE. \"Ça a explosé comme un volcan\" : dans la région turque de Konya, la terre s'effondre à cause de la sécheresse et d'une agriculture trop gourmande en eau"
     ]
+  },
+  {
+    "titre": "Stade Rennais : un tiers des Bleus issus de son centre de formation",
+    "texte": "Le centre de formation du Stade Rennais représente un tiers des joueurs convoqués pour les matchs de Ligue des Nations contre l’Italie et la Turquie. Le club repère les jeunes dès 13 ans, visibilité accrue avec Zinedine Zidane à la tête des Bleus.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T06:11:25+00:00",
+    "titres_sources": [
+      "Le centre de formation du Stade rennais, la nouvelle pépinière de l’équipe de France de football",
+      "Pourquoi autant de joueurs de l'équipe de France ont grandi au Stade Rennais ?"
+    ]
+  },
+  {
+    "titre": "Alexia Barrier, première femme à finir la Route du Rhum en Ultim",
+    "texte": "Alexia Barrier est devenue la première femme à terminer la Route du Rhum en catégorie Ultim, après dix jours de navigation. Âgée de 46 ans, elle a franchi la ligne d’arrivée à Pointe-à-Pitre mercredi à 15 h 42, heure locale.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T06:11:25+00:00",
+    "titres_sources": [
+      "Route du Rhum : Alexia Barrier, première navigatrice de l’histoire à terminer la transatlantique en Ultim"
+    ]
   }
 ]

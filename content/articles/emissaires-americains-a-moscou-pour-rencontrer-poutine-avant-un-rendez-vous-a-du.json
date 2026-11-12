@@ -1,0 +1,42 @@
+{
+  "slug": "emissaires-americains-a-moscou-pour-rencontrer-poutine-avant-un-rendez-vous-a-du",
+  "titre": "Émissaires américains à Moscou pour rencontrer Poutine avant un rendez‑vous à Dublin",
+  "chapeau": "Steve Witkoff et Jared Kushner, envoyés par les États‑Unis, sont arrivés à Moscou pour une entrevue avec le président russe Vladimir Poutine. Le même jour, ils doivent se rendre à Dublin afin de rencontrer le président ukrainien Volodymyr Zelensky, après la clôture des pourparlers à Abu Dhabi.",
+  "corps": "## Une tournée diplomatique américaine en deux temps\n\nLes deux représentants du gouvernement américain, Steve Witkoff et Jared Kushner, ont posé leurs valises à Moscou pour un entretien prévu avec le président Vladimir Poutine. Cette visite s’inscrit dans le cadre d’une série de rencontres visant à relancer le dialogue entre la Russie et l’Ukraine, conflit qui dure depuis 2022. Après la réunion à Moscou, les deux émissaires se rendront à Dublin, où ils rencontreront le président ukrainien Volodymyr Zelensky le même jour. Les deux étapes de la mission américaine suivent la conclusion, mercredi, des pourparlers entre Moscou et Kiev qui se sont tenus à Abu Dhabi, aux Émirats arabes unis.\n\n## Décès inattendu de l’ambassadeur russe aux États‑Unis\n\nAlors que les discussions diplomatiques se poursuivent, le ministère russe des Affaires étrangères a annoncé mercredi le décès soudain de l’ambassadeur Alexandre Dartchiev, 66 ans, à Washington. Aucun détail supplémentaire n’a été fourni concernant les circonstances de ce décès. L’annonce du ministre des Affaires étrangères russe a souligné la perte d’un haut fonctionnaire, sans préciser les causes ou le lieu exact du décès.\n\n## Contexte des négociations\n\nLes pourparlers qui se sont achevés à Abu Dhabi ont été décrits comme une étape importante, même si les détails des accords restent confidentiels. La communauté internationale suit de près ces rencontres, espérant qu’elles débouchent sur des avancées concrètes pour désamorcer le conflit. La participation d’émissaires américains, traditionnellement perçus comme des acteurs clés de la diplomatie occidentale, reflète l’implication continue des États‑Unis dans la recherche d’une solution politique.\n\n## Perspectives\n\nLes rencontres prévues à Moscou et à Dublin seront l’occasion pour les États‑Unis de jouer un rôle de médiateur entre les deux belligérants. Le calendrier serré, avec deux entretiens le même jour, montre l’urgence perçue par Washington de faire avancer les négociations. Le décès de l’ambassadeur Dartchiev, quant à lui, pourrait affecter les relations russo‑américaines, même si aucune indication officielle n’a été donnée sur d’éventuelles répercussions.\n\nLes observateurs attendent les retombées de ces entretiens, qui pourraient soit ouvrir une nouvelle phase de dialogue, soit souligner les limites des efforts diplomatiques en cours.",
+  "mots_cles": [
+    "Ukraine",
+    "Russie",
+    "diplomatie",
+    "États‑Unis",
+    "rencontres"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-12T06:11:17+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29.jpg/1280px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Пресс-служба Президента РФ",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped)_(higher_res).jpg",
+    "legende": "Russian President Vladimir Putin makes a video address to congratulate Russia's women on International Women's Day in Moscow, Russia.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "DIRECT. Guerre en Ukraine : les émissaires américains sont arrivés en Russie pour une rencontre avec Vladimir Poutine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : les émissaires américains, Steve Witkoff et Jared Kushner, sont à Moscou pour rencontrer Vladimir Poutine",
+      "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "En direct : les émissaires américains sont arrivés en Russie pour rencontrer Poutine",
+      "url": "https://www.france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
