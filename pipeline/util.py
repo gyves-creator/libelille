@@ -12,7 +12,8 @@ RACINE = Path(__file__).resolve().parent.parent
 ARTICLES = RACINE / "content" / "articles"
 ETAT = RACINE / "state"
 
-USER_AGENT = "LeFilBot/1.0 (site d'actualite; robot de veille RSS)"
+# Wikimedia demande un User-Agent qui identifie le robot avec un moyen de contact (sinon limitation stricte)
+USER_AGENT = "LibelilleBot/1.0 (https://www.libelille.fr/a-propos/; robot de veille d'actualite)"
 
 MOTS_VIDES = set(
     """avec dans pour sur sous entre vers chez sans mais plus moins tres apres avant

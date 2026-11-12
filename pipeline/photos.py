@@ -35,11 +35,24 @@ COMMONS = "https://commons.wikimedia.org/w/api.php"
 LARGEUR = 1200
 
 
+_dernier_appel = [0.0]
+
+
 def _get(url, params):
+    """Appel à l'API Wikipédia / Commons, poli : 1 requête par seconde, et on patiente si on est limité (429)."""
+    import time
     params = {**params, "format": "json", "formatversion": 2}
-    r = requests.get(url, params=params, headers={"User-Agent": USER_AGENT}, timeout=20)
-    r.raise_for_status()
-    return r.json()
+    for essai in range(3):
+        attente = 1.0 - (time.time() - _dernier_appel[0])
+        if attente > 0:
+            time.sleep(attente)
+        _dernier_appel[0] = time.time()
+        r = requests.get(url, params=params, headers={"User-Agent": USER_AGENT}, timeout=20)
+        if r.status_code == 429 and essai < 2:
+            time.sleep(int(r.headers.get("Retry-After", "0") or 0) or 15 * (essai + 1))
+            continue
+        r.raise_for_status()
+        return r.json()
 
 
 def _licence_libre(nom):

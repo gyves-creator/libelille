@@ -258,7 +258,7 @@ def _nom_propre_du_titre(titre):
     return ""
 
 
-def reparer_photos(cfg, journal=print, max_par_passage=6):
+def reparer_photos(cfg, journal=print, max_par_passage=3):
     """Articles des 7 derniers jours sans image, ou avec une image déjà utilisée par un article plus ancien :
     on leur cherche une autre photo (d'abord du même sujet, sinon la photo par défaut de la rubrique/ville)."""
     if os.environ.get("LEFIL_SIMULATION") == "1":
