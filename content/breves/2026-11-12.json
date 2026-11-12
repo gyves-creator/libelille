@@ -484,5 +484,24 @@
     "titres_sources": [
       "Comment enrayer les violences dans les lycées ?"
     ]
+  },
+  {
+    "titre": "Valérien Ismaël prend la tête du Havre, lanterne rouge de Ligue 1",
+    "texte": "Valérien Ismaël a été nommé entraîneur du Havre, dernier du classement de Ligue 1. Le club, sans victoire après dix journées, mise sur le technicien de 51 ans pour assurer le maintien jusqu’à la fin de saison.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T20:29:57+00:00",
+    "titres_sources": [
+      "Valérien Ismaël nommé nouvel entraîneur du Havre, lanterne rouge de Ligue 1",
+      "Ligue 1 : lanterne rouge, Le Havre confie les rênes à Valérien Ismaël"
+    ]
+  },
+  {
+    "titre": "France-Italie : égalisation après le poteau de Barcola",
+    "texte": "La France a égalisé face à l’Italie après que Barcola a touché le poteau lors de la 5e journée de la Ligue des Nations. Le match, disputé en Italie jeudi soir, décisif pour une place en quarts de finale.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-12T20:29:57+00:00",
+    "titres_sources": [
+      "EN DIRECT - Italie-France : Barcola frappe sur le poteau, les Bleus en réaction après avoir concédé l’égalisation"
+    ]
   }
 ]
