@@ -54,5 +54,24 @@
     "titres_sources": [
       "« Le soleil de l’Ukraine se lève dans le Donbass », un livre de photos en hommage au travail d’Antoni Lallican, photoreporter français tué en Ukraine"
     ]
+  },
+  {
+    "titre": "Victoire démocrate au Sénat du Mississippi, Scott Colom premier noir",
+    "texte": "Les démocrates ont gagné le siège sénatorial du Mississippi. Scott Colom devient le premier sénateur noir de cet État depuis la période de la Reconstruction.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T07:28:44+00:00",
+    "titres_sources": [
+      "Midterms aux Etats-Unis : les démocrates entérinent un peu plus leur large victoire en décrochant un siège au Sénat dans l'Etat conservateur du Mississippi",
+      "Midterms 2026 : les démocrates remportent une victoire historique dans le Mississippi"
+    ]
+  },
+  {
+    "titre": "Frappe israélienne sur l’hôpital Nasser à Gaza fait au moins six morts",
+    "texte": "Une frappe de l’armée israélienne a touché l’hôpital Nasser de Khan Younès, faisant au moins six morts et une vingtaine de blessés. L’armée israélienne a confirmé être à l’origine de l’attaque.",
+    "rubrique": "international",
+    "publie_le": "2026-11-12T07:28:44+00:00",
+    "titres_sources": [
+      "A Gaza, au moins six personnes ont été tuées par une frappe israélienne sur l'hôpital Nasser à Khan Younès"
+    ]
   }
 ]

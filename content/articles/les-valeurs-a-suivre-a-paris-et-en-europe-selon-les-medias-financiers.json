@@ -1,0 +1,37 @@
+{
+  "slug": "les-valeurs-a-suivre-a-paris-et-en-europe-selon-les-medias-financiers",
+  "titre": "Les valeurs à suivre à Paris et en Europe selon les médias financiers",
+  "chapeau": "Plusieurs sites d'information financière ont publié, le 12 novembre 2026, leurs sélections de titres à surveiller sur le marché parisien et européen. Aucun détail n'est fourni dans les dépêches, mais les publications indiquent une actualisation de ces listes.",
+  "corps": "## Mise à jour des listes de valeurs\nLes portails Boursorama et Zonebourse ont diffusé, à des heures différentes le 12 novembre, des articles intitulés « Les valeurs à suivre à Paris et en Europe ». Les titres suggèrent une actualisation des titres boursiers jugés pertinents par leurs analystes, mais les résumés disponibles ne contiennent aucune indication sur les entreprises concernées, les secteurs privilégiés ou les critères de sélection.\n\n## Contexte du marché parisien\nLe marché français, représenté principalement par Euronext Paris, regroupe des entreprises de divers secteurs, allant de l'énergie aux technologies. Chaque trimestre, les analystes financiers publient des listes de valeurs à suivre afin d'orienter les investisseurs sur les titres présentant un potentiel de performance ou une volatilité intéressante. Ces sélections sont généralement basées sur des indicateurs comme la capitalisation, les résultats récents, les perspectives sectorielles ou les mouvements de cours récents.\n\n## Accès aux informations et suivi pratique\nDans l'absence de précisions dans les dépêches, les lecteurs souhaitant connaître les titres recommandés sont invités à consulter directement les sites de Boursorama et de Zonebourse. Les deux plateformes offrent des espaces dédiés à l'analyse de marché où les listes sont régulièrement mises à jour, accompagnées d'articles explicatifs et de graphiques. Pour les habitants de la région parisienne, ces ressources peuvent servir de point de départ avant de prendre des décisions d'investissement ou de suivre l'évolution des cours en temps réel.\n\n## Conseils pour les investisseurs locaux\nIl est recommandé aux particuliers de vérifier la date de mise à jour des listes, de comparer plusieurs sources et de tenir compte de leur profil de risque avant d'agir. En cas de doute, les services de conseil en investissement proposés par les banques ou les courtiers peuvent offrir un accompagnement personnalisé. Les informations complémentaires sont généralement disponibles sur les sites institutionnels de la Bourse de Paris ou via les newsletters des médias cités.",
+  "mots_cles": [
+    "marché boursier",
+    "Paris",
+    "valeurs",
+    "investissement",
+    "Europe"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-12T07:28:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Palais_Brongniart_Paris_7.jpg/1280px-Palais_Brongniart_Paris_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Chabe01",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_Brongniart_Paris_7.jpg",
+    "legende": "Palais Brongniart, Paris.",
+    "source": "Wikimedia Commons"
+  },
+  "sources": [
+    {
+      "media": "Boursorama",
+      "titre": "Les valeurs à suivre à Paris et en Europe (actualisé)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEpBXzJYWlZjbFQxeE56OE9yWDRLLWVyU2RSNl96Mk14YThJWl9obUR4MFpmaEdFSzBXeEZ3cWxyQ1E5SEFYWm1wZFZ2b1A4ay1DN1hRZHl3c1U4ald0OVdUUkdLa1IyTEc1bUxVSzdmeDhFZ1hfRFljdjZMUlJWUTFGNTlraFhxZlhzeVJrMFJ2Ull3YWFmUS1xNkRkdG83Mk1fbXRkT0xLcEFwSzBvRW5YeFRTT2hIalVwS0Z5RkZ5dXpyRkVfc9IBzgFBVV95cUxQaVJ0d0RncFFpNzk5cUpTWUt4QVlXN3l2RkZiaW9YNzMyT3g1czE5TEhlclBYX3FVcHdpSDhWMzlybHVCZlNMZ3M1eUVHYnowTTN6NXU4ZXRaSi0wU3ZrN1F2cF9adWNOTVRlN3BGX2QyWjBBRncxNEFHSEw3Uk1KZWJSTDQ1WEVLSXVrS2VhejNBRUhEa0pjNnhXcjJjZDZMQnhyZFlZTllFUFR2N3pqenFBMU50dktXUzl0b05XNU1ra0lKMTlRTEExOUF3QQ?oc=5"
+    },
+    {
+      "media": "Zonebourse Suisse",
+      "titre": "Les valeurs à suivre à Paris et en Europe",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGt4VDR3UHk2cWdEajc0YjRua21CYXBuVE9WQ2lFUTFCNXQ3RGloTWxFT2hvaFYzMVlwWmduOVJ1Y0tVeHptcnJlblhWdW9OejZUZkhEVk9qNnRid1ZjZGtYM25YNnpIYi1oeVV3ajZDN1hENFozLXFjZjlOMmM5N0VlTlBlOUFJb0FldDk0TDNtTzJkUTA4bzc2c2ZRMFBWRTlv?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
