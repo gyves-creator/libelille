@@ -536,5 +536,23 @@
     "titres_sources": [
       "Mort de Jesus de Miguel : la sanction infligée à Andorre Owono est connue"
     ]
+  },
+  {
+    "titre": "RC Lens nomme Didier Digard entraîneur, succédant à Cahuzac",
+    "texte": "Le RC Lens aurait nommé Didier Digard comme entraîneur, en remplacement de Yannick Cahuzac, selon Le Figaro. Cette décision, annoncée vendredi, surprend les supporters du club.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T21:53:57+00:00",
+    "titres_sources": [
+      "Ligue 1 : le RC Lens a choisi son nouvel entraîneur, et c’est une sacrée surprise"
+    ]
+  },
+  {
+    "titre": "FAA américaine suspend tous les vols pour problème de communication",
+    "texte": "L'administration fédérale de l'aviation américaine aurait ordonné l'arrêt de tous les vols à cause d'un problème de communication, selon franceinfo. Le secrétaire aux Transports, Sean Duffy, a indiqué que des techniciens enquêtaient sur la cause vendredi.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T21:53:57+00:00",
+    "titres_sources": [
+      "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\""
+    ]
   }
 ]
