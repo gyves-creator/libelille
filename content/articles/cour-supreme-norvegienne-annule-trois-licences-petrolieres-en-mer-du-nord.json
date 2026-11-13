@@ -1,0 +1,38 @@
+{
+  "slug": "cour-supreme-norvegienne-annule-trois-licences-petrolieres-en-mer-du-nord",
+  "titre": "Cour suprême norvégienne annule trois licences pétrolières en mer du Nord",
+  "chapeau": "La plus haute juridiction de Norvège a déclaré nulles trois autorisations d’extraction de pétrole dans le secteur norvégien de la mer du Nord. La décision, qualifiée d'historique, impose à l’État de réévaluer les émissions prévues de chaque projet et leurs effets climatiques.",
+  "corps": "## Une annulation sans effet immédiat sur la production\nLa Cour suprême d’Oslo a invalidé trois licences octroyées pour l’exploitation pétrolière en mer du Nord. Bien que la mesure ne suspendte pas immédiatement les activités déjà en cours, elle crée une obligation juridique pour le gouvernement de recalculer les émissions totales attendues de chaque champ concerné. Cette démarche vise à vérifier la conformité des projets avec les exigences climatiques nationales et internationales.\n\n## Des exigences renforcées en matière d’impact environnemental\nLes magistrats ont motivé leur décision en soulignant que les études d’impact environnemental et les évaluations présentées par les autorités compétentes étaient jugées insuffisantes. Les juges ont ainsi rappelé que les procédures d’autorisation doivent intégrer une analyse complète des conséquences sur le climat, notamment l’influence potentielle sur les températures mondiales. Cette position reflète les revendications des organisations écologistes qui contestaient les licences depuis plusieurs mois.\n\n## Conséquences pour le secteur énergétique norvégien\nL’annulation des licences intervient dans un contexte où la Norvège demeure l’un des principaux producteurs de pétrole et de gaz en Europe, avec une part importante de son PIB liée à l’exploitation offshore. La décision du plus haut tribunal pourrait inciter d’autres projets à être soumis à des évaluations plus rigoureuses, voire à être révisés ou retirés si les critères climatiques ne sont pas satisfaits. Les acteurs du secteur devront désormais anticiper des exigences accrues en matière de transparence et de calcul des émissions.\n\n## Perspectives juridiques et environnementales\nLe jugement, qualifié de « historique » par plusieurs observateurs, ouvre la voie à d’éventuelles contestations similaires dans d’autres pays où les licences d’extraction sont remises en cause pour des raisons environnementales. Il souligne également la capacité des juridictions à jouer un rôle de contrôle sur les décisions administratives liées aux ressources naturelles, en particulier lorsqu’elles sont jugées incompatibles avec les engagements climatiques. La suite de ce processus dépendra des réponses du gouvernement et des entreprises concernées, ainsi que de l’évolution des exigences légales en matière de protection du climat.",
+  "mots_cles": [
+    "Norvège",
+    "Cour suprême",
+    "licences pétrolières",
+    "impact environnemental",
+    "émissions"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-13T17:00:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg/1280px-2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gordon Leggett",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse,_S%C3%B8r-Tr%C3%B8ndelag,_Norway.jpg",
+    "legende": "Kjeungskjær Lighthouse (sometimes called The Red Sailor), at Sør-Trøndelag off Ørlandet, Norway on November 13, 2016. In a cooperative arrangement, the exterior of the Kjeungskjær Fyr or Lighthouse is",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:2016-11-13 01 Kjeungskjær Lighthouse, Sør-Trøndelag, Norway.jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes",
+      "url": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

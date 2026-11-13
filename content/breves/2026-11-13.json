@@ -350,5 +350,23 @@
     "titres_sources": [
       "Une démocratie vit mieux avec des arguments qu’avec des remparts"
     ]
+  },
+  {
+    "titre": "L'UE préparerait le « Kids Act » interdisant les réseaux avant 13 ans",
+    "texte": "L'UE interdirait les réseaux sociaux aux moins de treize ans dans le cadre du « Kids Act », afin de réduire les quatre à six heures quotidiennes d'écran des jeunes. Un sondage indique que 92 % des Européens soutiennent cette mesure.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T17:00:53+00:00",
+    "titres_sources": [
+      "Avec le \"Kids Act\", l’UE interdira les réseaux avant 13 ans : des écrans bridés pour les ados ?"
+    ]
+  },
+  {
+    "titre": "Franceinfo diffuserait un documentaire sur l'espionnage chinois après le scandale Nvidia",
+    "texte": "Franceinfo préparerait la diffusion d'un documentaire « Chine, dans les secrets des nouveaux maîtres‑espions » après le scandale Nvidia. Le film examinerait les techniques d'espionnage chinoises, à la suite des révélations sur Jensen Huang et Alice Huang, accusée de transférer illégalement des puces vers la Chine.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-13T17:00:53+00:00",
+    "titres_sources": [
+      "DIRECT. \"Chine, dans les secrets des nouveaux maîtres-espions\" : suivez le documentaire de franceinfo après le scandale Nvidia"
+    ]
   }
 ]
