@@ -332,5 +332,23 @@
     "titres_sources": [
       "\"On a vraiment un air pur, on pense que les odeurs sont vraiment incroyables\" : l'archipel de Turku en Finlande recrute un nez"
     ]
+  },
+  {
+    "titre": "Le Maroc envisagerait de fournir de l’uranium à la France",
+    "texte": "Le groupe OCP étudierait, avec EDF et Orano, les modalités d’un accord pour produire et livrer du concentré d’uranium à la France. Le royaume disposerait de réserves phosphatières importantes, pouvant soutenir cette éventuelle filière.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T16:34:17+00:00",
+    "titres_sources": [
+      "Le Maroc se positionne en potentiel fournisseur d’uranium de la France"
+    ]
+  },
+  {
+    "titre": "Le Monde suggérerait que la démocratie souffre d’appels à l’interdiction",
+    "texte": "Matthieu Goar, responsable du service Politique du Monde, avancerait que les récents appels à l’interdiction dans le débat public traduisent une démocratie affaiblie. Selon lui, la démocratie prospère davantage grâce aux arguments qu’aux barrières.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-13T16:34:17+00:00",
+    "titres_sources": [
+      "Une démocratie vit mieux avec des arguments qu’avec des remparts"
+    ]
   }
 ]
