@@ -70,5 +70,23 @@
     "titres_sources": [
       "France-Afrique du Sud : le rendez-vous «du merveilleux, du fantastique et du sublime»"
     ]
+  },
+  {
+    "titre": "Lecornu qualifie certains personnels de l'Éducation nationale de complices",
+    "texte": "Selon franceinfo, le ministre de l'Éducation nationale, Sébastien Lecornu, aurait déclaré que certains personnels seraient complices des violences observées lors des mouvements lycéens récents. Les syndicats de l'Éducation nationale auraient réagi en se levant debout pour protester.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T07:57:10+00:00",
+    "titres_sources": [
+      "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes"
+    ]
+  },
+  {
+    "titre": "Rupture du dialogue entre la congrégation de Bétharram et l'ONG",
+    "texte": "Selon franceinfo, la congrégation de Bétharram aurait indiqué que le comité de suivi de l'Institut Louis Joinet ne répondait qu'à une initiative de l'association mandatée. Elle affirmerait que mission de l'ONG était terminée avec la publication du rapport sur les violences subies par des enfants.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-13T07:57:10+00:00",
+    "titres_sources": [
+      "Affaire Bétharram : dialogue rompu entre la congrégation et l'ONG mandatée pour faire un rapport sur les centaines d'enfants victimes de violences dans l'établissement"
+    ]
   }
 ]
