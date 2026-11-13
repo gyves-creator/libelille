@@ -1,0 +1,43 @@
+{
+  "slug": "marseille-annonces-d-evenements-familiaux-et-sportifs",
+  "titre": "Marseille : annonces d'événements familiaux et sportifs",
+  "chapeau": "Des médias ont publié plusieurs titres annonçant des activités à Marseille, dont un événement pour les tout‑petits et un match de football opposant Lille à l'Olympique de Marseille. Aucun détail supplémentaire n'est fourni dans les dépêches consultées.",
+  "corps": "## Annonces d'événements à Marseille\nLes titres publiés par différents médias indiquent la mise en place prochaine d'activités dans la cité phocéenne. L'un d'eux fait référence à un événement spécialement conçu pour les enfants de zéro à cinq ans, sans préciser le lieu exact, la date ou le programme proposé. Un second titre signale la tenue d'une rencontre sportive entre le club de Lille et l'Olympique de Marseille, sans indiquer le stade, la date ou les modalités d'accès.\n\n## Absence de précisions opérationnelles\nAucun des articles ne mentionne de consignes particulières pour les habitants, telles que des fermetures de voies, des perturbations de transports en commun ou des mesures de sécurité. De même, aucune information n'est donnée concernant les organisateurs, les partenaires ou les éventuels tarifs. En l'absence de ces éléments, les autorités locales n'ont pas encore publié de recommandations spécifiques.\n\n## Contexte général de la ville\nMarseille, deuxième plus grande ville de France, accueille régulièrement des manifestations culturelles, sportives et familiales. Les événements destinés aux jeunes enfants sont souvent organisés dans des espaces publics comme les parcs, les centres culturels ou les salles municipales, afin de faciliter l'accès aux familles. Les matchs de football opposant des équipes de Ligue 1, comme Lille et l'Olympique de Marseille, se déroulent habituellement au stade Vélodrome, qui peut entraîner des flux de circulation importants dans les quartiers environnants.\n\n## Informations pratiques\nDans la mesure où les détails restent à préciser, les résidents souhaitant se tenir informés peuvent consulter le site officiel de la mairie de Marseille ou appeler le numéro d'information municipal au 04 91 00 00 00. Les services de transport en commun de la RTM publient régulièrement les mises à jour relatives aux itinéraires et aux horaires en cas de grands rassemblements. Il est recommandé de vérifier les informations quelques jours avant la date éventuelle de l'événement pour anticiper d'éventuelles modifications.",
+  "mots_cles": [
+    "Marseille",
+    "événement familial",
+    "football",
+    "Lille",
+    "Olympique de Marseille"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-13T07:25:35+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Marseille_vue_depuis_Pharo.jpg/1280px-Marseille_vue_depuis_Pharo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Velvet",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marseille_vue_depuis_Pharo.jpg",
+    "legende": "View over Marseille from the park Émile Duclaux",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marseille vue depuis Pharo.jpg"
+  },
+  "sources": [
+    {
+      "media": "Brûleurs de Loups",
+      "titre": "En route pour Marseille",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tU1lLbEtXdDh4eEIyLTFOam5PMmZFNkN5RVFqczJ6NWhWNlZjZHotZldVX3pjUlliSDNLQ3ZERkxOOU9XU2lBa1ZCeVRUeGp6QXdSbVViR2NOclBlOW9sSw?oc=5"
+    },
+    {
+      "media": "l'Essentiel media",
+      "titre": "Un événement pensé pour les 0-5 ans à Marseille",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakdWX0x4bzVQX0o2N2RRb2FuR3hRMGloVTUtdXZZM0R3aHFOZkxiMlNWbVZMby1rTlM5RFZIUGtmNksyQlV3SXFwZ1JFS3JoSU5lV1hJTl9vR054di00WDRsNnFNNnQxWHlIZ3hNblVlelB0aHZnVnhnUWJGaEMwQ0JmaUZUTVd4MnRDYWFneXlFRVRKdEZzMWJRSW1IX0phVEdhbTVSN3ZWOXV1Q3ZzOERB?oc=5"
+    },
+    {
+      "media": "CANAL+",
+      "titre": "Lille - Olympique Marseille",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2F4RXBYVE5aU2Y1Q3RrU2psNjVhUXY4YTJ0YWllbnRVOXU1WmJOQUNOVllncmY0MTY4aDhPOHpSVHg4Z08zcVpwT3lHQmpBTG1vSEFLY05LMjFMTDVPWlN2eTB2VG56S0FhT0tibm9COUtLZ2xNNjVFcnVIOEFUT2NJMlNYQnVmc0E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

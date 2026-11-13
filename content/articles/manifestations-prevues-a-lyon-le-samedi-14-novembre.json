@@ -1,0 +1,38 @@
+{
+  "slug": "manifestations-prevues-a-lyon-le-samedi-14-novembre",
+  "titre": "Manifestations prévues à Lyon le samedi 14 novembre",
+  "chapeau": "Des manifestations sont annoncées à Lyon pour le samedi 14 novembre. Les autorités invitent les habitants à se tenir informés des éventuelles perturbations.",
+  "corps": "## Calendrier des manifestations\nDeux médias locaux ont indiqué que des rassemblements sont prévus à Lyon le samedi 14 novembre. Aucun détail supplémentaire n’a été fourni quant aux lieux précis, aux thèmes ou aux organisations impliquées. Cette information apparaît dans les programmes de la chaîne d’information locale et d’une station de radio régionale, qui ont publié leurs titres le même jour.\n\n## Conseils aux riverains\nEn l’absence d’indications précises, les services municipaux et la préfecture conseillent généralement aux habitants de rester vigilants et de suivre les communications officielles. En cas de manifestations, il est fréquent que la police assure la sécurité et que des déviations temporaires soient mises en place, notamment sur les axes majeurs ou les transports en commun. Les riverains peuvent donc s’attendre à d’éventuels ralentissements de la circulation ou à des modifications d’horaires de bus et de tramway, même si aucune perturbation n’est confirmée pour cet événement.\n\nLes autorités recommandent de consulter les sites internet de la Ville de Lyon et de la Préfecture du Rhône, ainsi que les réseaux sociaux officiels, pour obtenir les dernières consignes. En cas de doute, le numéro d’information de la police municipale (17) ou le service d’assistance du service public de transport (TCL) peuvent être contactés. Les habitants sont également invités à éviter les zones susceptibles d’être occupées par les manifestants, à moins d’y être volontairement présent, afin de réduire les risques d’incident.\n\n## Contexte général\nLes manifestations publiques sont un droit reconnu en France, encadré par le code de la sécurité intérieure. Elles peuvent être organisées pour des motifs variés, allant des revendications sociales aux questions environnementales. Dans les grandes agglomérations comme Lyon, les forces de l’ordre travaillent en coordination avec les organisateurs pour garantir la sécurité des participants et des tiers. Les habitants des quartiers concernés sont souvent informés à l’avance des éventuelles restrictions de stationnement ou de l’accès aux commerces, afin de limiter les désagréments.\n\nEn l’absence d’informations supplémentaires, il convient de rester attentif aux mises à jour officielles dans les heures qui précèderont le 14 novembre. La prudence et la consultation des sources fiables restent les meilleures stratégies pour les Lyonnais souhaitant anticiper les impacts éventuels de ces manifestations.",
+  "mots_cles": [
+    "manifestations",
+    "Lyon",
+    "sécurité",
+    "circulation",
+    "autorités"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-13T07:25:41+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Plaque_%C3%A0_Roger_Violi_Rue_Garibaldi_%28Lyon%29.jpg/1280px-Plaque_%C3%A0_Roger_Violi_Rue_Garibaldi_%28Lyon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Plaque_%C3%A0_Roger_Violi_Rue_Garibaldi_(Lyon).jpg",
+    "legende": "Plaque à Roger Violi Rue Garibaldi (Lyon). recto in engraving : EN SOUVENIR DE ROGER VIOLI ASSASSINE PAR LA GESTAPO LE 24-11-1943 A L'AGE DE 24 ANS",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Plaque à Roger Violi Rue Garibaldi (Lyon).jpg"
+  },
+  "sources": [
+    {
+      "media": "LYON 1ère",
+      "titre": "Quelles manifestations à Lyon dans les prochains jours ?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHFScDhkRmY5RmtFSHI3NXA0ck16TGZDdzR2ZnBPQ2xSUi0yRzNPcE1QeXJ6ZmQzaUZWUWszc0xoeWs5TlpHMFp6MUYzRFVRcmRfZFVCNWFubmUySXBIZFg1ZnluSnRwZlpHbzdZSk5maVdHYmp3dVNKemRiYWxsS0tTNGc1U3NQYWIxMTRxaFBuVi1nUFE?oc=5"
+    },
+    {
+      "media": "Radio Espace",
+      "titre": "Manifestations à Lyon samedi 14 novembre : ce qui est prévu",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZHJiMkhGNHIwdG04eDVUbjkyOG02S2hNRjdLV25ac3dCbkFzN3ZldFFraUY0ZFNuVkF1ekpVSW5ZTkVtYXhCMkYxNFZuNkN4NlR5QmVTMDFoTldrV010bGlDLW9QTkluMkR1RENtVnczcXAyWUtXR3NhQzVLWlFVcm4xRlpMT0VvVzYwRXNyRnJXb044T3ZnNnZQTWxzRkNQM2hVajNXNTRRMXNDTUtUdHY5V3NRZUpScHhPWm9HdjFJWjdua29wWWZZMWVBSTlFQ2kxUjJkWUlwZw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

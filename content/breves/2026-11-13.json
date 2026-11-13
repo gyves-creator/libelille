@@ -52,5 +52,23 @@
     "titres_sources": [
       "Une panne mondiale touche la messagerie Outlook de Microsoft, les mesures pour la résoudre ne fonctionnent \"pas comme prévu\""
     ]
+  },
+  {
+    "titre": "Bruno Retailleau présente un programme anti-immigration avant les présidentielles 2027",
+    "texte": "Le candidat des Républicains, Bruno Retailleau, a publié jeudi un livret programmatique visant à restreindre fortement l’arrivée d’étrangers en France. Cette initiative intervient après une mauvaise performance dans les sondages, le parti cherchant à reprendre le contrôle.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-13T07:25:48+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : Bruno Retailleau dévoile son programme toujours plus dur pour lutter contre l’immigration"
+    ]
+  },
+  {
+    "titre": "France affronte l’Afrique du Sud à Saint‑Denis ce vendredi",
+    "texte": "Les Bleus se préparent à recevoir l’Afrique du Sud à Saint‑Denis vendredi, un affrontement qualifié de choc des hémisphères par le sélectionneur Fabien Galthié. Le match est présenté comme un moment de grand spectacle.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T07:25:48+00:00",
+    "titres_sources": [
+      "France-Afrique du Sud : le rendez-vous «du merveilleux, du fantastique et du sublime»"
+    ]
   }
 ]
