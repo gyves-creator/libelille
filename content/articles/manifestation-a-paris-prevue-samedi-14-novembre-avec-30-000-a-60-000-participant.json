@@ -1,0 +1,38 @@
+{
+  "slug": "manifestation-a-paris-prevue-samedi-14-novembre-avec-30-000-a-60-000-participant",
+  "titre": "Manifestation à Paris prévue samedi 14 novembre avec 30 000 à 60 000 participants",
+  "chapeau": "Une mobilisation importante est attendue à Paris ce samedi 14 novembre, avec un effectif estimé entre trente et soixante mille personnes. Les autorités locales invitent les habitants à anticiper d’éventuelles perturbations dans la circulation et les transports en commun.",
+  "corps": "## Une manifestation de grande ampleur attendue\nLes services de police et les organisateurs indiquent qu’une manifestation d’envergure se déroulera dans la capitale le samedi 14 novembre. Les estimations du nombre de participants varient, les sources évoquant un contingent compris entre trente mille et soixante mille manifestants. Aucun détail supplémentaire n’a été communiqué quant aux revendications ou aux itinéraires prévus, la couverture médiatique ne mentionnant que les chiffres attendus.\n\n## Impacts potentiels sur la vie quotidienne\nDans le contexte parisien, des rassemblements de cette taille ont habituellement des répercussions sur la circulation routière et le réseau de transports en commun. Les autorités municipales recommandent aux usagers de vérifier les informations diffusées par la RATP, le réseau de bus et les services de transport en commun avant de se déplacer. Les voies principales du centre-ville, ainsi que les accès aux gares et aux stations de métro, peuvent être partiellement fermées ou faire l’objet de contrôles de sécurité renforcés. Les riverains sont invités à suivre les consignes de la police et à privilégier les itinéraires alternatifs lorsqu’ils se déplacent à pied ou en voiture.\n\n## Conseils pratiques pour les habitants\nAfin de limiter les désagréments, il est conseillé de consulter les sites internet de la Mairie de Paris et de la préfecture de police pour obtenir les dernières mises à jour. Les lignes de métro les plus fréquentées dans le centre, notamment celles desservant les quartiers de la Bastille, du Marais et de la Place de la République, sont souvent concernées par des ralentissements. Les usagers peuvent également se tenir informés via les applications mobiles dédiées aux transports publics. En cas d’urgence, le numéro d’appel d’urgence européen 112 reste disponible.\n\n## Suivi de la manifestation\nLes forces de l’ordre restent mobilisées pour assurer la sécurité du public et le bon déroulement de la manifestation. Une enquête est ouverte afin de garantir le respect des lois en vigueur, sans qu’aucune information supplémentaire ne soit fournie à ce stade. Les habitants sont invités à rester vigilants, à éviter les zones de rassemblement et à signaler tout comportement suspect aux autorités compétentes.",
+  "mots_cles": [
+    "manifestation",
+    "Paris",
+    "circulation",
+    "transports",
+    "sécurité"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-13T09:06:03+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Plan_de_Paris_en_1657.JPG/1280px-Plan_de_Paris_en_1657.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jan Janssonius",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Plan_de_Paris_en_1657.JPG",
+    "legende": "Map of Paris",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Plan de Paris en 1657.JPG"
+  },
+  "sources": [
+    {
+      "media": "Sortir à Paris",
+      "titre": "Jusqu'à 60 000 manifestants attendus samedi à Paris : ce qui se prépare",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDVicUJ2eVdlYkZCTTVBYm1rbzdGcVRkZl9rZUZyRW1jWnlmU1VRMlBSUThkdnZRakdTTGlEVUtyRS1JTGMzWXJVYk4zYmtrck8wbDJ3dDJGdno1bDFiaHQ0NXUtWXU0ak44NndBLVo0YVU3TUFNdmFyaEZkQktTREswQjN4eGY2Zk03NDRYUkVtWHBISE96SDNFOHVFRVRjR2pBalk5RzIzdlhGNHlKeDB6T3hoaXl4aVI3SA?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "Colère sociale: entre 30.000 et 60.000 manifestants attendus à Paris ce samedi 14 novembre",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRzVjU3UyaFp1XzExNDBtY0JORlJnRXJHZ2RNNi1MZ1hGTFJSWTM3dG9Cc2VTYkdZLUlqZXlSN1hsOS1oc1VhT3JVZ05FTHlDWkpqcWE4X0tuZ3pBZ3dZME9SVUxFWTFQVklraXFhemEyRW1NTElxTzN2X2RCMVQxZHZPQXA3a2FEb1VQN0lOTElnN3V3QXk0a3lUU2ExSGhfdjlLN2lRbjdrN2pJdi05c1NZUTJhckhvM1RlSlJQWjFJMmJiOHFaclFZbU9HNWREYXlfaGZYVTJTSWo1MlZlbFdpYlotUVh4QkpSblZtVGc2T1k?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

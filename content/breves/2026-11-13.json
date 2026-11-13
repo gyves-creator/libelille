@@ -88,5 +88,25 @@
     "titres_sources": [
       "Affaire Bétharram : dialogue rompu entre la congrégation et l'ONG mandatée pour faire un rapport sur les centaines d'enfants victimes de violences dans l'établissement"
     ]
+  },
+  {
+    "titre": "Inflation française à 3,4 % en octobre, hausse de l’énergie",
+    "texte": "L'Insee indique que l'inflation a atteint 3,4 % sur un an en octobre, le niveau le plus élevé depuis janvier 2024. Les prix de l'énergie ont progressé de 24,1 % en glissement annuel, tirés par le gaz et les produits pétroliers.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T09:06:17+00:00",
+    "titres_sources": [
+      "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
+      "L'inflation en France a atteint 3,4% sur un an en octobre"
+    ]
+  },
+  {
+    "titre": "Dayot Upamecano quitte le groupe des Bleus avant France‑Turquie",
+    "texte": "Le défenseur du Bayern Munich, Dayot Upamecano, a quitté le rassemblement des Bleus pour raisons personnelles avant le match de Ligue des Nations contre la Turquie. Son départ a été autorisé par l'entraîneur Zinédine Zidane.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T09:06:17+00:00",
+    "titres_sources": [
+      "Dayot Upamecano quitte le groupe \"pour raison personnelle\" avant le match de la Ligue des nations face à la Turquie",
+      "Équipe de France : Dayot Upamecano quitte le rassemblement avant France-Turquie"
+    ]
   }
 ]
