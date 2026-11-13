@@ -1,0 +1,43 @@
+{
+  "slug": "france-1-3-italie-premiere-defaite-de-zidane-qualification-en-jeu",
+  "titre": "France 1-3 Italie : première défaite de Zidane, qualification en jeu",
+  "chapeau": "Les Bleus s’inclinent 3-1 face à l’Italie au San Siro, première perte du mandat de Zinédine Zidane. Le résultat les oblige à compter sur le match décisif contre la Turquie à Bordeaux pour accéder aux quarts de finale de la Ligue des Nations.",
+  "corps": "## Un revers inattendu pour l’équipe de France\nDans le cadre de la cinquième journée de la Ligue des Nations, la sélection française a été battue 3-1 par la Squadra Azzurra au stade San Siro de Milan. Cette défaite constitue le premier revers de Zinédine Zidane depuis sa prise de fonction à la tête des Bleus. Le match, longtemps maîtrisé par la France, a été entaché d’erreurs individuelles qui ont permis aux Italiens de revenir au score et de s’imposer à domicile.\n\nLe dispositif de Zidane a suscité des critiques immédiates : le milieu de terrain Gusto a été jugé « trop mauvais », tandis que les attaquants Doué et Olise ont offert une prestation jugée intermittente. Le technicien a également été décrit comme dépassé par les événements. Dans les minutes qui ont suivi la défaite, le sélectionneur a répondu aux médias en évoquant une « faillite collective », des « erreurs de coaching » et le retour de Kylian Mbappé, sans toutefois préciser les ajustements envisagés.\n\n## Les enjeux du prochain match contre la Turquie\nLe bilan de la soirée place la France dans une position précaire au sein de son groupe. Pour valider son billet en quarts de finale, les Bleus doivent désormais obtenir un résultat positif lors du dernier match de la journée, prévu dimanche contre la Turquie. Cette rencontre se déroulera à Bordeaux, offrant à la France un avantage de terrain mais également la pression de devoir compenser la défaite subie à Milan.\n\nSi la France réussit à s’imposer face à la Turquie, elle se qualifierait pour les phases à élimination directe de la compétition. Dans le cas contraire, son parcours s’arrêterait prématurément, marquant une première interruption de la campagne de Zidane depuis son arrivée. Les prochains jours seront donc déterminants pour évaluer la capacité du groupe à rebondir après ce premier revers.",
+  "mots_cles": [
+    "Italie",
+    "France",
+    "Ligue des Nations",
+    "Zinédine Zidane",
+    "San Siro"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-13T05:06:42+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/France_national_football_team_2006.JPG/1280px-France_national_football_team_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kotivalo",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:France_national_football_team_2006.JPG",
+    "legende": "French national football (soccer) team meet the crowds on Place de la Concorde after 2nd place in World Championships on July 10, 2006.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:France national football team 2006.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Italie-France : revivez la première défaite de Zinédine Zidane à la tête des Bleus qui devront encore attendre pour la qualification en quarts de Ligue des nations",
+      "url": "https://www.franceinfo.fr/sports/directs/direct-italie-france-qualification-en-vue-pour-les-quarts-de-ligue-des-nations-suivez-et-commentez-le-match-avec-nous_8276066.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Ligue des nations : les Bleus prennent l’eau en Italie, première défaite pour Zidane",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/italie-france-les-bleus-coulent-a-milan-20261112"
+    },
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Italie-France : le premier échec de l’ère Zidane plonge les Bleus dans le doute",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/13/italie-france-le-premier-echec-de-l-ere-zidane-plonge-les-bleus-dans-le-doute_6809260_3242.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

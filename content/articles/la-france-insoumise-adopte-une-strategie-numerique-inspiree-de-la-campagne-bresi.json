@@ -1,0 +1,33 @@
+{
+  "slug": "la-france-insoumise-adopte-une-strategie-numerique-inspiree-de-la-campagne-bresi",
+  "titre": "La France Insoumise adopte une stratégie numérique inspirée de la campagne brésilienne",
+  "chapeau": "À l'approche de l'élection présidentielle de 2027, le mouvement de Jean‑Luc Mélenchon s’appuie sur des techniques issues de la campagne de Lula au Brésil. Selon franceinfo‑Politique, cette orientation passe par la création de chaînes WhatsApp et la tentative de réduire la visibilité des contenus d’extrême droite.",
+  "corps": "## Une inspiration venue d'Amérique du Sud\nLe quotidien franceinfo‑Politique rapporte que les équipes proches de Jean‑Luc Mélenchon s’inspirent des méthodes mises en œuvre par André Janones, le stratège numérique du président brésilien Lula. Cette influence se traduit par l’adoption de principes de proximité et d’interaction directe avec les sympathisants, déjà éprouvés lors de la campagne brésilienne.\n\n## Des outils numériques au service du message\nDans le cadre de la préparation de la présidentielle de 2027, La France Insoumise lance notamment une chaîne de diffusion sur WhatsApp, un canal de messagerie largement utilisé en France. L’objectif affiché est de créer un lien direct avec les militants et de diffuser rapidement les propositions du programme. Parallèlement, le mouvement cherche à « invisibiliser » les contenus jugés d’extrême droite, une démarche qui vise à limiter leur diffusion sur les réseaux.\n\n## Contexte et enjeux\nJean‑Luc Mélenchon, fondateur de La France Insoumise, a régulièrement mis l’accent sur l’importance du numérique pour mobiliser les électeurs. L’adoption de techniques inspirées d’une campagne présidentielle étrangère s’inscrit dans une logique de modernisation de la communication politique. Le recours à WhatsApp reflète la volonté de toucher un public large, notamment les électeurs moins présents sur les plateformes publiques. La volonté de réduire la visibilité de l’extrême droite s’inscrit quant à elle dans le débat plus large sur la régulation des contenus en ligne, un sujet régulièrement abordé par les autorités françaises.\n\n## Perspectives\nSelon les informations disponibles, aucune donnée chiffrée n’a été communiquée concernant l’impact attendu de ces mesures. Le dispositif reste en phase de mise en place, et son efficacité sera évaluée au fil de la campagne. Les observateurs soulignent que l’adoption de stratégies numériques étrangères nécessite une adaptation aux spécificités du public français et aux règles locales en matière de communication politique.",
+  "mots_cles": [
+    "La France Insoumise",
+    "Jean‑Luc Mélenchon",
+    "stratégie numérique",
+    "WhatsApp",
+    "extrême droite"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-13T05:06:36+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Melenchon%2C_6%C3%A8me_R%C3%A9publique_-_MG_6513.jpg/1280px-Melenchon%2C_6%C3%A8me_R%C3%A9publique_-_MG_6513.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Pierre-Selim",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Melenchon,_6%C3%A8me_R%C3%A9publique_-_MG_6513.jpg",
+    "legende": "Marche pour une sixième République du Front de Gauche, Toulouse, allées Jean-Jaurès",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Melenchon, 6ème République - MG 6513.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"On crée de la proximité\" : comment La France insoumise s'inspire de la campagne présidentielle de Lula sur les réseaux sociaux",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
