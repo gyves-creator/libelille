@@ -404,5 +404,24 @@
     "titres_sources": [
       "\"Ils nous ont tués\" : Novaïa Gazeta ferme, la presse libre disparaît en Russie"
     ]
+  },
+  {
+    "titre": "Jensen Huang quitte la présidence de Nvidia au milieu d’un scandale",
+    "texte": "Le PDG de Nvidia, Jensen Huang, a démissionné jeudi suite à des révélations sur sa relation avec Alice Huang, soupçonnée d’espionnage pour la Chine. Pékin a rejeté les accusations formulées par les autorités américaines.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T18:29:14+00:00",
+    "titres_sources": [
+      "Affaire Nvidia : Alice Huang, la mystérieuse maîtresse accusée d’espionner pour la Chine",
+      "RECIT. Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA"
+    ]
+  },
+  {
+    "titre": "Orano mise sur le nucléaire pour lutter contre le climat",
+    "texte": "Nicolas Maes, directeur général d’Orano, a déclaré que le nucléaire était essentiel pour combattre le réchauffement climatique lors d’une interview vendredi. Le groupe intensifie ses investissements et envisage une hausse salariale de 4,5 %.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T18:29:14+00:00",
+    "titres_sources": [
+      "\"Le nucléaire est un élément clé pour la lutte contre le réchauffement climatique\", affirme Nicolas Maes, directeur général d'Orano"
+    ]
   }
 ]
