@@ -1,0 +1,38 @@
+{
+  "slug": "inflation-francaise-a-3-4-en-octobre-tiree-par-la-hausse-de-l-energie",
+  "titre": "Inflation française à 3,4 % en octobre, tirée par la hausse de l’énergie",
+  "chapeau": "En octobre, l’inflation mesurée sur un an a atteint 3,4 % en France, le niveau le plus élevé depuis janvier 2024. Cette remontée s’explique principalement par une forte progression des prix de l’énergie.",
+  "corps": "## Une inflation à son plus haut niveau depuis 2024\nL’Institut national de la statistique et des études économiques (INSEE) a publié les chiffres officiels de l’inflation pour le mois d’octobre. Le taux annuel s’établit à 3,4 %, dépassant les valeurs observées depuis le début de l’année 2024. Cette donnée confirme les estimations provisoires diffusées à la fin du mois précédent.\n\n## L’énergie, principal moteur de la hausse\nLes composantes de l’indice des prix à la consommation montrent que la hausse la plus marquée provient du secteur de l’énergie. Les prix de l’énergie ont progressé de 24,1 % en glissement annuel en octobre, après une augmentation de 21,3 % le mois précédent. Cette dynamique reflète la poussée des cours du gaz et des produits pétroliers, qui a entraîné une hausse des tarifs appliqués aux consommateurs.\n\n## Contexte et portée du rebond\nL’inflation en France a connu une période de modération au cours de l’année, avant d’enregistrer ce nouveau pic. Le poids de l’énergie dans le panier de consommation explique en grande partie la re‑accélération observée. Les données publiées s’inscrivent dans le suivi mensuel de l’INSEE, qui sert de référence pour les décisions de politique monétaire et les ajustements de contrats indexés sur l’inflation.\n\n## Perspectives sans conjecture\nLes autorités économiques, dont la Banque de France, utilisent ces indicateurs pour calibrer leurs stratégies, mais les bulletins consultés ne comportent pas d’analyse prospective. Le niveau actuel de 3,4 % constitue donc un repère statistique, sans indication supplémentaire sur l’évolution future de la dynamique des prix.",
+  "mots_cles": [
+    "inflation",
+    "France",
+    "énergie",
+    "prix",
+    "INSEE"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-13T10:08:03+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Inventaire_communal_1988._55%2C_Meuse_-_Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques_%3B_Service_central_des_enqu%C3%AAtes_et_%C3%A9tudes_statistiques_-_bpt6k91177799_%2802_of_62%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Institut national de la statistique et des études économiques (France). Fonction indéterminée France. Ministère de l'agr",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Inventaire_communal_1988._55,_Meuse_-_Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques_;_Service_central_des_enqu%C3%AAtes_et_%C3%A9tudes_statistiques_-_bpt6k91177799_(02_of_62).jpg",
+    "legende": "Sujet : Équipements communaux Meuse, Département de la -- Communes -- Statistiques Meuse, Département de la Communes -- Statistiques Échelle(s) : 1:525 000 Numérisé par le partenaire Appartient à l’en",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Inventaire communal 1988. 55, Meuse - Institut national de la statistique et des études économiques ; Service central des enquêtes et études statistiques - bpt6k91177799 (02 of 62).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "L'inflation en France a atteint 3,4% sur un an en octobre, à son plus haut niveau depuis janvier 2024",
+      "url": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-a-atteint-3-4-sur-un-an-en-octobre_8280635.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
+      "url": "https://www.lefigaro.fr/conso/l-inflation-a-bien-atteint-3-4-sur-un-an-en-octobre-selon-l-insee-20261113"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

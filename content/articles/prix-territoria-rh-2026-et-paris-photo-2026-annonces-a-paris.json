@@ -1,0 +1,37 @@
+{
+  "slug": "prix-territoria-rh-2026-et-paris-photo-2026-annonces-a-paris",
+  "titre": "Prix Territoria RH 2026 et Paris Photo 2026 annoncés à Paris",
+  "chapeau": "Le prix Territoria RH 2026 a été décerné à Grand Paris Sud, mettant en avant la santé des femmes comme volet essentiel de la politique RH. Par ailleurs, la prochaine édition de Paris Photo se tiendra au Grand Palais, comme le signale Xinhua.",
+  "corps": "## Prix Territoria RH 2026 – focus sur la santé des femmes\nL’annonce du Prix Territoria RH 2026 a mis en lumière une initiative portée par le Grand Paris Sud, où la santé des femmes est présentée comme une composante à part entière de la stratégie de ressources humaines. Cette reconnaissance souligne l’importance accordée aux enjeux de santé féminine dans la gestion du personnel, un sujet qui gagne en visibilité au sein des collectivités de la métropole parisienne. Aucun détail supplémentaire n’a été fourni quant aux lauréats ou aux modalités de remise du prix.\n\n## Paris Photo 2026 au Grand Palais\nXinhua a confirmé que l’édition 2026 du salon Paris Photo se déroulera au Grand Palais. L’exposition, dédiée à la photographie contemporaine, occupera les espaces d’exposition du bâtiment emblématique du 8ᵉ arrondissement. Aucun calendrier précis n’a été communiqué, mais l’annonce indique que l’événement est prévu pour l’année 2026.\n\n## Informations pratiques\nPour le Prix Territoria RH, les habitants du Grand Paris Sud sont invités à suivre les communications officielles de la collectivité afin d’obtenir d’éventuelles précisions sur les actions à venir. Concernant Paris Photo, les visiteurs intéressés peuvent consulter le site officiel du salon ou celui du Grand Palais pour connaître les dates exactes, les modalités d’accès et les éventuelles mesures de sécurité. En cas de besoin, le service d’information de la mairie de Paris reste disponible pour répondre aux questions liées à ces manifestations.",
+  "mots_cles": [
+    "Prix Territoria RH",
+    "Paris Photo",
+    "Grand Paris Sud",
+    "Grand Palais"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-13T10:08:09+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Grand_Palais_-_PA00088877_-_Bonhams_2013_-_Vue_d%27ensemble_-_007.jpg/1280px-Grand_Palais_-_PA00088877_-_Bonhams_2013_-_Vue_d%27ensemble_-_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Thesupermat",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Palais_-_PA00088877_-_Bonhams_2013_-_Vue_d%27ensemble_-_007.jpg",
+    "legende": "Vue du grand Palais lors de la vente Bonhams 2013.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Grand Palais - PA00088877 - Bonhams 2013 - Vue d'ensemble - 007.jpg"
+  },
+  "sources": [
+    {
+      "media": "Éditions WEKA",
+      "titre": "[Prix Territoria RH 2026] Grand Paris Sud : la santé des femmes, une politique RH à part entière",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa05ld2M0N19TNWtpYTB1RmQyVkpwVHc3T1Y3TTRIMF93VWUzT1RIQkVtTHRlZDBKWUMzRWVlWkhoMTJrWlBfTWxROGVZcEFkYUNFRDRfSGJOMnE0cTNvVENtM0Z0M3R0MDBYbTFvazJ2YjJudEVTSHVVdlBEOGV4am5ad1BhS25mbmdXOUZJTFJyNUI3aEVFeEpTVVBTaVF5YzVBRmw1cmc0U19SVG5yTl9Hc2RTTFpYV0NzZDg0ZXQzR1owZU9zemJMb3huUmtMcF9TT3FOZmhkRUFnSTE5R20zVWs2TTA1RzhoWGhkR0dycjlqTDY1RWtB?oc=5"
+    },
+    {
+      "media": "Xinhua - french",
+      "titre": "Paris Photo 2026 au Grand Palais - Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tbXptRndIR2ZySC1NU0t4UVQxc3V0WlI2OElteDRYUzBISzlSZk90RTVxNUxvZDlGd05WRkUwSElzbGR6TGY0RE5QSWdlaEdvZ0dkalRIbW1fZ2J0ZjZTclJDQ1ctejZfbkxabEJJc2Y5MEhpSEczRkpQYw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "panne-mondiale-des-services-microsoft-outlook-et-teams",
+  "titre": "Panne mondiale des services Microsoft Outlook et Teams",
+  "chapeau": "Depuis le jeudi 12 novembre au soir, les utilisateurs de la messagerie Outlook, de la plateforme Teams et d’autres services Microsoft 365 rencontrent d’importantes interruptions. Microsoft indique ne pas avoir identifié d’action malveillante et travaille en continu pour rétablir le fonctionnement normal.",
+  "corps": "## Une interruption qui touche des millions d’utilisateurs\nDes dizaines de milliers, voire plusieurs millions d’utilisateurs à travers le monde, se retrouvent dans l’impossibilité d’accéder à leurs courriels et à leurs espaces de travail collaboratif depuis le soir du jeudi 12 novembre. La panne concerne non seulement Outlook, mais également Teams, l’assistant d’intelligence artificielle Copilot et, plus largement, l’ensemble de la suite Microsoft 365. Les rapports des différents médias indiquent que l’incident s’est propagé rapidement, affectant les comptes personnels et professionnels.\n\n## Absence de cyberattaque confirmée\nLes équipes techniques de Microsoft ont précisé qu’aucune trace d’intrusion ou d’activité malveillante n’avait été détectée à ce jour. Cette constatation exclut, pour l’instant, la possibilité d’une cyberattaque comme cause première de la défaillance. Le géant du logiciel souligne que les investigations sont toujours en cours afin de comprendre l’origine exacte du dysfonctionnement.\n\n## Actions de stabilisation et amélioration de capacité\nDans un communiqué diffusé tôt le vendredi, Microsoft a annoncé avoir observé « une stabilisation précoce et des améliorations de capacité ». Malgré ces premiers signes positifs, les mesures mises en place ne fonctionnent pas toujours comme prévu, ce qui pousse l’entreprise à poursuivre ses efforts. Les responsables déclarent travailler « sans relâche » pour proposer des solutions de contournement et restaurer les services dans les meilleurs délais.\n\n## Contexte des services affectés\nOutlook et Teams font partie intégrante de Microsoft 365, la suite cloud qui regroupe messagerie, visioconférence, stockage de fichiers et outils d’intelligence artificielle. Leur indisponibilité a un impact direct sur la productivité des entreprises, des administrations et des particuliers qui s’appuient quotidiennement sur ces plateformes pour leurs communications et collaborations. La situation rappelle l’importance de la résilience des infrastructures cloud, sujet régulièrement débattu dans le secteur technologique.",
+  "mots_cles": [
+    "Microsoft",
+    "Outlook",
+    "panne",
+    "services cloud",
+    "technologie"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-13T10:07:57+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/1280px-Building92microsoft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Coolcaesar",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg",
+    "legende": "Building 92 at Microsoft Corporation headquarters in Redmond, Washington. Photographed by user Coolcaesar on 30 May 2016.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Building92microsoft.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "Outlook et Teams perturbés, pas de cyberattaque d'après Microsoft... Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
+      "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-%5Binternet%5D"
+    },
+    {
+      "media": "Numerama",
+      "titre": "Une panne géante frappe Microsoft : Outlook et Microsoft 365 impactés, voici ce que l’on sait",
+      "url": "https://www.numerama.com/tech/2373485-une-panne-geante-frappe-microsoft-outlook-teams-et-microsoft-365-inaccessibles-voici-ce-que-lon-sait.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
