@@ -146,5 +146,23 @@
     "titres_sources": [
       "Ces joueurs sur WoW Forever ne voient jamais la lumière du jour, et Blizzard cherche une solution"
     ]
+  },
+  {
+    "titre": "Réunion des syndicats de fonctionnaires avec le Premier ministre à Matignon",
+    "texte": "Les représentants syndicaux ont été reçus vendredi matin à Matignon pour discuter de leurs revendications salariales, à quelques jours du SMIC revalorisé mais non applicable à leur catégorie. Une grève du secteur public est prévue le 17 novembre.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T10:39:36+00:00",
+    "titres_sources": [
+      "DIRECT. Crise sociale : la réunion entre les syndicats de fonctionnaires et le Premier ministre a débuté"
+    ]
+  },
+  {
+    "titre": "NBA : Pistons vainqueurs contre les Wizards, Sixers battent Toronto",
+    "texte": "Cade Cunningham a conduit les Detroit Pistons à la victoire face aux Washington Wizards, tandis que les Philadelphia 76ers ont remporté leur match contre les Toronto Raptors jeudi soir. Ces résultats relancent les deux équipes dans la course aux playoffs.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T10:39:36+00:00",
+    "titres_sources": [
+      "NBA : Détroit boosté par Cunningham, les Sixers repartent de l'avant"
+    ]
   }
 ]
