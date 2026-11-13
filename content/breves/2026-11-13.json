@@ -182,5 +182,23 @@
     "titres_sources": [
       "Black Friday : les meilleurs deals de ce vendredi 13 en direct (votre portefeuille a de la chance)"
     ]
+  },
+  {
+    "titre": "Incendie d’une usine d’insectes à l’est de Tunis après des protestations",
+    "texte": "Selon Le Monde, une usine quasi achevée de production de protéines d’insectes, située au sud‑est de Tunis, aurait été incendiée fin octobre, peu après la mort d’un manifestant. Le projet, partiellement financé par des investisseurs français, serait désormais suspendu.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T11:35:46+00:00",
+    "titres_sources": [
+      "En Tunisie, comment un projet d’élevage d’insectes a été au cœur de tensions et de violences"
+    ]
+  },
+  {
+    "titre": "Rappel de yaourts Panier de Yoplait pour défaut organoleptique",
+    "texte": "Le Figaro indique que des yaourts Panier de Yoplait seraient rappelés sur tout le territoire français en raison d’un goût piquant et d’un opercule gonflé ou mal scellé. Ils ne devraient plus être consommés selon le service Rappel Conso.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T11:35:46+00:00",
+    "titres_sources": [
+      "«Goût piquant», «déformation de l’emballage»… Des yaourts Panier de Yoplait rappelés partout en France"
+    ]
   }
 ]
