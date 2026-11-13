@@ -108,5 +108,24 @@
       "Dayot Upamecano quitte le groupe \"pour raison personnelle\" avant le match de la Ligue des nations face à la Turquie",
       "Équipe de France : Dayot Upamecano quitte le rassemblement avant France-Turquie"
     ]
+  },
+  {
+    "titre": "Russie : 1 198 drones ukrainiens abattus, quatre morts à Volgograd",
+    "texte": "Le ministère de la Défense russe indique avoir intercepté 1 198 drones ukrainiens dans la nuit de jeudi à vendredi, faisant quatre victimes dans la région de Volgograd. L’attaque a endommagé une grande raffinerie du sud, où plusieurs foyers d’incendie ont été repérés.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T09:38:15+00:00",
+    "titres_sources": [
+      "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de quatre morts dans la région de Volgograd",
+      "EN DIRECT, guerre en Ukraine : une des plus grandes raffineries de Russie endommagée par une attaque de drones"
+    ]
+  },
+  {
+    "titre": "Haïti : la police reprend le stade national, base pour forces salvadoriennes",
+    "texte": "Selon Le Figaro, les forces de police haïtiennes ont repris le stade de l’équipe nationale, occupé depuis 2024 par des gangs. Le site devrait désormais servir de base opérationnelle aux troupes salvadoriennes déployées à l’initiative du président Nayib Bukele.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T09:38:15+00:00",
+    "titres_sources": [
+      "Haïti : les forces de police reprennent aux gangs le stade de l'équipe nationale de football"
+    ]
   }
 ]
