@@ -1,0 +1,32 @@
+{
+  "slug": "syndicat-des-chefs-d-etablissement-conteste-les-chiffres-du-ministere",
+  "titre": "Syndicat des chefs d'établissement conteste les chiffres du ministère",
+  "chapeau": "Le ministère de l'Éducation nationale indique qu'une dizaine de lycées étaient bloqués vendredi matin. Le SNPDEN‑Unsa estime que ce chiffre sous‑estime la situation depuis la reprise des cours après les vacances de la Toussaint.",
+  "corps": "## Contexte de la contestation\nLe vendredi matin, le ministère de l'Éducation nationale a communiqué que près de dix établissements d'enseignement secondaire étaient bloqués. Cette information intervient alors que les établissements reprennent leurs activités après la pause des vacances de la Toussaint, période habituellement marquée par un afflux d'élèves et un retour à la normale des services éducatifs. Le terme « lycées bloqués » désigne généralement des établissements où l'accès est restreint, soit par des mouvements sociaux, soit pour des raisons de sécurité, entraînant l'interruption des cours.\n\nLe SNPDEN‑Unsa, premier syndicat représentant les chefs d'établissement, a immédiatement remis en cause le décompte officiel. Selon le syndicat, le chiffre avancé par le ministère serait « minoré », laissant entendre que le nombre réel d'établissements affectés serait supérieur à la dizaine annoncée. Aucun chiffre précis n'est fourni par le syndicat, mais il souligne que la situation s'est aggravée depuis la reprise des cours, suggérant que les blocages se sont multipliés ou que certains établissements n'ont pas été comptabilisés dans le relevé ministériel.\n\n## Réactions et enjeux\nCette divergence d'évaluation met en lumière les tensions entre les autorités éducatives et les représentants des établissements. Le ministère, en publiant un chiffre limité, peut chercher à rassurer l'opinion publique sur la maîtrise de la situation. De son côté, le SNPDEN‑Unsa réclame davantage de transparence et une reconnaissance plus exacte de l'ampleur des blocages, afin d'adapter les mesures de soutien aux établissements concernés.\n\nDans le contexte français, les syndicats d'éducation jouent un rôle important dans la négociation avec le gouvernement, notamment lors de mouvements de grève ou de protestations qui peuvent conduire à la fermeture partielle ou totale d'établissements. La contestation actuelle s'inscrit donc dans une dynamique récurrente où la précision des données communiquées par le ministère est régulièrement scrutée par les organisations professionnelles.\n\nLes deux parties s'accordent toutefois sur le fait que les blocages affectent la continuité pédagogique et la sécurité des élèves. Le débat porte désormais sur la manière de quantifier correctement ces incidents et sur les mesures à mettre en place pour limiter leur récurrence, notamment en renforçant le dialogue entre l'administration centrale et les chefs d'établissement.\n\nEn l'absence de chiffres détaillés supplémentaires, il reste difficile d'évaluer l'ampleur exacte du phénomène. Le suivi des prochains jours sera déterminant pour vérifier si le nombre d'établissements bloqués augmente, diminue ou se stabilise, et pour observer les éventuelles réponses du ministère face aux revendications du syndicat.",
+  "mots_cles": [
+    "syndicat",
+    "lycées bloqués",
+    "ministère de l'Éducation",
+    "SNPDEN-Unsa"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-13T19:00:36+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/R%C3%A9sidence_Wikim%C3%A9dia_France_au_110Bis_-_Minist%C3%A8re_de_l%27%C3%A9ducation_nationale_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Mathieu Denel WMFr",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9sidence_Wikim%C3%A9dia_France_au_110Bis_-_Minist%C3%A8re_de_l%27%C3%A9ducation_nationale_4.jpg",
+    "legende": "Résidence Wikimédia France au 110Bis - Ministère de l'éducation nationale",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Résidence Wikimédia France au 110Bis - Ministère de l'éducation nationale 4.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres du ministère sur les lycées bloqués",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-dire-la-verite-sur-ce-qui-se-passe-le-premier-syndicat-des-chefs-d-etablissement-conteste-les-chiffres-du-ministere-sur-les-lycees-bloques_8281568.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
