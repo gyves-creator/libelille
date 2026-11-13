@@ -368,5 +368,23 @@
     "titres_sources": [
       "DIRECT. \"Chine, dans les secrets des nouveaux maîtres-espions\" : suivez le documentaire de franceinfo après le scandale Nvidia"
     ]
+  },
+  {
+    "titre": "Le Kremlin envisagerait de proposer des accords bilatéraux à l’Europe",
+    "texte": "Le Kremlin, sollicité par Donald Trump, envisagerait de proposer à plusieurs États européens des accords d’assistance mutuelle, à l’image de ceux signés avec la Biélorussie et la Corée du Nord. Ces accords pourraient modifier l’architecture de sécurité du continent.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T17:33:53+00:00",
+    "titres_sources": [
+      "Sollicitée par Donald Trump, la Russie jubile à l’idée de peser sur l’architecture de sécurité européenne"
+    ]
+  },
+  {
+    "titre": "Le gouvernement prévoirait de généraliser les sanctions scolaires",
+    "texte": "Le gouvernement aurait annoncé, dans un télégramme aux recteurs et aux préfets, la mise en place d’un dispositif systématisant les sanctions disciplinaires contre les élèves participant à des blocages, dégradations ou déstabilisations d’établissements. Cette mesure viserait à renforcer la continuité de l’enseignement.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-13T17:33:53+00:00",
+    "titres_sources": [
+      "Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage"
+    ]
   }
 ]
