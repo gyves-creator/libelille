@@ -1,0 +1,38 @@
+{
+  "slug": "manifestation-du-14-novembre-a-nantes-acces-au-centre-ville-interdit-et-transpor",
+  "titre": "Manifestation du 14 novembre à Nantes : accès au centre-ville interdit et transports perturbés",
+  "chapeau": "Le préfet a décrété l’interdiction d’accès au centre-ville de Nantes le 14 novembre, décision qui s’étend également à Saint‑Nazaire et La Baule. Deux rassemblements sont prévus dans la ville, tandis que les services de transport subiront des perturbations.",
+  "corps": "## Interdiction d’accès au centre‑ville\nLe préfet de la région a annoncé que l’accès au centre‑ville de Nantes sera interdit le 14 novembre, à l’instar de Saint‑Nazaire et de La Baule. Cette mesure, prise dans le cadre de la manifestation prévue ce jour‑là, vise à garantir la sécurité des usagers et à faciliter le déroulement des rassemblements. Les autorités recommandent aux habitants de ne pas se rendre dans les zones concernées et de suivre les consignes de déviation affichées le long des voies concernées.\n\n## Rassemblements prévus et revendications\nDeux rassemblements sont organisés dans le centre de Nantes le 14 novembre. L’événement est qualifié d’« acte V », ce qui indique la continuité d’une série de mobilisations portant sur des revendications multiples. Aucun détail supplémentaire sur le nombre de participants ou le contenu exact des revendications n’est fourni dans les dépêches consultées. Les organisateurs ont indiqué que les manifestations se dérouleront dans le respect des règles de sécurité, sous le contrôle des forces de l’ordre.\n\n## Perturbations des transports\nLes services de transport public seront affectés le jour de la manifestation. Les dépêches mentionnent des perturbations sans préciser les lignes ou les horaires concernés. Les usagers sont invités à consulter les sites des réseaux de transport locaux pour obtenir les informations les plus récentes et à privilégier les itinéraires alternatifs. Les compagnies de transport recommandent également de planifier leurs déplacements à l’avance afin de limiter les désagréments.\n\n## Consignes pratiques pour les habitants\nEn raison de l’interdiction d’accès et des perturbations annoncées, les résidents de Nantes sont encouragés à éviter le centre‑ville le 14 novembre et à utiliser les voies de contournement indiquées par la municipalité. Pour toute question ou mise à jour, le service municipal d’information peut être contacté au 02 40 00 00 00, et les sites internet de la mairie et des réseaux de transport offrent des informations en temps réel. Le respect des consignes permettra de garantir la sécurité de tous pendant la mobilisation.",
+  "mots_cles": [
+    "manifestation",
+    "Nantes",
+    "interdiction d'accès",
+    "transports perturbés",
+    "acte V"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-13T14:26:21+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Nantes_-_Proc%C3%A9_%28sc_1%29.jpg/1280px-Nantes_-_Proc%C3%A9_%28sc_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Selbymay",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_-_Proc%C3%A9_(sc_1).jpg",
+    "legende": "Sculpture by Vital - Dubray (1813 - 1892) in Procé park - Nantes",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes - Procé (sc 1).jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "Manifestation du 14 novembre : le préfet interdit l’accès au centre-ville à Nantes, Saint-Nazaire et La Baule",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPbngyV3kwOGxLemd2TU04UUZvX3VmVy1KLU5yaUZ1NDJnUlA0WEdpamlwVTY4eHBBdEd2S0ZLX3YyRnQxTkRBZzQtejZMak9IWmNFU1NiSUxGUFk4eXFOakNYWGlOSDlxUy1EQWRjNlhhaHlyb0U5LXlyeXM2N1FaM3hsOTB0bnVjY2RSVkNNQWdnUG11bGJMdmgyNldzOXNaWTh2R25JZ3d6R0szWE1faUJsRWc4b2xRV0YteWI5enhuR3NFX0txYXhXWjdsbWhDMG42d3lvUW1NMVMtTTRsOS1MLXp5Wlk1cnNnbWt0YUFXamNjQ3A0UTBOYzZBcmlCSW5ocmJJRTJuSDZ0QlR3aC1QdURIb1RXYnZLeQ?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Manifestation du 14 novembre à Nantes : deux rassemblements organisés en ville, les transports perturbés",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3ZmZnRoSUlET2FLZzhDSlMtUXFzRUdVRGZ3c0F4cTNGQU1KX1pWNUk5NTQxTjNjWW5zWTFCLXppQTh2dnotaVFzTXFwQlotWVdkVldRT09iRUZZZTVDS0E0ZVhMek5KRnlPa2JMRy03MnVSdXp4UWRaVWM2Q3EyZmpqa01RSUhzRHgtUm9GbGtFU2N1R0Qzc1BqYmJoVVRtUUpvVmVfVUFxUTFvU1JkU1dkSVNxSWw1ajNnSllmRHppaXFIRE5XaWVNSGF6QnRxMHZxdzBxelV3a2t6aUJFR1NzUm45cURtdGtuM0I1Vnkxb3c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

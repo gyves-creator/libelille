@@ -276,5 +276,24 @@
     "titres_sources": [
       "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes"
     ]
+  },
+  {
+    "titre": "Usman Nurmagomedov condamné à six mois de prison à Abou Dhabi",
+    "texte": "Un combattant de MMA russe, Usman Nurmagomedov, a été condamné à six mois de prison à Abou Dabi suite à une violente altercation dans le hall d’un hôtel. Au total, dix personnes ont été jugées et condamnées par la justice émiratie.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T14:26:42+00:00",
+    "titres_sources": [
+      "MMA : six mois de prison pour un combattant russe après une violente bagarre à Abou Dhabi",
+      "MMA : Usman Nurmagomedov écope de six mois de prison après une bagarre à Abou Dhabi"
+    ]
+  },
+  {
+    "titre": "Zelensky signale une nouvelle perturbation du satellite Starshield",
+    "texte": "Le président ukrainien Volodymyr Zelensky aurait indiqué que le satellite militaire américain Starshield a de nouveau été perturbé. Il aurait demandé aux autorités ukrainiennes de renforcer leurs échanges avec le département d’État, le Pentagone et SpaceX afin d’éclaircir la situation.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T14:26:42+00:00",
+    "titres_sources": [
+      "DIRECT. Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky"
+    ]
   }
 ]

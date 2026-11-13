@@ -1,0 +1,37 @@
+{
+  "slug": "blocages-dans-les-universites-de-strasbourg-et-mulhouse-impacts-locaux",
+  "titre": "Blocages dans les universités de Strasbourg et Mulhouse : impacts locaux",
+  "chapeau": "Des étudiants ont de nouveau bloqué plusieurs bâtiments de l'Université de Strasbourg ainsi que le campus de la Fonderie à Mulhouse ce vendredi 13 novembre. Les établissements d'enseignement secondaire de la région restent, quant à eux, calmes.",
+  "corps": "## Situation à Strasbourg\nCe vendredi 13 novembre, des étudiants ont de nouveau pris d'assaut plusieurs édifices de l'Université de Strasbourg. Les accès à ces bâtiments sont momentanément restreints, les circulations internes et les services administratifs sont perturbés. Aucun incident majeur n’a été signalé et les autorités universitaires appellent les usagers à se tenir informés via les canaux officiels de l’établissement.\n\n## Situation à Mulhouse\nDans la même journée, le campus de la Fonderie, site universitaire de Mulhouse, a également été concerné par un blocage. Les raisons exactes du mouvement ne sont pas détaillées dans les dépêches, mais la manifestation entraîne une limitation de l’accès aux locaux. Les étudiants et le personnel sont invités à suivre les consignes émises par la direction du campus.\n\n## Conséquences pour les usagers\nPour les habitants de Strasbourg et de Mulhouse, ces blocages peuvent impacter les déplacements, notamment pour ceux qui utilisent les transports en commun à proximité des campus. Les services de transport urbain recommandent de vérifier les horaires et les éventuelles déviations sur leurs sites ou applications avant de se rendre sur les lieux. Les établissements d’enseignement secondaire, quant à eux, n’ont pas signalé de perturbations et poursuivent leurs activités normalement.\n\n## Informations pratiques\nLes étudiants, le personnel et les riverains sont encouragés à consulter les sites internet de l’Université de Strasbourg et du campus de la Fonderie pour obtenir les dernières mises à jour. En cas de besoin, le service d’accueil des deux universités reste joignable par téléphone. Les autorités locales rappellent que les manifestations sont encadrées par la loi et que la sécurité des usagers doit rester la priorité.\n\nEn attendant le rétablissement complet de l’accès aux bâtiments, il est recommandé de privilégier les itinéraires alternatifs et de rester attentif aux consignes diffusées par les services de police et les administrations universitaires.",
+  "mots_cles": [
+    "blocage université Strasbourg",
+    "campus Fonderie Mulhouse",
+    "manifestation étudiants",
+    "transport Strasbourg"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-13T14:26:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Neustadt_%2852297125377%29.jpg/1280px-Neustadt_%2852297125377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kent Wang from Barcelona, Spain",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Neustadt_(52297125377).jpg",
+    "legende": "Neustadt",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Neustadt (52297125377).jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Alsace. Des blocages dans les universités à Strasbourg et Mulhouse, calme dans les lycées",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2RjaEw2MDM0N2FhZDE4bDdwTWs2dWFPb2d0ajlQWFk4d0ZqbTNDbnc1NUJITmFEOTNqM0ltZm05eUM4eUtpZVVmdW56d0dJUDJxSm4wandhNjFhQmRXT2Zib2ZuYjlSNU5LLThUbjNGQUt3TkdEUjE4czdqVGxDWlM0M0FYdkZON255WEpjLWlqZEc0WGtEX08tWGtfTERtQThHRVdUSmhiVU5GSTN0QUFwenhvTGRYcWhzdA?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Alsace. Des blocages dans les universités à Strasbourg et Mulhouse, calme dans les lycées",
+      "url": "https://www.dna.fr/education/2026/11/13/des-blocages-dans-les-universites-a-strasbourg-et-mulhouse-calme-dans-les-lycees"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
