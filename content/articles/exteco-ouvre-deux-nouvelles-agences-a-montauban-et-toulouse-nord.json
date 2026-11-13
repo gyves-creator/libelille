@@ -1,0 +1,38 @@
+{
+  "slug": "exteco-ouvre-deux-nouvelles-agences-a-montauban-et-toulouse-nord",
+  "titre": "Exteco ouvre deux nouvelles agences à Montauban et Toulouse Nord",
+  "chapeau": "L’entreprise de nettoyage extérieur Exteco annonce l’ouverture de deux agences, l’une à Montauban et l’autre dans le secteur de Toulouse Nord. Cette double implantation, décidée dans le cadre d’un développement en franchise, vise à rapprocher les services de l’entreprise des habitants et des acteurs locaux.",
+  "corps": "## Un double développement en franchise\n\nStéphane Gonzalez, porte‑parole d’Exteco, a confirmé la mise en place d’un double projet de développement en franchise. Les deux nouvelles agences seront implantées respectivement à Montauban et dans le quartier Nord de Toulouse. Le choix de ces deux localités s’inscrit dans la stratégie de l’entreprise d’étendre son réseau de franchisés afin de couvrir davantage le territoire occitan‑mediterrané.\n\n## Des services de nettoyage extérieur au plus près des usagers\n\nL’ouverture de ces agences permettra aux particuliers, aux commerçants et aux collectivités locales de bénéficier d’un accès direct aux prestations de nettoyage extérieur proposées par Exteco, telles que le lavage de façades, le débroussaillage ou l’entretien de voiries. La présence d’équipes locales devrait faciliter la prise de rendez‑vous, réduire les délais d’intervention et offrir un suivi plus personnalisé. Aucun changement de circulation ou de voirie n’est annoncé dans les zones concernées.\n\n## Implications pour les habitants et les acteurs économiques\n\nPour les résidents de Montauban et du Nord toulousain, la nouvelle implantation signifie la possibilité de recourir à un prestataire de proximité pour leurs besoins de nettoyage extérieur, sans devoir se déplacer vers d’autres agglomérations. Les professionnels du bâtiment et les gestionnaires d’immeubles pourront également solliciter plus rapidement les services de l’entreprise, ce qui pourrait contribuer à l’amélioration de la propreté et de l’esthétique des espaces publics et privés.\n\n## Perspectives locales\n\nL’expansion d’Exteco s’inscrit dans un contexte où les services de nettoyage extérieur connaissent une demande accrue, notamment pour répondre aux exigences d’hygiène et d’entretien des collectivités. La création de ces deux agences devrait ainsi renforcer le maillage économique de la région, tout en offrant des opportunités d’emploi locales dans le secteur du nettoyage et de la maintenance.\n\nEn l’absence d’informations précises sur les horaires d’ouverture ou les coordonnées, les habitants sont invités à se rapprocher des services municipaux ou à consulter les annonces locales pour connaître les modalités d’accès aux nouvelles agences.",
+  "mots_cles": [
+    "Exteco",
+    "franchise",
+    "nettoyage extérieur",
+    "Montauban",
+    "Toulouse Nord"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-13T12:02:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Capitole_Toulouse_-_Le_donjon.jpg/1280px-Capitole_Toulouse_-_Le_donjon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Capitole_Toulouse_-_Le_donjon.jpg",
+    "legende": "Capitole de Toulouse - The dungeon, seen from the Charles de Gaulle Square.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Capitole Toulouse - Le donjon.jpg"
+  },
+  "sources": [
+    {
+      "media": "Toute la Franchise",
+      "titre": "EXTECO : à Montauban et Toulouse Nord, Stéphane Gonzalez fait le choix d’un double développement en franchise",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjF5QUdVdVNxMWRwRjJ3T1VqZFA4UGNYa3hKTnNIeVpqcFhudVpqRmdTc1NWaVRtUkdOeWNyMzVUMVhaYTNKYXR6V2g0Q05xTmMwZ3B2a0Nnd0xzMjBMLTdlVXBobHdWTFdaNXpRaDJEc1p0LUl1eXdUQkNwYTRzQzB0em42XzVzSWJWRXFTb0J0QzhOY3c?oc=5"
+    },
+    {
+      "media": "Entreprises Occitanie",
+      "titre": "Nettoyage extérieur : Exteco ouvre deux agences à Montauban et Toulouse Nord",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWFqMU00bDBNcWxjUktidFRkUjJOTVpzZUxLc1ZfTTZQQXJNTDlFVms4Ny1JdGxncDhIS0lDdzVwQzAyT2hYQ1djVGtycWgwZjl4SlBtS1Q0UDFyc2c1Qm9HMGpmQWZ2X3dGWW5wMkpDM3A3OWR4WnlHb0RrN2V1ZGF4VjV6Z0pOd3Z0eDlqeDZCTjlyZFlrTkhjU3pSUm1ueUtlRHlEaFFWQWZPQ2lCRmo0SXdzZnd5WE0tQXdB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
