@@ -386,5 +386,23 @@
     "titres_sources": [
       "Mobilisation lycéenne : le gouvernement veut systématiser les sanctions disciplinaires en cas de blocage"
     ]
+  },
+  {
+    "titre": "Panne Microsoft du 12‑13 nov. : alerte sur dépendance numérique",
+    "texte": "Une interruption des services Microsoft a eu lieu du jeudi 12 novembre au vendredi midi, affectant temporairement les entreprises et leurs salariés. L’incident, bien que limité, a rappelé la vulnérabilité des organisations face aux outils numériques.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T17:57:15+00:00",
+    "titres_sources": [
+      "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous un peu été dans le même bateau que nos clients »"
+    ]
+  },
+  {
+    "titre": "Novaïa Gazeta ferme le 9 nov. : la presse russe sous pression",
+    "texte": "Le lundi 9 novembre, les journalistes de Novaïa Gazeta, dernier quotidien indépendant de Russie, ont quitté leurs bureaux historiques de Moscou sous la contrainte. Le média, désigné « agent de l’étranger », voit ainsi la liberté de la presse s’éroder davantage en Russie.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T17:57:15+00:00",
+    "titres_sources": [
+      "\"Ils nous ont tués\" : Novaïa Gazeta ferme, la presse libre disparaît en Russie"
+    ]
   }
 ]
