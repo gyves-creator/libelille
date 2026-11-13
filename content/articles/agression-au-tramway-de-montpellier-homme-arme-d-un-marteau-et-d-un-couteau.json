@@ -1,0 +1,38 @@
+{
+  "slug": "agression-au-tramway-de-montpellier-homme-arme-d-un-marteau-et-d-un-couteau",
+  "titre": "Agression au tramway de Montpellier : homme armé d'un marteau et d'un couteau",
+  "chapeau": "Un homme armé d’un marteau et d’un couteau a agressé un passager à bord d’un tramway à Montpellier le 13 novembre 2026, blessant également un policier et en proférant des gestes d’insulte envers un autre. Les services de police ont interpellé le suspect et les autorités ont annoncé des perturbations temporaires du réseau de tramway.",
+  "corps": "## Une agression signalée dans le réseau urbain\nLe 13 novembre 2026, un individu muni d’un marteau et d’un couteau a été aperçu en train d’attaquer un usager du tramway dans la ville de Montpellier. L’agression a visé la tête du passager, entraînant une blessure nécessitant l’intervention des secours. Au cours de l’incident, un policier présent à bord a également été blessé, tandis qu’un second a été l’objet d’un crachat de la part de l’agresseur. Les forces de l’ordre ont rapidement maîtrisé la situation et procédé à l’interpellation du suspect, qui demeure sous garde.\n\n## Conséquences sur le service de transport\nSuite à l’incident, les opérateurs du tramway ont indiqué que des perturbations temporaires pouvaient affecter les lignes concernées, notamment des arrêts prolongés ou des déviations de circulation. Les usagers sont invités à consulter les panneaux d’information présents dans les stations ainsi que le site internet officiel du réseau pour connaître les itinéraires alternatifs et les horaires révisés. Aucun autre incident de ce type n’a été signalé dans la même journée.\n\n## Enquête et mesures de sécurité\nUne enquête a été ouverte par la police judiciaire afin de déterminer les motivations de l’agresseur et d’évaluer les circonstances exactes de l’acte. Les autorités locales ont rappelé que la sécurité dans les transports en commun reste une priorité et que des contrôles supplémentaires peuvent être mis en place. Les victimes, tant le passager que le policier, ont reçu les premiers soins sur place avant d’être éventuellement transférées vers des structures médicales selon l’évolution de leur état.\n\n## Informations pratiques pour les habitants\nLes riverains et usagers du tramway sont encouragés à rester vigilants et à signaler tout comportement suspect aux forces de l’ordre. En cas d’urgence, le numéro national de la police (17) et celui du SAMU (15) restent les contacts prioritaires. Pour suivre l’évolution du service et obtenir des informations actualisées sur les déviations, le site de la mairie de Montpellier (montpellier.fr) ainsi que la page dédiée au transport public sont recommandés. Les services de police continuent de surveiller la zone afin d’assurer le rétablissement normal du trafic dans les plus brefs délais.",
+  "mots_cles": [
+    "tramway",
+    "agression",
+    "Montpellier",
+    "police",
+    "sécurité"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-13T15:56:57+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Montpellier_fg07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Fritz Geller-Grimm",
+    "licence": "CC BY-SA 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Montpellier_fg07.jpg",
+    "legende": "Tram, Montpellier, Languedoc-Roussillon, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montpellier fg07.jpg"
+  },
+  "sources": [
+    {
+      "media": "Echo des Tribunes",
+      "titre": "Montpellier : armé d'un marteau et d'un couteau, il frappe un passager du tramway à la tête",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMGJnR1BxSzRmeVRfQjU0ZktOTlFFX3E1Sms5RFFEbUNhLTBxQUdMbFAwZUJWejNOME50ZW5KQ0FGMWdGQ2lUZGozdFpGXzFsWDM1aTlXby1Ld2JuNkJnZnFSV3RTYzZuV2Z1Z3VuVmNJWHo4UjA4Z3BOeU4xUjAzdGtEUWZ1U053WkJwVllsNjI3cWQxLXlGVmtmWDlRZDJLTHBSdDdmVmFwX1dIWmR2MEJmbW9jV05sdFBEZWRoR21JU0pCeHl6RTctN3RaQko3dTBYVXhLX18?oc=5"
+    },
+    {
+      "media": "Midi Libre",
+      "titre": "Muni d’un marteau, il frappe un usager du tramway à la tête, avant de blesser un policier et de cracher sur un autre à Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTmtSaVVXYmF0R3MyNl9nR0tqcDNqdTRUQ2MzTUxMNzg0bFdZQmYwNlMwc19DdXZPWTRaLWpEdER1cW5KUkxxSl9CeVpKWldnYk1DaGFnaVZtX01MTGlRd0RMZ3BrNWcyNWhVTXI3ZkY1eE43a3g0dVVWbXF6V0Q4Yms0SU5oVTRNcVZFcF9yUi1sUGVUcmZzMWNRQ01Ed2Z2SUY1ZThXbFZhR05LLUwzNXdqTWdvMjh6RVdJU0hwM3Bfb2R1WEtWalBma1NFMllSMy1PemR1RTlrTjhLYmNrbURLMldfR09rSjNRYW1lTjlVOFpJLWpXWmJKNmpNTExZdGZUYVhKaw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

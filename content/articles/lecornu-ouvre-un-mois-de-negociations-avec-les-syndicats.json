@@ -1,0 +1,43 @@
+{
+  "slug": "lecornu-ouvre-un-mois-de-negociations-avec-les-syndicats",
+  "titre": "Lecornu ouvre un mois de négociations avec les syndicats",
+  "chapeau": "Le Premier ministre Sébastien Lecornu a annoncé l’ouverture d’un dialogue d’un mois avec les syndicats de la fonction publique, portant notamment sur la revalorisation des bas salaires. L’intersyndicale a réagi en appelant à une grève et à une mobilisation le mardi 17 novembre, tandis qu’une nouvelle rencontre est prévue le 11 décembre.",
+  "corps": "## Un mois de négociations annoncées\nLe gouvernement français, représenté par le Premier ministre Sébastien Lecornu, a reçu vendredi les organisations représentatives de la fonction publique à Matignon. Au cours de cette réunion, il a déclaré le lancement d’un échange d’une durée d’un mois avec les syndicats, dont l’objectif principal est d’examiner la « revalorisation des bas salaires ». Cette initiative s’inscrit dans le cadre d’un calendrier plus large : les partenaires sociaux seront de nouveau conviés le 11 décembre, après les élections professionnelles, afin de « sceller des avancées dès la mi‑décembre ». Aucun détail supplémentaire n’a été fourni sur les modalités de la discussion.\n\n## Réactions des syndicats et mobilisation prévue\nL’intersyndicale, regroupant plusieurs fédérations, a quitté Matignon en exprimant son insatisfaction. Elle a jugé l’annonce insuffisante et a appelé à la grève ainsi qu’à une mobilisation prévue le mardi 17 novembre. La CFDT a explicitement indiqué qu’elle se joindrait à cet appel, tandis que la CGT a dénoncé les mesures proposées comme étant en « complet décalage » avec les attentes des agents. Ces positions montrent une divergence notable entre le gouvernement, qui propose un dialogue limité dans le temps, et les organisations syndicales, qui réclament des actions plus immédiates.\n\n## Perspectives et étapes suivantes\nLa rencontre du 11 décembre constitue le prochain jalon officiel du processus. Elle devra intervenir après les élections professionnelles, un moment où les représentants du personnel seront renouvelés. Selon les informations disponibles, l’objectif déclaré est de concrétiser des avancées d’ici la mi‑décembre, mais aucune précision n’a été donnée quant aux éventuelles concessions ou aux modalités de mise en œuvre. En attendant, la mobilisation du 17 novembre reste le principal moyen d’expression des revendications syndicales, et son impact pourra influencer le ton des négociations à venir.\n\nLe déroulement de ces échanges sera suivi de près, tant par les agents publics que par les observateurs du débat social, qui évaluent la capacité du gouvernement à répondre aux attentes salariales tout en maintenant la continuité du service public.",
+  "mots_cles": [
+    "fonction publique",
+    "grève",
+    "syndicats",
+    "revalorisation",
+    "Sébastien Lecornu"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-13T15:56:44+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/S%C3%A9bastien_Lecornu%2C_2017_%28cropped%29.jpg/1280px-S%C3%A9bastien_Lecornu%2C_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ecole polytechnique Université Paris-Saclay",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Lecornu,_2017_(cropped).jpg",
+    "legende": "From left to right: François Bouchet, Sébastien Lecornu et Richard Lizurey .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Sébastien Lecornu, 2017 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+      "url": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Sébastien Lecornu ouvre une discussion d’un mois avec les syndicats de fonctionnaires, notamment sur la revalorisation des « bas salaires »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/13/mobilisations-sociales-sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats_6809324_823448.html"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Fonction publique : l'intersyndicale sort remontée de Matignon, la CFDT rejoint l'appel à la grève",
+      "url": "https://www.france24.com/fr/france/20261113-fonction-publique-lecornu-ouvre-mois-discussions-cinq-chantiers-bas-salaires"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "etat-et-sncf-signent-un-accord-pluriannuel-pour-regenerer-le-reseau-ferre",
+  "titre": "Etat et SNCF signent un accord pluriannuel pour régénérer le réseau ferré",
+  "chapeau": "Un contrat de performance a été conclu entre l’État français et la SNCF pour moderniser le rail vieillissant d’ici 2033. Le texte prévoit un financement supplémentaire annuel, mais les modalités restent contestées par l’autorité de régulation.",
+  "corps": "## Un accord de performance signé dans la nuit\r\nDans la nuit du jeudi 12 au vendredi 13 novembre, les représentants de l’État et de la SNCF ont officialisé un contrat de performance destiné à « régénérer » le réseau ferré français. Selon les informations publiées, le texte prévoit une hausse notable des dépenses allouées à la modernisation des infrastructures. Deux sources indiquent des montants différents : l’une mentionne un financement supplémentaire de 1,5 milliard d’euros par an, soit une augmentation de 50 % des dépenses consacrées à la régénération, tandis qu’une autre cite un versement supplémentaire de 1 milliard d’euros chaque année. Le PDG du groupe, Jean Castex, a rappelé lors de la signature que « Le réseau, c’est la mère des batailles », soulignant l’importance stratégique du rail pour la mobilité quotidienne et la résilience face aux changements climatiques.\r\n\r\n## Financement et réserves de l'Autorité de régulation\r\nL’accord prévoit que les fonds supplémentaires seront mobilisés sur plusieurs années, avec l’objectif de couvrir les travaux de sécurisation des voies et d’adapter le réseau aux aléas climatiques qui accélèrent sa dégradation. Cependant, l’Autorité de régulation des transports a exprimé des doutes quant aux modalités de financement. Aucun détail précis n’a été communiqué sur la répartition des ressources ni sur les mécanismes de suivi budgétaire, ce qui alimente le scepticisme de l’organisme de contrôle.\r\n\r\n## Contexte du réseau ferroviaire français\r\nLe réseau ferré national, l’un des plus denses d’Europe, montre des signes de vieillissement après plusieurs décennies d’exploitation intensive. Les exigences de sécurité, conjuguées aux exigences environnementales croissantes, imposent des investissements majeurs pour prévenir les incidents et réduire l’impact du réchauffement climatique sur les infrastructures. Le nouveau contrat de performance s’inscrit donc dans une logique de renouvellement progressif, avec une échéance cible fixée à 2033.\r\n\r\n## Perspectives et incertitudes\r\nSi les montants annoncés permettent d’envisager une accélération des travaux, l’absence de clarté sur le financement exact laisse planer une incertitude quant à la capacité de l’État à honorer pleinement ses engagements. Le suivi de la mise en œuvre du contrat sera donc scruté de près par les acteurs du secteur et les observateurs, qui attendent des précisions supplémentaires sur les sources de financement et les garanties de bonne exécution.",
+  "mots_cles": [
+    "SNCF",
+    "accord de performance",
+    "financement ferroviaire",
+    "réseau ferré",
+    "régénération"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-13T15:56:50+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/SNCF_B_81500_Savines-le-Lac.jpg/1280px-SNCF_B_81500_Savines-le-Lac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kabelleger / David Gubler",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:SNCF_B_81500_Savines-le-Lac.jpg",
+    "legende": "Two SNCF B 81500 \"AGC\" units near Savines-le-Lac, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:SNCF B 81500 Savines-le-Lac.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "L'Etat et la SNCF signent un accord pluriannuel pour \"régénérer\" le réseau ferré vieillissant d'ici 2033",
+      "url": "https://www.franceinfo.fr/economie/transports/sncf/l-etat-et-la-sncf-signent-un-accord-pluriannuel-pour-regenerer-le-reseau-ferre-vieillissant-d-ici-2033_8281058.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "L’État et la SNCF débloquent 1,5 milliard d’euros supplémentaires par an pour «régénérer» le réseau ferré vieillissant",
+      "url": "https://www.lefigaro.fr/conjoncture/l-etat-et-la-sncf-debloquent-1-5-milliard-d-euros-supplementaires-par-an-pour-regenerer-le-reseau-ferre-vieillissant-20261113"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La SNCF et l’Etat scellent un accord pour moderniser le rail français, le doute subsiste sur son financement",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/13/la-sncf-et-l-etat-scellent-un-accord-pour-moderniser-le-rail-francais-le-doute-subsiste-sur-son-financement_6809303_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

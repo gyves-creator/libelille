@@ -1,0 +1,38 @@
+{
+  "slug": "epicier-2-0-vracotaf-livre-produits-locaux-en-vrac-aux-entreprises",
+  "titre": "Epicier 2.0 : Vracotaf livre produits locaux en vrac aux entreprises",
+  "chapeau": "Un nouveau service de distribution, nommé Epicier 2.0, est désormais proposé aux entreprises du Bas‑Rhin. Il permet de recevoir sur le lieu de travail des produits majoritairement bio et issus de l’agriculture locale.",
+  "corps": "## Un mode de distribution orienté vrac et proximité\nLe groupe Vracotaf lance, sous l’appellation Epicier 2.0, une offre de livraisons de denrées alimentaires directement dans les locaux professionnels du Bas‑Rhin. Le principe repose sur la mutualisation des tournées : plusieurs entreprises situées dans un même secteur reçoivent leurs commandes lors d’un même passage, ce qui limite le nombre de véhicules sur la route. L’accent est mis sur le vrac, afin de réduire les emballages, et sur la provenance locale : près de quatre cinquièmes des produits proposés sont certifiés biologiques et proviennent de producteurs alsaciens, à l’image des célèbres Graines d’Alsace.\n\n## Ce que cela signifie pour les salariés et les employeurs\nPour les salariés, la mise à disposition de produits frais, bio et régionaux sur le lieu de travail simplifie l’accès à une alimentation saine sans devoir se déplacer. Les entreprises, quant à elles, bénéficient d’une solution logistique clé en main qui s’inscrit dans les démarches de responsabilité sociétale et de réduction de leur empreinte carbone. La mutualisation des livraisons permet également de maîtriser les coûts liés au transport, même si les tarifs exacts ne sont pas détaillés dans les annonces officielles.\n\n## Un contexte de développement du circuit court en Alsace\nCette initiative s’inscrit dans une dynamique plus large observée en Alsace, où les circuits courts et le commerce de proximité connaissent un essor soutenu depuis plusieurs années. Les consommateurs sont de plus en plus sensibles à la traçabilité des produits et à la réduction des déchets d’emballage. En proposant une solution adaptée aux milieux professionnels, Vracotaf répond à une demande croissante des entreprises qui souhaitent offrir à leurs équipes des options alimentaires plus responsables.\n\n## Comment se renseigner\nLes entreprises intéressées peuvent obtenir davantage d’informations en consultant le site internet de Vracotaf ou en contactant directement le service client de la société. Aucun détail supplémentaire sur les modalités d’abonnement ou les horaires de livraison n’a été communiqué dans les communiqués publiés le 13 novembre 2026.",
+  "mots_cles": [
+    "livraison",
+    "produits locaux",
+    "bio",
+    "Bas‑Rhin",
+    "Vracotaf"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-13T15:57:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/April_2007_Strasbourg%2C_Petite_France_by_night.jpg/1280px-April_2007_Strasbourg%2C_Petite_France_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Syced",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:April_2007_Strasbourg,_Petite_France_by_night.jpg",
+    "legende": "April 2007 Strasbourg, Petite France by night",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:April 2007 Strasbourg, Petite France by night.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Région de Strasbourg. Epicier 2.0 : avec Vracotaf, il livre ses produits locaux sur votre lieu de travail",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzBjYnBLQmlpQzA1V1BnOFlEZG03dVQtQmtKY0JsMVplXzZ4WTRqMHcwQWI3dlluamMwNWhYRzV0TVlDVkd2WHhxUmU2SVBsVTZFQlJJQ3ZyclNvOFpRaE1zekF6VEFZQUNDckV3Uy1zU1N6Rkh1clhhY0RFVmZ2VWtvdkZHWlRrSmhuSFYwZE5UTldveEJZRUpEWk9nUjVBbDBGWEc1RGhGdw?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Région de Strasbourg. Epicier 2.0 : avec Vracotaf, il livre ses produits locaux sur votre lieu de travail",
+      "url": "https://www.dna.fr/economie/2026/11/13/une-livraison-de-produits-d-epicerie-locaux-sur-son-lieu-de-travail"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
