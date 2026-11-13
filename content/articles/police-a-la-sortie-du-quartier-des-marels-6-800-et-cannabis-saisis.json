@@ -1,0 +1,43 @@
+{
+  "slug": "police-a-la-sortie-du-quartier-des-marels-6-800-et-cannabis-saisis",
+  "titre": "Police à la sortie du quartier des Marels : 6 800 € et cannabis saisis",
+  "chapeau": "Un automobiliste a été contrôlé à la sortie du quartier des Marels à Montpellier, où les forces de l'ordre ont saisi 6 800 € en petites coupures et du cannabis. L'homme, âgé d'une trentaine d'années, a reconnu se livrer à l'achat et à la revente de stupéfiants.",
+  "corps": "## Interpellation et saisie\nLe contrôle a eu lieu le 13 novembre 2026, à la sortie du quartier des Marels, zone résidentielle du sud de Montpellier. Une opération de surveillance policière a permis d'arrêter un automobiliste dont l'identité n'a pas été communiquée. Au cours du contrôle, les agents ont découvert une petite quantité de cannabis ainsi que 6 800 € en billets de faible valeur. Le conducteur, décrit comme un trentenaire, a reconnu être impliqué dans l'achat et la revente de stupéfiants.\n\n## Mise en place de la surveillance\nSelon les informations communiquées, la police avait instauré une surveillance ciblée dans le secteur afin de lutter contre le trafic de drogue. Cette stratégie consiste à observer les allées et venues dans des zones identifiées comme points de passage pour les trafiquants. L'intervention a été déclenchée lorsqu'un véhicule a été jugé suspect, menant à l'arrêt et à la fouille du conducteur.\n\n## Conséquences pour les riverains\nAucun incident de circulation n’a été signalé dans les médias locaux à la suite de l’opération. Les contrôles de police peuvent toutefois entraîner de brèves ralentissements ou des arrêts de véhicules dans les environs immédiats. Les habitants du quartier des Marels sont invités à rester vigilants et à suivre les consignes des forces de l'ordre en cas de nouvelle intervention.\n\n## Suite de l’enquête\nLe suspect a été placé en garde à vue et une enquête a été ouverte pour trafic de stupéfiants et blanchiment d’argent. Les autorités poursuivent leurs investigations afin d’identifier d’éventuels partenaires ou réseaux liés à cette affaire. En cas d’information utile, les citoyens peuvent contacter le numéro d’urgence de la police (17) ou le service de renseignement de la préfecture au 112.",
+  "mots_cles": [
+    "droge",
+    "Montpellier",
+    "quartier des Marels",
+    "police",
+    "saisie"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-13T13:17:16+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Montpellier_QC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "P199",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Montpellier_QC.JPG",
+    "legende": "Montpellier, Quebec, Canada",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montpellier QC.JPG"
+  },
+  "sources": [
+    {
+      "media": "InfOccitanie",
+      "titre": "Montpellier : un automobiliste contrôlé avec 6800 euros et du cannabis",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVNXZ2xSSkcxWThLRzRMblZYZXZZcWlwdWRBRDQ4OHMxdW1uNUsxMU9YbWpJMmpxb2NueERjTGJGQjNvQ05abmxIUi1Wd1VoZkZqLWt1cjFxMDRYWWZ4QkNiVDNDTHVsT2tfckVLWlR6aFNTaUY0Sm45dUlLSWdYZ0VzUTVUa09oTVRSSndmMTc4OERGYnRCZA?oc=5"
+    },
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "Contrôlé à la sortie du quartier des Marels à Montpellier, le trafiquant était en possession de drogue et de 6 800 euros en petites coupures",
+      "url": "https://www.midilibre.fr/2026/11/13/controle-a-la-sortie-du-quartier-des-marels-a-montpellier-le-trafiquant-etait-en-possession-de-drogue-et-de-6-800-euros-en-petites-coupures-13649572.php"
+    },
+    {
+      "media": "Midi Libre",
+      "titre": "Contrôlé à la sortie du quartier des Marels à Montpellier, le trafiquant était en possession de drogue et de 6 800 euros en petites coupures",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYmxydk5Jb25hZDE0dVROaVpudTZaa3dNOFRTMWE4amxHcHVWb19TTFBXaE0tQThOeWljbUhUWE5MY2ZidC1hRWtuWnB5dmJKdHpVM3RGSjF4X1Z6Q1l1SXpZMVUtQlhtWENGNml3ZjlVdDA0dzhWcDZfNUpCcE50VG8xOG1WeVNFR1RLXzRsVXR5UnlkZGdpYjVoVnZxT1lETXNFUWdnYnJZQ0FkNENsUjZVOWdMU2JvTllTVlg5SGlHcHIzWjlpMVZ2QkJ1YUJ0Ynp4Wk1fREZCeUctOEwwMG5jc2RGMVB5em9wWW9wM3NJaVZXUXRQU3h5a2t2M0N6Q3M4d0xJdno0OEtFTzN2b2oxR0I1LUE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -237,5 +237,26 @@
     "titres_sources": [
       "DIRECT. Crise sociale : la CFDT rejoint l'appel à la mobilisation dans le public le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\""
     ]
+  },
+  {
+    "titre": "Lecornu ouvre un mois de négociations sur les bas salaires",
+    "texte": "Le Premier ministre Sébastien Lecornu a inauguré à Matignon un dialogue d’un mois avec les syndicats de la fonction publique, incluant la revalorisation des bas salaires. Une réunion le 11 décembre doit concrétiser des avancées mi‑décembre, la CFDT ayant rejoint l’appel à la grève du 17 novembre.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-13T13:17:26+00:00",
+    "titres_sources": [
+      "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+      "Sébastien Lecornu ouvre une discussion d’un mois avec les syndicats de fonctionnaires, notamment sur la revalorisation des « bas salaires »",
+      "Fonction publique : Lecornu ouvre un mois de discussions sur cinq chantiers, dont les bas salaires"
+    ]
+  },
+  {
+    "titre": "L'AIE prévoit un excédent mondial de pétrole au dernier trimestre 2026",
+    "texte": "L'Agence internationale de l'énergie a indiqué que l'offre mondiale de pétrole dépassera la demande au dernier trimestre 2026, marquant le premier excédent depuis le déclenchement de la guerre en Iran en février. Elle précise que le rééquilibrage du marché reste encore timide.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-13T13:17:26+00:00",
+    "titres_sources": [
+      "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+      "Pétrole : pour la première fois depuis le début de la guerre en Iran, l’offre mondiale va dépasser la demande"
+    ]
   }
 ]
