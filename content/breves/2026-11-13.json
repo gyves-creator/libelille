@@ -16,5 +16,23 @@
     "titres_sources": [
       "Quelle banque choisir pour réaliser des virements en devises ?"
     ]
+  },
+  {
+    "titre": "SpaceX prévoit le 15e vol d'essai de Starship avec capture en vol",
+    "texte": "SpaceX aurait prévu de lancer le 15e essai de Starship le vendredi 13 novembre à 23 h 45 (heure de Paris). Le vol devrait durer plus de 22 heures en orbite et inclure une première tentative de récupération des deux étages par la tour de lancement.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-13T06:08:31+00:00",
+    "titres_sources": [
+      "Starship : suivez en direct la tentative inédite de la double capture de la fusée géante en plein vol"
+    ]
+  },
+  {
+    "titre": "Visite du pape au Pérou relance l’espoir de justice pour les peuples autochtones",
+    "texte": "La visite du pape au Pérou aurait ravivé l’espoir de justice pour les peuples autochtones qui se disent spoliés. En mai, le Vatican aurait présenté des excuses symboliques aux habitants de Catacaos pour la dépossession de leurs terres, le Sodalicio ayant été dissous en 2025.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T06:08:31+00:00",
+    "titres_sources": [
+      "La visite du pape au Pérou ravive l’espoir de justice pour des populations paysannes autochtones qui se disent spoliées"
+    ]
   }
 ]

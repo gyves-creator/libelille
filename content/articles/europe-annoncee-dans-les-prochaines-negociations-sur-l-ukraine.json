@@ -1,0 +1,43 @@
+{
+  "slug": "europe-annoncee-dans-les-prochaines-negociations-sur-l-ukraine",
+  "titre": "Europe annoncée dans les prochaines négociations sur l'Ukraine",
+  "chapeau": "Le président ukrainien Volodymyr Zelensky et les représentants américains ont déclaré que l'Europe interviendra lors du prochain cycle de pourparlers avec la Russie. Le Kremlin n'a pas confirmé que le président Vladimir Poutine accepte cette inclusion.",
+  "corps": "## Annonce de la participation européenne\nDans le cadre d'une rencontre tenue jeudi soir à Dublin, le président ukrainien Volodymyr Zelensky a été accompagné des émissaires américains Jared Kushner et Steve Witkoff. Au cours de cet entretien, les trois dirigeants ont indiqué que les pays européens seraient présents lors du prochain cycle de négociations destiné à mettre fin au conflit entre la Russie et l'Ukraine. Cette déclaration a été relayée par les autorités de Kiev et par les services diplomatiques de Washington, soulignant une volonté commune de renforcer la légitimité internationale des pourparlers à venir.\n\n## Parcours des émissaires avant Dublin\nAvant de se rendre en Irlande, les deux représentants des États‑Unis ont effectué une visite à Moscou où ils ont rencontré le président russe Vladimir Poutine. Les discussions à Moscou ont porté sur les exigences russes pour mettre fin à la guerre, qui dure depuis près de cinq ans. Bien que Poutine ait laissé entendre que la Russie ne reviendrait pas sur ses conditions, aucune confirmation officielle n'a été donnée quant à l'acceptation d'une implication européenne dans les futures tables de négociation.\n\n## Position du Kremlin\nLe Kremlin, quant à lui, n'a pas confirmé que le président Vladimir Poutine avait consenti à inclure les partenaires européens dans les prochains pourparlers. Cette absence de confirmation reflète la position habituelle de Moscou, qui maintient une marge de manœuvre sur les exigences formulées à l'égard de la communauté internationale. Ainsi, malgré l'annonce conjointe de Kiev et de Washington, la participation effective de l'Europe reste soumise à l'aval de la Russie.\n\n## Contexte du conflit\nLe conflit entre la Russie et l'Ukraine, déclenché en 2022, a donné lieu à plusieurs cycles de négociations intermittents, souvent interrompus par des escalades militaires. Les tentatives de médiation ont régulièrement impliqué des acteurs externes, dont les Nations unies, l'Union européenne et les États‑Unis. L'annonce d'une présence européenne élargie s'inscrit dans une dynamique visant à élargir le cercle des parties prenantes afin de favoriser une issue diplomatique durable.",
+  "mots_cles": [
+    "Ukraine",
+    "négociations",
+    "Europe",
+    "Russie",
+    "Poutine"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-13T06:08:24+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Press Service of the President of Ukraine",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+    "legende": "Новорічне звернення президента України Володимира Зеленського.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:New Year's Eve from President of Ukraine Volodymyr Zelensky (31-12-2025) (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Kiev et Washington affirment que les Européens seront présents aux prochaines négociations sur l'Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-washington-affirment-que-les-europeens-seront-presents-aux-prochaines-negociations-sur-l-ukraine_8280449.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "En direct : les Européens seront présents aux prochaines négociations sur l'Ukraine",
+      "url": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
+      "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
