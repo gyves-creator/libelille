@@ -518,5 +518,23 @@
       "France-Afrique du Sud : énorme coup dur pour les Bleus avec le forfait de dernière minute de Julien Marchand",
       "Rugby: Julien Marchand est forfait au dernier moment avant le France-Afrique du Sud"
     ]
+  },
+  {
+    "titre": "Collision entre porte-conteneurs et paquebot à La Nouvelle-Orléans",
+    "texte": "Un porte-conteneurs et un paquebot de croisière seraient entrés en collision dans le port de La Nouvelle-Orléans, d'après les autorités portuaires relayées par les médias. Le nombre de blessés et les causes de l'accident n'auraient pas encore été confirmés.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T21:29:57+00:00",
+    "titres_sources": [
+      "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans"
+    ]
+  },
+  {
+    "titre": "Suspension du gardien Jesús Owono après incident mortel",
+    "texte": "La Fédération espagnole de football aurait infligé une lourde suspension au gardien équato-guinéen Jesús Owono suite à un choc mortel impliquant Jesús de Miguel. Cette sanction intervient après le décès de Jesús de Miguel, confirmé par les autorités sportives.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T21:29:57+00:00",
+    "titres_sources": [
+      "Mort de Jesus de Miguel : la sanction infligée à Andorre Owono est connue"
+    ]
   }
 ]
