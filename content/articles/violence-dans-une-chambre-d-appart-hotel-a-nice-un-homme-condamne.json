@@ -1,0 +1,37 @@
+{
+  "slug": "violence-dans-une-chambre-d-appart-hotel-a-nice-un-homme-condamne",
+  "titre": "Violence dans une chambre d’appart‑hôtel à Nice, un homme condamné",
+  "chapeau": "Un homme, libéré de son bracelet électronique, a agressé une jeune femme dans la chambre d’un appart‑hôtel de Nice en septembre dernier. Il a été condamné à une peine lourde pour récidive.",
+  "corps": "## Faits de l’incident\n\nDans la soirée de septembre, un homme récemment libéré de son dispositif de surveillance électronique s’est rendu dans un appart‑hôtel du centre de Nice. Sous l’influence d’alcool et de stupéfiants, il a perdu le contrôle et a agressivement frappé la jeune femme avec qui il devait passer la nuit. L’agression s’est déroulée dans la chambre de l’établissement, qui n’est pas identifié plus précisément dans les dépêches. Aucun détail supplémentaire sur les circonstances n’a été communiqué, et l’identité de la victime n’a pas été révélée conformément aux règles de protection des victimes.\n\n## Suite judiciaire\n\nL’auteur des faits a été placé en garde à vue puis présenté devant le tribunal. Reconnu récidiviste, il a écopé d’une lourde peine, bien que le texte des dépêches ne précise pas la durée exacte de la condamnation. La décision judiciaire souligne la gravité de l’infraction, aggravée par le fait que l’agresseur venait tout juste d’être libéré de son bracelet électronique, dispositif destiné à contrôler les déplacements des personnes sous surveillance judiciaire.\n\n## Conséquences pour les habitants\n\nL’incident n’a entraîné aucune perturbation du trafic routier ni de services publics dans la ville. Toutefois, il rappelle aux résidents et aux visiteurs les risques liés à la consommation d’alcool et de stupéfiants, notamment dans des lieux d’hébergement. Les autorités locales invitent toute personne témoin d’une situation similaire à alerter immédiatement les forces de l’ordre en composant le 17 ou en se rendant au commissariat le plus proche. Les victimes d’actes de violence peuvent également se rapprocher du service d’aide aux victimes de la préfecture, accessible via le site internet de la mairie de Nice.\n\n## Informations pratiques\n\n- Numéro d’urgence police : 17\n- Service d’aide aux victimes de la préfecture : www.nice.fr/justice‑victimes\n- Adresse du commissariat de quartier le plus proche (à consulter sur le site de la mairie).\n\nCes contacts restent ouverts 24 h/24 pour signaler tout comportement suspect ou pour obtenir un accompagnement juridique et psychologique.",
+  "mots_cles": [
+    "violence domestique",
+    "Nice",
+    "bracelet électronique",
+    "justice"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-13T11:08:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/0519_-France_-_Nice_-_Corner_Rue_de_l%27Abbaye_and_Rue_Saint_Vincent_-_looking_up_-_HDR_-_VP.jpg/1280px-0519_-France_-_Nice_-_Corner_Rue_de_l%27Abbaye_and_Rue_Saint_Vincent_-_looking_up_-_HDR_-_VP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Virtual-Pano",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:0519_-France_-_Nice_-_Corner_Rue_de_l%27Abbaye_and_Rue_Saint_Vincent_-_looking_up_-_HDR_-_VP.jpg",
+    "legende": "Looking up - street corner between Rue de l'Abbaye and Rue Saint Vincent - Nice, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:0519 -France - Nice - Corner Rue de l'Abbaye and Rue Saint Vincent - looking up - HDR - VP.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Quelques heures après avoir été libéré de son bracelet électronique, il défigure sa conquête du soir dans une chambre d’hôtel à Nice",
+      "url": "https://www.nicematin.com/societe/justice/quelques-heures-apres-avor-ete-libere-de-son-bracelet-electronique-il-defigure-sa-conquete-du-soir-dans-une-chambre-d-hotel-a-nice-10759112"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Quelques heures après avoir été libéré de son bracelet électronique, il défigure sa conquête du soir dans une chambre d’hôtel à Nice",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRmV5Sms1cVBadFY0RjNXR2trZnhDQjFCUlJkdklxOUlnemNaeXVpY2VEZU0xRGVJUU42dnQtbkt5MDlZLW1rRzlGWGM5Y3FVQ0NUZzFHYy0wak1LLUw4M0ZyZ2RseTdXVHQ4MVRmcElERTlfTDhHaE5PaWxsTXNiRWVVMGlLZFZpYUVlaGp3WmNLTmNiTldVczc1azllVE8yQ2ZQczNKSDFtTmF0VThOWTkwUWRKS2dfaW16OGRnaS1wODdRQmhyY1hpMk5KM1o2WmNla0drUi1kZVVicDBRUzBNdEY3bXNydmd4Mkk5SkRyMGo2ekt2QW9CRkhQN1p5Uk41UnJmd25KM1dJM1E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

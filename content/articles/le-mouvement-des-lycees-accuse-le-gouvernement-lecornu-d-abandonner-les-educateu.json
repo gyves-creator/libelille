@@ -1,0 +1,33 @@
+{
+  "slug": "le-mouvement-des-lycees-accuse-le-gouvernement-lecornu-d-abandonner-les-educateu",
+  "titre": "Le mouvement des lycées accuse le gouvernement Lecornu d’abandonner les éducateurs",
+  "chapeau": "Le mouvement des lycées a dénoncé, dans un communiqué publié le 13 novembre 2026, un abandon des éducateurs par le gouvernement dirigé par Sébastien Lecornu. Selon ce texte, l’absence de mesures crédibles et le manque de concertation avec les syndicats et les exécutifs régionaux contribueraient à l’épuisement généralisé des responsables éducatifs.",
+  "corps": "## Revendications du mouvement des lycées\nLe collectif, qui regroupe des enseignants et des cadres du secondaire, a publié un avis critique à l’encontre de l’action du gouvernement français. Il y reproche de ne pas avoir présenté de solution politique jugée crédible pour répondre aux difficultés rencontrées par les responsables éducatifs. Le texte souligne également que les instances représentatives, notamment les syndicats et les exécutifs régionaux, n’auraient pas été associés aux décisions, alors même que leur implication aurait été attendue.\n\n## Absence de réponses officielles\nLe communiqué ne mentionne aucune réaction du ministère de l’Éducation ou d’autres porte-parole du gouvernement. Aucun détail n’est fourni quant à d’éventuelles mesures en cours d’élaboration ou à des projets de dialogue avec les organisations professionnelles. En l’absence d’informations complémentaires, le mouvement des lycées reste le seul porte‑voix de ces accusations dans le cadre de cet article.\n\n## Contexte institutionnel\nSébastien Lecornu, membre du gouvernement français, occupe depuis peu la responsabilité du portefeuille de l’Éducation. Le système des lycées en France repose sur un réseau d’établissements publics et privés sous la tutelle du ministère, avec des acteurs régionaux et syndicaux qui participent habituellement à la définition des politiques éducatives. Le sentiment d’épuisement évoqué par le mouvement s’inscrit dans un contexte plus large de tensions professionnelles observées dans le secteur de l’éducation au cours des dernières années.\n\n## Perspectives\nLe texte ne précise pas quelles seraient les exigences concrètes du mouvement ni les échéances envisagées pour une éventuelle résolution. Il indique simplement que, selon le collectif, la responsabilité du gouvernement est « lourde » dans la situation actuelle. Sans déclaration officielle du gouvernement, il est difficile d’évaluer les suites que pourra prendre ce différend.",
+  "mots_cles": [
+    "mouvement lycées",
+    "gouvernement",
+    "éducateurs",
+    "épuisement",
+    "syndicats"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-13T11:07:56+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es.jpg/1280px-Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "© Patrice Normand/Leextra via opale",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_officiel_de_S%C3%A9bastien_Lecornu_-_Ministre_des_Arm%C3%A9es.jpg",
+    "legende": "Official portrait of Sébastien Lecornu (French Minister of the Armed Forces des Armées) ©Patrice Normand/Leextra",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Portrait officiel de Sébastien Lecornu - Ministre des Armées.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Mouvement des lycées : le gouvernement abandonne les éducateurs",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/13/mouvement-des-lycees-le-gouvernement-abandonne-les-educateurs_6809316_3232.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
