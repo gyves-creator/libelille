@@ -34,5 +34,23 @@
     "titres_sources": [
       "La visite du pape au Pérou ravive l’espoir de justice pour des populations paysannes autochtones qui se disent spoliées"
     ]
+  },
+  {
+    "titre": "Nvidia secoué par le départ de Jensen Huang et scandale d'espionnage",
+    "texte": "Le PDG fondateur Jensen Huang aurait quitté précipitamment Nvidia à la suite d’un scandale d’adultères, dont une liaison suspectée d’espionnage pour Pékin. Cette affaire aurait fait chuter le cours de l’action du groupe.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-13T06:40:25+00:00",
+    "titres_sources": [
+      "Le leader mondial Nvidia de l'IA dans la tourmente après le départ précipité de son patron-fondateur, emporté par le scandale de ses adultères"
+    ]
+  },
+  {
+    "titre": "Panne mondiale d'Outlook chez Microsoft, résolution difficile",
+    "texte": "Microsoft signalerait une interruption généralisée du service de messagerie Outlook, les tentatives de résolution ne fonctionnant pas comme prévu. L’entreprise affirmerait travailler sans relâche pour rétablir le service.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-13T06:40:25+00:00",
+    "titres_sources": [
+      "Une panne mondiale touche la messagerie Outlook de Microsoft, les mesures pour la résoudre ne fonctionnent \"pas comme prévu\""
+    ]
   }
 ]
