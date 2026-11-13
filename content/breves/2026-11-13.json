@@ -441,5 +441,23 @@
     "titres_sources": [
       "Léon XIV au Pérou : les fidèles de Chiclayo touchés au cœur par le retour de «Mgr Robert», leur évêque devenu pape"
     ]
+  },
+  {
+    "titre": "Bruno Fernandes refuse l'offre de prolongation de Manchester United",
+    "texte": "Selon Le Figaro, Bruno Fernandes aurait décliné une nouvelle proposition de prolongation de Manchester United, maintenant ainsi la liberté de transfert en fin de saison. Cette décision retarde les négociations du club anglais sur le mercato.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-13T19:37:17+00:00",
+    "titres_sources": [
+      "Mercato : libre en fin de saison, Bruno Fernandes repousse (encore) les avances de Manchester United"
+    ]
+  },
+  {
+    "titre": "Arthur Mensch exhorte l'Europe à agir rapidement sur l'IA",
+    "texte": "Selon franceinfo, Arthur Mensch aurait appelé les dirigeants européens à prendre des mesures immédiates afin de garder l'Europe compétitive dans le domaine de l'intelligence artificielle. Il a souligné que les choix des deux prochaines années façonneront le secteur pour la décennie à venir.",
+    "rubrique": "international",
+    "publie_le": "2026-11-13T19:37:17+00:00",
+    "titres_sources": [
+      "Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à \"agir maintenant\" pour rester dans la course en matière d'intelligence artificielle"
+    ]
   }
 ]
