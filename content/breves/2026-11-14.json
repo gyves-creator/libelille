@@ -54,5 +54,23 @@
     "titres_sources": [
       "Choisir une offre d’électricité ou de gaz : tout ce qu’il faut savoir avant de signer [Sponso]"
     ]
+  },
+  {
+    "titre": "Promotions déjà en rayon, Black Friday prévu le 27 nov",
+    "texte": "Selon franceinfo, des promotions de fin d'année seraient déjà visibles dans les rayons dès ce mois de novembre. Le Black Friday, qui aurait lieu le vendredi 27, marquerait le point culminant des soldes.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-14T07:44:42+00:00",
+    "titres_sources": [
+      "Black Friday et autres promos sont déjà là : on fait la chasse aux bonnes affaires"
+    ]
+  },
+  {
+    "titre": "L'effet nocebo : la peur de la douleur peut la provoquer",
+    "texte": "Franceinfo indique que l'effet nocebo correspondrait à une douleur ressentie suite à la crainte même de la souffrir. Cette réaction psychologique serait à l'origine de symptômes secondaires même en l'absence de cause médicale.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-14T07:44:42+00:00",
+    "titres_sources": [
+      "L'effet nocebo : avoir mal par peur d'avoir mal"
+    ]
   }
 ]
