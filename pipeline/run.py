@@ -143,6 +143,7 @@ def main(journal=print):
     sources.collecter = collecter_cache
 
     reparer_photos(cfg, journal)
+    retirer_citations_medias(cfg, journal)
 
     mode = os.environ.get("LEFIL_MODE", "").strip()
     try:
@@ -305,6 +306,36 @@ def reparer_photos(cfg, journal=print, max_par_passage=3):
             photos.marquer_utilisee(photo)
             journal(f"📷 {'nouvelle photo (doublon)' if ancienne else 'photo ajoutée'} : « {a['titre']} »")
             faits += 1
+
+
+def retirer_citations_medias(cfg, journal=print, max_par_passage=3):
+    """Anciens articles qui citent un média (« selon BFMTV… ») : l'IA les réécrit sans le nommer."""
+    import json as _json
+    if os.environ.get("LEFIL_SIMULATION") == "1":
+        return
+    faits = 0
+    for f in sorted(ARTICLES.glob("*.json")):
+        a = lire_json(f, None)
+        if not a or not redaction.cite_un_media(a):
+            continue
+        consigne = ("Voici un article au format JSON. Réécris-le en gardant exactement les mêmes faits, la même longueur "
+                    "et la même structure, mais retire toute mention d'un média (journal, radio, télé, site, agence) : "
+                    "donne les faits directement, ou attribue-les à la source d'origine (autorités, personne concernée) "
+                    "si elle est connue. N'ajoute aucun fait. Réponds avec le même JSON (titre, chapeau, corps).\n\n"
+                    + _json.dumps({k: a[k] for k in ("titre", "chapeau", "corps")}, ensure_ascii=False))
+        for fournisseur in cfg["ia"]["fournisseurs"]:
+            try:
+                n = redaction._extraire_json(redaction._appeler(fournisseur, [{"role": "user", "content": consigne}]))
+                if all(str(n.get(k, "")).strip() for k in ("titre", "chapeau", "corps")) and not redaction.cite_un_media(n):
+                    a.update(titre=n["titre"].strip().rstrip("."), chapeau=n["chapeau"].strip(), corps=n["corps"].strip())
+                    ecrire_json(f, a)
+                    journal(f"✎ média retiré : « {a['titre']} »")
+                    faits += 1
+                    break
+            except Exception as exc:
+                journal(f"    ↳ réécriture ({fournisseur['nom']}) : {exc}")
+        if faits >= max_par_passage:
+            break
 
 
 def enregistrer(art, ev, rub, photo, modele):

@@ -17,6 +17,12 @@ Règles absolues :
 2. Ne recopie aucune phrase des dépêches. Reformule entièrement, avec ta propre structure et ton propre angle.
 3. Pas de guillemets pour citer quelqu'un, sauf si la citation exacte figure dans une dépêche (et alors 15 mots maximum).
 4. Ton factuel et neutre, aucune opinion. Si les sources divergent, dis-le.
+4 bis. Ne nomme JAMAIS un média (journal, radio, télé, site, agence de presse) : pas de « selon BFMTV »,
+   « d'après franceinfo », « rapporte Le Parisien »… Donne l'information directement.
+   Quand il faut attribuer, attribue à la source d'origine si elle figure dans les dépêches : la préfecture,
+   la police, le ministère, le club, l'entreprise, la personne qui s'exprime (« a annoncé la mairie »).
+   Si l'information n'est pas confirmée, emploie le conditionnel. N'invente jamais une source ni un témoin,
+   et n'écris jamais que la rédaction s'est rendue sur place.
 5. Ajoute du contexte général utile au lecteur (qui est la personne, de quoi parle-t-on), seulement s'il s'agit de connaissances bien établies et non datées.
 6. Longueur : 350 à 550 mots. Structure : un chapeau (2 phrases), puis 3 ou 4 paragraphes, avec 1 ou 2 intertitres en markdown (## ...).
 
@@ -31,15 +37,42 @@ Réponds UNIQUEMENT avec un objet JSON valide, sans texte autour :
 }"""
 
 
+# Médias à ne jamais citer dans un article (on donne l'info, pas « selon tel média »)
+MEDIAS = (r"BFM\s?TV|BFM(?:\s[A-Z]\w+)?|franceinfo|France\s?[Ii]nfo|France\s?T[ée]l[ée]visions?|France\s?2|France\s?3|"
+          r"France\s?Inter|France\s?Bleu|(?:Le|du)\sMonde(?!\s+entier)|(?:Le|du)\sFigaro|(?:Le|du)\sParisien|Aujourd'hui en France|"
+          r"France\s?24|RFI|Ouest-France|Ouest\sFrance|(?:La|de\sla)\sD[ée]p[êe]che(?:\sdu\sMidi)?|Nice-Matin|Var-Matin|Corse-Matin|"
+          r"(?:Le|du)\sProgr[èe]s|20\s?Minutes|AFP|Agence France-Presse|Reuters|actu\.fr|La\sProvence|Midi\sLibre|"
+          r"Numerama|L['’][ÉE]quipe|RMC(?:\sSport)?|TF1(?:info)?|LCI|CNews|Europe\s?1|RTL|Lib[ée]ration|Les\s[ÉE]chos|"
+          r"Le\sPoint|L['’]Express|Le\sNouvel\sObs|L['’]Obs|Mediapart|Le\sJDD|Sud\sOuest|DNA|"
+          r"Derni[èe]res\sNouvelles\sd['’]Alsace|Le\sHuffPost|HuffPost|Konbini|Presse\sOc[ée]an|La\sVoix\sdu\sNord|"
+          r"Le\sT[ée]l[ée]gramme|Lyon\sCapitale|Rue89\w*|Marsactu|Made\sin\sMarseille|Le\sDauphin[ée](?:\sLib[ée]r[ée])?")
+# sensible à la casse : « le monde » ou « un parisien » ne sont pas des médias
+_RE_MEDIAS = re.compile(rf"\b(?:{MEDIAS})\b")
+_RE_ATTRIBUTION = re.compile(rf"(?i:selon|d['’]apr[èe]s|rapporte|indique|r[ée]v[èe]le|a appris|pr[ée]cise|souligne|"
+                             rf"affirme|explique|interrog[ée]e? par|au micro de|sur le plateau de|dans les colonnes de|"
+                             rf"aupr[èe]s de|nos confr[èe]res)\s+(?i:(?:le|la|les|l['’]|de|du|des)\s*)?(?:{MEDIAS})\b")
+
+
+def masquer_medias(texte):
+    """Retire les noms de médias des dépêches données à l'IA (elle ne peut pas citer ce qu'elle ne voit pas)."""
+    return _RE_MEDIAS.sub("un média", texte or "")
+
+
+def cite_un_media(art):
+    texte = " ".join(str(art.get(k, "")) for k in ("titre", "chapeau", "corps"))
+    return bool(_RE_ATTRIBUTION.search(texte) or _RE_MEDIAS.search(texte))
+
+
 class EchecRedaction(Exception):
     pass
 
 
 def _message_utilisateur(evenement, rubrique):
-    lignes = [f"Rubrique : {rubrique['nom']}", "", "Dépêches :"]
+    lignes = [f"Rubrique : {rubrique['nom']}", "", "Dépêches (le nom des médias est volontairement masqué) :"]
     for i, d in enumerate(evenement["depeches"][:6], 1):
         date = d["date"].strftime("%d/%m/%Y %H:%M UTC") if d["date"] else "date inconnue"
-        lignes.append(f"[{i}] {d['media']} ({date})\nTitre : {d['titre']}\nRésumé : {d['resume']}\n")
+        lignes.append(f"[{i}] Source {i} ({date})\nTitre : {masquer_medias(d['titre'])}\n"
+                      f"Résumé : {masquer_medias(d['resume'])}\n")
     return "\n".join(lignes)
 
 
@@ -149,6 +182,17 @@ def rediger(evenement, rubrique, cfg, journal=print):
             for champ in ("titre", "chapeau", "corps"):
                 if not str(art.get(champ, "")).strip():
                     raise ValueError(f"champ « {champ} » vide")
+            if cite_un_media(art):
+                # une seule correction : on demande de réécrire sans nommer de média
+                journal("    ↳ l'article cite un média : réécriture demandée")
+                correction = messages + [
+                    {"role": "assistant", "content": json.dumps(art, ensure_ascii=False)},
+                    {"role": "user", "content": "Réécris exactement le même article en retirant toute mention d'un média "
+                     "(journal, radio, télé, site, agence). Donne les faits directement, ou attribue-les à la source "
+                     "d'origine (autorités, personne concernée) si elle est connue. Même format JSON."}]
+                art = _extraire_json(_appeler(f, correction))
+                if cite_un_media(art):
+                    raise ValueError("cite encore un média après réécriture")
             return art, f"{f['nom']}/{f['modele']}"
         except Exception as exc:
             journal(f"    ↳ {f['nom']} a échoué : {exc}")

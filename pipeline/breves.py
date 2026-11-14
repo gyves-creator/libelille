@@ -17,9 +17,11 @@ Pour chaque événement fourni (dépêches de plusieurs médias), écris UNE br�
 Règles absolues :
 1. Uniquement les faits présents dans les dépêches. N'invente aucun chiffre, date, nom ni citation.
 2. Ne recopie aucune phrase : reformule entièrement. Pas de citation entre guillemets.
-3. Ton factuel et neutre, aucune opinion. Si une seule source rapporte l'information, emploie le conditionnel.
-4. Titre : 70 caractères maximum, informatif, sans point final.
-5. Texte : 2 phrases, 45 mots maximum au total, qui disent l'essentiel (quoi, qui, où, et ce que ça change).
+3. Ne nomme jamais un média (journal, radio, télé, site, agence) : donne l'information directement,
+   ou attribue-la à la source d'origine (autorités, personne concernée) si elle est connue.
+4. Ton factuel et neutre, aucune opinion. Si une seule source rapporte l'information, emploie le conditionnel.
+5. Titre : 70 caractères maximum, informatif, sans point final.
+6. Texte : 2 phrases, 45 mots maximum au total, qui disent l'essentiel (quoi, qui, où, et ce que ça change).
 
 Réponds UNIQUEMENT avec un objet JSON valide :
 {"breves": [{"id": 1, "titre": "...", "texte": "..."}, ...]}"""
@@ -40,7 +42,7 @@ def _ia(evenements, cfg, journal):
     for i, ev in enumerate(evenements, 1):
         lignes.append(f"=== Événement {i} ===")
         for d in ev["depeches"][:5]:
-            lignes.append(f"- {d['media']} : {d['titre']}. {d['resume'][:300]}")
+            lignes.append(f"- {redaction.masquer_medias(d['titre'])}. {redaction.masquer_medias(d['resume'][:300])}")
     messages = [{"role": "system", "content": CONSIGNES}, {"role": "user", "content": "\n".join(lignes)}]
     if os.environ.get("LEFIL_SIMULATION") == "1":
         return [{"id": i, "titre": ev["titre"][:70], "texte": "Brève de démonstration."}
@@ -94,7 +96,7 @@ def passage(cfg, rubriques, recents, liens_utilises, journal=print, nombre=None)
         b = textes.get(i)
         if not b or not str(b.get("titre", "")).strip() or not str(b.get("texte", "")).strip():
             continue
-        if len(str(b["texte"]).split()) > 70:
+        if len(str(b["texte"]).split()) > 70 or redaction.cite_un_media(b):
             continue
         du_jour.append({
             "titre": str(b["titre"]).strip().rstrip("."),
