@@ -321,12 +321,15 @@ def retirer_citations_medias(cfg, journal=print, max_par_passage=6):
         consigne = ("Voici un article au format JSON. Réécris-le en gardant exactement les mêmes faits, la même longueur "
                     "et la même structure, mais retire toute mention d'un média (journal, radio, télé, site, agence) : "
                     "donne les faits directement, ou attribue-les à la source d'origine (autorités, personne concernée) "
-                    "si elle est connue. N'ajoute aucun fait. Réponds avec le même JSON (titre, chapeau, corps).\n\n"
+                    "si elle est connue. N'ajoute aucun fait. Réponds en français avec le même JSON (titre, chapeau, corps).\n\n"
                     + _json.dumps({k: a[k] for k in ("titre", "chapeau", "corps")}, ensure_ascii=False))
         for fournisseur in cfg["ia"]["fournisseurs"]:
             try:
-                n = redaction._extraire_json(redaction._appeler(fournisseur, [{"role": "user", "content": consigne}]))
-                if all(str(n.get(k, "")).strip() for k in ("titre", "chapeau", "corps")) and not redaction.cite_un_media(n):
+                n = redaction._extraire_json(redaction._appeler(fournisseur, [
+                    {"role": "system", "content": "Tu es journaliste dans une rédaction française. Tu écris toujours en français."},
+                    {"role": "user", "content": consigne}]))
+                if (all(str(n.get(k, "")).strip() for k in ("titre", "chapeau", "corps")) and not redaction.cite_un_media(n)
+                        and redaction.est_en_francais(n["titre"]) and redaction.est_en_francais(n["chapeau"])):
                     a.update(titre=n["titre"].strip().rstrip("."), chapeau=n["chapeau"].strip(), corps=n["corps"].strip())
                     ecrire_json(f, a)
                     journal(f"✎ média retiré : « {a['titre']} »")

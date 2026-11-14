@@ -54,13 +54,26 @@ _RE_ATTRIBUTION = re.compile(rf"(?i:selon|d['’]apr[èe]s|rapporte|indique|r[é
 
 
 def masquer_medias(texte):
-    """Retire les noms de médias des dépêches données à l'IA (elle ne peut pas citer ce qu'elle ne voit pas)."""
-    return _RE_MEDIAS.sub("un média", texte or "")
+    """Retire des dépêches les formules « selon tel média » (le média reste nommé s'il est le sujet de l'info)."""
+    return _RE_ATTRIBUTION.sub("", texte or "")
 
 
 def cite_un_media(art):
+    """Vrai si l'article attribue une info à un média (« selon BFMTV », « interrogé par franceinfo »…).
+    Un média peut être nommé quand il est lui-même le sujet (ex. : une pétition contre une chaîne)."""
     texte = " ".join(str(art.get(k, "")) for k in ("titre", "chapeau", "corps"))
-    return bool(_RE_ATTRIBUTION.search(texte) or _RE_MEDIAS.search(texte))
+    return bool(_RE_ATTRIBUTION.search(texte))
+
+
+_ANGLAIS = {"the", "of", "and", "with", "after", "several", "one", "is", "are", "to", "for", "on", "at", "by", "from",
+            "attacks", "target", "says", "over", "new", "amid"}
+_FRANCAIS = {"le", "la", "les", "de", "des", "du", "un", "une", "et", "à", "en", "pour", "sur", "dans", "au", "aux", "après"}
+
+
+def est_en_francais(texte):
+    mots = re.findall(r"[a-zàâçéèêëîïôûùüÿœ']+", (texte or "").lower())
+    an, fr = sum(m in _ANGLAIS for m in mots), sum(m in _FRANCAIS for m in mots)
+    return not (an >= 2 and an > fr)
 
 
 class EchecRedaction(Exception):
@@ -182,6 +195,8 @@ def rediger(evenement, rubrique, cfg, journal=print):
             for champ in ("titre", "chapeau", "corps"):
                 if not str(art.get(champ, "")).strip():
                     raise ValueError(f"champ « {champ} » vide")
+            if not est_en_francais(art["titre"]) or not est_en_francais(art["chapeau"]):
+                raise ValueError("article pas entièrement en français")
             if cite_un_media(art):
                 # une seule correction : on demande de réécrire sans nommer de média
                 journal("    ↳ l'article cite un média : réécriture demandée")
