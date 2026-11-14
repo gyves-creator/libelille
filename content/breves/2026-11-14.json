@@ -182,5 +182,23 @@
     "titres_sources": [
       "Aucune sonde n’a jamais été aussi loin dans le cosmos : Voyager 1 arrive à un jour lumière de la Terre, et la NASA lance un jeu"
     ]
+  },
+  {
+    "titre": "Le Sénat adopte un amendement pour allonger la durée du travail",
+    "texte": "Le Sénat a voté un amendement proposant d’allonger la semaine de travail de deux heures, dans le débat sur le budget Sécurité sociale 2027. Sans portée juridique, il sert à affirmer la position de la droite sur le besoin de travailler plus.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-14T10:51:36+00:00",
+    "titres_sources": [
+      "Budget de la « Sécu » 2027 : le retour du débat sur les 35 heures au Sénat"
+    ]
+  },
+  {
+    "titre": "Le XV de France l'emporte 21-19 contre l'Afrique du Sud",
+    "texte": "Le XV de France a battu l'Afrique du Sud 21-19 au Stade de France vendredi soir. La presse française aurait qualifié la performance d'héroïque, soulignant le courage et l'esprit combatif de l'équipe de Fabien Galthié.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-14T10:51:36+00:00",
+    "titres_sources": [
+      "«Héroïques», «les Braves», «courage incroyable»… La presse hexagonale salue l’exploit et l’état d’esprit du XV de France"
+    ]
   }
 ]

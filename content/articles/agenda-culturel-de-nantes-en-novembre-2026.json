@@ -1,0 +1,42 @@
+{
+  "slug": "agenda-culturel-de-nantes-en-novembre-2026",
+  "titre": "Agenda culturel de Nantes en novembre 2026",
+  "chapeau": "Une série d'événements culturels et de loisirs se profile à Nantes au cours du mois de novembre 2026. Les habitants peuvent ainsi planifier leurs sorties du 12 au 28 novembre selon les programmes annoncés.",
+  "corps": "## Des animations variées dans plusieurs quartiers\nNantes accueille, du 20 au 28 novembre, plusieurs manifestations artistiques et sportives. Le 20 novembre, le Théâtre du Sphinx propose la comédie musicale **« 10 voix pour un verdict »**. Le même week‑end, le 28 novembre, deux activités se tiennent simultanément : une soirée **Tisane Party** au bar STEREOLUX et un atelier de bande dessinée intitulé **« ça va être super »** à la Maison Fumetti, située dans la Manufacture des tabacs. Le 21 novembre, la maternelle Sully ouvre un atelier de Pilates le samedi, offrant aux participants un moment de détente physique.\n\n## Un guide du week‑end du 12 au 15 novembre\nLe site **Big City Nantes** publie un récapitulatif des possibilités de sortie pour le week‑end du 12 au 15 novembre 2026. Bien que le texte ne détaille pas les activités spécifiques, il indique que plusieurs options culturelles et de loisirs sont disponibles dans la ville pendant ces quatre jours. Les résidents sont ainsi invités à consulter le guide pour choisir les programmes qui correspondent à leurs envies.\n\n## Prévisions météorologiques locales\nLe quotidien **Ouest‑France** diffuse les prévisions météo pour le samedi 14 novembre 2026 à Nantes et ses environs. Les informations météorologiques, bien que non précisées dans le résumé, constituent un repère utile pour les personnes souhaitant se déplacer ou participer à des activités en plein air ce jour‑là.\n\n## Conseils pratiques pour les habitants\nTous les événements mentionnés sont organisés dans des lieux publics ou associatifs de la ville. Les habitants sont encouragés à vérifier les horaires exacts, les éventuelles conditions d'inscription ou de réservation, ainsi que les mesures sanitaires éventuelles, en consultant les sites internet des organisateurs ou la page officielle de la mairie de Nantes. En cas de besoin d'information supplémentaire, le service d'information de la ville peut être joint via le numéro général du service public ou sur le site municipal.\n\nCes initiatives illustrent la dynamique culturelle de Nantes en novembre 2026, offrant aux résidents un éventail d'options pour se divertir, se former ou simplement profiter d'un moment convivial dans différents quartiers de la métropole.",
+  "mots_cles": [
+    "Nantes",
+    "culture",
+    "événements",
+    "novembre 2026"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-14T10:51:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Cath%C3%A9drale_de_Nantes_-_nef.jpg/1280px-Cath%C3%A9drale_de_Nantes_-_nef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Eusebius",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_de_Nantes_-_nef.jpg",
+    "legende": "Nave of the Cathédrale Saint-Pierre et Saint-Paul de Nantes .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Cathédrale de Nantes - nef.jpg"
+  },
+  "sources": [
+    {
+      "media": "Unidivers",
+      "titre": "Tisane party, STEREOLUX, Nantes – 28 novembre 2026",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemlDWlVEMnZwM3ZRSmN2bkFMV2p6dDVaTkoxREY5T0VzU2RxN0taNWFtTmE5bDRHLTdva2gtbW1MTlUtZWkxMVV2TGFoeUlLb3cxMm03U2c1Wm1sa2pEYWNSZTdTSERYR1NYc1pVN3NURU4xaTIyMU4xOWYxTHJhMWFhdXc1UQ?oc=5"
+    },
+    {
+      "media": "Big City Nantes",
+      "titre": "Que faire à Nantes ce week-end du 12 au 15 novembre 2026 ?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1Z0dUJvWGxGNlg1d3dsa3JsRE9EajRkdlMwelFYdEw3TnBnOHkyNDVTVURPd05RaVpSNUZuWXNvZDFJdE1wWmZfZTZPVGlsYUhEdkJMNlJybkNUOFF3a0xaWjhxU3I3RVQwQlBxVkZFeU5ZRkFSMUZUUldEdmRmV3luOWVldnJRREY4R3RVeFhNT0cxelptVUtFQjJnZmQ0clFjbA?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "Météo. Les prévisions météorologiques du samedi 14 novembre 2026 à Nantes et ses environs",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFITHVTejQ5eGpaSXdQbExrWmZYU3hCNF82NjFPcnFuSzQ5MEFFLUczYU51dExQVmc0bDdIc1NRVEVGTmRBMDdEMDlVWkJQZmROVTdxZmxkanYzM0JiN3JnSXUzUUxSS3dxUGRMYUlodGxheHAtOU1pdzY4S3lUVXpBdWZtUkVLVTkyaldQM05fMlo0cmtGN0pLZ1kwZzFZTVREc3FhcW9iU2pNRnhoQmdiSjBwR0YyX0xUVUFITGRBVW9L?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "eau-du-robinet-interdite-a-lantosque-apres-fortes-pluies",
+  "titre": "Eau du robinet interdite à Lantosque après fortes pluies",
+  "chapeau": "Les habitants de Lantosque, village de la Vésubie situé au‑dessus de Nice, doivent s’abstenir d’utiliser l’eau du réseau domestique pour boire, cuisiner ou se laver les dents depuis le vendredi 13 novembre 2026. Cette mesure fait suite à une dégradation de la qualité de l’eau constatée après les pluies récentes.",
+  "corps": "## Situation actuelle\nDepuis le vendredi 13 novembre, les services de la collectivité ont constaté que les précipitations des derniers jours ont altéré la potabilité de l’eau du réseau dans cinq hameaux du village de Lantosque. Les analyses réalisées ont conduit les autorités à recommander la suspension de toute utilisation domestique de l’eau du robinet pour les besoins d’alimentation, de cuisine et d’hygiène bucco‑dentaire. Aucun incident de santé n’a été signalé à ce jour, mais la précaution est jugée nécessaire pour éviter toute contamination.\n\n## Consignes pour les habitants\nLes résidents sont invités à recourir à de l’eau en bouteille ou à des sources d’eau alternative mises à disposition par la municipalité. Les points de distribution temporaires, généralement installés dans les mairies ou les écoles du secteur, restent ouverts pendant la durée de la restriction. Les autorités locales recommandent également de suivre les informations publiées sur le site internet de la mairie de Lantosque, où seront indiquées les évolutions de la situation et les éventuelles dates de reprise du service. En cas de besoin, les habitants peuvent contacter le service clientèle de la distribution d’eau via le numéro indiqué sur le site municipal.\n\n## Contexte géographique\nLantosque appartient à la vallée de la Vésubie, dans le département des Alpes‑Maritimes. Le village, perché dans les contreforts alpins, dépend d’un réseau d’alimentation en eau qui puise ses sources dans les cours d’eau de montagne. Les fortes pluies récentes ont parfois entraîné des remontées de sédiments et des variations de la turbidité, affectant la qualité de l’eau distribuée. De telles mesures de précaution sont courantes dans les zones de montagne où les conditions hydrologiques peuvent évoluer rapidement.\n\n## Perspectives\nLes services techniques continuent de surveiller la qualité de l’eau et de procéder à des traitements complémentaires si nécessaire. La levée de l’interdiction sera annoncée dès que les paramètres de potabilité reviendront dans les normes habituelles. En attendant, les habitants sont priés de respecter les consignes afin de garantir leur sécurité sanitaire.",
+  "mots_cles": [
+    "Lantosque",
+    "eau du robinet",
+    "qualité de l'eau",
+    "pluies",
+    "restrictions"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-14T10:51:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Vue_du_village_de_Lantosque_pr%C3%A8s_du_panneau_d%E2%80%99entr%C3%A9e_d%E2%80%99agglom%C3%A9ration_c%C3%B4t%C3%A9_sud%29.jpg/1280px-Vue_du_village_de_Lantosque_pr%C3%A8s_du_panneau_d%E2%80%99entr%C3%A9e_d%E2%80%99agglom%C3%A9ration_c%C3%B4t%C3%A9_sud%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jpchevreau",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vue_du_village_de_Lantosque_pr%C3%A8s_du_panneau_d%E2%80%99entr%C3%A9e_d%E2%80%99agglom%C3%A9ration_c%C3%B4t%C3%A9_sud).jpg",
+    "legende": "Vue du village de Lantosque près du panneau d’entrée d’agglomération côté sud).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Vue du village de Lantosque près du panneau d’entrée d’agglomération côté sud).jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Au-dessus de Nice, cinq hameaux de ce village de la Vésubie doivent éviter de boire l’eau du robinet après les pluies de ces derniers jours",
+      "url": "https://www.nicematin.com/sante/cinq-hameaux-de-ce-village-de-la-vesubie-au-dessus-de-nice-doivent-eviter-de-boire-l-eau-du-robinet-apres-les-pluies-de-ces-derniers-jours-10759197"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Cinq hameaux de ce village de la Vésubie, au-dessus de Nice, doivent éviter de boire l’eau du robinet après les pluies de ces derniers jours",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPX0RzU0sxdHdNY0FfQ3FZVzRKb3F1Ymc1NTVqeFJXZ3VGM3hmQ0NWOVRISTZtaUZ3bm1MdGFXRW1jV3lEY1FmUXlNVUx1WmpqY0JaV2hXY0tBc3VFN3BuQVZmMFhQZ0ZETGNuSTU2ejRfeUlmdk56Y2tka2FlVlR0OTctVnhkOXZLb1c2TUhpX2lGRjNHemJxcEdaclFMR3Nxc2VUcVNlVHEtbWx4cVpwcHFxNy1yM2RmUU5yNWEwMkVQSVNUM1dhcnJiZFREbXZCN2YxZ3lxNGEwUXcxcFhsUng2dDV0NGZJd0Y4OTcwaWcwTk81SXBPRm8yNEhHdjR1a2FiTlF2R3hKWXM?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

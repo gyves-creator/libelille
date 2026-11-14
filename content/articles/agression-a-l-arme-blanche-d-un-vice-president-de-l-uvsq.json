@@ -1,0 +1,38 @@
+{
+  "slug": "agression-a-l-arme-blanche-d-un-vice-president-de-l-uvsq",
+  "titre": "Agression à l'arme blanche d'un vice-président de l'UVSQ",
+  "chapeau": "Un vice-président de l'Université de Versailles-Saint-Quentin-en-Yvelines a été blessé vendredi soir par une agression à l'arme blanche sur le campus. L'identité de l'agresseur reste inconnue, le suspect est toujours recherché, et les autorités évoquent un contexte de violences sur les campus universitaires.",
+  "corps": "## Déroulement de l'agression\nVendredi en début de soirée, un vice-président de l'UVSQ a été attaqué à l'arme blanche dans les locaux de l’établissement. Selon les informations communiquées, l’incident s’est produit soit dans le bureau de la victime, soit dans un couloir du bâtiment, le campus étant alors fermé au public. Le pronostic vital de la victime n’est pas engagé, mais il a été transporté pour recevoir des soins. L’identité de l’auteur, ainsi que son mobile, n’ont pas été révélés à ce jour, et la personne recherchée demeure introuvable.\n\n## Réactions des autorités\nLe président de l’université a rapidement confirmé les faits et a indiqué que l’incident s’inscrit dans un contexte de violences sur les campus. Le ministre de l’enseignement supérieur a ajouté que « s’inscrit dans un contexte de violences dans les campus ». Les services de police ont ouvert une enquête et poursuivent leurs recherches pour identifier et appréhender le suspect. Aucun autre incident de ce type n’a été signalé dans les heures qui ont suivi l’agression.\n\n## Contexte et suivi\nCet acte intervient à un moment où plusieurs établissements d’enseignement supérieur en France sont confrontés à des épisodes de violence, souvent liés à des tensions sociales ou à des différends individuels. Les autorités universitaires et gouvernementales surveillent de près la situation afin de renforcer la sécurité sur les campus et d’éviter toute escalade. Les investigations se poursuivent, et l’université a annoncé la mise en place de mesures temporaires de sécurité renforcée pendant la durée de l’enquête.",
+  "mots_cles": [
+    "agression",
+    "université",
+    "violence campus",
+    "UVSQ",
+    "sécurité"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-14T10:51:16+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Universit%C3%A9_de_Versailles-Saint-Quentin-en-Yvelines_UFR_des_Sciences_campus_de_Versailles.jpg/1280px-Universit%C3%A9_de_Versailles-Saint-Quentin-en-Yvelines_UFR_des_Sciences_campus_de_Versailles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Hobbycheck",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_de_Versailles-Saint-Quentin-en-Yvelines_UFR_des_Sciences_campus_de_Versailles.jpg",
+    "legende": "Université de Versailles-Saint-Quentin-en-Yvelines campus des Sciences à Versailles",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Université de Versailles-Saint-Quentin-en-Yvelines UFR des Sciences campus de Versailles.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Un vice-président de l’université de Versailles - Saint-Quentin-en-Yvelines agressé à l’arme blanche dans les locaux de l’établissement",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/14/un-vice-president-de-l-universite-de-versailles-saint-quentin-en-yvelines-agresse-a-l-arme-blanche-pas-de-blessures-graves_6809950_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "Un vice-président de l'université de Versailles-Saint-Quentin agressé à l'arme blanche",
+      "url": "https://www.franceinfo.fr/faits-divers/le-vice-president-d-une-universite-en-ile-de-france-agresse-a-l-arme-blanche_8281703.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

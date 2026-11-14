@@ -1,0 +1,33 @@
+{
+  "slug": "edwige-diaz-detaille-mobilisation-du-14-novembre-et-financement-de-la-campagne-l",
+  "titre": "Edwige Diaz détaille mobilisation du 14 novembre et financement de la campagne Le Pen",
+  "chapeau": "Lors de l'émission \"8h30 franceinfo\", Edwige Diaz, présidente du groupe RN au Sénat, a répondu aux questions de Camille Girerd et Benjamin Recouvreur. Elle a abordé la mobilisation prévue le 14 novembre, la guerre en Ukraine ainsi que les parrainages et le financement de la campagne de Marine Le Pen.",
+  "corps": "## Une interview centrée sur la mobilisation du 14 novembre\nEdwige Diaz, sénatrice de la Gironde et porte‑parole du groupe Rassemblement national au Sénat, a été interpellée sur les préparatifs d’une mobilisation prévue le 14 novembre. Elle a rappelé l’importance de cette date pour le parti, sans toutefois préciser le nombre de participants attendus ou les actions concrètes envisagées. L’interview s’est déroulée dans le cadre de l’émission matinale \"8h30 franceinfo\", où les journalistes Camille Girerd et Benjamin Recouvreur ont conduit le débat.\n\n## Guerre en Ukraine et position du RN\nLe second thème abordé a concerné le conflit en Ukraine. Diaz a exposé la position du Rassemblement national sur cette guerre, en insistant sur les principes qui guident le parti en matière de politique étrangère. Aucun détail supplémentaire n’a été fourni quant aux propositions concrètes ou aux actions diplomatiques envisagées.\n\n## Parrainages et financement de la campagne de Marine Le Pen\nLe dernier volet de l’entretien a porté sur les exigences de parrainage et le financement de la campagne présidentielle de Marine Le Pen. Diaz a expliqué les procédures de collecte de signatures et les sources de financement autorisées, en rappelant les règles légales qui encadrent les campagnes électorales en France. Aucun chiffre ou donnée chiffrée n’a été mentionné concernant les montants collectés ou les contributions spécifiques.\n\n## Contexte institutionnel\nLe Rassemblement national, parti d’extrême droite, occupe une place importante au sein du paysage politique français, avec Marine Le Pen comme figure de proue depuis plusieurs années. Le groupe RN au Sénat, présidé par Edwige Diaz, joue un rôle d’opposition et participe aux débats législatifs. Les discussions autour de la mobilisation du 14 novembre s’inscrivent dans une dynamique de visibilité du parti à l’approche des échéances électorales. De même, les questions de financement de campagne sont régulièrement soulevées dans le débat public, notamment en raison des exigences de transparence imposées par la loi française.\n\nL’interview a ainsi permis de mettre en lumière les priorités du parti pour les semaines à venir, tout en rappelant les cadres réglementaires qui structurent la vie politique française.",
+  "mots_cles": [
+    "Rassemblement national",
+    "Marine Le Pen",
+    "financement campagne",
+    "guerre Ukraine",
+    "mobilisation 14 novembre"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-14T10:51:20+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Edwige_Diaz_au_camp_du_Courneau_%28cropped_3%29.jpg/1280px-Edwige_Diaz_au_camp_du_Courneau_%28cropped_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Marsouinduteich",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edwige_Diaz_au_camp_du_Courneau_(cropped_3).jpg",
+    "legende": "Cérémonie du 23 août 2023 nécropole nationale de la teste de buch,hommage aux Tirailleurs Sénégalais.Mme la députée Edwige Diaz remerciant les porte-drapeaux .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Edwige Diaz au camp du Courneau (cropped 3).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
