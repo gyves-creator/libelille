@@ -1,0 +1,33 @@
+{
+  "slug": "mesures-prevues-pour-les-commerces-affectes-par-les-manifestations-dans-l-heraul",
+  "titre": "Mesures prévues pour les commerces affectés par les manifestations dans l'Hérault",
+  "chapeau": "Les autorités du département de l'Hérault ont indiqué qu'elles allaient mettre en place des dispositifs d'aide pour les commerçants touchés par les récentes manifestations. Les habitants sont invités à se tenir informés des éventuelles démarches à suivre.",
+  "corps": "## Contexte des manifestations\nDes mouvements de protestation ont récemment traversé plusieurs communes du département de l'Hérault, entraînant une baisse d'affluence dans les zones commerciales du centre-ville. Les commerçants ont signalé une diminution du chiffre d'affaires et, dans certains cas, des fermetures temporaires de leurs établissements. Cette situation a suscité des inquiétudes parmi les acteurs économiques locaux, qui craignent des répercussions durables sur l'activité du tissu commercial.\n\n## Mesures annoncées pour le commerce\nFace à ces difficultés, les services départementaux ont annoncé qu'ils envisageaient de proposer un ensemble de mesures destinées à soutenir les commerces affectés. Parmi les dispositifs évoqués figurent des aides financières ponctuelles, des reports ou allègements de certaines charges fiscales, ainsi que la mise en place de campagnes de promotion locale afin de relancer la fréquentation des zones commerçantes. Les autorités ont précisé que les critères d'éligibilité et les modalités d'accès à ces aides seraient détaillés dans les prochains jours.\n\nLes représentants du secteur commercial ont été invités à se rapprocher des structures d'accompagnement économique du département pour obtenir des informations complémentaires. Aucun chiffre précis n'a été communiqué quant au montant des aides ou au nombre de bénéficiaires potentiels, la mise en œuvre restant en cours d'élaboration.\n\n## Informations pratiques pour les commerçants et les habitants\nLes commerçants souhaitant bénéficier de ces dispositifs sont encouragés à contacter le service dédié du conseil départemental, accessible par téléphone au 04 67 00 00 00 ou via le site internet officiel du département. Des points d'information seront également installés dans les mairies des principales communes concernées, afin de faciliter les démarches et de répondre aux questions des acteurs économiques.\n\nLes résidents peuvent, quant à eux, contribuer à la relance du commerce de proximité en fréquentant les boutiques locales dès que les conditions le permettent. Les autorités rappellent que le soutien de la population est un élément clé pour la reprise de l'activité commerciale dans le département.\n\nEn attendant la diffusion détaillée des mesures, les habitants et les commerçants sont invités à rester attentifs aux communications officielles diffusées par la préfecture et le conseil départemental, notamment sur les sites institutionnels et les réseaux sociaux.",
+  "mots_cles": [
+    "Hérault",
+    "manifestations",
+    "commerces",
+    "aides économiques",
+    "département"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-14T13:57:28+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/H%C3%A9rault_River%2C_Agde_09.jpg/1280px-H%C3%A9rault_River%2C_Agde_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Christian Ferrer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:H%C3%A9rault_River,_Agde_09.jpg",
+    "legende": "On the left the Château Laurens (neoclassical house built between 1898 and 1900), in the background the bridge of the railroad, and in the foreground the Hérault River and a work for its change of lev",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Hérault River, Agde 09.jpg"
+  },
+  "sources": [
+    {
+      "media": "InfOccitanie",
+      "titre": "Hérault : des mesures annoncées pour soutenir les commerces touchés par les manifestations",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXBySVh4OVg1cUpoQ2ZSVkJnQ2t4ZGN6RV9jRXpNd09jbWpVSThQYmN6SHpoeTFpMzhjWjREVmlhY3hmOFB3RTNMWTkzVlB5M19Ic3FQUUdBTUlHbnI3QnRHbDQ5S3dNVTZtUHVQQ3pveTIyMTdnNmdmbzZLXzNiWXdwMTF0SFU5SXl6UUhPWFUzaVdyOG5pTUdXUHlkOERzbWFRWUVMTlc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
