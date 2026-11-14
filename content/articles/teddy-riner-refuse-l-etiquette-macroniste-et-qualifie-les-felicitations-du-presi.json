@@ -1,0 +1,37 @@
+{
+  "slug": "teddy-riner-refuse-l-etiquette-macroniste-et-qualifie-les-felicitations-du-presi",
+  "titre": "Teddy Riner refuse l’étiquette macroniste et qualifie les félicitations du président de « baiser empoisonné »",
+  "chapeau": "Le judoka devenu candidat à la présidentielle a nié être l’envoyé du président lors du salon Made in France. Il a également décrit les félicitations d’Emmanuel Macron comme un « baiser empoisonné ».",
+  "corps": "## Déclarations de Teddy Riner\nLe samedi 14 novembre 2026, Teddy Riner, ancien champion olympique de judo et nouveau prétendant à la présidence, a pris la parole au salon du Made in France. Il a clairement indiqué ne pas se reconnaître comme « macroniste » et a ajouté « Je ne suis pas un macroniste ». Dans le même temps, il a qualifié les félicitations reçues de la part du chef de l’État de « baiser empoisonné », soulignant son désir de garder une distance vis‑à‑vis de l’entourage présidentiel.\n\n## Réaction du président\nEmmanuel Macron, qui avait exprimé au début de la semaine son soutien à la candidature de Riner en soulignant que cela « ne pouvait qu’apporter au pays », a vu ses propos repris par le judoka avec le terme précédemment cité. Aucun commentaire officiel du palais de l’Élysée n’a été publié dans les dépêches consultées.\n\n## Contexte de la campagne présidentielle 2027\nLa candidature de Teddy Riner s’inscrit dans le cadre du premier tour de la présidentielle prévue pour 2027. Son passage du sport de haut niveau à la politique suit la tendance de figures publiques reconnues pour leur notoriété à se présenter aux élections. Le terme « macroniste » désigne généralement les partisans ou les proches du président sortant, ce qui explique la sensibilité de la qualification employée par le candidat. Le salon du Made in France, où les déclarations ont été faites, est un événement annuel dédié à la promotion des produits français, fréquenté par des personnalités politiques et économiques.\n\nCes échanges illustrent les tensions entre les nouveaux candidats et l’exécutif, ainsi que la volonté de certains aspirants à se démarquer clairement des courants déjà établis. La suite de la campagne déterminera si ces prises de position auront un impact sur le positionnement électoral de Riner.",
+  "mots_cles": [
+    "Teddy Riner",
+    "présidentielle 2027",
+    "Macron",
+    "Made in France"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-14T19:49:02+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Teddy_Riner_2009.jpg/1280px-Teddy_Riner_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Nicolas Richoffer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_2009.jpg",
+    "legende": "Teddy Riner, le 31 août 2009 à Paris, au lendemain de son troisième titre de champion du Monde remporté à Rotterdam.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Teddy Riner 2009.jpg"
+  },
+  "sources": [
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Teddy Riner réfute être macroniste et qualifie de \"baiser empoisonné\" les félicitations de Macron",
+      "url": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

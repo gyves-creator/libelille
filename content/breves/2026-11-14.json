@@ -513,5 +513,25 @@
     "titres_sources": [
       "France-Turquie : Désiré Doué s’entraîne avec un protège-dents après sa dent déchaussée en Italie"
     ]
+  },
+  {
+    "titre": "Israël : Netanyahu prône un gouvernement d'union, Eisenkot s'y oppose",
+    "texte": "Le Premier ministre sortant Benjamin Netanyahu réclame un gouvernement d’union nationale pour garantir la sécurité d’Israël. Le ministre de la Défense Gadi Eisenkot critique les manœuvres du chef du gouvernement et estime qu’un cabinet incluant son parti est indispensable pour neutraliser la menace iranienne.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T19:49:10+00:00",
+    "titres_sources": [
+      "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+      "Après les élections, Benyamin Nétanyahou réaffirme que seul un gouvernement d'union nationale peut \"garantir la sécurité d'Israël\""
+    ]
+  },
+  {
+    "titre": "Macron accuse les opposants de rationner l’aide à l’Ukraine, Le Pen promet son arrêt",
+    "texte": "Le président Emmanuel Macron a affirmé que les personnes souhaitant réduire l’aide à l’Ukraine cherchent à l’obliger à accepter une paix qu’il juge injuste. La candidate du Rassemblement national Marine Le Pen a déclaré qu’elle mettrait fin au soutien à l’Ukraine si elle était élue.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T19:49:10+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
+      "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\""
+    ]
   }
 ]
