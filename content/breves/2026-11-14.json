@@ -311,5 +311,24 @@
     "titres_sources": [
       "La Poste pourrait fermer 471 bureaux, les habitants dénoncent un abandon des territoires"
     ]
+  },
+  {
+    "titre": "UE demande à Israël un accès immédiat à l’aide humanitaire à Gaza",
+    "texte": "L'Union européenne a appelé Israël à garantir un accès sans entrave à l'aide humanitaire pour Gaza, où d'importantes inondations ont submergé des dizaines de milliers de tentes de déplacés. Au moins cinq personnes seraient décédées, selon les secours palestiniens.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T14:25:11+00:00",
+    "titres_sources": [
+      "L'Union européenne exhorte Israël à permettre l'accès \"immédiat\" et sans entrave\" de l'aide humanitaire à Gaza",
+      "Gaza : l’Union européenne exhorte Israël à garantir un accès « immédiat » et « sans entrave » à l’enclave palestinienne après des inondations importantes"
+    ]
+  },
+  {
+    "titre": "Surendettement : +10,2 % de dossiers à la Banque de France en 2026",
+    "texte": "Selon franceinfo, la Banque de France aurait enregistré une hausse de 10,2 % des dossiers de surendettement depuis le début de 2026. Cette hausse poursuit la tendance de 2024, avec +6 % en 2024 et +9,8 % en 2025, contexte social fragile et baisse du pouvoir d’achat.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-14T14:25:11+00:00",
+    "titres_sources": [
+      "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026"
+    ]
   }
 ]
