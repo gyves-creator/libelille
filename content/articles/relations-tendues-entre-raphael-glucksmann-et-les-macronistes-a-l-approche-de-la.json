@@ -1,0 +1,33 @@
+{
+  "slug": "relations-tendues-entre-raphael-glucksmann-et-les-macronistes-a-l-approche-de-la",
+  "titre": "Relations tendues entre Raphaël Glucksmann et les macronistes à l'approche de la présidentielle 2027",
+  "chapeau": "Raphaël Glucksmann, désigné candidat du Parti socialiste et du mouvement Place publique, poursuit sa critique du bilan du président Emmanuel Macron. Certains anciens soutiens de ce dernier ont rejoint le camp de Glucksmann, offrant aux \"insoumis\" de nouveaux arguments pour le contester.",
+  "corps": "## Un candidat qui se positionne contre le mandat précédent\nRaphaël Glucksmann, porté par le Parti socialiste et le collectif Place publique, a fait de l’évaluation du mandat d’Emmanuel Macron un axe central de sa campagne. Selon les informations relayées, il a régulièrement remis en cause les décisions et les orientations prises pendant la présidence en cours, sans toutefois préciser de domaines particuliers. Cette posture s’inscrit dans la tradition des candidats de l’opposition qui utilisent le bilan du gouvernement sortant comme critère d’évaluation.\n\n## Un afflux d’anciens macronistes dans son équipe\nPar ailleurs, le même rapport indique que plusieurs personnalités qui avaient soutenu Emmanuel Macron lors des précédentes échéances politiques ont intégré la campagne de Glucksmann. Leur arrivée est présentée comme un facteur qui renforce la capacité du candidat à proposer une alternative crédible, tout en créant des points de friction avec les partisans du président sortant. Cette évolution a été soulignée comme un élément susceptible d’alimenter les débats au sein de la gauche, notamment parmi les membres du mouvement \"insoumis\".\n\n## Des \"insoumis\" qui trouvent de nouvelles critiques\nLe terme \"insoumis\" désigne les militants et sympathisants du parti La France Insoumise, souvent positionnés à gauche du spectre politique. Selon la dépêche, l’arrivée d’anciens macronistes dans l’entourage de Glucksmann fournit à ces acteurs de nouveaux arguments pour contester le candidat socialiste. Aucun détail supplémentaire n’est fourni sur la nature exacte de ces critiques ni sur la réponse éventuelle de Glucksmann à ces remarques.\n\n## Contexte électoral\nL’élection présidentielle française de 2027 se déroulera selon les règles en vigueur, avec deux tours possibles et un scrutin au suffrage universel direct. Les candidats doivent se déclarer sur la liste officielle et s’inscrire auprès des autorités compétentes. Pour les modalités d’inscription, les dates limites et les procédures de vote, les électeurs sont invités à consulter le site service-public.gouv.fr.\n\nL’ensemble de ces éléments montre que la campagne de Raphaël Glucksmann se caractérise par une opposition affirmée au mandat précédent et par une dynamique interne où des anciens soutiens du président sortant peuvent jouer un rôle de médiateur ou de source de tensions au sein de la gauche française.",
+  "mots_cles": [
+    "Raphaël Glucksmann",
+    "présidentielle 2027",
+    "macronistes",
+    "Place publique",
+    "PS"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-14T05:56:51+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rapha%C3%ABl_Glucksmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Librairie Mollat",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_Glucksmann.jpg",
+    "legende": "Raphaël Glucksmann",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Raphaël Glucksmann.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : entre attraction et grande méfiance, les relations tortueuses entre Raphaël Glucksmann et les macronistes",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

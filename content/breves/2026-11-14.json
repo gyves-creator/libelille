@@ -1,0 +1,21 @@
+[
+  {
+    "titre": "Grève aérienne aux États-Unis : suspension massive des vols",
+    "texte": "Vendredi, un dysfonctionnement des centres de contrôle aérien aurait paralysé le trafic aux États-Unis, obligeant à clouer les avions. Sean Duffy aurait blâmé du matériel des années 1980, tandis que l'administration Trump aurait sollicité 50 milliards de dollars au Congrès.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T05:57:04+00:00",
+    "titres_sources": [
+      "Aux Etats-Unis, après la suspension des vols, l’administration Trump politise cette panne géante et réclame 50 milliards de dollars au Congrès",
+      "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »"
+    ]
+  },
+  {
+    "titre": "Crise sociale en France : le gouvernement sous la pression",
+    "texte": "Vendredi, les débats sur la fonction publique ont suscité la colère de la CFDT à l'égard du Premier ministre Sébastien Lecornu, qui peinerait à contenir les tensions sociales. Des milliers de manifestants seraient attendus samedi pour l'acte V de la mobilisation contre la vie chère.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-14T05:57:04+00:00",
+    "titres_sources": [
+      "Mobilisations sociales : Sébastien Lecornu peine à sortir de la crise"
+    ]
+  }
+]

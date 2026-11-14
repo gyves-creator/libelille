@@ -1,0 +1,43 @@
+{
+  "slug": "xv-de-france-bat-les-springboks-21-19-au-stade-de-france",
+  "titre": "XV de France bat les Springboks 21-19 au Stade de France",
+  "chapeau": "Le XV de France a remporté une victoire de prestige contre l'Afrique du Sud, 21-19, lors de la cinquième journée du Championnat des nations. Le match, joué à Saint‑Denis, a mis en avant une défense solide et des performances décisives de plusieurs joueurs clés.",
+  "corps": "## Une victoire de prestige\nLe vendredi soir, le Stade de France a été le théâtre d’un affrontement décisif entre la France et les Springboks, double champion du monde. Le score final de 21 à 19 en faveur des Bleus a été décrit comme une victoire retentissante, arrachée dans les dernières minutes du jeu. Les images diffusées par les médias ont montré l’intensité du duel, avec des actions rapides et un suspense qui a tenu les spectateurs en haleine jusqu’au coup de sifflet final.\n\n## Les éléments clés du succès\nPlusieurs facteurs ont été soulignés pour expliquer la réussite française. D’une part, la ligne défensive a tenu bon, limitant les incursions sud‑africaines et forçant des turnovers décisifs. D’autre part, le jeu offensif a été porté par des joueurs comme Antoine Dupont, dont la présence a été qualifiée de « gala », ainsi que par les jeunes arrières Grandidier‑Nkanang et LBB, qui ont inscrit des essais rapides. Les vidéos publiées montrent notamment la vitesse et la précision des actions menées par ces trois joueurs, qui ont largement contribué à la différence de points.\n\n## Le contexte du Championnat des nations\nCette rencontre s’inscrivait dans le cadre de la cinquième journée du Championnat des nations, compétition annuelle rassemblant les six meilleures équipes d’Europe. La victoire contre l’Afrique du Sud, équipe venue en tant que double champion du monde, renforce la position de la France dans le classement et constitue un point d’étape majeur dans la quête du titre. Le résultat souligne également la capacité du XV de France à se mesurer à des équipes de haut niveau, en combinant solidité défensive et créativité offensive.\n\n## Réactions et perspectives\nLes médias français ont qualifié les Bleus d’« héroïques » et ont mis en avant la « défense de fer » affichée tout au long du match. Cette performance ouvre la voie à de nouvelles ambitions pour les prochaines échéances du tournoi, où chaque point compte. Les supporters, présents en grand nombre au stade, ont salué le spectacle offert, confirmant l’engouement autour du rugby français et l’importance de ce succès dans le déroulement de la compétition.",
+  "mots_cles": [
+    "rugby",
+    "Six Nations",
+    "France",
+    "Springboks",
+    "victoire"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-14T05:56:57+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%C3%89quipe_des_%C3%89tats-Unis_de_rugby_%C3%A0_XV_1920.jpg/1280px-%C3%89quipe_des_%C3%89tats-Unis_de_rugby_%C3%A0_XV_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agence Rol",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89quipe_des_%C3%89tats-Unis_de_rugby_%C3%A0_XV_1920.jpg",
+    "legende": "Colombes, 10/10/20, équipe des États-Unis de rugby à XV.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Équipe des États-Unis de rugby à XV 1920.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "État d'esprit, résistance en défense, Antoine Dupont de gala... Comment le XV de France a construit son succès de référence face aux Springboks",
+      "url": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/etat-d-esprit-resistance-en-defense-antoine-dupont-de-gala-comment-le-xv-de-france-a-construit-son-succes-de-reference-face-aux-springboks_8281781.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Que retenez-vous du succès du XV de France face aux Springboks ?",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/que-retenez-vous-du-succes-du-xv-de-france-face-aux-springboks-20261114"
+    },
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "France - Afrique du Sud : le résumé de la victoire sur le fil des Bleus face aux Springboks",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/13/france-afrique-du-sud-le-resume-de-la-victoire-sur-le-fil-des-bleus-face-aux-springboks_6809393_3242.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
