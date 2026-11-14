@@ -349,5 +349,23 @@
     "titres_sources": [
       "Avant le Masters à Turin, Alexander Zverev est-il un numéro un mondial au rabais ?"
     ]
+  },
+  {
+    "titre": "Catherine Nay publie un livre sur Emmanuel Macron",
+    "texte": "L’écrivaine et animatrice d’Europe 1, Catherine Nay, a publié chez Plon le roman « Ce pays dont le prince est un enfant », consacré à Emmanuel Macron. L’ouvrage explore les passions du pouvoir à travers une approche romanesque.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-14T15:20:18+00:00",
+    "titres_sources": [
+      "« Je cherche la pâte humaine » : Catherine Nay, l’indétrônable romancière du pouvoir"
+    ]
+  },
+  {
+    "titre": "GTA 6, Johnny Depp et Les Anneaux de Pouvoir en bref",
+    "texte": "Cette semaine, un problème technique limitant GTA 6 à 30 images par seconde a été signalé. Johnny Depp revient au cinéma avec le film « Scrooge », tandis qu’un magicien sombre apparaît dans la série « Les Anneaux de Pouvoir ».",
+    "rubrique": "tech",
+    "publie_le": "2026-11-14T15:20:18+00:00",
+    "titres_sources": [
+      "Très mauvaise nouvelle pour GTA 6, retour de Johnny Depp au cinéma, le recap Pop Culture de la semaine"
+    ]
   }
 ]
