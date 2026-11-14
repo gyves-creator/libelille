@@ -72,5 +72,23 @@
     "titres_sources": [
       "L'effet nocebo : avoir mal par peur d'avoir mal"
     ]
+  },
+  {
+    "titre": "Fermeture de l'espace aérien américain : 6 000 vols annulés",
+    "texte": "Selon le gouvernement, des problèmes de communication liés à du vieux matériel auraient contraint la fermeture de l'espace aérien américain, entraînant l'annulation d'environ 6 000 vols, dont ceux de l'aéroport d'Atlanta. Cette situation rarissime aurait paralysé le trafic aérien à l'échelle nationale.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-14T08:10:28+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain"
+    ]
+  },
+  {
+    "titre": "Manifestations du 14 novembre : mobilisation prévue à Paris",
+    "texte": "Le ministre de l'Intérieur aurait prévu entre 50 et 60 défilés sur le territoire pour la journée du 14 novembre, avec une participation estimée entre 30 000 et 60 000 manifestants à Paris. Environ 70 000 policiers et gendarmes seraient mobilisés pour assurer la sécurité.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-14T08:10:28+00:00",
+    "titres_sources": [
+      "DIRECT. Manifestations du 14 novembre : suivez la journée de mobilisation à l'appel de gilets jaunes et d'organisations de jeunesse"
+    ]
   }
 ]

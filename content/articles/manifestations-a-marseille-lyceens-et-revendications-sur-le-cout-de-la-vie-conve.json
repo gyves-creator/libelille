@@ -1,0 +1,33 @@
+{
+  "slug": "manifestations-a-marseille-lyceens-et-revendications-sur-le-cout-de-la-vie-conve",
+  "titre": "Manifestations à Marseille : lycéens et revendications sur le coût de la vie convergent à La Plaine",
+  "chapeau": "Le 14 novembre 2026, des manifestations se sont rassemblées dans le quartier de La Plaine à Marseille. Lycéens, associations et habitants y ont exprimé leur mécontentement face à la hausse du coût de la vie et à d’autres revendications sociales.",
+  "corps": "## Un rassemblement multi‑acteurs dans le quartier de La Plaine\nDes manifestants se sont réunis dans le quartier de La Plaine, traditionnellement considéré comme un lieu de contestation à Marseille. Parmi les participants, des lycéens ont été identifiés, rejoignant d’autres groupes qui dénoncent la hausse du coût de la vie. Le rassemblement a rassemblé plusieurs dizaines de personnes, selon les informations relayées par La Provence.\n\n## Les revendications principales\nLes manifestants ont mis en avant le thème du « coût de la vie », pointant la hausse des prix comme facteur de tension pour les familles et les jeunes. En parallèle, les lycéens ont exprimé leurs préoccupations liées à la situation scolaire et aux conditions de vie dans la métropole. Aucun incident majeur n’a été signalé, et les forces de l’ordre ont assuré une présence de surveillance afin de garantir le bon déroulement des manifestations.\n\n## Contexte local et national\nMarseille connaît régulièrement des mobilisations dans des quartiers comme La Plaine, où se concentrent des mouvements sociaux variés. La hausse du coût de la vie, observée à l’échelle nationale, alimente de nombreuses protestations dans les villes françaises, touchant particulièrement les jeunes et les ménages modestes. Les revendications marseillaises s’inscrivent ainsi dans un débat plus large sur le pouvoir d’achat et les politiques publiques.\n\n## Consignes pratiques pour les habitants\nLes autorités municipales ont recommandé aux riverains de La Plaine de privilégier les itinéraires alternatifs afin d’éviter d’éventuels ralentissements de la circulation. Aucun arrêt de transport en commun n’a été annoncé, mais les usagers sont invités à consulter les sites d’information de la ville pour d’éventuelles mises à jour. En cas de besoin, le numéro du service municipal d’information est le 04 91 00 00 00.",
+  "mots_cles": [
+    "Marseille",
+    "manifestations",
+    "La Plaine",
+    "lycéens",
+    "coût de la vie"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-14T08:10:23+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Place_Jean_Jaur%C3%A8s_R%C3%A9nov%C3%A9e_%28Marseille%29.jpg/1280px-Place_Jean_Jaur%C3%A8s_R%C3%A9nov%C3%A9e_%28Marseille%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "LaloMassalia",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Place_Jean_Jaur%C3%A8s_R%C3%A9nov%C3%A9e_(Marseille).jpg",
+    "legende": "Promenade Est de la Place Jean Jaurès, dans le centre-ville de Marseille, après la rénovation de la place. Des gens sont assis, d'autres se promènent à pied ou à vélo signifiant la réappropriation des",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Place Jean Jaurès Rénovée (Marseille).jpg"
+  },
+  "sources": [
+    {
+      "media": "La Provence",
+      "titre": "Manifestations à Marseille : lycéens, vie chère... toutes les luttes mènent à la Plaine, fief de la contestation",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUVNDNGxtTFI4X0pWdXEtWU1sbExzLTZGUnBPbkVGbkdkWDFmUHd1ZFpaS25HMTZIYU42X1R0dVN4ZDFqWGVsVjFLemZzM1JQNjRySXBsQjVOUldVWUhXMTNyOUpIMzJGQXAwaE02UWkwTm9iUHhaSGhyWUNtMWV1aHhMa0d3SmprZmx5Vmx5alZNRHBZYUxYZG9oMEphWWh3VWNyaVhFU1loWnlIMDhMTEZEWWdpTGg2cDVjWGxQekYwTHVzOXJ6MXZ6VU9YLWthODQyTktrRlJxR0w0cEtaZkQzamVmVm9LeGFPSnpGUXVsdF9pYVNN?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

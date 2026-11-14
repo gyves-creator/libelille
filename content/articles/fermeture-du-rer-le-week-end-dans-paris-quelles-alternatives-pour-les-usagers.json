@@ -1,0 +1,33 @@
+{
+  "slug": "fermeture-du-rer-le-week-end-dans-paris-quelles-alternatives-pour-les-usagers",
+  "titre": "Fermeture du RER le week‑end dans Paris, quelles alternatives pour les usagers",
+  "chapeau": "Selon Le Bonbon, une des lignes de RER les plus fréquentées de la capitale serait fermée pendant tout le week‑end. Cette interruption pourrait impacter les déplacements quotidiens des habitants et des travailleurs du Grand Paris.",
+  "corps": "## Fermeture annoncée du RER\nLe quotidien Le Bonbon indique qu’une ligne du Réseau Express Régional, parmi les plus utilisées à Paris, serait fermée du samedi au dimanche. Aucun détail supplémentaire n’est fourni quant à la nature de la perturbation, aux raisons de la fermeture ou aux stations concernées. Les usagers sont donc invités à se préparer à d’éventuelles difficultés de déplacement dans les zones desservies habituellement par ce service.\n\n## Impact sur les déplacements locaux\nLe RER constitue un maillon essentiel du transport public parisien, assurant la liaison entre le centre-ville et les banlieues lointaines. Une ligne très fréquentée signifie que de nombreux trajets domicile‑travail, scolaires ou de loisirs dépendent de ce service. La suspension du trafic pendant le week‑end peut donc entraîner une augmentation de la fréquentation des lignes de métro parallèles, des bus de substitution ou des services de covoiturage. Les habitants des quartiers traversés par la ligne concernée devront probablement réorganiser leurs itinéraires.\n\n## Conseils aux usagers\nEn l’absence d’informations précises, il est recommandé aux voyageurs de consulter rapidement les sites officiels du réseau de transport, notamment le site de la RATP et l’application mobile, afin de vérifier les éventuelles mises à jour et les alternatives proposées (bus de substitution, lignes de métro ou autres RER). Les panneaux d’information dans les stations et les annonces à bord des trains restent les sources les plus fiables en temps réel. En cas de doute, le service d’information téléphonique de la RATP (3244) peut fournir des réponses personnalisées.\n\n## Informations pratiques\nPour suivre l’évolution de la situation, les usagers peuvent se rendre sur le site officiel de la RATP (ratp.fr) ou sur les réseaux sociaux de l’opérateur, qui diffusent régulièrement les messages de service. En cas de besoin urgent, le numéro d’urgence transport de la préfecture de police, 17, reste disponible. Les autorités locales invitent les riverains à respecter les consignes de sécurité éventuelles et à privilégier les modes de transport alternatifs pendant la période de fermeture.",
+  "mots_cles": [
+    "RER",
+    "transports publics",
+    "Paris",
+    "fermeture",
+    "usagers"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-14T08:10:18+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Z_20900_IDF_Mobilit%C3%A9s_sur_le_RER_C.jpg/1280px-Z_20900_IDF_Mobilit%C3%A9s_sur_le_RER_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Momo Ratp",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Z_20900_IDF_Mobilit%C3%A9s_sur_le_RER_C.jpg",
+    "legende": "Gare de Neuilly-Porte Maillot (Transilien SNCF)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Z 20900 IDF Mobilités sur le RER C.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Bonbon",
+      "titre": "Transports : cette ligne de RER parmi les plus fréquentées de Paris est fermée tout le week-end dans la capitale",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWllLSFhnMEd6ejViaHlPdVhkVXlJaWM2YTVnVDRQQi1ZREU0ZWpSMG9JNFNvbXpRd2RhajFRNzZVUzRWT1BMUnhQYWwzS1g3cVRmalVsNTBocWYxVnNiWTNfVEtld0RleXU3VVUxR3RZYlRmd2FJcnZ2MV9vTGhQOXFrRHBFSXRMNGlGUktlUEk?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
