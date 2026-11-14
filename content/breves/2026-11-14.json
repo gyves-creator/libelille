@@ -238,5 +238,23 @@
     "titres_sources": [
       "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins"
     ]
+  },
+  {
+    "titre": "Amazon propose une adresse mail pour vérifier les messages",
+    "texte": "Numerama indique qu'à l'approche du Black Friday 2026, Amazon mettrait à disposition une adresse e‑mail pour vérifier en quelques instants l'origine d'un message. Cette méthode permettrait de confirmer si un courriel, un SMS ou un appel provient réellement de la société.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-14T12:18:09+00:00",
+    "titres_sources": [
+      "Black Friday 2026 : voici la technique la plus rapide pour vérifier si un message provient vraiment d’Amazon"
+    ]
+  },
+  {
+    "titre": "Estimation des dégâts des violences du 17 octobre : 500 M€ à 1,2 Md€",
+    "texte": "Selon franceinfo, les assureurs estimeraient les dégâts des violences du 17 octobre à 500 millions d’euros, alors que la CCI France les placerait à 1,2 milliard d’euros. Le président du conseil d’administration de Covéa jugerait ce dernier montant très élevé lors d’une apparition sur France Inter.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-14T12:18:09+00:00",
+    "titres_sources": [
+      "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs"
+    ]
   }
 ]
