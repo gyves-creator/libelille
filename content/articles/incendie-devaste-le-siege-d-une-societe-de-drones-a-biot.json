@@ -1,0 +1,38 @@
+{
+  "slug": "incendie-devaste-le-siege-d-une-societe-de-drones-a-biot",
+  "titre": "Incendie dévaste le siège d'une société de drones à Biot",
+  "chapeau": "Un feu d'ampleur a détruit le bâtiment abritant le siège d'une entreprise de drones à Biot, près d'Antibes, le samedi 14 novembre 2026. Aucun blessé n’a été signalé et les pompiers ont limité les dégâts aux structures voisines.",
+  "corps": "## Un sinistre qui frappe le cœur de Sophia Antipolis\nDans la matinée du samedi 14 novembre, un incendie s’est déclaré dans un immeuble de bureaux situé à Biot, au sein du parc technologique de Sophia Antipolis. Le bâtiment, qui hébergeait le siège d’une société spécialisée dans la conception de drones civils et professionnels, a été entièrement consumé. Les images diffusées par les services de secours montrent les flammes dévorant la façade avant que les équipes d’intervention n’arrivent sur place.\n\n## Intervention des secours et préservation du voisinage\nUn important dispositif de pompiers, mobilisé depuis le centre d’incendie d’Antibes, a rapidement pris en charge le feu. Les sapeurs‑pompiers ont réussi à contenir le sinistre, évitant ainsi la propagation aux bâtiments adjacents. Aucun blessé n’a été signalé et aucune victime n’a été identifiée à ce stade. Les autorités ont indiqué que l’enquête sur les causes de l’incendie était ouverte, sans fournir de précisions supplémentaires.\n\n## Conséquences pour les riverains et les entreprises locales\nL’incendie a entraîné la coupure d’accès à l’enceinte du bâtiment, ainsi que des perturbations temporaires de la circulation dans les rues adjacentes. Les riverains ont été invités à suivre les consignes de sécurité et à éviter la zone afin de permettre aux équipes de travail en toute sécurité. Les entreprises implantées à proximité ont été informées que les mesures de protection des structures voisines avaient été efficaces, limitant l’impact sur leurs activités.\n\n## Suivi de la situation et informations pratiques\nLes habitants de Biot et des communes voisines sont encouragés à consulter le site internet de la mairie ou à suivre les communiqués de la préfecture pour obtenir les dernières informations concernant d’éventuelles déviations ou restrictions d’accès. En cas de besoin, le service de secours d’Antibes reste joignable via le numéro d’urgence habituel.\n\nL’incendie souligne la vulnérabilité des infrastructures industrielles même au sein de zones technologiques réputées, et rappelle l’importance des dispositifs de prévention et d’intervention rapide dans la protection du tissu économique local.",
+  "mots_cles": [
+    "incendie",
+    "Biot",
+    "drones",
+    "Sophia Antipolis",
+    "pompiers"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-14T11:47:35+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vue_du_village_de_Biot_depuis_le_chemin_de_l%E2%80%99Orangerie_d%E2%80%99Antibes.jpg/1280px-Vue_du_village_de_Biot_depuis_le_chemin_de_l%E2%80%99Orangerie_d%E2%80%99Antibes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jpchevreau",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vue_du_village_de_Biot_depuis_le_chemin_de_l%E2%80%99Orangerie_d%E2%80%99Antibes.jpg",
+    "legende": "Vue du village de Biot depuis le chemin de l’Orangerie d’Antibes.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Vue du village de Biot depuis le chemin de l’Orangerie d’Antibes.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "« Le bâtiment est entièrement détruit » : ce que l’on sait du violent incendie qui a réduit en cendres le siège d’une société de drones à Sophia Antipolis",
+      "url": "https://www.nicematin.com/faits-divers/le-batiment-est-entierement-detruit-ce-que-l-on-sait-du-violent-incendie-qui-a-reduit-en-cendres-le-siege-d-une-societe-de-drones-a-sophia-antipolis-10760061"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Près d’Antibes, les impressionnantes images du violent incendie qui ravage les bureaux d’une entreprise spécialisée dans les drones",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjZKWXQxOTVUUldNR05vbjR0RDZFb0xxQlhubkNFRXlUaXV3NHBJS2lEZVpDMEdSNzZaT2R2dHdNS3FVMmhHY2hlMFhCSE5WU09MTFZVdmNyNUtSZXh1MHdoVHRiblVaMDFUVFJ5XzdSTXhEdG9LYzJNX0hLYUpVbmNVek80ZWdtTDFLMjNIaUFnU01PX3l5S2tMbjh5SU1SVmZWZ0dHbmdrY2hlWXhtOE1XcGlqYkJBMXV2Q0Y4NWRST2ZBYXg4QlktYV9oVmRqVHF4OFpPc3JlQldYMVRV?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

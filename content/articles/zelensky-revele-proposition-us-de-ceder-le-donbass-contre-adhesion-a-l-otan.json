@@ -1,0 +1,43 @@
+{
+  "slug": "zelensky-revele-proposition-us-de-ceder-le-donbass-contre-adhesion-a-l-otan",
+  "titre": "Zelensky révèle proposition US de céder le Donbass contre adhésion à l'OTAN",
+  "chapeau": "Le président ukrainien Volodymyr Zelensky a indiqué que les États‑Unis ont évoqué la cession du Donbass en échange d’une adhésion de l’Ukraine à l’OTAN. Il a ajouté que Kiev poursuit des pourparlers pour obtenir des garanties de sécurité et envisage un référendum sur les conditions de paix éventuelles.",
+  "corps": "## Proposition américaine\nLors d’une conférence à Kiev, le chef d’État ukrainien a déclaré que les négociateurs américains auraient suggéré que l’Ukraine renonce à la région du Donbass, actuellement contrôlée par la Russie, afin de faciliter son entrée dans l’Alliance atlantique. Cette idée, présentée comme une condition pour l’adhésion à l’OTAN, constitue la première fois que cette question serait officiellement soulevée, selon les propos du président.\n\n## Réaction de Kiev\nZelensky a souligné que l’Ukraine n’était pas disposée à retirer ses troupes du théâtre des opérations et que toute éventuelle solution de paix devrait être soumise à un référendum. Il a rappelé que le pays était en pourparlers pour obtenir « des garanties de sécurité spécifiques de la part de l’OTAN et de l’UE », sans préciser le contenu de ces garanties. Le président a également indiqué son ouverture à organiser un référendum pour valider les termes d’un accord de paix.\n\n## Contexte des pourparlers\nCes déclarations interviennent quelques jours après le dernier cycle de pourparlers de paix à Abu Dhabi, suivi de réunions à Dublin. Le président ukrainien est revenu à Kiev après ces missions diplomatiques, où il a rapporté les discussions avec les représentants américains. Aucun détail supplémentaire n’a été fourni sur les positions des autres parties impliquées, notamment la Russie ou les membres de l’OTAN.\n\n## Perspectives\nL’annonce d’une éventuelle cession du Donbass en échange d’une adhésion à l’OTAN introduit une nouvelle dimension dans les négociations de paix qui se poursuivent depuis plusieurs années. La mise en œuvre d’un tel accord dépendrait d’un accord interne en Ukraine, notamment via le référendum évoqué par le président, ainsi que de l’acceptation des exigences de l’OTAN et de l’Union européenne.",
+  "mots_cles": [
+    "Ukraine",
+    "Donbass",
+    "OTAN",
+    "États‑Unis",
+    "référendum"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-14T11:47:30+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "http://www.president.gov.ua/",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+    "legende": "Official portrait of Volodymyr Zelenskyy .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Volodymyr Zelensky Official portrait.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+      "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Washington a proposé que Kiev cède le Donbass en échange d'une adhésion à l'Otan, affirme Zelensky",
+      "url": "https://www.france24.com/fr/europe/20261114-washington-propos%C3%A9-kiev-c%C3%A8de-donbass-%C3%A9change-adh%C3%A9sion-otan-affirme-zelensky"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

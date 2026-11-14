@@ -1,0 +1,38 @@
+{
+  "slug": "deux-ateliers-pres-de-nantes-pour-lutter-contre-les-violences-faites-aux-femmes",
+  "titre": "Deux ateliers près de Nantes pour lutter contre les violences faites aux femmes",
+  "chapeau": "Deux ateliers seront organisés dans la périphérie sud de Nantes afin de sensibiliser la population aux violences faites aux femmes. L’initiative vise à offrir aux habitants des outils d’action et de prévention.",
+  "corps": "## Des ateliers ouverts aux habitants du quartier\nDes séances d’information et de formation seront proposées aux résidents de la zone sud de Nantes. Elles sont destinées à toute personne souhaitant mieux comprendre les mécanismes de la violence de genre et à apprendre les gestes à poser en cas de situation à risque. Aucun détail sur le calendrier ou le lieu précis n’a été communiqué, mais les organisateurs invitent les habitants à se rapprocher des services municipaux pour connaître les modalités d’inscription.\n\n## Un dispositif inscrit dans la lutte locale contre les violences\nCes ateliers s’inscrivent dans le cadre plus large des actions menées par les collectivités territoriales pour prévenir les violences faites aux femmes. En France, la prévention repose sur la diffusion d’informations, la formation de médiateurs et le soutien aux victimes. Les municipalités, notamment dans la région nantaise, ont développé des programmes de sensibilisation afin de renforcer la cohésion sociale et d’encourager la dénonciation des faits.\n\n## Comment se tenir informé et participer\nLes habitants intéressés peuvent obtenir des renseignements complémentaires en consultant le site internet de la mairie de Nantes ou en appelant le service dédié à la prévention des violences. Les autorités locales rappellent que la participation à ces ateliers est volontaire et ouverte à tous, sans condition d’âge ou de statut. Elles soulignent également l’importance de signaler tout comportement suspect aux services de police ou aux structures d’accompagnement.\n\n## Impacts attendus pour la communauté\nEn offrant un espace d’échange et de formation, les ateliers visent à renforcer la vigilance collective et à réduire les risques de violences dans le quotidien des riverains. La démarche s’appuie sur la coopération entre les associations locales, les services sociaux et les forces de l’ordre, afin de créer un réseau d’appui efficace. Les participants repartiront avec des fiches pratiques, des contacts d’urgence et une meilleure compréhension des dispositifs d’aide existants.",
+  "mots_cles": [
+    "violences faites aux femmes",
+    "atelier prévention",
+    "Nantes",
+    "sensibilisation",
+    "action locale"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-14T11:47:41+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nantes_Quebec_location_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Gordalmighty",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_Quebec_location_diagram.png",
+    "legende": "Location of Nantes, Quebec within Le Granit Regional County Municipality.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes Quebec location diagram.png"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "Deux ateliers pour agir contre les violences faites aux femmes près de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZktQVlpHYkNINGJpSjZVMWZITHhMeXRldHBIRVNnQXh2VGVnODRodW9pYTQxbU5xRlR5TlFuMXRBQW5YZlVkbTNRY1RVUGUzdUZQLURueFhabUVDeWZGcndGVk1kUGh6Nm5UQV9tVlRWY18za0VMTDZrdjlGOVp0QThpdmVad1FXVHNRdzc1cWltNFVBYmlmSGttbkRVMFU1TkZ0NHVxTV9ZWXBqbXhOd19RaVBmOW5LOFF1YVFvZTFMU1JzU2FhLTFfeEllZWJ4RkRJdllfa05fYS0wYmpqdnY3RnRzTUdYU1c4aEN3Y0V5ODRHeVFrejZVQURHU1l0bmhXTUF3T1o5Q3R2M2hHWkhlaGNxUVN5WkUwTzdXUGFGbFU?oc=5"
+    },
+    {
+      "media": "maville.com",
+      "titre": "Cette ville du sud de Nantes organise deux ateliers pour lutter contre les violences faites aux femmes",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaU9qdXJMT0pKOXdvZmUwX1pnbzlmMXlVNUFiSUk5TVdSeXBnRk82UDlmeDBERG1INnJXTkhtRWpOcEFPeTkwYjJqbkNJcFhZSFZOXzRKMjk1Nzd5N1d5VVlsR21MY19WV0I5S1lEREp1bFBVczh5TDBBYm1CMUtYYzRDR2tienJINmFkUHZNUDhENTFFNVd2U2JyMXNLOXFhZGFUa3JLZ3pqcWpBc2o0bThhVWJzYjhLbWc4WWRaWFZLdUpZR0ZTVzY5WnZTMWpJRC1hc052TDltb1YxU1lWTWxVVTBrN3NuamMyNDBFSUJjWTVJaDNXb0JWTDRleVVx?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
