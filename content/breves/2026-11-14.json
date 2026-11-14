@@ -386,5 +386,23 @@
     "titres_sources": [
       "Les fonctionnaires européens sont-ils trop payés ?"
     ]
+  },
+  {
+    "titre": "Disney+ proposerait 10 comédies, élargissant son catalogue",
+    "texte": "Selon Numerama, Disney+ proposerait une sélection de dix comédies, élargissant son catalogue au-delà des dessins animés et des blockbusters Marvel, notamment grâce à l’acquisition de 21 st Century Fox en 2019. Cette offre viserait à attirer un public recherchant un humour plus irrévérencieux.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-14T16:19:08+00:00",
+    "titres_sources": [
+      "Disney+ : les 10 meilleures comédies sur la plateforme de Mickey"
+    ]
+  },
+  {
+    "titre": "Le Pays de Galles gagnerait contre la Nouvelle-Zélande, première depuis 1953",
+    "texte": "Selon Le Figaro, le Pays de Galles aurait battu la Nouvelle-Zélande lors du Championnat des nations, marquant ainsi sa première victoire depuis 1953. Cette performance placerait les Gallois en tête du tournoi.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-14T16:19:08+00:00",
+    "titres_sources": [
+      "Rugby, Championnat des nations : première victoire du pays de Galles contre la Nouvelle-Zélande depuis 1953"
+    ]
   }
 ]
