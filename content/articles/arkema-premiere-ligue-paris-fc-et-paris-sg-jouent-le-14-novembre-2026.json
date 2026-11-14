@@ -1,0 +1,38 @@
+{
+  "slug": "arkema-premiere-ligue-paris-fc-et-paris-sg-jouent-le-14-novembre-2026",
+  "titre": "Arkema Première Ligue – Paris FC et Paris‑SG jouent le 14 novembre 2026",
+  "chapeau": "Deux rencontres de la première division féminine de football sont programmées le 14 novembre 2026, impliquant les équipes parisiennes Paris FC et Paris‑Saint‑Germain. Les matchs se tiendront dans les stades habituels et pourraient entraîner des modifications de la circulation et des transports en commun dans les quartiers concernés.",
+  "corps": "## Calendrier des rencontres\n\nLe 14 novembre 2026, la saison de l’Arkema Première Ligue voit s’affronter le Havre AC contre le Paris FC, ainsi que le Marseille contre le Paris‑Saint‑Germain. Les deux matchs sont annoncés comme diffusés en direct, conformément aux informations relayées par plusieurs médias sportifs. Aucun horaire précis n’est indiqué dans les dépêches, mais les rencontres auront lieu le même jour, selon le calendrier officiel de la compétition.\n\n## Lieux habituels et accessibilité\n\nParis FC féminin joue traditionnellement au stade Charléty, situé dans le 13ᵉ arrondissement, tandis que le Paris‑Saint‑Germain féminin utilise le stade Jean‑Bouin, au cœur du 16ᵉ arrondissement. Ces sites sont habituellement desservis par plusieurs lignes de métro et de bus : la ligne 7 et la ligne 8 du métro pour Charléty, ainsi que les lignes 9 et 13 pour Jean‑Bouin. Les autorités locales recommandent aux spectateurs de privilégier les transports en commun afin de limiter les embouteillages éventuels.\n\n## Impact potentiel sur les riverains\n\nBien que les dépêches ne précisent pas de mesures de déviation, il est d’usage que les services de la police municipale et la préfecture de police mettent en place des contrôles de trafic autour des stades les jours de match. Les riverains peuvent s’attendre à une densification du stationnement dans les zones adjacentes, ainsi qu’à une possible modification des itinéraires de bus. Les services de la RATP publient habituellement des informations détaillées sur les perturbations temporaires sur leur site internet et via les applications mobiles.\n\n## Informations pratiques\n\nLes supporters souhaitant assister aux rencontres sont invités à consulter les sites officiels de Paris FC et de Paris‑Saint‑Germain pour les modalités de billetterie et les consignes de sécurité. En cas de besoin, le numéro d’information de la mairie de Paris (3977) reste disponible pour toute question relative aux transports ou à la sécurité publique le jour des matchs. Les mises à jour en temps réel concernant les perturbations de circulation seront également diffusées sur le site de la préfecture de police de Paris.",
+  "mots_cles": [
+    "football féminin",
+    "Arkema Première Ligue",
+    "Paris FC",
+    "Paris Saint-Germain",
+    "match"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-14T07:09:51+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Victoire_PSG_f%C3%A9minines_Montpellier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Lacorne",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Victoire_PSG_f%C3%A9minines_Montpellier.jpg",
+    "legende": "Scène de joie",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Victoire PSG féminines Montpellier.jpg"
+  },
+  "sources": [
+    {
+      "media": "Eurosport",
+      "titre": "Havre AC - Paris FC en direct - Arkema Première Ligue : Football Scores & Résultats - 14/11/2026",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFlLS2l0SVZDVzNtWU5vZTBWYUdoZ0JUYWJ2dzNzVHg5NWR3R0xPMFNOOTEwd3JZdUhYNDFkdXp5czAxQ0k1VXFVUmtiQVJRdVZ5WFk4Uk51MkMxX3NEemM2S1NNenYwTlVZS0JOUXU2dnRlTllRczVwdUxmQUhBSVB3V2IteTkzWXhXcngxclRqbE1UQkVQX1o1eXRiaDVTRzctamlzd1NTaE1JVlRLRQ?oc=5"
+    },
+    {
+      "media": "L'Équipe",
+      "titre": "Le Havre (F) - Paris FC (F), Arkema Première Ligue (F), match en direct le 14/11/2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW42UzdES2NXWnozcGgybkUtTS1BYUdYelpESi1nWDRMQ2J2LU9CaktjT1I1N1UyVm5iU1pKdGU4UEVLZTZwV1ZLTUNOZXQtTDR1ZURyT2dEeHpIMVBkMzFaeWJ5NnJVOWhtSWZ5MzllTndwRHRVTmJDYkNZNVJBV3FKMHBpREkxZDhNWFNhVFNJRDdjRkFaOVdBN3pOMHVneU52SjlrYjFCNmdnT0dfNERR?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

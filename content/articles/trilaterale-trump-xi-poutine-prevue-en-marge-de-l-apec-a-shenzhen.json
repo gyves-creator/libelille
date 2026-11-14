@@ -1,0 +1,38 @@
+{
+  "slug": "trilaterale-trump-xi-poutine-prevue-en-marge-de-l-apec-a-shenzhen",
+  "titre": "Trilatérale Trump‑Xi‑Poutine prévue en marge de l’APEC à Shenzhen",
+  "chapeau": "La Maison Blanche a annoncé qu’une rencontre entre Donald Trump, Xi Jinping et Vladimir Poutine se tiendra jeudi en Chine, à l’occasion du sommet de l’APEC. Ni la Chine ni la Russie n’ont encore confirmé la tenue de cet entretien.",
+  "corps": "## Annonce américaine et cadre de la rencontre\nDans un communiqué diffusé ce matin, la Maison Blanche a indiqué que les trois chefs d’État se réuniront en marge de la réunion de la Coopération économique Asie‑Pacifique (APEC) qui se déroule à Shenzhen. L’objectif déclaré de ce dialogue est d’aborder la question du désarmement nucléaire. Aucun autre détail officiel n’a été fourni quant aux modalités de la rencontre.\n\n## Absence de confirmation de Pékin et Moscou\nÀ ce jour, les autorités chinoises et russes n’ont pas confirmé la tenue de la réunion annoncée par Washington. Cette absence de réponse officielle laisse incertaine la concrétisation du sommet trilatéral, même si les préparatifs semblent avancer du côté américain.\n\n## Thèmes évoqués et exclusions\nUn responsable américain, qui a souhaité rester anonyme, a précisé que les discussions incluront également la question de l’Iran, sans toutefois mentionner l’Ukraine. Cette orientation suggère que les trois dirigeants pourraient se concentrer sur des enjeux de sécurité régionale et globale, notamment la maîtrise des arsenaux nucléaires et les tensions au Moyen‑Orient.\n\n## Contexte géopolitique\nDonald Trump, ancien président des États-Unis, Xi Jinping, président de la République populaire de Chine, et Vladimir Poutine, président de la Fédération de Russie, sont les principaux acteurs de la scène internationale. Une rencontre de ce type, organisée en marge d’un sommet économique comme l’APEC, représente une opportunité rare de dialogue direct entre les trois puissances, souvent perçues comme concurrentes sur les questions de défense et d’influence.\n\nBien que l’annonce américaine soit claire quant aux objectifs généraux, l’absence de confirmation officielle de la part de la Chine et de la Russie ainsi que le manque de précisions sur le programme laissent place à des incertitudes quant à la portée et aux résultats attendus de cette entrevue.",
+  "mots_cles": [
+    "Trilatérale",
+    "APEC",
+    "désarmement nucléaire",
+    "Donald Trump",
+    "Xi Jinping"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-14T07:09:45+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shenzhen_city_montage.png/1280px-Shenzhen_city_montage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "jo.sau, JHH755, Kyman Cheng, jo.sau, Jonathan Leung, Leon Petrosyan",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Shenzhen_city_montage.png",
+    "legende": "Clockwise from top: East Pacific Center, KK100, Shun Hing Square, Coastal City, Shenzhen Bay at night, and Shenzhen Stock Exchange in Shenzhen, Guangdong Province, China",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Shenzhen city montage.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche",
+      "url": "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine",
+      "url": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -35,5 +35,24 @@
     "titres_sources": [
       "VRAI OU FAUX. Le ministère de l'Education nationale minimise-t-il le nombre de lycées bloqués ?"
     ]
+  },
+  {
+    "titre": "Cinquante cortèges prévus dans les villes françaises le 14 novembre",
+    "texte": "Cinquante cortèges sont prévus dans plusieurs villes françaises le 14 novembre, avec jeunes et gilets jaunes réclamant la protection des mineurs et l’interdiction du « permis de tuer ». Le ministre de l’Intérieur Laurent Nuñez a annoncé la mobilisation de près de 70 000 policiers et gendarmes.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-14T07:10:04+00:00",
+    "titres_sources": [
+      "Manifestations du 14 novembre en direct : des revendications diverses en amont de l'\"Acte V\"",
+      "Mobilisations sociales : une cinquantaine de cortèges attendus partout en France pour cet acte V, sur fond de revendications diverses"
+    ]
+  },
+  {
+    "titre": "Comment choisir une offre d’électricité ou de gaz",
+    "texte": "L’article, réalisé avec EDF, détaille les critères – prix du kWh, puissance en kVA, heures creuses, type d’offre et tarif réglementé – pour choisir une offre d’électricité ou de gaz. Il rappelle que le vocabulaire est difficile et conseille de bien le comprendre avant de signer.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-14T07:10:04+00:00",
+    "titres_sources": [
+      "Choisir une offre d’électricité ou de gaz : tout ce qu’il faut savoir avant de signer [Sponso]"
+    ]
   }
 ]
