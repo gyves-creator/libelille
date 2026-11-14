@@ -1,0 +1,32 @@
+{
+  "slug": "manifestation-a-lyon-pour-les-droits-des-enfants-et-la-justice-climatique",
+  "titre": "Manifestation à Lyon pour les droits des enfants et la justice climatique",
+  "chapeau": "Une nouvelle manifestation est annoncée à Lyon pour défendre les droits des enfants et réclamer une justice climatique. Les autorités locales n’ont pas encore communiqué de détails précis sur le lieu ou la date, incitant les habitants à suivre les informations officielles.",
+  "corps": "## Une mobilisation annoncée à Lyon\nLes organisateurs ont indiqué qu’une manifestation serait prochainement organisée dans la métropole lyonnaise afin de mettre en avant les droits des enfants ainsi que les exigences de justice climatique. Aucun calendrier exact n’a été fourni dans les informations disponibles, et le point de rassemblement n’a pas été précisé. Cette annonce apparaît dans un contexte où les mouvements pour la protection de l’enfance et la lutte contre le dérèglement climatique se multiplient à l’échelle nationale.\n\n## Impact potentiel sur la vie locale\nEn l’absence de précisions sur le tracé ou les horaires, les services municipaux invitent les riverains et les usagers des transports à rester attentifs aux éventuelles consignes qui pourraient être diffusées par la mairie ou les autorités de transport. Il est habituel que de telles mobilisations entraînent des restrictions temporaires de circulation, des déviations ou des ajustements d’horaires de bus et de tramway. Les habitants sont donc encouragés à consulter le site internet de la Ville de Lyon ou les réseaux sociaux officiels pour connaître d’éventuelles déviations ou recommandations de sécurité.\n\n## Contexte des revendications\nLes droits des enfants constituent un pilier du droit français et international, avec notamment la Convention internationale des droits de l’enfant ratifiée par la France. Les revendications en matière de justice climatique s’appuient sur les engagements pris lors de la COP26 et les lois françaises visant à réduire les émissions de gaz à effet de serre. Les manifestants cherchent généralement à obtenir davantage de mesures de protection sociale pour les enfants, ainsi que des politiques publiques plus ambitieuses pour limiter le réchauffement climatique.\n\n## Conseils pratiques aux habitants\nDans l’attente de précisions, les résidents peuvent se préparer en vérifiant régulièrement les informations diffusées par la préfecture de Rhône et la mairie de Lyon. En cas de perturbation du trafic, les numéros d’urgence et les services d’information municipale restent disponibles. Les sites officiels comme lyon.fr ou le compte Twitter de la Ville offrent des mises à jour en temps réel sur les éventuelles fermetures de voies ou les alternatives de transport. Cette vigilance permet de limiter les désagréments liés à la manifestation tout en respectant le droit de manifester.",
+  "mots_cles": [
+    "manifestation",
+    "droits des enfants",
+    "justice climatique",
+    "Lyon"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-14T09:53:11+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cours_Lafayette_%28Lyon%29_de_nuit_en_janvier_2019.JPG/1280px-Cours_Lafayette_%28Lyon%29_de_nuit_en_janvier_2019.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Cours_Lafayette_(Lyon)_de_nuit_en_janvier_2019.JPG",
+    "legende": "Cours Lafayette (Lyon) de nuit en janvier 2019.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Cours Lafayette (Lyon) de nuit en janvier 2019.JPG"
+  },
+  "sources": [
+    {
+      "media": "Tonic Radio",
+      "titre": "Lyon : nouvelle manifestation prévue pour les droits des enfants et la justice climatique",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUC1DQVZhLWhoMVhRdFh5ZEw5Q0F2Q0JwZW5WV2E2c1pxVngyQjA2U0hEdnhodm84SWg2dDFoTTFEYm54S3NXbkRVdW1xVDk1STgyUURKUENMTnpUTDd1QnZoNXRyd1c4RWxGdV9tR3JoNTFuUHFuZXZCdTZPX1pwM3puODBnQkFReUp2MW9kNm9udHBXZDJUVWtDMW9ONGhEQXhldGpGbU50SnBlT05Fa0Q5QjQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
