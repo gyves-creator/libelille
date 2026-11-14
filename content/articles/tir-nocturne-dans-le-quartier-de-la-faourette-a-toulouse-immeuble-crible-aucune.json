@@ -1,0 +1,38 @@
+{
+  "slug": "tir-nocturne-dans-le-quartier-de-la-faourette-a-toulouse-immeuble-crible-aucune",
+  "titre": "Tir nocturne dans le quartier de la Faourette à Toulouse : immeuble criblé, aucune victime signalée",
+  "chapeau": "Dans la nuit du vendredi 13 au samedi 14 novembre, un immeuble du quartier de la Faourette a été la cible d'une série de tirs. Une quinzaine de projectiles ont traversé le bâtiment, dont un appartement du premier étage, mais aucun blessé n’a été enregistré.",
+  "corps": "## Une nuit marquée par des tirs en plein centre\nDans la petite nuit du 13 au 14 novembre, le quartier de la Faourette, situé à l’est de Toulouse, a connu une série d’échanges de coups de feu qui ont criblé la façade d’un immeuble résidentiel. Selon les informations relayées, une quinzaine de balles ont pénétré dans la structure, certaines traversant même un appartement du premier étage. Malgré la violence de l’incident, aucune victime n’a été signalée et aucun blessé n’a été déclaré par les services de secours.\n\n## Intervention des forces de l’ordre et suite de l’enquête\nLes forces de police se sont rendues rapidement sur les lieux afin de sécuriser le secteur et de procéder à des constatations. Une enquête a été ouverte pour identifier l’auteur ou les auteurs de ces tirs. Les autorités ont indiqué que les investigations sont en cours et que des investigations techniques, notamment le relevé balistique, seront menées afin de retracer les projectiles et de déterminer le point de départ des tirs.\n\n## Conséquences pour les riverains\nAucun service public n’a été interrompu à la suite de cet événement, et les accès à l’immeuble concerné sont restés ouverts. Les habitants du quartier ont été invités à rester vigilants et à signaler tout comportement suspect aux services de police. Aucun déplacement de trafic routier n’a été annoncé, et les transports en commun ont continué à circuler normalement dans le secteur.\n\n## Recommandations pratiques aux habitants\nLes résidents sont encouragés à suivre les consignes émises par les forces de l’ordre et à rester informés via les canaux officiels de la ville de Toulouse. En cas de besoin, le numéro d’urgence de la police nationale reste disponible pour toute information ou signalement. La mairie de Toulouse continue de surveiller la situation et diffusera, le cas échéant, des consignes supplémentaires aux riverains.",
+  "mots_cles": [
+    "tir",
+    "Faourette",
+    "Toulouse",
+    "immeuble",
+    "nuit"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-14T08:57:30+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg/1280px-Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "PierreSelim",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Panorama_from_pont_Saint-Pierre_in_Toulouse_-_2012-08-31.jpg",
+    "legende": "Panorama from pont Saint-Pierre in Toulouse",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Panorama from pont Saint-Pierre in Toulouse - 2012-08-31.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Une quinzaine de tirs en pleine nuit à Toulouse : un immeuble criblé de balles, certaines traversent un appartement du premier étage mais pas de blessés",
+      "url": "https://www.ladepeche.fr/2026/11/14/une-quinzaine-de-tirs-en-pleine-nuit-a-toulouse-un-immeuble-crible-de-balles-certaines-traversent-un-appartement-du-premier-etage-mais-pas-de-blesses-13652351.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Une quinzaine de tirs en pleine nuit à Toulouse : un immeuble criblé de balles, certaines traversent un appartement du premier étage mais pas de blessés",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPb0FPN3dva0FGdEhXS2d4SmV2Rnl2NGVET2wtbmhPR1Z6dE56Y3diaW5DTXNQZDk1dm9DTDc3QUxzX2k3QXN0QkVueV9qN0h6OEtBZ05KcVVrcXl0TF93bkdlSWVOUmZMbUxYdTlnNVR5UDY0OWdQQnJfN194V1JWY0QtRzdDcEJxd09KVE9uZWcxZG93MlJOOS12YzN1U1lpSmVXUDhaLTJTREdVZnh0THFwZUJ6X3pDaXIzelBrOVNPWHdyU2tQNHZlUG5PRXpBSTVpMU9FU1hWM3BHVmltaWpJOVZUN2hhN1BDZXlISVFUcEpETkRMckEwZ2FSb0JjbGZkYjN6UW15VHp1T3gtaXBxeUFBdXZwQld0WDg0U2ZBTGJE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

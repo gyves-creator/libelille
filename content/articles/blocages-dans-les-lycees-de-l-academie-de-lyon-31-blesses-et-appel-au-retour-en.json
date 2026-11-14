@@ -1,0 +1,38 @@
+{
+  "slug": "blocages-dans-les-lycees-de-l-academie-de-lyon-31-blesses-et-appel-au-retour-en",
+  "titre": "Blocages dans les lycées de l’académie de Lyon : 31 blessés et appel au retour en classe",
+  "chapeau": "Des blocages ont touché plusieurs lycées de l’académie de Lyon, faisant trente‑et‑un blessés. L’autorité académique condamne les violences et invite les élèves à reprendre les cours.",
+  "corps": "## Situation actuelle\nDes mouvements de blocage ont été signalés dans plusieurs établissements du secondaire relevant de l’académie de Lyon. Selon les informations communiquées, ces incidents ont entraîné la blessure de trente‑et‑un personnes, sans précision quant à la nature des blessures ni à l’identité des victimes. L’académie a rapidement publié une déclaration dans laquelle elle condamne fermement les actes de violence associés à ces blocages.\n\n## Réaction de l’académie\nDans le même communiqué, l’académie de Lyon a appelé les élèves, les parents et le personnel éducatif à revenir en classe dès que possible. Elle insiste sur la nécessité de rétablir le bon déroulement de l’enseignement et de garantir la sécurité dans les établissements. Aucun détail n’est fourni sur les mesures concrètes envisagées pour sécuriser les lycées ou sur les suites judiciaires éventuelles.\n\n## Conséquences pour les familles et les élèves\nPour les habitants de la métropole lyonnaise, ces blocages peuvent entraîner des perturbations dans les déplacements scolaires, notamment si les accès aux établissements sont temporairement restreints. Les autorités recommandent aux familles de suivre les consignes diffusées par les établissements concernés et de consulter les sites internet officiels de l’académie ou des collectivités locales pour obtenir les dernières informations sur les éventuelles déviations ou modifications d’horaires.\n\n## Informations pratiques\nEn cas de besoin d’assistance ou pour signaler des difficultés liées aux déplacements, les habitants peuvent contacter le service d’accueil de l’académie de Lyon au numéro indiqué sur le site du rectorat. Les sites internet de la mairie de Lyon et de la préfecture du Rhône offrent également des rubriques dédiées aux urgences locales et aux consignes de sécurité.",
+  "mots_cles": [
+    "blocages",
+    "lycées",
+    "académie de Lyon",
+    "violences",
+    "retour en classe"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-14T08:57:23+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2019_Inspe_Lyon_-_N.jpg/1280px-2019_Inspe_Lyon_-_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:2019_Inspe_Lyon_-_N.jpg",
+    "legende": "Logo de l'Institut national supérieur du professoral et de l'éducation (INSPE), Académie de Lyon, Université Lyon 1,",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:2019 Inspe Lyon - N.jpg"
+  },
+  "sources": [
+    {
+      "media": "Radio Espace",
+      "titre": "Blocages dans les lycées : l'académie de Lyon recense 31 blessés et appelle au retour en classe",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbC1POXRpeVpIVDJ3aUE0YlhWcm9oaktxSnNvREdRUGk0S1doVEJYcGM0dDItTWp1MV8yeUs3dHEwOGZFS1RpVDVqUUlacTF0eDhaUDF4cXVWbWdBdHVWVTBna3NQYl91WU9qYmZSNHFkWGt3dENybjhic3F5WU1rbE5kb3J0c19rUExMUU1kNkppcG0zYWlGeUlFRFlndUNBNTlPYXVuVldsNnpyU0pCdVY1UFhDbWpTQWlFWjlYbldhanZFOGx5N0cxSmpoZVNBVE1fR1BCVlU?oc=5"
+    },
+    {
+      "media": "Le Progrès",
+      "titre": "Blocages des lycées : l’académie de Lyon « condamne fermement les violences » et « appelle au retour en cours »",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRlMtcGZkZXUxOXlQU2N4NVFGdV80X3NGMzZvd3MzVkRMeVVvdnNVX1NYWFdMbEg5SjdCSFFleUxuenRKUk5zU25GYWU4aEdwUHp2dU5ZaTZtemUyUUZTcmQ3cHpqejIydThXcHRRZzJ0Yk14TWFETjdycGxnSEdLQ1Y3WE51bEpmRFBOWW8taXVZUV9vclFtY3dYT3FHUkZCU1JSVGxUR1JSc1R3Y2ZMUENjb1ZyTWxuUnNXdmZpZnhLZURrLU5RWkhEMnVyTmxpTkVBYUd2Zk9kdjFt?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
