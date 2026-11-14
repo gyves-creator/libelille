@@ -367,5 +367,24 @@
     "titres_sources": [
       "Très mauvaise nouvelle pour GTA 6, retour de Johnny Depp au cinéma, le recap Pop Culture de la semaine"
     ]
+  },
+  {
+    "titre": "Zidane, sélectionneur, prévu à Bordeaux dimanche pour séance photo",
+    "texte": "Le sélectionneur des Bleus, Zinédine Zidane, reviendrait dimanche à Bordeaux, ville où son surnom «Zizou» est né. Il participerait à une séance photo avec son épouse, marquée d’un adieu émouvant et d’images des années 1990.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-14T15:47:29+00:00",
+    "titres_sources": [
+      "Exploit européen, séance photo «originale» avec sa femme, adieu émouvant… En images, les années 1990 de Zinédine Zidane à Bordeaux",
+      "Soirée magique, séance photo avec sa femme, adieu émouvant… En images, les années 1990 de Zinédine Zidane à Bordeaux"
+    ]
+  },
+  {
+    "titre": "Politiciens français critiquent salaires des fonctionnaires européens",
+    "texte": "Des responsables politiques français pourraient remettre en cause le montant que la France verse à l’Union européenne, notamment les rémunérations des fonctionnaires européens. Cette remise en question s’inscrit dans un contexte de recherche de réduction des dépenses publiques.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T15:47:29+00:00",
+    "titres_sources": [
+      "Les fonctionnaires européens sont-ils trop payés ?"
+    ]
   }
 ]

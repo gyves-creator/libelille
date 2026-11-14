@@ -1,0 +1,43 @@
+{
+  "slug": "suspension-des-decollages-aux-etats-unis-pour-panne-de-communication",
+  "titre": "Suspension des décollages aux États-Unis pour panne de communication",
+  "chapeau": "Vendredi, les autorités américaines de l'aviation ont suspendu tous les décollages en raison d’une défaillance du système de communication, entraînant l’annulation d’environ 6 000 vols et affectant des centaines de milliers de passagers. Les opérations ont repris progressivement samedi matin, bien que certains retards subsistent.",
+  "corps": "## Une interruption totale du trafic aérien\nVendredi, les contrôleurs ont interdit tout décollage depuis les aéroports américains entre 15 h 54 (heure de New York) et 20 h 15, ce qui a cloué les avions au sol pendant plusieurs heures. La décision a concerné l’ensemble du réseau aérien national, entraînant l’annulation massive de vols.\n\n## Un système de communication obsolète\nLes autorités ont attribué la suspension à un problème de communication, le système utilisé étant décrit comme vétuste et reposant encore sur des disquettes pour le transfert d’informations essentielles. Cette faiblesse a conduit à un fonctionnement intermittent des radars et des liaisons de contrôle dans plusieurs centres de contrôle aérien.\n\n## Reprise progressive samedi\nAprès la levée de l’interdiction, l’espace aérien a été rouvert vendredi soir, mais les décollages n’ont repris qu’au petit matin de samedi, avec un retour progressif à la normale. Le ministre des Transports, Sean Duffy, a indiqué que les opérations revenaient progressivement à la normale, tout en reconnaissant la persistance de certains retards.\n\nLes chiffres avancés font état d’environ 6 000 vols annulés, impactant des centaines de milliers de passagers. La situation, qualifiée de « massive et rarissime » par les médias, souligne la dépendance du trafic aérien à des infrastructures de communication fiables.",
+  "mots_cles": [
+    "suspension des vols",
+    "panne de communication",
+    "aviation américaine",
+    "annulations",
+    "radars intermittents"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-14T15:47:20+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg/1280px-Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "U.S. Department of Transportation",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg",
+    "legende": "Official portrait of Secretary of Transportation, Sean Duffy",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Secretary of Transportation Sean Duffy Official Portrait.jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Suspension des vols aux Etats-Unis : des annulations et des retards de vols persistent samedi",
+      "url": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
+      "url": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Des milliers d’annulations, «du vieux matériel» en cause… Ce que l’on sait de la suspension des vols aux États-Unis après la reprise du trafic",
+      "url": "https://www.lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

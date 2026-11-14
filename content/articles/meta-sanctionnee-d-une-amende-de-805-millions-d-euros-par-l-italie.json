@@ -1,0 +1,37 @@
+{
+  "slug": "meta-sanctionnee-d-une-amende-de-805-millions-d-euros-par-l-italie",
+  "titre": "Meta sanctionnée d’une amende de 805 millions d’euros par l’Italie",
+  "chapeau": "Meta, la maison mère de Facebook, a été condamnée à une amende de 805 millions d’euros par l’Autorité italienne de protection des données. La sanction, qualifiée parmi les plus lourdes jamais infligées à un géant technologique, résulte d’un accès à des photos d’utilisateurs sans consentement spécifique.",
+  "corps": "## Une sanction historique\nL’Autorité italienne de protection des données personnelles, souvent désignée sous le nom de Garante, a infligé à Meta une pénalité de 805 millions d’euros. Cette décision, rendue le 14 novembre 2026, s’inscrit parmi les plus importantes jamais prononcées contre une entreprise du secteur numérique en Italie. Le motif invoqué est l’accès à des photographies d’utilisateurs sans qu’un consentement « spécifique » n’ait été recueilli au préalable. Le montant de la sanction dépasse largement les précédentes amendes appliquées à d’autres géants technologiques, soulignant la sévérité de la violation constatée.\n\n## Contexte européen de la protection des données\nLe cadre juridique qui sous-tend cette décision repose sur le Règlement général sur la protection des données (RGPD), applicable dans tous les États membres de l’Union européenne depuis 2018. Le RGPD impose aux responsables de traitement, dont les plateformes sociales, d’obtenir un consentement éclairé et explicite lorsqu’ils souhaitent exploiter des données personnelles sensibles, telles que les images. En Italie, le Garante possède le pouvoir d’appliquer des sanctions financières proportionnelles à la gravité de la faute constatée. La récente amende à l’encontre de Meta illustre la volonté des autorités nationales d’appliquer rigoureusement ces exigences, notamment face à des pratiques jugées intrusives.\n\n## Implications pour les acteurs du numérique\nCette décision pourrait avoir des répercussions sur l’ensemble du secteur des réseaux sociaux, qui devra réexaminer ses mécanismes de collecte et d’utilisation des contenus visuels. Les entreprises sont ainsi incitées à renforcer leurs procédures de consentement, à assurer une traçabilité claire des autorisations obtenues et à mettre en place des contrôles internes plus stricts. Bien que la sanction concerne spécifiquement l’accès à des photos sans consentement, elle rappelle que toute forme de traitement de données personnelles doit être justifiée, documentée et conforme aux exigences du RGPD.\n\n## Réactions et suites attendues\nLes informations publiées ne comportent pas de déclaration officielle de Meta concernant la sanction. L’article indique simplement que l’amende figure parmi les plus importantes jamais infligées à un géant technologique par l’autorité italienne. La procédure de paiement et les éventuels recours juridiques que Meta pourrait engager restent à préciser. En attendant, le Garante continue de surveiller le respect du RGPD par les acteurs du numérique, avec la perspective d’éventuelles nouvelles mesures de contrôle.",
+  "mots_cles": [
+    "Meta",
+    "amende",
+    "Italie",
+    "protection des données"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-14T15:47:23+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Meta_Headquarters_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Nokia621",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Meta_Headquarters_Sign.jpg",
+    "legende": "Entrance sign at Meta's headquarters complex in Menlo Park, California",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Meta Headquarters Sign.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "Facebook écope d'une amende de 805 millions d'euros en Italie pour avoir accédé à des photos sans un consentement \"spécifique\" des utilisateurs",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/facebook-ecope-d-une-amende-de-805-millions-d-euros-en-italie-pour-avoir-accede-a-des-photos-sans-un-consentement-specifique-des-utilisateurs_8282567.html#xtor=RSS-3-%5Binternet%5D"
+    },
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La maison mère de Facebook, Meta, écope d’une lourde amende en Italie pour avoir accédé à des photos sans consentement « spécifique »",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/14/la-maison-mere-de-facebook-meta-ecope-d-une-lourde-amende-en-italie-pour-avoir-accede-a-des-photos-sans-consentement-specifique_6810412_4408996.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
