@@ -203,8 +203,9 @@ def rediger(evenement, rubrique, cfg, journal=print):
                 correction = messages + [
                     {"role": "assistant", "content": json.dumps(art, ensure_ascii=False)},
                     {"role": "user", "content": "Réécris exactement le même article en retirant toute mention d'un média "
-                     "(journal, radio, télé, site, agence). Donne les faits directement, ou attribue-les à la source "
-                     "d'origine (autorités, personne concernée) si elle est connue. Même format JSON."}]
+                     "(journal, radio, télé, site, agence). Donne les faits directement (au conditionnel s'ils ne sont pas "
+                     "confirmés). N'attribue une information à une autorité ou une personne que si les dépêches le disent "
+                     "explicitement : n'invente aucune source. Même format JSON."}]
                 art = _extraire_json(_appeler(f, correction))
                 if cite_un_media(art):
                     raise ValueError("cite encore un média après réécriture")

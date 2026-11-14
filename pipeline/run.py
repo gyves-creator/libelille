@@ -320,8 +320,9 @@ def retirer_citations_medias(cfg, journal=print, max_par_passage=6):
             continue
         consigne = ("Voici un article au format JSON. Réécris-le en gardant exactement les mêmes faits, la même longueur "
                     "et la même structure, mais retire toute mention d'un média (journal, radio, télé, site, agence) : "
-                    "donne les faits directement, ou attribue-les à la source d'origine (autorités, personne concernée) "
-                    "si elle est connue. N'ajoute aucun fait. Réponds en français avec le même JSON (titre, chapeau, corps).\n\n"
+                    "donne les faits directement (au conditionnel s'ils ne sont pas confirmés). N'attribue une information à "
+                    "une autorité ou une personne QUE si le texte le dit déjà explicitement : n'invente aucune source. "
+                    "N'ajoute aucun fait. Réponds en français avec le même JSON (titre, chapeau, corps).\n\n"
                     + _json.dumps({k: a[k] for k in ("titre", "chapeau", "corps")}, ensure_ascii=False))
         for fournisseur in cfg["ia"]["fournisseurs"]:
             try:
