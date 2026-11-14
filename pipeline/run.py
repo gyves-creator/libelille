@@ -308,7 +308,7 @@ def reparer_photos(cfg, journal=print, max_par_passage=3):
             faits += 1
 
 
-def retirer_citations_medias(cfg, journal=print, max_par_passage=3):
+def retirer_citations_medias(cfg, journal=print, max_par_passage=6):
     """Anciens articles qui citent un média (« selon BFMTV… ») : l'IA les réécrit sans le nommer."""
     import json as _json
     if os.environ.get("LEFIL_SIMULATION") == "1":
