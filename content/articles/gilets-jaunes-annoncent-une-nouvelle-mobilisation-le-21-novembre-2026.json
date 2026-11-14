@@ -1,0 +1,33 @@
+{
+  "slug": "gilets-jaunes-annoncent-une-nouvelle-mobilisation-le-21-novembre-2026",
+  "titre": "Gilets jaunes annoncent une nouvelle mobilisation le 21 novembre 2026",
+  "chapeau": "Le mouvement des gilets jaunes prévoit une nouvelle journée de protestation le samedi 21 novembre, après la manifestation du 17 novembre. Cette mobilisation s'inscrit dans le cadre du huitième anniversaire du mouvement lancé en 2018.",
+  "corps": "## Une mobilisation prévue le 21 novembre\nLes organisateurs du mouvement des gilets jaunes ont indiqué que leurs adhérents se rassembleront à nouveau le samedi 21 novembre. L'appel à la mobilisation fait suite à la manifestation prévue le 17 novembre, qui doit marquer le huitième anniversaire d’un mouvement spontané apparu en 2018. Aucun détail supplémentaire n’a été communiqué quant aux lieux exacts de rassemblement ou aux revendications spécifiques attendues lors de ces deux actions.\n\n## Le contexte du huitième anniversaire\nLe mouvement des gilets jaunes a émergé en 2018, d’abord en réaction à la hausse du prix du carburant et à des mesures fiscales perçues comme injustes. Au fil des années, il s’est élargi à d’autres revendications sociales et économiques, tout en conservant une structure décentralisée. Le 17 novembre 2026, les participants comptent célébrer huit ans d’activités, rappelant l’origine du mouvement et les évolutions qu’il a connues depuis sa création.\n\n## Absence de précisions sur les revendications\nLes porte-parole du groupe ont déclaré que les « revendications ne sont pas satisfaites », sans détailler les points précis qui restent en suspens. Cette formulation, reprise dans le communiqué, indique une continuité de la contestation mais ne précise pas les exigences actuelles, que ce soit en matière de fiscalité, de pouvoir d’achat ou d’autres domaines. Le manque d’informations laisse les observateurs attendre davantage de précisions avant la date prévue.\n\n## Réactions attendues et suivi médiatique\nLes autorités locales et nationales sont susceptibles de suivre de près ces rassemblements, compte tenu de l’histoire du mouvement et de son impact sur l’ordre public. Les médias couvriront les deux dates, notamment le 17 novembre, pour évaluer la portée de la mobilisation et les éventuelles évolutions de la dynamique du mouvement. Le suivi de la situation permettra de déterminer si les revendications seront redéfinies ou renforcées lors de la journée du 21 novembre.\n\nEn l’absence de précisions supplémentaires, la situation reste ouverte, les gilets jaunes appelant à la mobilisation tout en soulignant que leurs exigences n’ont pas encore trouvé de réponse satisfaisante.",
+  "mots_cles": [
+    "gilets jaunes",
+    "mobilisation",
+    "France",
+    "manifestation",
+    "2026"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-14T16:48:33+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Au_d%C3%A9part_de_la_manifestation_Gilets_jaunes_acte_XVII_%C3%A0_Saint-%C3%89tienne.jpg/1280px-Au_d%C3%A9part_de_la_manifestation_Gilets_jaunes_acte_XVII_%C3%A0_Saint-%C3%89tienne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Touam (Hervé Agnoux)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Au_d%C3%A9part_de_la_manifestation_Gilets_jaunes_acte_XVII_%C3%A0_Saint-%C3%89tienne.jpg",
+    "legende": "Some men and women in the Gilets jaunes contest à Saint-Étienne.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Au départ de la manifestation Gilets jaunes acte XVII à Saint-Étienne.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "\"Les revendications ne sont pas satisfaites\" : les gilets jaunes appellent à une nouvelle journée de mobilisation samedi 21 novembre",
+      "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/les-revendications-ne-sont-pas-satisfaites-les-gilets-jaunes-appellent-a-un-acte-vi-de-mobilisation-samedi-21-novembre_8282648.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -404,5 +404,23 @@
     "titres_sources": [
       "Rugby, Championnat des nations : première victoire du pays de Galles contre la Nouvelle-Zélande depuis 1953"
     ]
+  },
+  {
+    "titre": "Corps d'un jeune homme retrouvé mort sur une plage du Pas-de-Calais",
+    "texte": "Il semblerait qu'un jeune homme ait été retrouvé mort sur une plage du Pas-de-Calais, alors que de nombreuses traversées clandestines vers l'Angleterre ont eu lieu dans la nuit de vendredi à samedi. Le temps calme et le gel ont facilité ces départs, aggravant le risque.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T16:48:42+00:00",
+    "titres_sources": [
+      "Pas-de-Calais : le corps d’un jeune homme retrouvé mort sur une plage en marge de nombreuses tentatives de départs clandestins vers l’Angleterre"
+    ]
+  },
+  {
+    "titre": "Les Gallois battent les All Blacks, mettant fin à une série depuis 1953",
+    "texte": "Il semblerait que les Gallois aient vaincu les All Blacks, mettant fin à une série défavorable depuis 1953, lors du Championnat des nations ce samedi. Un résumé vidéo permet de revivre cet exploit retentissant.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-14T16:48:42+00:00",
+    "titres_sources": [
+      "Rugby, Championnat des nations : le résumé vidéo de l’exploit gallois face aux All Blacks"
+    ]
   }
 ]
