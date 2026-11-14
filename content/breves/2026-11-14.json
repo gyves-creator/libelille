@@ -256,5 +256,23 @@
     "titres_sources": [
       "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs"
     ]
+  },
+  {
+    "titre": "Edith Pagot découvre ses origines Lebensborn à Commercy",
+    "texte": "Selon France 24, Edith Pagot, adoptée à Commercy dans la Meuse, aurait appris qu’elle était née en 1946 dans un Lebensborn, l’une des pouponnières nazies dont les enfants furent transférés d’Allemagne. Cette révélation éclaire le sort des enfants déplacés après la guerre.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-14T12:58:40+00:00",
+    "titres_sources": [
+      "\"Je ne pensais quand même pas avoir un père nazi\" : Edith Pagot, née dans un Lebensborn"
+    ]
+  },
+  {
+    "titre": "Brouillage GPS ukrainien perturbe les applications mobiles",
+    "texte": "franceinfo- Tech / Web indique que le système de brouillage GPS mis au point par l’armée ukrainienne pour dévier missiles et drones russes génère aussi des faux signaux, perturbant les applications de localisation des habitants. Cette interférence affecte le quotidien des usagers.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-14T12:58:40+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Mon appli me dit que je suis à Lima\" : en Ukraine, le brouillage GPS pour détourner les missiles russes s'invite dans le quotidien des habitants"
+    ]
   }
 ]

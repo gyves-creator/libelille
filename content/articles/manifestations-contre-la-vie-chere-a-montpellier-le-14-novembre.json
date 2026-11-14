@@ -1,0 +1,33 @@
+{
+  "slug": "manifestations-contre-la-vie-chere-a-montpellier-le-14-novembre",
+  "titre": "Manifestations contre la vie chère à Montpellier le 14 novembre",
+  "chapeau": "Le samedi 14 novembre, une mobilisation d’environ 500 personnes est prévue à Montpellier dans le cadre d’une journée de protestations nationales contre la hausse du coût de la vie. Les organisateurs annoncent plusieurs dizaines de défilés à travers la France, dont un rassemblement musical dans la ville du sud.",
+  "corps": "## Une mobilisation annoncée à Montpellier\nLe mouvement, porté par les gilets jaunes et plusieurs organisations de jeunesse, prévoit qu’une cinquantaine à soixante manifestations se tiennent simultanément dans l’ensemble du territoire français. À Montpellier, les participants comptent se réunir autour d’une animation musicale, avec une estimation de cinq cents personnes présentes. L’objectif déclaré est de faire entendre les revendications liées à la « vie chère » et d’appeler à des mesures concrètes de soutien économique.\n\n## Impacts attendus sur la ville\nBien que les détails opérationnels ne soient pas précisés, les autorités locales sont susceptibles d’intervenir pour assurer la sécurité du public et la fluidité du trafic. Les habitants sont invités à suivre les informations diffusées par la mairie ou les services de transport afin d’anticiper d’éventuelles perturbations sur les axes majeurs et les lignes de bus. En cas de déviation ou de modification d’horaires, les sites officiels et les panneaux d’information seront mis à jour.\n\n## Consignes pratiques pour les riverains\nLes résidents et usagers sont encouragés à se tenir informés via le site internet de la municipalité ou le numéro d’urgence de la police municipale. En cas de besoin, le service d’information de la préfecture reste disponible pour répondre aux questions relatives aux mesures de sécurité et aux éventuelles restrictions temporaires. Cette journée de mobilisation s’inscrit dans une série d’actions prévues ce week‑end, reflétant un climat de protestation qui se poursuit depuis plusieurs mois.\n\nLes participants, les organisateurs et les autorités locales restent en contact pour garantir le bon déroulement de l’événement, tout en rappelant que la manifestation doit se dérouler dans le respect des règles de sécurité publique.",
+  "mots_cles": [
+    "manifestation",
+    "Montpellier",
+    "vie chère",
+    "gilets jaunes",
+    "jeunesse"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-14T12:58:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Montpellier_Street_02.jpg/1280px-Montpellier_Street_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Edward",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montpellier_Street_02.jpg",
+    "legende": "Montpellier Street, Cheltenham",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montpellier Street 02.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "DIRECT Manifestations du 14 novembre : entre 50 et 60 défilés dans toute la France, 500 personnes rassemblées en musique à Montpellier",
+      "url": "https://www.midilibre.fr/2026/11/14/direct-manifestations-du-14-novembre-suivez-avec-nous-la-journee-de-mobilisation-a-lappel-des-gilets-jaunes-et-dorganisation-de-la-jeunesse-13652337.php"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
