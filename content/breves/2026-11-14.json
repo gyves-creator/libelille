@@ -274,5 +274,24 @@
     "titres_sources": [
       "REPORTAGE. \"Mon appli me dit que je suis à Lima\" : en Ukraine, le brouillage GPS pour détourner les missiles russes s'invite dans le quotidien des habitants"
     ]
+  },
+  {
+    "titre": "Emma Aicher remporte le premier slalom de la Coupe du monde à Levi",
+    "texte": "L'Allemande Emma Aicher a remporté le slalom inaugural de la saison de Coupe du monde à Levi, en Finlande, profitant de l'absence de Mikaela Shiffrin. Les Françaises Marion Chevrier et Marie Lamure se sont classées parmi les sept premières.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-14T13:35:13+00:00",
+    "titres_sources": [
+      "Le premier slalom de la saison de Coupe du monde pour Emma Aicher, Tops 7 pour les Françaises Marion Chevrier et Marie Lamure",
+      "Ski : Emma Aicher aux commandes du slalom après le premier passage à Levi"
+    ]
+  },
+  {
+    "titre": "Dominique Schnapper : les partis traditionnels perdent leur rôle de débat",
+    "texte": "Selon Dominique Schnapper, les partis de droite républicaine et de social‑démocratie ne sont plus de véritables lieux de débat politique, les différences entre les candidats du gouvernement relevant davantage du style que de politique. Elle note que les partis d'extrême gauche ou droite captent l'attention.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-14T13:35:13+00:00",
+    "titres_sources": [
+      "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »"
+    ]
   }
 ]
