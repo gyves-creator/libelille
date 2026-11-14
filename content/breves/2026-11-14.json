@@ -200,5 +200,25 @@
     "titres_sources": [
       "«Héroïques», «les Braves», «courage incroyable»… La presse hexagonale salue l’exploit et l’état d’esprit du XV de France"
     ]
+  },
+  {
+    "titre": "Zelensky : les USA offrent concessions territoriales contre adhésion à l'OTAN",
+    "texte": "Le président ukrainien Volodymyr Zelensky a déclaré que les États‑Unis proposaient à Kiev de céder le Donbass en échange de son adhésion à l’OTAN. Il a ajouté que l’Ukraine cherche des garanties de sécurité spécifiques auprès de l’OTAN et de l’UE.",
+    "rubrique": "international",
+    "publie_le": "2026-11-14T11:17:57+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+      "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
+      "Washington a proposé que Kiev cède le Donbass en échange d'une adhésion à l'Otan, affirme Zelensky"
+    ]
+  },
+  {
+    "titre": "Prochains combats UFC des Français annoncés par Le Figaro",
+    "texte": "Selon Le Figaro, plusieurs combattants français, dont Ciryl Gane, Benoît Saint‑Denis, Alex Fiorot et Abubakar Imavov, auraient des rendez‑vous à l’UFC prochainement, Gane devant défendre sa ceinture des poids lourds ce samedi. Saint‑Denis préparerait un retour en Australie d’ici 2027 pour relancer sa carrière.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-14T11:17:57+00:00",
+    "titres_sources": [
+      "MMA : Gane, Saint-Denis, Fiorot, Imavov… Les prochains grands rendez-vous des Français dans l’octogone de l’UFC"
+    ]
   }
 ]
