@@ -533,5 +533,24 @@
       "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
       "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\""
     ]
+  },
+  {
+    "titre": "Vol de données de 22 millions de personnes chez Maileva, filiale de La Poste",
+    "texte": "Maileva, filiale du groupe La Poste, a confirmé le vol de données personnelles concernant 22 millions d’usagers. L’entreprise a déposé plainte, notifié la CNIL et une enquête judiciaire a été ouverte.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-14T20:16:22+00:00",
+    "titres_sources": [
+      "Cyberattaque : Maileva, filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
+      "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes"
+    ]
+  },
+  {
+    "titre": "Cinquième samedi de mobilisation contre la vie chère en France",
+    "texte": "Des milliers de personnes auraient défilé dans plusieurs villes françaises lors du cinquième samedi de mobilisation contre la vie chère. Les manifestants réclament des mesures pour soutenir le pouvoir d'achat.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-14T20:16:22+00:00",
+    "titres_sources": [
+      "\"Quand j'ai tout payé, il ne me reste plus grand chose\" : pour le cinquième samedi de mobilisation contre la vie chère, des manifestants toujours déterminés"
+    ]
   }
 ]
