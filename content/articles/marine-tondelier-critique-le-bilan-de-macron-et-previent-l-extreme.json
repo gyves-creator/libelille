@@ -1,0 +1,33 @@
+{
+  "slug": "marine-tondelier-critique-le-bilan-de-macron-et-previent-l-extreme",
+  "titre": "Marine Tondelier critique le bilan de Macron et prévient l'extrême",
+  "chapeau": "Marine Tondelier, candidate écologiste à l’élection présidentielle de 2027, a déclaré lors du Grand Enjeu que tous ceux qui souhaitent la faire tomber soutiennent Marine Le Pen, en citant le soutien de Donald Trump et d’Elon Musk. Elle a également commenté les propos d’Emmanuel Macron sur la guerre en Ukraine et a mis en garde contre le risque d’une accession de l’extrême droite.",
+  "corps": "## Déclarations de Marine Tondelier\nLors de l’émission Grand Enjeu diffusée le dimanche 15 novembre, la candidate des écologistes a affirmé que « Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen ». Elle a évoqué le soutien de personnalités comme Donald Trump et Elon Musk à la candidate du Rassemblement national, soulignant ce qu’elle perçoit comme une alliance entre ces soutiens extérieurs et l’extrême droite française. Tondelier a également repris les récentes déclarations du président Emmanuel Macron concernant les positions de Marine Le Pen et de Jean‑Luc Mélenchon sur le conflit en Ukraine, les qualifiant d’insuffisantes selon elle.\n\n## Analyse du contexte électoral\nL’élection présidentielle de 2027 se déroule dans un paysage politique où plusieurs figures majeures sont en lice : le président sortant Emmanuel Macron, qui se représente pour un second mandat, Marine Le Pen, porte‑parole du Rassemblement national, Jean‑Luc Mélenchon, leader de La France Insoumise, et Marine Tondelier, candidate du parti écologiste Europe Écologie‑Les Verts. La guerre en Ukraine, déclenchée en 2022, continue d’influencer les débats, notamment sur les positions étrangères des candidats et sur la politique énergétique.\n\nDans ce contexte, la candidate écologiste a critiqué le bilan du chef de l’État, pointant du doigt les questions environnementales et sociales qu’elle estime insuffisamment traitées. Elle a mis en garde contre une éventuelle arrivée de l’extrême droite au pouvoir, rappelant les risques perçus pour les libertés démocratiques et les politiques publiques. Aucun chiffre ou sondage n’a été présenté pour étayer ces affirmations, la déclaration restant une prise de position politique.\n\n## Réactions et perspectives\nAucun autre candidat n’a immédiatement réagi aux propos de Tondelier dans les informations disponibles. La mention de soutiens étrangers à Marine Le Pen, notamment de la part de Donald Trump et d’Elon Musk, n’a pas été confirmée par d’autres sources dans les dépêches consultées. Les électeurs sont invités à consulter les informations officielles sur les modalités d’inscription sur les listes et le déroulement du vote sur le site service‑public.gouv.fr.\n\nL’intervention de Marine Tondelier s’inscrit dans la dynamique habituelle des campagnes présidentielles, où chaque candidat cherche à distinguer son programme et à mobiliser son électorat. Son appel à la vigilance face à l’extrême droite reflète une préoccupation partagée par plusieurs acteurs politiques, sans toutefois être accompagné de données chiffrées ou de prévisions de résultat.",
+  "mots_cles": [
+    "Marine Tondelier",
+    "présidentielle 2027",
+    "extrême droite",
+    "Macron",
+    "élection"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-15T19:50:00+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Huma2023MarineTondelier_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Selbymay",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier_(cropped).jpg",
+    "legende": "Marine Tondelier à la Fête de l'Humanité 2023",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Huma2023MarineTondelier (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
