@@ -507,5 +507,23 @@
     "titres_sources": [
       "Hand (F) : imperturbable, Metz poursuit sa série d’invincibilité en Ligue des champions"
     ]
+  },
+  {
+    "titre": "Interdiction de vente de mortiers d'artifice jusqu'au 27 nov",
+    "texte": "Des vendeurs continueraient de proposer des mortiers d'artifice malgré le décret gouvernemental. Le gouvernement aurait décidé d'interdire leur vente aux particuliers jusqu'au 27 novembre, les incidents étant en hausse lors de manifestations ou près d'écoles.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T20:17:54+00:00",
+    "titres_sources": [
+      "Mortiers d'artifice : malgré le décret du gouvernement, des vendeurs continuent de les proposer"
+    ]
+  },
+  {
+    "titre": "Le pape Léon XIV quitte l'Amérique latine après un accueil de 10 M",
+    "texte": "Le pape Léon XIV aurait parcouru l'Uruguay, l'Argentine et le Pérou pendant onze jours, où près de dix millions de fidèles l'auraient acclamé. Il repartirait ce lundi pour Rome.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T20:17:54+00:00",
+    "titres_sources": [
+      "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine"
+    ]
   }
 ]
