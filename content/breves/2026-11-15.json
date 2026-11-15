@@ -291,5 +291,23 @@
     "titres_sources": [
       "Loto : un million d'euros n'a toujours pas été réclamé, le gagnant a quelques jours pour se manifester"
     ]
+  },
+  {
+    "titre": "Deux pétroliers en feu dans le détroit d'Ormuz, un coulé",
+    "texte": "L'Iran aurait indiqué que deux pétroliers étaient en feu dans le détroit d'Ormuz, dont un superpétrolier transportant plus de deux millions de barils de brut qui aurait sombré. Aucun incident n'a été signalé sur d'autres navires.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T14:26:52+00:00",
+    "titres_sources": [
+      "L'Iran fait état de deux pétroliers en feu dans le détroit d'Ormuz"
+    ]
+  },
+  {
+    "titre": "Fermeture de l'A13 pendant huit mois, risque de congestion dans les Hauts-de-Seine",
+    "texte": "Les autorités auraient annoncé la fermeture d'une portion de l'A13, reliant Paris à Caen, pendant huit mois pour consolider un tunnel. Elles craignent une congestion accrue sur les routes des Hauts-de-Seine.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T14:26:52+00:00",
+    "titres_sources": [
+      "Fermeture de l’A13 : derrière les travaux indispensables, la crainte de congestion sur les routes des Hauts-de-Seine"
+    ]
   }
 ]
