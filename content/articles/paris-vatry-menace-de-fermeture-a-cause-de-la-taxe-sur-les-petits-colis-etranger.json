@@ -1,0 +1,33 @@
+{
+  "slug": "paris-vatry-menace-de-fermeture-a-cause-de-la-taxe-sur-les-petits-colis-etranger",
+  "titre": "Paris-Vatry menacé de fermeture à cause de la taxe sur les petits colis étrangers",
+  "chapeau": "L'aéroport de Paris‑Vatry pourrait être contraint de cesser ses activités en raison d'une nouvelle taxe appliquée aux petits colis importés. Cette mesure fiscale risque d'impacter les flux de fret aérien et les emplois liés à l'aéroport.",
+  "corps": "## Menace de fermeture liée à la fiscalité des colis\nL'aéroport de Paris‑Vatry, situé dans le département de l'Aube, se trouve sous la pression d'une possible cessation d'activité. La cause évoquée est l'instauration d'une taxe qui s'applique aux petits colis en provenance de l'étranger. Cette imposition supplémentaire augmente le coût du transport de marchandises, ce qui, selon les informations disponibles, pourrait rendre l'exploitation du site économiquement difficile.\n\n## Conséquences pour le trafic de fret et l'économie locale\nSi la fermeture venait à se confirmer, les effets se feraient sentir sur plusieurs plans. Le trafic de fret aérien, qui utilise l'aéroport comme plateforme de transbordement, serait perturbé, obligeant les opérateurs à chercher des alternatives souvent plus éloignées. Cette situation pourrait également entraîner une réduction du nombre d'emplois directs et indirects liés à la logistique, à la manutention et aux services associés à l'aéroport. Les habitants de la région, qui bénéficient de ces activités, pourraient donc voir diminuer les opportunités d'emploi locales.\n\n## Réactions des acteurs concernés et mesures envisagées\nLes responsables de l'aéroport ainsi que les représentants du secteur du transport de marchandises ont exprimé leurs inquiétudes quant à l'impact de la taxe. Ils examinent des solutions pour atténuer les effets financiers, notamment en réévaluant les modèles tarifaires ou en sollicitant des aménagements fiscaux. Aucun plan concret n'a encore été annoncé, et la situation reste en cours d'évaluation.\n\n## Informations pratiques pour les usagers\nDans l'attente d'éclaircissements sur l'évolution de la situation, il est recommandé aux entreprises et aux particuliers qui utilisent les services de fret de Paris‑Vatry de suivre les communications officielles de l'aéroport. Pour toute question relative aux éventuelles modifications de service, le numéro d'information de l'aéroport et le site internet de la mairie de Vatry restent les points de contact habituels.",
+  "mots_cles": [
+    "Paris‑Vatry",
+    "taxe colis étrangers",
+    "fermeture aéroport",
+    "fret aérien",
+    "emploi local"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-15T08:15:18+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/A%C3%A9roport_de_Vatry.jpg/1280px-A%C3%A9roport_de_Vatry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Zeugma fr ( talk ) (Antoine FLEURY-GOBERT)",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:A%C3%A9roport_de_Vatry.jpg",
+    "legende": "Paris-Vatry airport, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Aéroport de Vatry.jpg"
+  },
+  "sources": [
+    {
+      "media": "MacGeneration",
+      "titre": "L'aéroport Paris-Vatry sous menace de fermeture à cause de la taxe sur les petits colis étrangers",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlF3UnNFZGZ2bldHUVAyYkNqUnhLSng2bjNPdVBDQjNuRUxwMXF5VjZNM2ctWHBWXzV4Vk5vZHBHMFZGSG85RHRFWVRfU2lpUU1kdnJJS3ZNS3pXN2xPYUNyVjlsWHF2YjBFY1NWc3VOclZ3Z2pSVVlKZ3BwTW56cmEtQUZaUEE4MXFjQlE5b3ZIZUdMd3FtVXFQUlU3VW1NeDBmUUxySndsWm0tVFltZDJUWHhhUWl5ZUtlN280ZXNTbUJrS2xQakVFNXBlNHYyc0MtaQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

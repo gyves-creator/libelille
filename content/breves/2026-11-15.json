@@ -71,5 +71,23 @@
     "titres_sources": [
       "Somment de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda"
     ]
+  },
+  {
+    "titre": "BLG remporte le championnat du monde League of Legends à New York",
+    "texte": "Bilibili Gaming (BLG) a remporté son premier titre mondial de League of Legends. L’équipe chinoise a battu la Corée du Sud, représentée par Gen.G, en finale à New York.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T08:15:30+00:00",
+    "titres_sources": [
+      "Esport : Les Chinois de BLG sacrés champions du monde sur League of legends"
+    ]
+  },
+  {
+    "titre": "Le ministre Amiel annonce une hausse des points pour les bas salaires publics",
+    "texte": "David Amiel, ministre de l'Action et des Comptes publics, a indiqué qu'une hausse des points serait appliquée aux salaires les plus bas de la fonction publique. Il a fait cette déclaration lors de l'émission 8h30 franceinfo dimanche.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-15T08:15:30+00:00",
+    "titres_sources": [
+      "\"Il y aura bien une hausse des points pour les plus bas salaires de la fonction publique\", confirme le ministre David Amiel"
+    ]
   }
 ]

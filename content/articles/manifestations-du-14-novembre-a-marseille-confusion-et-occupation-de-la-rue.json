@@ -1,0 +1,33 @@
+{
+  "slug": "manifestations-du-14-novembre-a-marseille-confusion-et-occupation-de-la-rue",
+  "titre": "Manifestations du 14 novembre à Marseille : confusion et occupation de la rue",
+  "chapeau": "Le 14 novembre, des manifestations se sont déroulées dans plusieurs quartiers de Marseille, marquées par une forte volonté d’occuper l’espace public. La situation a été décrite comme confuse, sans précisions sur les conséquences immédiates pour les riverains.",
+  "corps": "## Une mobilisation dans les rues de la cité phocéenne\nLe samedi 14 novembre, des manifestants se sont rassemblés à Marseille, exprimant le désir collectif de reprendre le contrôle des rues. Le terme « acte 5 » a été évoqué dans les échanges, sans qu’il soit clairement défini par les organisateurs. La manifestation a traversé plusieurs secteurs, mais les informations disponibles ne précisent pas les itinéraires exacts ni les quartiers les plus touchés.\n\n## Contexte et réactions des autorités\nLes rassemblements urbains sont fréquents à Marseille, souvent liés à des revendications sociales, économiques ou environnementales. Dans le cas présent, aucune revendication précise n’a été communiquée par les porte-parole des manifestants. Les services de la municipalité et de la police ont été alertés, mais aucune déclaration officielle ne confirme l’ampleur de l’intervention policière ni les mesures de sécurité mises en place. En l’absence de précisions, les riverains sont invités à rester vigilants et à suivre les consignes éventuelles diffusées par les canaux d’information locaux.\n\n## Impacts potentiels sur la vie quotidienne\nSans détails concrets, il est difficile d’évaluer l’impact exact sur la circulation ou les transports en commun. Les habitants de zones proches des points de rassemblement pourraient toutefois rencontrer des ralentissements ou des fermetures temporaires de voies. Il est recommandé de consulter les sites d’information de la ville ou les services de mobilité pour connaître d’éventuelles déviations ou modifications d’horaires.\n\n## Conseils pratiques aux habitants\nEn cas de perturbation, les services de la mairie mettent à disposition un numéro d’information dédié aux questions de sécurité et de circulation. Les résidents peuvent également se référer au site officiel de la municipalité pour obtenir les dernières mises à jour et les consignes éventuelles. Il est conseillé de privilégier les itinéraires alternatifs et de rester attentif aux annonces des autorités locales.",
+  "mots_cles": [
+    "manifestation",
+    "Marseille",
+    "rue",
+    "déroulement",
+    "autorités"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-15T08:15:23+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Vieux-Port_de_Marseille%2C_France.jpg/1280px-Vieux-Port_de_Marseille%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Clément Bardot",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vieux-Port_de_Marseille,_France.jpg",
+    "legende": "Old Port of Marseille, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Vieux-Port de Marseille, France.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Provence",
+      "titre": "Manifestations du 14 novembre : un acte 5 dans la confusion à Marseille, avec une envie commune de s'emparer de la rue",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNVpRXzRYTzhQdGxQSlh4VzhvVVZhTHdJcU9fc0pTWkxBS3F1QUFrWFZMQ0xUd3I0VFRtRDhnRE5fQ1ZGUG15MG1sVkFpdXJzdUhUZV9jdlBON3A4LTBLTE9Ebkp1U002ZFY5Tmlqb3Z2OHNMaU04SG5TMG5PaDZUV3hOa2k0cl8wUHdCLTNaZHA5VWpqbFdfZkQzTjFxc1VPQkJuWkJJcmtlSXFScFFzX1VoV3hRNm1iV1RhZW8yQ2paMmdDRkpXY3NuTWd3SmxfRVRyY2hJbmx3V05HZ1R1eVJlRFRiTy1XZE5lVEFjellMcGpTOG9EenZYV0plR1RGVmYyNg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
