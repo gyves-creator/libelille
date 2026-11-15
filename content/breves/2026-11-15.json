@@ -16,5 +16,23 @@
     "titres_sources": [
       "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales"
     ]
+  },
+  {
+    "titre": "Ciryl Gane conserve le titre poids lourds UFC",
+    "texte": "Le combattant français Ciryl Gane a vaincu «The Incredible Hok» lors d’un combat acharné, conservant ainsi son titre de champion poids lourds de l’UFC. Cette victoire confirme son statut de champion en titre.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T06:35:59+00:00",
+    "titres_sources": [
+      "MMA : le Français Ciryl Gane bat Hokit et conserve son titre de champion poids lourds de l'UFC"
+    ]
+  },
+  {
+    "titre": "Indemnités de désistement de permis de construire restent imposables",
+    "texte": "Le ministère des Finances précise que les indemnités versées par les promoteurs en échange du retrait d’un recours contre un permis de construire sont en principe soumises à l’impôt. La jurisprudence, toutefois, différencie les compensations de préjudice des rémunérations de services rendus.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T06:35:59+00:00",
+    "titres_sources": [
+      "Immobilier : les sommes reçues des promoteurs en échange du désistement d’un recours contre leur permis de construire doivent-elles être déclarées au fisc ?"
+    ]
   }
 ]
