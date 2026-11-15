@@ -525,5 +525,23 @@
     "titres_sources": [
       "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine"
     ]
+  },
+  {
+    "titre": "Paris : rassemblements interdits près des lycées et universités",
+    "texte": "Le préfet de police a annoncé l’interdiction des rassemblements du lundi au vendredi autour de certains lycées et universités. Il a indiqué que les blocages, souvent l’œuvre d’une minorité d’élèves, entravent l’accès à l’enseignement pour tous et suscitent la colère de parents.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T20:48:00+00:00",
+    "titres_sources": [
+      "A Paris, les rassemblements interdits de lundi à vendredi autour de certains lycées et universités"
+    ]
+  },
+  {
+    "titre": "Ben Shelton ouvre le match avec un 6-2 contre Arthur Fils",
+    "texte": "Ben Shelton a dominé le premier set contre Arthur Fils, le remportant 6-2 grâce à un départ impressionnant. Le match se poursuit avec un avantage net pour l’Américain.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T20:48:00+00:00",
+    "titres_sources": [
+      "EN DIRECT - Tennis : Ben Shelton prend le meilleur départ face à Arthur Fils"
+    ]
   }
 ]
