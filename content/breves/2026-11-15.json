@@ -34,5 +34,24 @@
     "titres_sources": [
       "Immobilier : les sommes reçues des promoteurs en échange du désistement d’un recours contre leur permis de construire doivent-elles être déclarées au fisc ?"
     ]
+  },
+  {
+    "titre": "Arthur Fils qualifié pour les ATP Finals de Turin",
+    "texte": "À 22 ans, il serait le premier Français depuis dix ans à rejoindre les huit meilleurs joueurs du circuit lors du tournoi qui se déroulera du 15 au 22 novembre à Turin. Il devra confirmer son statut après une saison en dents de scie.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T07:12:24+00:00",
+    "titres_sources": [
+      "Tennis : qu’attendre d’Arthur Fils dans le grand huit du Masters de fin d’année ?",
+      "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie"
+    ]
+  },
+  {
+    "titre": "Violence croissante à Rouen depuis le 17 octobre",
+    "texte": "Des groupes qualifiés d'ultragauche, s'inspirant des codes des gangs antiracistes des années 80, seraient à l'origine d'une série de représailles violentes depuis le 17 octobre, plongeant la ville normande dans un climat délétère.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T07:12:24+00:00",
+    "titres_sources": [
+      "«Expédition punitive», chasse aux «fachos» : Rouen en proie à une spirale de représailles violentes depuis le 17 octobre"
+    ]
   }
 ]

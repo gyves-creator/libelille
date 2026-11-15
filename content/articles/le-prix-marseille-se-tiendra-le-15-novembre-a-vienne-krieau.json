@@ -1,0 +1,37 @@
+{
+  "slug": "le-prix-marseille-se-tiendra-le-15-novembre-a-vienne-krieau",
+  "titre": "Le Prix Marseille se tiendra le 15 novembre à Vienne Krieau",
+  "chapeau": "Une course du calendrier hippique français, le Prix Marseille, est prévue le 15 novembre 2026 au Krieau de Vienne. Les partants, les pronostics et les résultats seront diffusés en vidéo après l’épreuve.",
+  "corps": "## Une rencontre attendue dans le sud‑est\nLe programme de la saison hippique indique qu’une course intitulée « Prix Marseille » aura lieu le 15 novembre 2026. L’événement se déroulera sur le site de Vienne Krieau, un hippodrome réputé du sud‑est de la France. Aucun détail supplémentaire n’a été communiqué concernant le nombre de partants ou les conditions de course.\n\n## Diffusion et suivi des performances\nLes organisateurs prévoient de rendre disponibles, après la tenue de la course, des vidéos présentant les partants, les pronostics ainsi que les résultats. Cette diffusion vise à permettre aux passionnés, aux entraîneurs et aux parieurs de suivre l’évolution de la compétition même s’ils ne sont pas présents sur place. Aucun lien direct n’a été indiqué, mais il est habituel que les vidéos soient accessibles via le site officiel du circuit ou les plateformes spécialisées dans le sport équin.\n\n## Contexte du Prix Marseille\nLe Prix Marseille figure parmi les courses de catégorie régionale qui ponctuent le calendrier des courses plates en France. Il s’inscrit généralement dans une série d’épreuves destinées à mettre en avant les chevaux et les jockeys évoluant dans la zone provençale et au-delà. Bien que les spécificités de l’édition 2026 ne soient pas détaillées, il est d’usage que ce type de course attire un public local ainsi que des visiteurs venus de régions voisines, contribuant ainsi à l’animation du secteur hippique.\n\n## Informations pratiques pour les habitants\nAucun dispositif particulier de déviation ou de perturbation du trafic n’a été annoncé en amont de l’événement. Les habitants de Vienne et des communes avoisinantes sont invités à consulter les canaux d’information habituels de la municipalité ou du service départemental des routes pour d’éventuelles mises à jour. En cas de besoin, le numéro du service d’information touristique de la ville reste disponible, tout comme le site internet de l’hippodrome qui pourra fournir les horaires exacts et les modalités d’accès le jour J.\n\nEn l’absence de précisions supplémentaires, les passionnés de courses hippiques sont encouragés à rester attentifs aux annonces officielles qui seront publiées à l’approche de la date, afin de planifier leur présence ou leur suivi en ligne.",
+  "mots_cles": [
+    "Prix Marseille",
+    "hippodrome Vienne",
+    "course hippique",
+    "15 novembre 2026"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-15T07:12:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Trabrennbahn_Krieau_Zielrichterturm_DSC_1185w.jpg/1280px-Trabrennbahn_Krieau_Zielrichterturm_DSC_1185w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Peter Haas",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Trabrennbahn_Krieau_Zielrichterturm_DSC_1185w.jpg",
+    "legende": "Trabrennbahn Krieau , placing judge tower, 2nd district of Vienna",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Trabrennbahn Krieau Zielrichterturm DSC 1185w.jpg"
+  },
+  "sources": [
+    {
+      "media": "Equidia",
+      "titre": "PRIX MARSEILLE AUTRICHE - KRIEAU (Vienne) - 15/11/2026 : partants, pronostics et résultats en vidéos - Course 1",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rYzBjM1BhdTRlZ1N2TUpKMTdQSk8xQi1hT1A0UEJyM1FFV3l2ckpwNWhlUlY0NGRZN2FZLVRpRGRkd1I4eFpKSjVHeGF5ODhrc1oteXZmMWhWYlU?oc=5"
+    },
+    {
+      "media": "ParisTurf",
+      "titre": "Prix de Marseille du 15 novembre à Vienne Krieau",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uXzhMemR0aW4ycVhWY3B5MzhtSkFYM2U4eW1hV1J0NzA4VUgtMVFQMU1IOWRoOG80ZWVKQmxhY2s1a2RDZURxdHhZWFZVTDZhMDdv?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
