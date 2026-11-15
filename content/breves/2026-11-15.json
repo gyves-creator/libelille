@@ -327,5 +327,23 @@
     "titres_sources": [
       "Cette étoile brillait fort tous les 113 jours et on sait enfin pourquoi"
     ]
+  },
+  {
+    "titre": "Jury de la Route du Rhum confirme la responsabilité de Violette Dorange",
+    "texte": "Le jury a rejeté samedi l’appel de Violette Dorange, la maintenant seule responsable de la collision avec Romain Pilliard. Le dossier de Christophe Bogrand a également été examiné.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T15:21:30+00:00",
+    "titres_sources": [
+      "Route du Rhum : Violette Dorange seule fautive de sa collision avec Romain Pilliard après le rejet de son appel"
+    ]
+  },
+  {
+    "titre": "Zverev s'impose 6-4 6-4 contre Jodar lors de ses débuts aux ATP Finals",
+    "texte": "Le numéro un mondial Alexander Zverev a battu Jodar en deux sets, 6-4 6-4, pour réussir ses débuts aux ATP Finals. Sa victoire, jugée solide, le place parmi les favoris du tournoi.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T15:21:30+00:00",
+    "titres_sources": [
+      "Tennis : un solide Zverev éteint Jodar et réussit ses débuts aux ATP Finals"
+    ]
   }
 ]
