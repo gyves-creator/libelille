@@ -273,5 +273,23 @@
     "titres_sources": [
       "Foot : Hugo Lloris, premier joueur français à franchir les 1 000 matchs professionnels"
     ]
+  },
+  {
+    "titre": "Zelensky dénonce les limites de Starshield face aux attaques russes",
+    "texte": "Le président ukrainien a affirmé que les restrictions d’accès à Starshield empêchent Kyiv de contrer les assauts russes. Il a indiqué que la Russie a déployé plus de 2 300 drones, 1 590 bombes aériennes et 15 missiles la semaine dernière.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T13:59:04+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky"
+    ]
+  },
+  {
+    "titre": "Un million d’euros du Loto toujours non réclamé en Ille-et-Vilaine",
+    "texte": "Un ticket gagnant du Loto, validé le 22 septembre, attend toujours son propriétaire en Ille-et-Vilaine. Le bénéficiaire dispose jusqu’au 20 novembre 23 h 59 pour réclamer le million d’euros, faute de quoi la somme sera perdue.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T13:59:04+00:00",
+    "titres_sources": [
+      "Loto : un million d'euros n'a toujours pas été réclamé, le gagnant a quelques jours pour se manifester"
+    ]
   }
 ]

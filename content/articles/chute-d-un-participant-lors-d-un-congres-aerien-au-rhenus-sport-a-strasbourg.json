@@ -1,0 +1,37 @@
+{
+  "slug": "chute-d-un-participant-lors-d-un-congres-aerien-au-rhenus-sport-a-strasbourg",
+  "titre": "Chute d’un participant lors d’un congrès aérien au Rhénus Sport à Strasbourg",
+  "chapeau": "Un homme d’une cinquantaine d’années a perdu l’équilibre et est tombé des gradins du Rhénus Sport dimanche 15 novembre aux alentours de 2 h du matin. L’accident s’est produit pendant un congrès organisé par une grande compagnie aérienne, le participant se trouve actuellement entre la vie et la mort.",
+  "corps": "## Un accident survenu pendant un congrès aérien\nDans le cadre d’un congrès tenu par une importante compagnie aérienne, un participant d’une cinquantaine d’années a chuté depuis les marches du Rhénus Sport, situé boulevard de Dresde dans le quartier du Wacken à Strasbourg. L’incident a eu lieu aux petites heures du dimanche 15 novembre, aux alentours de deux heures du matin, alors que la salle était occupée par les membres du congrès.\n\n## Conséquences et état de la victime\nLes secours ont été immédiatement mobilisés sur les lieux. Le participant a été pris en charge dans un état critique, décrit comme étant « entre la vie et la mort ». Aucun autre détail sur les suites médicales n’a été communiqué. L’enquête sur les circonstances de la chute a été ouverte afin de déterminer les facteurs ayant conduit à cet accident.\n\n## Le Rhénus Sport, un lieu régulièrement sollicité\nLe Rhénus Sport, salle polyvalente de la ville de Strasbourg, accueille régulièrement des manifestations sportives, culturelles et professionnelles. Situé dans le quartier du Wacken, il est accessible par les voies principales du boulevard de Dresde et bénéficie d’infrastructures de transport public. L’incident intervient dans le cadre d’une utilisation professionnelle du site, rappelant l’importance de la sécurité lors d’événements rassemblant un public nombreux.\n\n## Informations pratiques pour les riverains\nAucun renseignement n’a été fourni concernant d’éventuelles perturbations de la circulation ou des transports en commun dans les environs immédiats du Rhénus Sport. Les habitants du quartier du Wacken sont invités à rester attentifs aux éventuelles consignes des services municipaux ou de la police, qui pourraient être diffusées en cas de nécessité de déviation ou de restrictions d’accès temporaires.",
+  "mots_cles": [
+    "chute",
+    "Rhénus Sport",
+    "Strasbourg",
+    "congrès aérien"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-15T13:58:56+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Rhenus_Sport_2026.jpg/1280px-Rhenus_Sport_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ric5000",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Rhenus_Sport_2026.jpg",
+    "legende": "Rhenus Sport Arena Strasbourg Inside View 2026",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Rhenus Sport 2026.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Strasbourg. Chute dans les marches du Rhénus : un homme entre la vie et la mort",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWVBUnhTMkRiV0txRWtsNmh2Q1pzTXdxQnlSYzR0TDRIUUhrOEg3YVp0Z2RCSXVYRUJqTkdCN0RQU0dJLWlxdzJUcDdUd0RhRko2dm9UV0pyR1h2V0lrVk1ldHhQc1dmZlFObkllSGFOYlV1MTZzbHdRV212RHQ3QWpObTdzT2JRa1lSM0tDallGbFFNaVh5b0JfQlRxVS12bDFTSTF5MERPMXlNV2sxMVV4cFRqWkk?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Chute dans les marches du Rhénus : un homme entre la vie et la mort",
+      "url": "https://www.dna.fr/faits-divers-justice/2026/11/15/chute-dans-les-marches-du-rhenus-un-homme-entre-la-vie-et-la-mort"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
