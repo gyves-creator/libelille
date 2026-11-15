@@ -1,0 +1,32 @@
+{
+  "slug": "edouard-philippe-refuse-la-primaire-et-lance-une-tournee-nationale",
+  "titre": "Edouard Philippe refuse la primaire et lance une tournée nationale",
+  "chapeau": "Le candidat à l'élection présidentielle de 2027, Edouard Philippe, persiste dans son refus de participer à une primaire organisée par la droite et le centre. Il a annoncé le lancement d'un nouveau tour de France pour tenter de renverser les sondages défavorables et répondre aux critiques sur l'engouement de sa campagne.",
+  "corps": "## Refus de la primaire\nEdouard Philippe, figure reconnue de la droite française, a confirmé qu'il ne prendrait pas part à la primaire que souhaitent mettre en place les forces politiques de droite et du centre. Cette décision s'inscrit dans un contexte où plusieurs responsables de ces courants appellent à un rassemblement avant la présidentielle de 2027, afin de désigner un candidat unique. Malgré les pressions exercées, le candidat a maintenu son positionnement, arguant que la primaire n'était pas adaptée à son projet politique.\n\n## Lancement d'un nouveau tour de campagne\nPour contrer les sondages qui le placent en retrait et répondre aux remarques concernant le manque d'enthousiasme autour de son équipe, Philippe a annoncé le lancement d'un nouveau tour de France. Cette initiative consiste en une série de rencontres dans plusieurs régions, visant à présenter son programme directement aux électeurs et à revitaliser son image. Le candidat espère ainsi créer un contre‑agenda capable de modifier les dynamiques d'opinion publique.\n\n## Contexte électoral\nLe scrutin présidentiel français se déroule en deux tours, le premier ouvert à tous les candidats et le second réservé aux deux premiers du premier tour. Depuis plusieurs années, les partis de droite et du centre ont parfois organisé des primaires internes pour désigner un représentant commun, afin d'éviter la dispersion des voix. Le refus d'Edouard Philippe de rejoindre une telle primaire le place en position de candidat indépendant, ce qui pourrait influencer la répartition des suffrages dans les circonscriptions où la droite est traditionnellement forte.\n\n## Réactions et perspectives\nLes critiques formulées à l'égard de la campagne de Philippe portent notamment sur une perception de manque d'énergie et de visibilité. Le nouveau tour de France a pour objectif de répondre à ces points en multipliant les apparitions publiques et les échanges avec les citoyens. La capacité du candidat à transformer cette stratégie en gains concrets dans les sondages reste à observer, d'autant que d'autres prétendants de la droite et du centre poursuivent leurs propres démarches internes.\n\nEn définitive, la décision d'Edouard Philippe de refuser la primaire tout en intensifiant sa présence sur le terrain constitue une tentative de redéfinir son positionnement dans la course à la présidence de 2027, dans un contexte où les alliances et les stratégies de campagne sont particulièrement mouvantes.",
+  "mots_cles": [
+    "Edouard Philippe",
+    "primaire",
+    "présidentielle 2027",
+    "tournée de campagne"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-15T05:01:48+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%C3%89douard_Philippe-2_%2846824610355%29_%28cropped%29.jpg/1280px-%C3%89douard_Philippe-2_%2846824610355%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jacques Paquier",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe-2_(46824610355)_(cropped).jpg",
+    "legende": "Edouard Philippe-2",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Édouard Philippe-2 (46824610355) (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Edouard Philippe tente de déployer son contre-agenda face aux vents contraires",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

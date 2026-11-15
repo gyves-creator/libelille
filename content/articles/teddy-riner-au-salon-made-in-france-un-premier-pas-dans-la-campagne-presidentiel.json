@@ -1,0 +1,32 @@
+{
+  "slug": "teddy-riner-au-salon-made-in-france-un-premier-pas-dans-la-campagne-presidentiel",
+  "titre": "Teddy Riner au salon Made in France : un premier pas dans la campagne présidentielle 2027",
+  "chapeau": "Le champion de judo a visité le salon du Made in France samedi après‑midi, marquant l’une de ses premières apparitions publiques en tant que candidat. Sa campagne montre déjà les premiers signes de turbulence, le candidat cherchant à se démarquer du « macronisme ».",
+  "corps": "## Une présence au salon du Made in France\nSamedi après‑midi, le judoka olympique Teddy Riner a participé au salon du Made in France, un événement dédié à la promotion de l’industrie et de l’artisanat français. Entouré de microphones et de caméras, il a parcouru les stands, rencontrant exposants et visiteurs. Cette visite constitue l’une de ses premières actions de visibilité dans le cadre de la campagne présidentielle de 2027.\n\n## Des premières turbulences dans la campagne\nLes observateurs notent déjà des premières tensions autour du mouvement de Riner. Bien que la candidature soit récente, les premiers retours indiquent que le candidat doit encore consolider son équipe et affiner son message. Aucun détail supplémentaire n’a été communiqué sur la nature exacte de ces turbulences.\n\n## Un positionnement vis‑à‑vis du « macronisme »\nLors de son passage au salon, Teddy Riner a exprimé le souhait de se différencier du « macronisme », terme utilisé pour désigner l’héritage politique du président sortant. Cette volonté de rupture se veut un axe central de sa campagne, même si les modalités précises de cette différenciation restent à préciser. Aucun autre candidat n’a été cité dans le même contexte.\n\n## Contexte de la candidature\nTeddy Riner, ancien champion olympique de judo, a annoncé sa candidature à l’élection présidentielle de 2027 après une carrière sportive marquée par de nombreux titres mondiaux. Son passage dans le monde politique s’inscrit dans une tradition française où des personnalités sportives se tournent vers la fonction publique. Les modalités d’inscription sur les listes électorales et les procédures de vote sont détaillées sur le site officiel du service public.\n\nCette première apparition publique offre un aperçu des priorités que le futur candidat souhaite mettre en avant, tout en soulignant les défis initiaux rencontrés par une campagne en cours de structuration.",
+  "mots_cles": [
+    "Teddy Riner",
+    "présidentielle 2027",
+    "Made in France",
+    "macronisme"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-15T05:01:44+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Teddy_Riner_2010.jpg/1280px-Teddy_Riner_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Nicolas Richoffer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Teddy_Riner_2010.jpg",
+    "legende": "Teddy Riner, le 16 septembre 2010 à Paris.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Teddy Riner 2010.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
