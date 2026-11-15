@@ -399,5 +399,23 @@
     "titres_sources": [
       "Faux comptes à rebours, options payantes précochées… Que sont les «dark patterns», ces pièges numériques auxquels l’UE s’attaque ?"
     ]
+  },
+  {
+    "titre": "Microsoft, Google et OpenAI annoncent mesures de cybersécurité",
+    "texte": "Microsoft a commencé à rejeter les courriels de petites structures vers Hotmail et Outlook sans avertissement. Google a démontré, à l’aide de 80 agents IA, la robustesse du chiffrement de Signal, tandis qu’OpenAI a intégré un bouton d’arrêt à ses IA.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-15T17:18:29+00:00",
+    "titres_sources": [
+      "Microsoft bloque des mails sans prévenir, Google fait prouver la sécurité de Signal par 80 agents, OpenAI installe un bouton stop sur ses IA : on vous raconte la semaine Cyberguerre"
+    ]
+  },
+  {
+    "titre": "Manifestations tchèques contre réforme du financement des médias",
+    "texte": "Des milliers de manifestants tchèques ont défilé contre la réforme du financement des médias publics. Les détracteurs craignent que la mesure ne renforce la dépendance de ces médias vis‑à‑vis du pouvoir politique.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T17:18:29+00:00",
+    "titres_sources": [
+      "Les Tchèques manifestent en masse contre la réforme du financement des médias publics"
+    ]
   }
 ]
