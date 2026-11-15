@@ -200,5 +200,23 @@
     "titres_sources": [
       "Meilleurs mangas shôjo : voici notre top 10 des œuvres incontournables à lire absolument"
     ]
+  },
+  {
+    "titre": "Paris : 108 manifestants placés en garde à vue, 38 mineurs",
+    "texte": "Le samedi 14 novembre, la police de Paris a placé 108 manifestants en garde à vue, dont 38 mineurs, après la manifestation. La préfecture a indiqué que le rassemblement s’est déroulé globalement dans le calme.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T11:49:29+00:00",
+    "titres_sources": [
+      "Manifestation du 14 novembre : à Paris, 108 personnes placées en garde à vue, dont 38 mineurs"
+    ]
+  },
+  {
+    "titre": "Mbappé pressé de revenir pour le match France-Turquie",
+    "texte": "Kylian Mbappé, absent lors de la défaite contre l’Italie, devrait revenir dans le onze pour affronter la Turquie dimanche. Zinédine Zidane a exprimé son impatience à le retrouver.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T11:49:29+00:00",
+    "titres_sources": [
+      "France-Turquie : Kylian Mbappé, pourquoi le retour du patron des Bleus est (très) attendu"
+    ]
   }
 ]

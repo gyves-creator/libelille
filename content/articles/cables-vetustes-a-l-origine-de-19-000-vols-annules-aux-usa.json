@@ -1,0 +1,37 @@
+{
+  "slug": "cables-vetustes-a-l-origine-de-19-000-vols-annules-aux-usa",
+  "titre": "Câbles vétustes à l'origine de 19 000 vols annulés aux USA",
+  "chapeau": "Le remplacement de câbles en cuivre usés dans le réseau de communication aéronautique a entraîné des perturbations majeures du trafic aux États-Unis. Plus de 19 000 vols ont été annulés en trois jours, et les compagnies aériennes continuent de réorganiser leurs programmes et de repositionner avions et équipages.",
+  "corps": "## Origine du problème\nLe ministère américain des Transports a indiqué que la mise à jour du réseau souterrain de câbles en cuivre, jugés vétustes, a eu pour effet secondaire de perturber les liaisons entre les avions et les installations au sol, y compris les radars. Le responsable du ministère, Sean Duffy, a précisé que le remplacement a \"provoqué des problèmes dans la communication avec les avions\". Aucun incident de sécurité n’a été signalé, mais les dysfonctionnements ont limité la capacité des contrôleurs à suivre les mouvements aériens, obligeant les gestionnaires de trafic à suspendre ou à retarder de nombreux décollages et atterrissages.\n\n## Conséquences et relance du trafic\nEn l’espace de trois jours, le nombre de vols annulés a dépassé les 19 000, touchant des milliers de passagers et affectant l’ensemble du réseau aérien national. Les compagnies aériennes ont dû réorganiser leurs plannings, redistribuer les avions disponibles et repositionner les équipages afin de limiter les retards supplémentaires. Selon le même porte-parole du ministère, le trafic aérien commence à revenir progressivement à la normale, même si les programmes restent soumis à des ajustements. Les aéroports ont mis en place des mesures temporaires pour gérer les flux de voyageurs, notamment l’allongement des guichets d’enregistrement et la diffusion d’informations actualisées sur les écrans d’affichage.\n\nLes autorités continuent de surveiller l’état du réseau de communication et d’accélérer le remplacement des infrastructures vieillissantes afin d’éviter la récurrence de ce type de désagrément. Aucun nouveau problème majeur n’a été signalé depuis la reprise partielle du trafic, mais le secteur reste vigilant quant à la stabilité du système de communication aéronautique.",
+  "mots_cles": [
+    "câbles",
+    "vols annulés",
+    "trafic aérien",
+    "ministère des Transports"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-15T11:49:07+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/US_Department_of_Transportation_photo_Don_Ramey_Logan.jpg/1280px-US_Department_of_Transportation_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Don Ramey Logan",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:US_Department_of_Transportation_photo_Don_Ramey_Logan.jpg",
+    "legende": "US Department of Transportation photo Don Ramey Logan",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:US Department of Transportation photo Don Ramey Logan.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Des câbles en cuivre vétustes sont à l'origine des perturbations de milliers de vols aux Etats-Unis, assure l'administration Trump",
+      "url": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "États-Unis : plus de 19.000 vols annulés en trois jours, des câbles vétustes à l’origine des perturbations de vols",
+      "url": "https://www.lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
