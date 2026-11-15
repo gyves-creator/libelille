@@ -561,5 +561,23 @@
     "titres_sources": [
       "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\""
     ]
+  },
+  {
+    "titre": "Épargne des Français atteint 6 500 milliards d’euros malgré la crise",
+    "texte": "Selon les autorités, les ménages français ont accumulé plus de 6 500 milliards d’euros d’épargne malgré la crise du pouvoir d’achat. Cette réserve, que 80 % de la population continue de constituer par crainte de l’avenir, intéresse le ministre du Budget et certains candidats présidentiels.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T21:46:49+00:00",
+    "titres_sources": [
+      "Pouvoir d'achat : malgré la crise, les Français continuent à épargner, principalement par crainte de l'avenir"
+    ]
+  },
+  {
+    "titre": "Jürgen Klopp réclame le départ de Gianni Infantino à la tête de la FIFA",
+    "texte": "Le sélectionneur allemand a déclaré dimanche que le successeur de Gianni Infantino devrait mieux gérer la FIFA. Il estime que la situation ne pourrait pas empirer après le mandat de Sepp Blatter.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T21:46:49+00:00",
+    "titres_sources": [
+      "Foot : «Concernant Gianni Infantino, son successeur fera sûrement mieux», Jürgen Klopp appelle à un changement à la tête de la Fifa"
+    ]
   }
 ]
