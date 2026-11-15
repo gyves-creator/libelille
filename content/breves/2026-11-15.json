@@ -381,5 +381,23 @@
     "titres_sources": [
       "Plus de 2 millions de personnes touchées : à Cuba, le manque d’eau pousse à bout la population"
     ]
+  },
+  {
+    "titre": "Radios afghanes interdites de couvrir le cricket",
+    "texte": "Des radios locales en Afghanistan ont reçu samedi un appel les obligeant à cesser toute mention du cricket. Cette interdiction suspend la diffusion d’informations sur le sport le plus populaire du pays.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T16:50:20+00:00",
+    "titres_sources": [
+      "Cricket : le sport roi en Afghanistan privé de couverture par des radios locales"
+    ]
+  },
+  {
+    "titre": "L’UE veut encadrer les «dark patterns» numériques",
+    "texte": "La Commission européenne prévoit de réglementer les interfaces trompeuses, dites «dark patterns», qui orientent les choix des internautes. L’objectif est de renforcer la protection des consommateurs face à ces pratiques sur les sites de commerce et les réseaux sociaux.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T16:50:20+00:00",
+    "titres_sources": [
+      "Faux comptes à rebours, options payantes précochées… Que sont les «dark patterns», ces pièges numériques auxquels l’UE s’attaque ?"
+    ]
   }
 ]

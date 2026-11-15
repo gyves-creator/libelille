@@ -1,0 +1,38 @@
+{
+  "slug": "exposition-sur-les-visages-meconnus-de-la-resistance-alsacienne-a-strasbourg",
+  "titre": "Exposition sur les visages méconnus de la résistance alsacienne à Strasbourg",
+  "chapeau": "L’Association pour des études sur la résistance intérieure des Alsaciens (Aeria) a inauguré une exposition intitulée « La Résistance des Alsaciens » à l’Université populaire européenne de Strasbourg. Elle restera ouverte jusqu’au 20 novembre, offrant aux habitants un éclairage inédit sur des résistants aux parcours variés.",
+  "corps": "## Un panorama inédit de la résistance locale\nL’exposition « La Résistance des Alsaciens », présentée par l’Aeria, s’installe à l’Université populaire européenne de Strasbourg. Elle propose un parcours thématique qui met en avant des figures souvent absentes des récits traditionnels : des femmes engagées, des policiers ayant rejoint le maquis, ainsi que des membres du clergé qui ont soutenu les réseaux clandestins. Chaque segment s’appuie sur des archives, des témoignages et des objets personnels afin de restituer les actions courageuses menées durant la période d’occupation.\n\n## Pourquoi ces profils restent-ils méconnus ?\nLes historiens soulignent que la mémoire collective a longtemps privilégié les figures militaires ou politiques, reléguant au second plan d’autres acteurs dont les contributions étaient tout aussi décisives. Les femmes, par exemple, ont participé à la transmission de messages, à la fabrication de faux papiers ou à l’accueil des résistants en fuite. Certains policiers, malgré leur statut officiel, ont fourni des renseignements précieux aux réseaux de la Résistance. De même, des religieux ont offert leurs lieux de culte comme refuges et ont aidé à organiser des réseaux d’évasion. L’exposition vise à rétablir cet équilibre en montrant la diversité des profils qui ont contribué à la lutte contre l’occupant.\n\n## Un travail de mémoire au service du public\nL’initiative s’inscrit dans une dynamique de mémoire locale, permettant aux Strasbourgeois de découvrir des destins souvent oubliés. En parcourant les panneaux explicatifs et les objets exposés, les visiteurs peuvent mieux comprendre les enjeux humains et sociaux de la résistance en Alsace. L’exposition, accessible à tous, constitue également un outil pédagogique pour les écoles et les associations désireuses d’approfondir le sujet.\n\n## Informations pratiques\nL’exposition est ouverte au public jusqu’au 20 novembre à l’Université populaire européenne de Strasbourg. Aucun tarif d’entrée n’est indiqué dans les informations disponibles, et il est recommandé de consulter le site officiel de l’institution pour connaître les horaires d’ouverture et les éventuelles modalités de visite. Les habitants souhaitant obtenir davantage de renseignements peuvent se rendre sur le site internet de l’Université ou contacter directement les services de l’Aeria.",
+  "mots_cles": [
+    "résistance",
+    "Alsace",
+    "exposition",
+    "Strasbourg",
+    "mémoire"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-15T16:50:13+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Richard_Kleinschmager_en_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Mauljean",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Richard_Kleinschmager_en_2015.jpg",
+    "legende": "Naissance 20 novembre 1947 METZ - Moselle Profession géographe Autres spécialiste de géographie politique et économique, études urbaines Activités président de l'Université Populaire Européenne UPE St",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Richard Kleinschmager en 2015.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Strasbourg. Femmes, policiers, religieux : ces visages méconnus de la résistance alsacienne mis en lumière",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObDVJZmlEdEw0Rlc1WmNseDJvRWs3aThNX3JObEFkSVl1eS01eXhvVHhWNGJpOW1VRnN3RTV2TjBkUlV0em5DR3R2OUVhX0VvcnlJNkxpUmYyVEtYQ2ZYdHdrMjZjdm5Nd1U2WEtyNGNDNGFOdmxyNDdTbDM5Vk1WUkEyQ2ZUMU50elp6QkdaNnVFVjZBWnNEa1ptZnhjUDgzVUxJQkVRR2xuZ19ON0s5X0hWTHRiZlNfdDlrNTd6Ry11dkJoUlpuWmhvcEdfNm9tOW1TYWZ1QUNQdnE2SS1OVEJKMTI?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Femmes, policiers, religieux : ces visages méconnus de la résistance alsacienne mis en lumière",
+      "url": "https://www.dna.fr/culture-loisirs/2026/11/15/femmes-policiers-religieux-ces-visages-meconnus-de-la-resistance-alsacienne-mis-en-lumiere-dans-une-expo"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
