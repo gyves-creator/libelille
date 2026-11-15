@@ -1,0 +1,38 @@
+{
+  "slug": "terrasses-autorisees-jusqu-au-4-janvier-2027-et-programmation-culturelle-a-lyon",
+  "titre": "Terrasses autorisées jusqu'au 4 janvier 2027 et programmation culturelle à Lyon",
+  "chapeau": "Les autorités lyonnaises ont confirmé la prolongation de l'ouverture des terrasses de bars et restaurants jusqu'au 4 janvier 2027. Plusieurs concerts et spectacles sont également programmés dans la ville pour les premiers mois de l'année.",
+  "corps": "## Prolongation de l'accès aux terrasses\nLes établissements de restauration et de débit de boissons de la métropole ont reçu l'autorisation de maintenir leurs terrasses en activité jusqu'au 4 janvier 2027. Cette décision, annoncée au début du mois de novembre, prolonge la période durant laquelle les clients peuvent profiter des espaces extérieurs, malgré les mesures sanitaires qui avaient limité ces ouvertures précédemment. Aucun changement n'est prévu quant aux conditions d'hygiène ou aux capacités d'accueil, les exploitants restant tenus de respecter les consignes en vigueur.\n\n## Agenda culturel de début d'année\nParallèlement à cette mesure, plusieurs manifestations artistiques sont inscrites au calendrier lyonnais. Le 6 janvier, le groupe La Jamalazz se produira à la salle Kraspek Myzik. Le 15 janvier, l'événement Solstice, organisé par Agend’arts, est prévu dans la ville, suivi le 20 janvier d'un concert intitulé Kick in the Jam, également à Kraspek Myzik. Le 30 janvier, les groupes Tonique & Man animeront une soirée live au Ninkasi Cordeliers. Une seconde édition de Kick in the Jam est programmée pour le 17 février, toujours dans la même salle. Ces concerts offrent aux habitants un choix varié de musiques live, du jazz au rock, dans des lieux réputés pour leur ambiance conviviale.\n\n## Impacts pour les habitants\nLa reconduction de l'accès aux terrasses signifie que les riverains et les visiteurs pourront continuer à fréquenter les établissements de proximité sans interruption, ce qui soutient l'activité économique du secteur de la restauration. Les programmations musicales, quant à elles, offrent des alternatives de loisirs culturels pendant la période hivernale, avec des dates clairement annoncées. Les habitants souhaitant assister à ces événements sont invités à vérifier les horaires d'ouverture des salles et à se conformer aux éventuelles exigences de réservation ou de contrôle sanitaire.\n\n## Informations pratiques\nPour toute question relative à l'ouverture des terrasses, il est possible de contacter la mairie de Lyon via le numéro du service d'information citoyenne ou de consulter le site officiel de la ville. Les billets pour les concerts peuvent être réservés directement auprès des salles concernées ou via les plateformes de billetterie habituelles. En cas de modification des conditions d'accès ou d'annulation d'événements, les informations seront diffusées par les canaux de communication de la ville.",
+  "mots_cles": [
+    "Lyon",
+    "terrasses",
+    "concerts",
+    "culture",
+    "restaurants"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-15T09:00:04+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bateau_touristique_fluvial_sur_la_Sa%C3%B4ne_%C3%A0_Lyon_en_juin_2019_%28photo_depuis_la_passerelle_du_palais_de_justice%29.jpg/1280px-Bateau_touristique_fluvial_sur_la_Sa%C3%B4ne_%C3%A0_Lyon_en_juin_2019_%28photo_depuis_la_passerelle_du_palais_de_justice%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Bateau_touristique_fluvial_sur_la_Sa%C3%B4ne_%C3%A0_Lyon_en_juin_2019_(photo_depuis_la_passerelle_du_palais_de_justice).jpg",
+    "legende": "Bateau touristique fluvial sur la Saône à Lyon en juin 2019 (photo depuis la passerelle du palais de justice). Vue vers l'aval sur le quai des Célestins en rive gauche : les n° 8 et 9 tout à fait à ga",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bateau touristique fluvial sur la Saône à Lyon en juin 2019 (photo depuis la passerelle du palais de justice).jpg"
+  },
+  "sources": [
+    {
+      "media": "Lyon Mag",
+      "titre": "Lyon : les terrasses des bars et restaurants finalement autorisées jusqu'au 4 janvier 2027",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmlCN3BpZjA3Q3RUeFpHOXQxSDA2RU5rRG1VbDFJdFk4MzlQcW1naUdqc0ZGYkZGX201Y3RYT19HNUpDR1lzYTNBOU15MnN0VTJaSVB3NkQ4VGlKWk9QWFQwVFEyNnhQbHVlZVpPcmZpZzJVY2EyM2owNHNFZ1lvdGkxWF9PcUw2U2o1dEl0VTVTRzhaOVJuNng1TDE2bUI4cWZfM1Q5VlpfMTdOSmsyQlNHR2loTFpWTGhnc0plREs2cll6YUE?oc=5"
+    },
+    {
+      "media": "Unidivers",
+      "titre": "Solstice, Agend’arts, Lyon – 15 janvier 2027",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90YWhoY0N6TkplcWJBMk9USlN5eXJYejh0bVlrNTM1RE5PNzJ4T2ViZzFKV1JidjlTSGwyRjZ0ZWxwU2l2d0kweVI4Q3BpOTdHVFl4UlYxcnE1cFFnNm1tU0FCYm5neWJiVmEtQXJMRW1aaEg2YzJ5RHM2VzI1Zw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

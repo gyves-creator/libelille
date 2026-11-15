@@ -1,0 +1,32 @@
+{
+  "slug": "perturbations-prevues-du-reseau-lignes-d-azur-a-nice-le-20-novembre",
+  "titre": "Perturbations prévues du réseau Lignes d'Azur à Nice le 20 novembre",
+  "chapeau": "Le réseau de transport urbain Lignes d'Azur annoncera des perturbations le 20 novembre à Nice. Les usagers sont invités à se tenir informés des éventuels changements d'horaires ou de trajets.",
+  "corps": "## Des perturbations annoncées pour le 20 novembre\nLes services de transport en commun de la ville de Nice, assurés par le réseau Lignes d'Azur, pourraient connaître des perturbations le 20 novembre. Cette information a été communiquée par les autorités locales, sans précision sur la nature exacte des modifications attendues. Les usagers doivent donc anticiper d’éventuels retards, suppressions de passages ou réorientations temporaires des lignes de bus et de tramway.\n\n## Conseils aux usagers\nDans l’attente de précisions supplémentaires, il est recommandé aux habitants et visiteurs de vérifier régulièrement les informations diffusées par le réseau Lignes d'Azur. Le site internet officiel ainsi que les applications mobiles dédiées offrent des mises à jour en temps réel sur les horaires et les itinéraires. En cas de doute, le service clientèle du transport public reste joignable pour répondre aux questions relatives aux changements éventuels. Les usagers peuvent également consulter les panneaux d’affichage présents dans les stations, qui seront actualisés dès que les détails seront confirmés.\n\n## Impact sur la mobilité locale\nUne perturbation du réseau Lignes d'Azur, même ponctuelle, peut affecter la fluidité des déplacements quotidiens, notamment pour les personnes dépendant du transport collectif pour se rendre au travail, aux établissements scolaires ou aux services de santé. Les autorités municipales encouragent donc à envisager des alternatives, telles que le covoiturage, le vélo ou la marche, lorsque cela est possible. Les services de transport à la demande et les lignes de substitution, le cas échéant, seront mis en place pour limiter les désagréments, mais aucune information précise n’a encore été fournie à ce sujet.\n\n## Informations pratiques\nPour toute question ou pour obtenir les dernières consignes, les usagers peuvent contacter le centre d’appel du réseau Lignes d'Azur au numéro indiqué sur le site officiel, ou se rendre sur la page dédiée aux perturbations. Les sites internet de la mairie de Nice et du service de mobilité urbaine publient également des bulletins d’information. Il est conseillé de planifier les déplacements à l’avance et de tenir compte de la possible nécessité de modifier les trajets habituels le jour du 20 novembre.",
+  "mots_cles": [
+    "Nice",
+    "Lignes d'Azur",
+    "perturbations",
+    "transport public"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-15T09:00:16+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Lignes_d%27azur_n%C2%B0200_Cannes_-_Nice.JPG/1280px-Lignes_d%27azur_n%C2%B0200_Cannes_-_Nice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kevin. B",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lignes_d%27azur_n%C2%B0200_Cannes_-_Nice.JPG",
+    "legende": "S 415 NF sur la ligne 200, à Cannes.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Lignes d'azur n°200 Cannes - Nice.JPG"
+  },
+  "sources": [
+    {
+      "media": "Economie Matin",
+      "titre": "À Nice, le trafic de Lignes d’Azur pourrait être perturbé le 20 novembre",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0lZUi1VMGxRVWFuLVZVcHVLbV9RSml3ajVKQldEa25nZXFGOEZSZ2NpN0dpSHljN2tnelNBTkNyNHFBa0ZCcVZsRHRlLXJKRk9zQWNUbUZ3dlF5UTVkOTFWaEJxNzVoUWE3ZUw0ZEI4OEstV3BMUXptQlk0X2dWYjlPeGZRNHlVZFZnVnJ3TjRZS2dn?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
