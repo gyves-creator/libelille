@@ -125,5 +125,23 @@
     "titres_sources": [
       "Cette app française connaît mieux votre Tesla que l’app Tesla"
     ]
+  },
+  {
+    "titre": "Paris : la maire du 12ᵉ arrondissement signale la dette du pouvoir",
+    "texte": "Lucie Castets, maire du 12ᵉ arrondissement, indique que l’enjeu principal de l’élection porte sur le financement de l’ardoise du pouvoir sortant. Elle estime que la politique économique française, fondée sur une promesse de retour fiscal non réalisée, a affaibli la crédibilité financière du gouvernement.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-15T09:54:34+00:00",
+    "titres_sources": [
+      "Lucie Castets, maire du XIIᵉ arrondissement de Paris: « L’enjeu central de l’élection est de définir qui devra payer l’ardoise du pouvoir sortant »"
+    ]
+  },
+  {
+    "titre": "Chercheurs : nier les discriminations tout en maintenant stéréotypes",
+    "texte": "Un collectif de chercheurs affirme que nier les discriminations tout en perpétuant les stéréotypes alimente le phénomène. Ils soulignent, à l’appui de recherches scientifiques, que les discriminations restent largement présentes, contredisant les affirmations du Rassemblement national.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T09:54:34+00:00",
+    "titres_sources": [
+      "« Nier les discriminations tout en cultivant les stéréotypes sur lesquels elles prolifèrent, c’est casser le thermomètre en attisant la fièvre »"
+    ]
   }
 ]

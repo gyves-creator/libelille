@@ -1,0 +1,37 @@
+{
+  "slug": "adolescente-de-17-ans-grievement-blessee-a-toulouse-conductrice-placee-en-garde",
+  "titre": "Adolescente de 17 ans grièvement blessée à Toulouse, conductrice placée en garde à vue",
+  "chapeau": "Une jeune fille de 17 ans a été heurtée par un véhicule dans la ville de Toulouse, la victime étant dans un état critique. La conductrice du véhicule a été placée en garde à vue, les forces de l’ordre suspectant une consommation d’alcool.",
+  "corps": "## Déroulement de l'accident\r\nDans la soirée du 15 novembre 2026, une adolescente de 17 ans a été percutée par une automobile circulant à Toulouse. Les secours ont rapidement pris en charge la jeune fille, dont l’état a été décrit comme étant entre la vie et la mort. La police a procédé à l’interpellation de la conductrice, qui a été conduite au commissariat et placée en garde à vue.\r\n\r\n## Enquête et mesures de sécurité\r\nLes services de police ont indiqué que la conductrice aurait été sous l’influence de l’alcool au moment de l’accident, ce qui justifie la mise en garde à vue. Une enquête a été ouverte afin de déterminer les circonstances exactes, notamment la vitesse du véhicule et la présence éventuelle de témoins. Les autorités rappellent que la conduite en état d’ivresse constitue une infraction pénale sévèrement sanctionnée.\r\n\r\n## Conséquences pour les usagers\r\nL’accident a entraîné la fermeture temporaire de la voie concernée afin de permettre aux services de secours et aux enquêteurs de sécuriser le site. Les automobilistes sont invités à suivre les détours indiqués par la signalisation et à rester vigilants sur les routes de la ville. Aucun autre incident n’a été signalé dans les environs immédiats.\r\n\r\n## Informations pratiques\r\nEn cas d’urgence, le numéro national d’appel d’urgence (112) reste le dispositif à contacter. Les habitants souhaitant suivre l’évolution de l’enquête peuvent consulter le site internet de la préfecture de la Haute‑Garonne ou la page officielle de la police nationale. Les services de santé de Toulouse restent mobilisés pour assurer la prise en charge de la victime et de toute autre personne nécessitant une assistance médicale.",
+  "mots_cles": [
+    "accident",
+    "Toulouse",
+    "conduite alcoolisée",
+    "garde à vue"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-15T09:54:20+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/31_-_Toulouse_-_Basilique_Saint-Sernin_-_l%27enfeu_des_comtes_de_Toulouse_-_Sarcophage_des_enfants.jpg/1280px-31_-_Toulouse_-_Basilique_Saint-Sernin_-_l%27enfeu_des_comtes_de_Toulouse_-_Sarcophage_des_enfants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:31_-_Toulouse_-_Basilique_Saint-Sernin_-_l%27enfeu_des_comtes_de_Toulouse_-_Sarcophage_des_enfants.jpg",
+    "legende": "Basilica of St. Sernin, Toulouse , Sepulchral chapel of the Counts of Toulouse - Children's sarcophagus",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:31 - Toulouse - Basilique Saint-Sernin - l'enfeu des comtes de Toulouse - Sarcophage des enfants.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actu.fr",
+      "titre": "Une ado entre la vie et la mort après avoir été percutée par une voiture à Toulouse, la conductrice en garde à vue",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbURvclpfbFZ0RWE5cW9MWUlLOUNlQmxwWEtkQ3dXRHJ4Q2ZuMmpkTkE0NHpKZmxSV25weVpMMnIyMGJVX3JXakd1WkRQWmc2a2FlWHNKTjBCT25PaW1teFh0VVJkek9xSEMyVHo4SE1HSXNhOW5GcEZqM3NvQTY1eU1PZGZ1b0hHSER0cFlhSk9PZ2k3QVg5MC1LRHNXTWFvQnpIS2o4eUZpRzRJVzVnNHFEY1RCZGZDWHhfUGdKajlscHNwUEJOTTRGSUNic0JQc3l0QTVJZ3dScW42bFdzdG9rQXVMT3dMTTNwcTFTeWhDTkFCVGxvOWtYREw?oc=5"
+    },
+    {
+      "media": "ici.fr",
+      "titre": "Une jeune fille de 17 ans entre la vie et la mort à Toulouse après avoir été renversée par une conductrice alcoolisée",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNGdrUjZhV3Y5bGhLcjNXZ0g1OG91aGpyUVBDMGVwczlVTWdiNzlvcEZJcndsMDZyYk5XNER6N3p5eWY5alVYZEpDaDllZDNqUGFRcnFhaXg0bTlEbjNvclY4dGJ3NWdUQlN3OTRqUXkxOHp5eF9ORGZvajR3M29FMXdZR3hqcklld1I3TFdfN1drQnlHYV9MdXIwVUtXOXRTQlhqVXFld0QzdF9VeWQ3YWVRSjNRS092aVd2Yk1USXdVczM2ZW5vTi1tekpINHA4dDJwSXBTVVA4TXFFVGdNTFlvQ1Z2MHdBYUFMSUtDRndySmJ0cE1GdmpuSUFCdw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

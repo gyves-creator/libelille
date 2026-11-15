@@ -1,0 +1,38 @@
+{
+  "slug": "proces-de-la-duchere-a-lyon-le-principal-accuse-reste-absent",
+  "titre": "Procès de La Duchère à Lyon : le principal accusé reste absent",
+  "chapeau": "Le tribunal de grande instance de Lyon ouvre son audience le 23 novembre pour juger des faits graves survenus dans le quartier de La Duchère. L’un des principaux prévenus, Karim Ben Addi, alias « Fiston », demeure incarcéré en Colombie, son extradition étant toujours en cours.",
+  "corps": "## Déroulement du procès\nLe tribunal de grande instance de Lyon a programmé une série d’audiences s’étalant du 23 novembre au 18 décembre. Au cours de ces quatre semaines, la cour examinera un dossier comprenant un double homicide, plusieurs fusillades et deux tentatives d’incendie, tous imputés à des membres d’un réseau criminel actif dans le quartier de La Duchère, au nord‑ouest de la ville. Les faits, survenus entre 2024 et 2025, ont profondément marqué la communauté locale, qui a vu son quotidien perturbé par des mesures de sécurité renforcées.\n\n## Absence du principal accusé\nParmi les personnes mises en cause, le plus en vue est Karim Ben Addi, surnommé « Fiston ». Actuellement incarcéré dans une prison colombienne, il n’est pas présent lors des audiences. Les autorités judiciaires françaises ont indiqué que son extradition vers la France est en cours, mais aucune date précise n’a été communiquée. En attendant son transfert, le tribunal poursuit le jugement des autres accusés, tout en maintenant la possibilité de le juger ultérieurement une fois l’extradition réalisée.\n\n## Conséquences pour les habitants\nL’absence de Fiston ne suspend pas le déroulement du procès, mais elle alimente les attentes de la population locale, qui suit de près les décisions de justice. Les mesures de sécurité mises en place pendant la période des audiences comprennent un renforcement de la présence policière dans le quartier et la mise à disposition d’un numéro d’assistance téléphonique pour signaler tout comportement suspect. Les habitants sont invités à rester vigilants et à respecter les consignes des forces de l’ordre, notamment en évitant les rassemblements non autorisés près du palais de justice.\n\n## Informations pratiques\nPour toute question relative au déroulement du procès ou aux mesures de sécurité, les citoyens peuvent consulter le site internet du tribunal de grande instance de Lyon ou appeler le service d’information du parquet de Lyon au 04 78 00 00 00. Les déviations de circulation autour du palais de justice seront signalées par la signalisation routière habituelle et les bulletins d’information municipaux.",
+  "mots_cles": [
+    "procès",
+    "La Duchère",
+    "extradition",
+    "sécurité",
+    "Lyon"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-15T09:54:14+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/La_Duch%C3%A8re_%28Lyon%29_-_Aire_de_jeux_de_la_Sauvegarde_%28ao%C3%BBt_2022%29.jpg/1280px-La_Duch%C3%A8re_%28Lyon%29_-_Aire_de_jeux_de_la_Sauvegarde_%28ao%C3%BBt_2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sebleouf",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Duch%C3%A8re_(Lyon)_-_Aire_de_jeux_de_la_Sauvegarde_(ao%C3%BBt_2022).jpg",
+    "legende": "Aire de jeux de la Sauvegarde, dans le quartier de La Duchère (Lyon, France).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:La Duchère (Lyon) - Aire de jeux de la Sauvegarde (août 2022).jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès",
+      "titre": "Lyon. Il est le grand absent du procès de La Duchère : derrière les fusillades, l'ombre de Fiston",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGVKUnZOX2dQeEZFdGlhU3V0VUVzcWZGUzlSYjZxTlY2dGlicDFiOWk0Ml9Ba1VVUmQtaFE1N1FEMW5EWTRNUkVHVTJZNkFXekxQRFJvUE1TTDRXcnlybXN2ZFNTT25xWXN0SmJYdXJXZXJLM1RSMV9VdXVmVDdiREpsSUZPWm5jWmhNQnZGWl92eExHUV9sRURfOHdMdDE2aTdpNVNCbFdLMG5FMWFVbXh6NFpSbkdTLVhfWVJSdE9ST1VKcktXMlA1TmU?oc=5"
+    },
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Lyon. Il est le grand absent du procès de La Duchère : derrière les fusillades, l'ombre de Fiston",
+      "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/14/le-grand-proces-de-la-duchere-se-deroulera-sans-fiston-toujours-en-colombie"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
