@@ -255,5 +255,23 @@
     "titres_sources": [
       "Surf : Johanne Defay se rapproche du titre lors des Championnats du monde"
     ]
+  },
+  {
+    "titre": "Analyse de 40 déclarations des candidats à la présidentielle 2027",
+    "texte": "Une étude a passé au crible quarante déclarations des candidats et de leurs soutiens pour l’élection présidentielle de 2027. Les propos ont été confrontés à des données indépendantes grâce à une base évolutive.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-15T13:36:28+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : 40 déclarations des candidats et de leurs soutiens passées au crible"
+    ]
+  },
+  {
+    "titre": "Hugo Lloris franchit le cap des 1 000 matchs professionnels",
+    "texte": "Le gardien Hugo Lloris a disputé son millième match professionnel le 26 octobre, devenant le premier Français à atteindre ce jalon. Cette performance clôture près de vingt ans de carrière au plus haut niveau.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T13:36:28+00:00",
+    "titres_sources": [
+      "Foot : Hugo Lloris, premier joueur français à franchir les 1 000 matchs professionnels"
+    ]
   }
 ]
