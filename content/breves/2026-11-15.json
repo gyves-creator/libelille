@@ -180,5 +180,25 @@
     "titres_sources": [
       "Un important site industriel russe touché par des frappes attribuées à Kiev"
     ]
+  },
+  {
+    "titre": "Paul Seixas s'impose au Critérium de Saitama, devance McNulty",
+    "texte": "Le jeune cycliste français, 20 ans, a remporté l’épreuve d’exhibition à Saitama, au Japon, en devançant le champion du monde américain Brandon McNulty. Cette victoire clôt sa saison 2026, sans impact sur le classement UCI.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-15T11:21:03+00:00",
+    "titres_sources": [
+      "Paul Seixas remporte le Critérium de Saitama, un succès pour « bien finir » sa belle année 2026",
+      "Cyclisme : Au Japon, Paul Seixas termine l'année par une victoire",
+      "Paul Seixas conclut sa saison en remportant le critérium de Saitama devant le champion du monde Brandon McNulty"
+    ]
+  },
+  {
+    "titre": "Top 10 des mangas shôjo : une sélection au-delà des romances",
+    "texte": "Le classement propose dix œuvres phares du shôjo, montrant que ce type de manga aborde aussi le drame familial, la fantasy et les récits initiatiques, et pas uniquement les histoires d’amour lycéennes.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-15T11:21:03+00:00",
+    "titres_sources": [
+      "Meilleurs mangas shôjo : voici notre top 10 des œuvres incontournables à lire absolument"
+    ]
   }
 ]
