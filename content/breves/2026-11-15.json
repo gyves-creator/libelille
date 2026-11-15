@@ -417,5 +417,23 @@
     "titres_sources": [
       "Les Tchèques manifestent en masse contre la réforme du financement des médias publics"
     ]
+  },
+  {
+    "titre": "Attaque de militants d'extrême droite dans un bar à Marseille",
+    "texte": "Des militants d'extrême droite ont été agressés dans un bar de Marseille. Le maire du secteur, élu du Rassemblement national, a qualifié les agresseurs de « milice d'extrême gauche ».",
+    "rubrique": "politique",
+    "publie_le": "2026-11-15T17:45:02+00:00",
+    "titres_sources": [
+      "Des militants d'extrême droite ont été agressés dans un bar à Marseille"
+    ]
+  },
+  {
+    "titre": "Un juge maintient ouvert le parc East Potomac à Washington",
+    "texte": "Un juge a refusé la fermeture du parc East Potomac, préservant ainsi les 160 hectares de verdure. Le président Donald Trump souhaitait y aménager un golf de luxe pour des compétitions de haut niveau, demande formulée par son administration dimanche.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T17:45:02+00:00",
+    "titres_sources": [
+      "Une juge ordonne qu’un parc de Washington dont Donald Trump souhaite faire un golf de luxe reste ouvert"
+    ]
   }
 ]
