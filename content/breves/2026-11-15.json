@@ -363,5 +363,23 @@
     "titres_sources": [
       "Le ministre de l'Education nationale se rend à Nantes lundi pour la réouverture du lycée Nelson-Mandela, en partie incendié le 1er octobre"
     ]
+  },
+  {
+    "titre": "Redécoupage électoral en suspens avant les législatives 2027",
+    "texte": "Le redécoupage électoral, qui n’a pas été revu depuis 2009, devrait rester en vigueur pour les législatives prévues en 2027 après la présidentielle. Une commission spécialement créée aurait repris les travaux de redéfinition des circonscriptions.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-15T16:19:45+00:00",
+    "titres_sources": [
+      "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral"
+    ]
+  },
+  {
+    "titre": "Cuba confronté à une crise d’eau touchant plus de 2 millions",
+    "texte": "Le manque d’eau, qui toucherait plus de deux millions de Cubains, s’ajouterait à la pénurie d’électricité déjà sévère. Cette situation serait aggravée par le blocus pétrolier imposé par les États‑Unis depuis janvier.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T16:19:45+00:00",
+    "titres_sources": [
+      "Plus de 2 millions de personnes touchées : à Cuba, le manque d’eau pousse à bout la population"
+    ]
   }
 ]
