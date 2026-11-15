@@ -53,5 +53,23 @@
     "titres_sources": [
       "«Expédition punitive», chasse aux «fachos» : Rouen en proie à une spirale de représailles violentes depuis le 17 octobre"
     ]
+  },
+  {
+    "titre": "Volkswagen confrontée à un nouveau défi en Chine après 40 ans",
+    "texte": "Selon un éditorial publié le 12 novembre, Volkswagen serait contrainte de réapprendre son activité en Chine après quarante ans de domination. Cette remise en cause du modèle pourrait affecter ses ventes locales.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-15T07:48:29+00:00",
+    "titres_sources": [
+      "Après 40 ans de règne, Volkswagen doit tout réapprendre en Chine"
+    ]
+  },
+  {
+    "titre": "Macron plaide pour l'unité francophone face aux tensions RDC‑Rwanda",
+    "texte": "Lors du sommet de la Francophonie, le président Macron a appelé à l’unité et au consensus face aux tensions entre la RDC et le Rwanda. Kinshasa, qui accuse Kigali de soutenir le M23, s’oppose à la reconduction du Rwanda à la tête de l’OIF.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-15T07:48:29+00:00",
+    "titres_sources": [
+      "Somment de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda"
+    ]
   }
 ]
