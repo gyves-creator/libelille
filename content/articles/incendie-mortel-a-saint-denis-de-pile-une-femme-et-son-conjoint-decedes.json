@@ -1,0 +1,33 @@
+{
+  "slug": "incendie-mortel-a-saint-denis-de-pile-une-femme-et-son-conjoint-decedes",
+  "titre": "Incendie mortel à Saint-Denis-de-Pile : une femme et son conjoint décédés",
+  "chapeau": "Un incendie a éclaté dans une résidence de Saint-Denis-de-Pile, près de Bordeaux, entraînant la mort d’une femme gravement brûlée et de son conjoint. La victime avait été transportée en urgence à l’hôpital de Bordeaux avant de succomber à ses blessures.",
+  "corps": "## Déroulement de l’incident\nDans la soirée du 15 novembre 2026, un feu s’est déclaré dans un domicile situé à Saint-Denis-de-Pile, commune du département de la Gironde. Les services de secours ont été alertés et sont intervenus rapidement. Selon les informations disponibles, la femme présente sur les lieux a été évacuée en urgence vers le centre hospitalier de Bordeaux, où elle a reçu des soins intensifs avant de décéder des suites de ses brûlures. Le conjoint, également présent, aurait perdu la vie dans le même incendie.\n\n## Contexte et enjeux\nCe drame s’inscrit dans le cadre plus large des violences conjugales, où les agressions physiques peuvent prendre des formes extrêmement graves, y compris le recours à l’incendie. Les statistiques nationales montrent que les violences au sein du couple restent une cause majeure de mortalité féminine, même si les cas d’incendie volontaire restent rares. Les autorités locales rappellent l’importance de signaler tout signe de danger et de solliciter les dispositifs d’aide existants, tels que les numéros d’urgence et les structures d’accompagnement des victimes.\n\n## Réaction des services de secours et du système de santé\nLes équipes médicales du centre hospitalier de Bordeaux ont indiqué que la prise en charge d’une brûlure grave nécessite une intervention rapide et spécialisée, incluant la réanimation et le traitement des lésions cutanées. Malgré ces mesures, la condition de la victime s’est aggravée, menant à son décès. Les pompiers, quant à eux, ont maîtrisé l’incendie après plusieurs minutes d’efforts, limitant ainsi les dégâts matériels au bâtiment.\n\n## Enquête et suites judiciaires\nUne enquête a été ouverte pour déterminer les circonstances exactes du sinistre. Les enquêteurs devront établir si l’incendie résulte d’un acte volontaire ou d’un accident, ainsi que les responsabilités éventuelles. Le dossier sera confié aux autorités judiciaires compétentes, qui procéderont à l’instruction conformément aux procédures en vigueur pour les affaires de violences graves.\n\nCe fait divers rappelle la nécessité d’une vigilance accrue face aux signes de violence domestique et l’importance d’un soutien rapide et efficace aux victimes, afin de prévenir de telles tragédies.",
+  "mots_cles": [
+    "incendie domestique",
+    "violences conjugales",
+    "Saint-Denis-de-Pile",
+    "Bordeaux",
+    "secours"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-15T15:48:42+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/SaintDenisDePileEglise.jpg/1280px-SaintDenisDePileEglise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "No machine-readable author provided. Michel BUZE assumed (based on copyright claims).",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:SaintDenisDePileEglise.jpg",
+    "legende": "Eglise de Saint-Denis-de-Pile, Gironde, France (près de Libourne) Septembre 2006 Michel Buze",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:SaintDenisDePileEglise.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "Grièvement brûlée par son conjoint, une femme est morte près de Bordeaux",
+      "url": "https://www.franceinfo.fr/societe/feminicides/grievement-brulee-par-son-conjoint-une-femme-est-morte-pres-de-bordeaux_8283656.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

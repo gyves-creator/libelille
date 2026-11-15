@@ -1,0 +1,33 @@
+{
+  "slug": "cyberattaque-contre-maileva-vol-de-donnees-de-22-millions-d-usagers",
+  "titre": "Cyberattaque contre Maileva : vol de données de 22 millions d’usagers",
+  "chapeau": "Maileva, filiale du groupe La Poste, a été la cible d’une cyberattaque survenue mi‑septembre, entraînant le vol de données personnelles de 22 millions de personnes. La brigade de lutte contre la cybercriminalité a ouvert une enquête pour atteinte à un système de traitement automatisé de données.",
+  "corps": "## Portée de la fuite\n\nL’attaque a permis aux cybercriminels d’accéder aux coordonnées de 22 millions d’individus, parmi lesquelles les noms, prénoms et adresses postales. Ces informations, détenues par Maileva, filiale du groupe La Poste spécialisée dans la gestion et l’envoi de courriers, ont été extraites en masse, ce qui alimente les craintes relatives aux risques d’usurpation d’identité et d’arnaques. La Poste a communiqué le 14 novembre que la violation concernait un nombre très important d’usagers, sans préciser d’autres catégories de données.\n\n## Enquête et suites\n\nSuite à la découverte de la brèche, la brigade de lutte contre la cybercriminalité a été mandatée pour mener les investigations. Le parquet de Paris a confirmé que la section cybercriminalité a ouvert une procédure pour « atteinte à un système de traitement automatisé de données ». L’enquête vise à identifier les auteurs de l’intrusion, à déterminer les méthodes employées et à évaluer l’étendue du préjudice subi par les personnes concernées. Aucun détail supplémentaire n’a été rendu public quant aux mesures de sécurisation mises en place par Maileva ou La Poste.\n\n## Contexte et enjeux\n\nMaileva, filiale du groupe La Poste, assure la gestion de services d’envoi de courriers et de colis pour les entreprises et les administrations. Le volume de données qu’elle traite en fait une cible potentielle pour des acteurs malveillants cherchant à exploiter des informations personnelles à grande échelle. Cette affaire rappelle l’importance croissante de la cybersécurité dans les secteurs traitant des données massives, ainsi que la nécessité pour les organisations de renforcer leurs systèmes de protection afin de prévenir de nouvelles violations.\n\nLes autorités continuent de suivre l’évolution de l’enquête, tandis que les personnes dont les informations ont été compromises sont invitées à rester vigilantes face aux tentatives de fraude potentielles.",
+  "mots_cles": [
+    "cyberattaque",
+    "vol de données",
+    "Maileva",
+    "La Poste",
+    "enquête"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-15T15:48:38+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Saint-Paul-en-Chablais-74-Calvaire-Ancien-Presbytere-Mairie-LaPoste-byRundvald.jpg/1280px-Saint-Paul-en-Chablais-74-Calvaire-Ancien-Presbytere-Mairie-LaPoste-byRundvald.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Rundvald",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint-Paul-en-Chablais-74-Calvaire-Ancien-Presbytere-Mairie-LaPoste-byRundvald.jpg",
+    "legende": "The little calvary and the former presbytery of Saint-Paul-en-Chablais, which became the town hall of this commune in Haute-Savoie with part occupied by La Poste.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Saint-Paul-en-Chablais-74-Calvaire-Ancien-Presbytere-Mairie-LaPoste-byRundvald.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-%5Binternet%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
