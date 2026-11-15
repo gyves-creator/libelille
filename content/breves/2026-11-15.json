@@ -218,5 +218,24 @@
     "titres_sources": [
       "France-Turquie : Kylian Mbappé, pourquoi le retour du patron des Bleus est (très) attendu"
     ]
+  },
+  {
+    "titre": "SpaceX récupère l'étage supérieur de Starship après 22 heures de vol",
+    "texte": "SpaceX a récupéré pour la première fois l'étage supérieur de sa mégafusée Starship après plus de 22 heures de vol, le 14 novembre, en le ramenant à la base du Texas. L'étage inférieur n’a pas pu être récupéré en raison d’un problème technique.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-15T12:20:10+00:00",
+    "titres_sources": [
+      "SpaceX rattrape l'étage supérieur de sa mégafusée Starship",
+      "SpaceX parvient pour la première fois à récupérer l'étage supérieur de sa mégafusée Starship"
+    ]
+  },
+  {
+    "titre": "Commerçants lyonnais sceptiques face aux trois dimanches d'ouverture supplémentaires",
+    "texte": "Le préfet du Rhône a autorisé les commerces de Lyon à ouvrir trois dimanches supplémentaires suite aux dégradations du 17 octobre et aux manifestations du samedi. Les commerçants estiment toutefois que les pertes engendrées seront difficiles à compenser.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T12:20:10+00:00",
+    "titres_sources": [
+      "\"Ça ne rattrapera pas un bon samedi\" : les commerçants lyonnais peu convaincus par les ouvertures dominicales supplémentaires"
+    ]
   }
 ]
