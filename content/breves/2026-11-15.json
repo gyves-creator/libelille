@@ -543,5 +543,23 @@
     "titres_sources": [
       "EN DIRECT - Tennis : Ben Shelton prend le meilleur départ face à Arthur Fils"
     ]
+  },
+  {
+    "titre": "450 000 ralentisseurs, 90 % illégaux, coût de mise aux normes 5‑7 Mds €",
+    "texte": "On estime qu’environ 450 000 ralentisseurs existent en France, dont 90 % seraient illégaux. Leur mise aux normes de 10 cm coûterait entre cinq et sept milliards d’euros, une somme jugée difficile à financer.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-15T21:18:47+00:00",
+    "titres_sources": [
+      "Sécurité routière : les ralentisseurs trop hauts bientôt légaux ?"
+    ]
+  },
+  {
+    "titre": "Russie : nouvelles restrictions sur journalistes étrangers, critique d’Ariane Chemin",
+    "texte": "Ariane Chemin aurait critiqué le bannissement, le qualifiant de mélange entre influenceuse propagandiste et journalistes, alors que Moscou intensifierait sa guerre informationnelle en imposant de nouvelles restrictions aux journalistes étrangers, les derniers visés restant inconnus.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T21:18:47+00:00",
+    "titres_sources": [
+      "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\""
+    ]
   }
 ]
