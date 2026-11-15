@@ -1,0 +1,38 @@
+{
+  "slug": "revalorisation-du-smic-et-des-bas-salaires-de-la-fonction-publique-a-plus-d-un-m",
+  "titre": "Revalorisation du SMIC et des bas salaires de la fonction publique à plus d'un milliard d'euros",
+  "chapeau": "Le gouvernement a annoncé une hausse de 1,6 % du SMIC à compter du 1er décembre, ainsi qu'une augmentation de 350 € brut annuel pour les bas salaires de la fonction publique. Le coût total de ces mesures serait légèrement supérieur à un milliard d’euros pour les finances publiques.",
+  "corps": "## Une revalorisation du SMIC à l’horizon décembre\nLe salaire minimum interprofessionnel de croissance (SMIC) sera revalorisé de 1,6 % dès le 1er décembre. Cette hausse s’inscrit dans le cadre habituel d’ajustement annuel du pouvoir d’achat, mais elle intervient alors que le pays connaît d’importantes mobilisations sociales. Le gouvernement a indiqué que cette mesure, combinée à d’autres augmentations, engendrera un impact budgétaire de l’ordre d’un peu plus d’un milliard d’euros.\n\n## Augmentation ciblée des bas salaires de la fonction publique\nParallèlement, le ministre David Amiel a confirmé que les plus bas salaires de la fonction publique, touchant plus d’un million d’agents, bénéficieront d’une revalorisation de 350 € brut par an. Cette hausse vise à améliorer le niveau de vie des fonctionnaires dont la rémunération se situe en dessous du seuil médian. Le ministre a présenté cette mesure comme une réponse aux revendications des agents publics, tout en soulignant la nécessité de maîtriser les dépenses publiques.\n\n## Le coût global pour les finances publiques\nLes deux dispositifs, revalorisation du SMIC et augmentation des bas salaires de la fonction publique, sont estimés à « un peu plus d’un milliard d’euros » selon les autorités gouvernementales. Cette estimation n’est pas détaillée, mais elle reflète l’ensemble des dépenses supplémentaires attendues sur l’exercice budgétaire en cours. Aucun chiffre exact n’a été communiqué au-delà de cette fourchette, et le gouvernement n’a pas précisé les sources de financement prévues.\n\n## Contexte économique et social\nCes mesures s’inscrivent dans un contexte de pressions salariales accrues, tant dans le secteur privé que public, ainsi que d’une inflation persistante qui affecte le pouvoir d’achat des ménages. Le gouvernement justifie ainsi les revalorisations par la nécessité de préserver le niveau de vie des travailleurs les plus modestes, tout en restant vigilant sur l’équilibre des comptes publics. Les débats restent ouverts quant à l’impact réel de ces hausses sur la compétitivité économique et la soutenabilité budgétaire à moyen terme.",
+  "mots_cles": [
+    "SMIC",
+    "fonction publique",
+    "revalorisation salariale",
+    "budget",
+    "David Amiel"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-15T10:51:55+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/David-amiel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "B.MODIFICATEUR",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:David-amiel_(cropped).jpg",
+    "legende": "Homme politique français",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:David-amiel (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les revalorisations du smic et des « bas salaires » des fonctionnaires coûteront « un peu plus de 1 milliard d’euros » aux finances publiques, selon le gouvernement",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

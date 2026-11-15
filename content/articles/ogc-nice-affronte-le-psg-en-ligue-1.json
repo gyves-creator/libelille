@@ -1,0 +1,38 @@
+{
+  "slug": "ogc-nice-affronte-le-psg-en-ligue-1",
+  "titre": "OGC Nice affronte le PSG en Ligue 1",
+  "chapeau": "L'OGC Nice se prépare à recevoir le Paris Saint‑Germain lors d'une rencontre de Ligue 1. Le match verra Roger Ricort prendre le départ pour les Niçois.",
+  "corps": "## Un affrontement attendu dans le championnat français\nL'OGC Nice accueillera le Paris Saint‑Germain dans le cadre d'une journée de Ligue 1. Cette opposition oppose l'un des clubs les plus anciens de la Côte d'Azur à la formation parisienne, régulièrement championne du titre. La présence de Roger Ricort parmi les titulaires niçois est annoncée, ce qui ajoute un élément de surprise pour les supporters locaux.\n\n## Contexte du championnat\nLa Ligue 1 constitue la première division du football français, regroupant vingt clubs qui s'affrontent selon un système aller‑retour. Le Paris Saint‑Germain, fort de plusieurs titres récents, est souvent considéré comme le favori dans les confrontations contre les équipes de la périphérie. L'OGC Nice, quant à lui, occupe régulièrement les places moyennes du classement et vise à consolider ses résultats à domicile.\n\n## Implications pour les habitants de Nice\nPour les habitants du quartier et les supporters du club, le match représente une occasion de soutenir l'équipe locale dans un contexte de forte visibilité médiatique. Les déplacements et les flux de spectateurs sont susceptibles d'entraîner des perturbations ponctuelles dans les transports en commun et la circulation autour du stade. Les autorités municipales recommandent de consulter les informations de la ville concernant les éventuelles déviations ou restrictions de stationnement le jour de la rencontre.\n\n## Informations pratiques\nLes supporters souhaitant assister à la rencontre peuvent se rendre sur le site officiel de l'OGC Nice pour connaître les modalités de billetterie et les consignes de sécurité. En cas de besoin, le service d'information de la mairie de Nice reste joignable au numéro dédié aux événements sportifs. Les mises à jour relatives aux transports seront diffusées par les réseaux de transport locaux.\n\nCette rencontre s'inscrit dans le calendrier habituel de la Ligue 1 et constitue un moment fort pour les supporters niçois, qui espèrent voir leur équipe rivaliser avec l'un des géants du football français.",
+  "mots_cles": [
+    "OGC Nice",
+    "Paris Saint‑Germain",
+    "Ligue 1",
+    "football",
+    "Roger Ricort"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-15T10:52:11+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/OGC_Nice_fans_at_Stade_Louis_II%2C_Monaco.jpg/1280px-OGC_Nice_fans_at_Stade_Louis_II%2C_Monaco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "FromMorningToMidnight",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:OGC_Nice_fans_at_Stade_Louis_II,_Monaco.jpg",
+    "legende": "OGC Nice fans during their club's Ligue 1 match at Stade Louis II, home of AS Monaco, on 20 April 2022.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:OGC Nice fans at Stade Louis II, Monaco.jpg"
+  },
+  "sources": [
+    {
+      "media": "Foot Sur 7",
+      "titre": "OGC Nice : Ligue 1, Roger Ricort lance le choc contre le PSG",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlVKX19qUDdROENISkJXME5KM0NxaTFxcmxHTk5Ba1Ixb0pOMGlXVElCVmlzd2RVM3pFNkJXLW1aV20zX2xpbGNfdHNpVk5vZjFoLXpoeE81Wml5XzNEMmgxX2p6eU1nZWRGcm5KWU9kbjlLN3VEOG93SngzcVA2clJzamtyS3RORTJDYVZJaTFUTEU?oc=5"
+    },
+    {
+      "media": "https://www.live-mercato.com/",
+      "titre": "OGC Nice : Ligue 1, Roger Ricort lance le choc contre le PSG",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzU3Q2g3RG4zZ29hb3RLN0dqUkVEYXZ0Qy15RFFJMDh0LXZBQTNrcjlYNUxEa2FRV2FpaVo5Y1ZPei10X3hFR2N2S3pfU0tpeTJmcXpGS3ZaNzNicmxNdVJGdUwtdllRN0VXWlBIajVfNEV0QXhrN1pHWXRnaE85bXVCNXZ6M0g0WFhudVZ3elU0Y0VYZG1BTnI3aWxCdlNvdDh3?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

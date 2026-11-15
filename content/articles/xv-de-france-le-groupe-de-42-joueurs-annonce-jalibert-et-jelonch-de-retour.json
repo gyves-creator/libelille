@@ -1,0 +1,38 @@
+{
+  "slug": "xv-de-france-le-groupe-de-42-joueurs-annonce-jalibert-et-jelonch-de-retour",
+  "titre": "XV de France : le groupe de 42 joueurs annoncé, Jalibert et Jelonch de retour",
+  "chapeau": "Le sélectionneur Fabien Galthié a présenté dimanche la liste de 42 joueurs qui prépareront le prochain affrontement du Championnat des nations contre l'Argentine. Parmi les titularisations, les demi d'ouverture Matthieu Jalibert et le troisième ligne Anthony Jelonch réintègrent le groupe après leurs absences respectives.",
+  "corps": "## Composition du groupe pour le match contre l'Argentine\nLe staff du XV de France a dévoilé un effectif de 42 joueurs destiné à préparer la rencontre prévue au Stade de France le samedi suivant. Cette sélection, annoncée par le sélectionneur Fabien Galthié, comprend l'ensemble des postes habituels, des avants aux arrières, afin d'assurer la profondeur nécessaire lors du Championnat des nations. Aucun détail supplémentaire n’a été communiqué sur les éventuelles réserves ou sur les choix tactiques envisagés pour le match.\n\n## Retours de joueurs clés\nParmi les noms mis en avant, le demi d'ouverture Matthieu Jalibert réintègre le groupe après une interruption de deux mois liée à une blessure du quadriceps. Son absence avait limité les options offensives du XV lors des deux premiers matchs du tournoi. De son côté, le troisième ligne Anthony Jelonch revient après avoir été victime d’une commotion cérébrale sur le terrain de Pau il y a environ quinze jours. Sa remise en condition permet aux Bleus de renforcer la ligne de mêlée avec un joueur expérimenté.\n\nCes deux réintégrations sont perçues comme un renfort important pour l’équipe, qui cherchait à consolider son effectif avant d’affronter les Pumas. Aucun autre changement majeur n’a été signalé dans la composition du groupe, et les joueurs restent en phase de préparation collective au stade parisien.\n\n## Enjeux du prochain affrontement\nLe match contre l'Argentine représente le premier défi du XV de France dans le cadre du Championnat des nations cette saison. Les deux équipes, déjà engagées dans la compétition, chercheront à imposer leur jeu pour gagner des points décisifs. Le retour de Jalibert et Jelonch pourrait offrir à la France davantage de souplesse tactique, notamment en phase de jeu ouvert et en maul. Le résultat de cette rencontre influencera le classement du groupe et les perspectives de qualification pour les phases ultérieures du tournoi.",
+  "mots_cles": [
+    "rugby",
+    "XV de France",
+    "Championnat des nations",
+    "Argentine",
+    "retour"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-15T10:52:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/France_rugby_team_1927_vs_England.jpg/1280px-France_rugby_team_1927_vs_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agence Rol",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:France_rugby_team_1927_vs_England.jpg",
+    "legende": "Français : 02-04-27, Colombes [stade], rugby, [match France-Angleterre ,] équipe de France : [photographie de presse] / [Agence Rol]",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:France rugby team 1927 vs England.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "XV de France : Jalibert et Jelonch de retour pour affronter l’Argentine",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-jalibert-et-jelonch-de-retour-pour-affronter-l-argentine-20261115"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Matthieu Jalibert de retour dans le groupe du XV de France pour préparer le match du Championnat des nations contre l'Argentine",
+      "url": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/matthieu-jalibert-de-retour-dans-le-groupe-du-xv-de-france-pour-preparer-le-match-du-championnat-des-nations-contre-l-argentine_8282549.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -162,5 +162,23 @@
     "titres_sources": [
       "Au Sénégal, travailler sous 38 °C toute l’année"
     ]
+  },
+  {
+    "titre": "Orientation des lycéens perturbée par blocus et Parcoursup",
+    "texte": "Face aux blocages et aux incertitudes autour de Parcoursup, les lycéens et leurs familles se rendraient dans les salons d’orientation pour se rassurer. Les cours seraient perturbés dans certains établissements, alimentant les inquiétudes quant aux chances d’admission.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-15T10:52:17+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"C'est un peu anxiogène\" : entre les blocus et les incertitudes sur Parcoursup, les lycéens et leurs familles cherchent à se rassurer dans les salons d'orientation"
+    ]
+  },
+  {
+    "titre": "Site industriel russe frappé, trois blessés et un mort",
+    "texte": "Des frappes attribuées à Kiev ont touché un site industriel important en Russie. Les autorités du Tatarstan ont indiqué trois blessés, tandis que le gouverneur de Rostov-sur-le-Don a confirmé un décès.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T10:52:17+00:00",
+    "titres_sources": [
+      "Un important site industriel russe touché par des frappes attribuées à Kiev"
+    ]
   }
 ]

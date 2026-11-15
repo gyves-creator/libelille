@@ -1,0 +1,38 @@
+{
+  "slug": "vol-de-cables-sur-une-ferme-a-longages-l-irrigation-interrompue",
+  "titre": "Vol de câbles sur une ferme à Longages, l'irrigation interrompue",
+  "chapeau": "Environ 200 mètres de câble d’alimentation ont été dérobés sur une exploitation agricole située à Longages, au sud de Toulouse. Le propriétaire a découvert le vol le samedi 14 novembre, entraînant l’arrêt de l’irrigation et le lancement d’une enquête par le parquet.",
+  "corps": "## Vol et conséquences sur l'exploitation\nDans la commune de Longages, une exploitation agricole mise en vente a été victime d’un vol important de câbles d’alimentation, estimé à près de deux cents mètres. Le propriétaire, absent plusieurs jours, a constaté l’absence du matériel à son retour le 14 novembre. L’interruption du réseau électrique a immédiatement mis l’irrigation de la parcelle hors service, compromettant les cultures en cours.\n\n## Enquête et suivi judiciaire\nLe parquet a été saisi dès la découverte du vol et a ouvert une enquête afin d’identifier les auteurs et de déterminer les circonstances du délit. Les services de police locales ont été mobilisés pour procéder à des constatations sur place et recueillir les témoignages éventuels. Aucun suspect n’a été nommé à ce stade et la présomption d’innocence reste applicable.\n\n## Contexte local et enjeux agricoles\nLongages, commune de la Haute‑Garonne, compte de nombreuses exploitations agricoles dont la viabilité dépend largement d’un approvisionnement électrique fiable pour les systèmes d’irrigation. Un vol de câble de cette ampleur peut donc entraîner des pertes de rendement significatives et retarder la mise en marché des productions. La mise en vente du terrain ajoute une dimension économique supplémentaire, le propriétaire devant gérer à la fois la perte d’infrastructure et la perte potentielle de valeur du bien.\n\n## Situation actuelle\nL’irrigation demeure à l’arrêt jusqu’à ce que les câbles soient remplacés, ce qui dépendra de la résolution de l’enquête et des travaux de rétablissement du réseau. Les autorités locales continuent de suivre le dossier et invitent toute personne disposant d’informations pertinentes à se manifester auprès des services compétents. L’enquête reste en cours.",
+  "mots_cles": [
+    "vol",
+    "câble",
+    "agriculture",
+    "Longages",
+    "irrigation"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-15T10:52:05+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mairie_de_Longages.JPG/1280px-Mairie_de_Longages.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Paternel 1",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mairie_de_Longages.JPG",
+    "legende": "Mairie de Longages",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Mairie de Longages.JPG"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Près de 200 mètres de câble volés sur une exploitation agricole au sud de Toulouse, l’irrigation à l’arrêt",
+      "url": "https://www.ladepeche.fr/2026/11/15/pres-de-200-metres-de-cable-voles-sur-une-exploitation-agricole-au-sud-de-toulouse-lirrigation-a-larret-13653706.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Près de 200 mètres de câble volés sur une exploitation agricole au sud de Toulouse, l’irrigation à l’arrêt",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORFVKcXZQRlJVc2ppVXZ6RF92MGtaVEZGdl9VSXJ4amJHOXE2LVRNMHFhMHYzUVBiN0QwMFJvTDNtZGNBTTVlc1VVTTBTMDlLZUcwYXlHUERWN1ctWXptRkFHalh4Q2xGSEdHOWUwU1ppSDBybldfQ2cyRnptcUhjOXZkVk4xSWxSZHhyaU1BaHBXSUROVkszNmMxd1dHNFIwT0xpc3M4VW8tWDUtbzc3VWlBZ245SWhNckk2azN4NF9kWm54YjhwNVI0OGZxZGVYZkNaM1pZQW5ZYkN1NUhZRXRaNTZiVTQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
