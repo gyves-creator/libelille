@@ -309,5 +309,23 @@
     "titres_sources": [
       "Fermeture de l’A13 : derrière les travaux indispensables, la crainte de congestion sur les routes des Hauts-de-Seine"
     ]
+  },
+  {
+    "titre": "Ronaldinho, 46 ans, joue en Serie C italienne après 11 ans d'absence",
+    "texte": "L’ancien Ballon d’or a enfilé les crampons pour un match officiel de troisième division italienne, marquant ainsi son retour sur le terrain après une pause de onze ans. Cette apparition, à la fois sportive et promotionnelle, a suscité l’attention des médias.",
+    "rubrique": "international",
+    "publie_le": "2026-11-15T14:51:53+00:00",
+    "titres_sources": [
+      "\"Je suis là pour vivre un moment spécial de ma vie\" : à 46 ans, Ronaldinho rechausse les crampons pour un match officiel en troisième division italienne"
+    ]
+  },
+  {
+    "titre": "Une étoile variable expliquée par un compagnon caché",
+    "texte": "Une étude publiée le 9 novembre, basée sur des observations du télescope Chandra, a identifié un corps compagnon comme responsable des explosions cycliques de l’étoile qui brillait tous les 113 jours. Cette découverte résout une énigme scientifique de quinze ans.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-15T14:51:53+00:00",
+    "titres_sources": [
+      "Cette étoile brillait fort tous les 113 jours et on sait enfin pourquoi"
+    ]
   }
 ]
