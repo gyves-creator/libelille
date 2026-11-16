@@ -57,5 +57,24 @@
       "NBA : portés par un grand Wembanyama, les Spurs s'offrent une 12e victoire d'affilée",
       "NBA : intraitables, Victor Wembanyama et les Spurs s’offrent une 12e victoire d'affilée"
     ]
+  },
+  {
+    "titre": "Élection du secrétaire général de l'OIF repoussée d'un an",
+    "texte": "L’élection du secrétaire général de l’Organisation internationale de la Francophonie a été reportée d’un an, le différend entre la RDC et le Rwanda étant à l’origine du report. Louise Mushikiwabo restera en fonction jusqu’au nouveau scrutin, tandis que le Rwanda ne présentera aucun candidat.",
+    "rubrique": "international",
+    "publie_le": "2026-11-16T10:06:03+00:00",
+    "titres_sources": [
+      "L’élection du secrétaire général de l’Organisation internationale de la Francophonie reportée d’un an",
+      "Tensions inédites au 20e sommet de la francophonie autour de l'élection de son prochain secrétaire général, finalement repoussée"
+    ]
+  },
+  {
+    "titre": "Eramet lance une hausse de capital de 500 M€, l’État à 47 %",
+    "texte": "Le groupe minier Eramet a annoncé vendredi une augmentation de capital de 500 millions d’euros pour renforcer sa trésorerie. Après l’opération, l’État détiendra 47 % du capital, éclipsant la participation de la famille Duval.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-16T10:06:03+00:00",
+    "titres_sources": [
+      "Eramet : « L’Etat sacrifie les petits et grands actionnaires minoritaires sur l’autel de la souveraineté nationale »"
+    ]
   }
 ]
