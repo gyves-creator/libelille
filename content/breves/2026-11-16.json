@@ -36,5 +36,26 @@
       "Quelles sont les meilleures écoles d’ingénieurs accessibles directement après le bac en 2027 ? Voici en exclusivité le palmarès du Figaro",
       "Polytechnique, CentraleSupélec… Découvrez notre palmarès 2027 des meilleures écoles d’ingénieurs post-prépa"
     ]
+  },
+  {
+    "titre": "France l'emporte 21-19 contre l'Afrique du Sud",
+    "texte": "Le XV de France a battu les Springboks 21-19 au Stade de France le vendredi 13 novembre. Avant le match, le sélectionneur Fabien Galthié a publié une vidéo motivant les joueurs, selon la fédération.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-16T08:56:03+00:00",
+    "titres_sources": [
+      "France-Afrique du Sud : les leçons de l’exploit des Bleus face aux Springboks",
+      "«Si ce qu’on entend est vrai, vous allez mettre les pendules à l’heure» : les mots puissants de Fabien Galthié avant l’exploit des Bleus face aux Springboks",
+      "XV De France : les mots forts de Fabien Galthié avant l'exploit face à l'Afrique du Sud"
+    ]
+  },
+  {
+    "titre": "Les Spurs de San Antonio enregistrent une 12e victoire consécutive",
+    "texte": "San Antonio a remporté son douzième succès d'affilée dimanche, grâce à une performance de Victor Wembanyama qui a inscrit 26 points. Les Lakers de Los Angeles affichent également 12 victoires et deux défaites.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-16T08:56:03+00:00",
+    "titres_sources": [
+      "NBA : portés par un grand Wembanyama, les Spurs s'offrent une 12e victoire d'affilée",
+      "NBA : intraitables, Victor Wembanyama et les Spurs s’offrent une 12e victoire d'affilée"
+    ]
   }
 ]

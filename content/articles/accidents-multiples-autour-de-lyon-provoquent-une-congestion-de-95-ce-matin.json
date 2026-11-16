@@ -1,0 +1,33 @@
+{
+  "slug": "accidents-multiples-autour-de-lyon-provoquent-une-congestion-de-95-ce-matin",
+  "titre": "Accidents multiples autour de Lyon provoquent une congestion de 95 % ce matin",
+  "chapeau": "De nombreux accidents ont été signalés sur les routes entourant Lyon dès ce matin, faisant grimper le taux de congestion à 95 %. Les usagers sont invités à consulter les informations en temps réel pour adapter leurs déplacements.",
+  "corps": "## Un trafic fortement perturbé dans le département du Rhône\nDes accidents se sont multipliés ce matin sur les axes routiers qui bordent la métropole lyonnaise. La densité du trafic a atteint un niveau de congestion évalué à 95 %, selon les données diffusées par les services de suivi du trafic. Cette situation entraîne des ralentissements importants, voire des blocages sur certains tronçons, et impacte les déplacements quotidiens des habitants ainsi que les livraisons de marchandises.\n\n## Conséquences pour les usagers et recommandations\nLes automobilistes sont confrontés à des temps de trajet nettement allongés et à la fermeture éventuelle de voies pour permettre l’intervention des secours. Les autorités recommandent de vérifier les conditions de circulation avant de prendre la route, d’envisager des itinéraires alternatifs et, si possible, de privilégier les transports en commun. Les services de suivi du trafic offrent également des informations sur l’état du réseau ferroviaire du département, ce qui peut être utile aux voyageurs en train.\n\n## Outils de suivi et informations complémentaires\nUn dispositif de diffusion en direct permet de consulter l’évolution des bouchons et des incidents sur les routes et les rails du Rhône. Les plateformes en ligne dédiées au trafic affichent les cartes de congestion, les alertes d’incident et les recommandations de déviation. Les usagers sont encouragés à se tenir informés via ces services afin d’ajuster leurs plans de déplacement et d’éviter les zones les plus affectées.\n\n## Perspectives pour les prochains jours\nBien que la situation actuelle soit déjà critique, aucune indication n’a été donnée quant à la durée prévue des perturbations. Les services de secours continuent d’intervenir sur les sites des accidents, ce qui pourrait progressivement libérer les voies. En attendant, la vigilance reste de mise et les conducteurs sont invités à respecter les consignes de sécurité et à rester attentifs aux mises à jour officielles.",
+  "mots_cles": [
+    "trafic",
+    "congestion",
+    "Lyon",
+    "accidents",
+    "département du Rhône"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-16T08:55:47+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg/1280px-01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Otourly",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg",
+    "legende": "Panorama de Lyon depuis la Basilique Notre-Dame de Fourvière .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:01. Panorama de Lyon pris depuis le toit de la Basilique de Fourvière.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Rhône. Info trafic : accidents en pagaille ce matin sur les routes autour de Lyon, le taux de congestion atteint les 95%",
+      "url": "https://www.leprogres.fr/transport/2026/11/16/info-trafic-vos-conditions-de-circulation-ce-lundi-16-novembre-dans-l-agglomeration-lyonnaise"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

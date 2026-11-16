@@ -1,0 +1,32 @@
+{
+  "slug": "blocage-du-metro-ligne-a-a-toulouse-perturbations-majeures-et-circulations-ralen",
+  "titre": "Blocage du métro ligne A à Toulouse : perturbations majeures et circulations ralenties",
+  "chapeau": "Le lundi 16 novembre 2026, la ligne A du métro toulousain a été interrompue suite à un blocage de rames au-dessus d’un pont surplombant le périphérique. La saturation de la rocade et les perturbations du trafic routier impactent fortement les déplacements des habitants.",
+  "corps": "## Un incident qui paralysait la ligne A\nDans la matinée du 16 novembre, plusieurs rames de la ligne A du métro de Toulouse se sont retrouvées immobilisées au niveau d’un pont qui franchit le périphérique. L’arrêt brutal du trafic ferroviaire a entraîné la suspension du service sur une partie du tronçon, obligeant les usagers à chercher des alternatives.\n\n## Conséquences sur le réseau routier\nParallèlement à la coupure du métro, la rocade périphérique a connu une saturation importante, les véhicules se retrouvant bloqués à proximité du site de l’incident. Les embouteillages se sont étendus sur les axes principaux, ralentissant les déplacements entre les quartiers du sud et du nord de la ville. Les services de transport ont recommandé aux automobilistes d’utiliser des itinéraires détournés et de privilégier les transports en commun où le service reste opérationnel.\n\n## Mesures prises et recommandations aux usagers\nLes équipes de la métropole ont mis en place des navettes de substitution entre les stations affectées afin de limiter la gêne pour les voyageurs. Les autorités locales incitent les usagers à consulter les informations en temps réel sur le site officiel du réseau de transport et à se tenir informés des éventuelles déviations. Les lignes de bus qui traversent la zone sont renforcées pour absorber le surplus de passagers.\n\n## Informations pratiques\nEn cas de besoin, les usagers peuvent contacter le service d’assistance du réseau de transport au 09 69 00 00 00 ou consulter le site internet de la métropole de Toulouse pour connaître les itinéraires alternatifs et les horaires des navettes. Les conducteurs sont invités à suivre les panneaux de déviation et à éviter la zone du pont tant que la situation n’est pas résolue.",
+  "mots_cles": [
+    "métro Toulouse",
+    "ligne A",
+    "perturbations trafic",
+    "déviation rocade"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-16T08:55:58+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/ToulouseM%C3%A9tro-Collage.png/1280px-ToulouseM%C3%A9tro-Collage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kuremu Sakura",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:ToulouseM%C3%A9tro-Collage.png",
+    "legende": "Mosaic of photos of the Toulouse metro. From top to bottom (left then right) : Edicule of the station Minimes - Claude Nougaro (line B) Entrance of station Reynerie (line A) Interior of a non-renovate",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:ToulouseMétro-Collage.png"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Métro bloqué à Toulouse : des rames arrêtées en pleine voie, \"on est au-dessus du pont qui surplombe le périphérique\", voici ce qui s'est passé",
+      "url": "https://www.ladepeche.fr/2026/11/16/metro-en-panne-a-toulouse-des-rames-arretees-en-pleine-voie-on-est-au-dessus-du-pont-qui-surplombe-le-peripherique-et-un-agent-de-tisseo-doit-13654820.php"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

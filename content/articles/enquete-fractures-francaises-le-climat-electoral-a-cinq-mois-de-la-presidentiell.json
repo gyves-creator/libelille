@@ -1,0 +1,33 @@
+{
+  "slug": "enquete-fractures-francaises-le-climat-electoral-a-cinq-mois-de-la-presidentiell",
+  "titre": "Enquête \"Fractures françaises\" : le climat électoral à cinq mois de la présidentielle 2027",
+  "chapeau": "La quatorzième édition de l’enquête annuelle \"Fractures françaises\" a interrogé 3 000 Français pour mesurer l’état d’esprit national à l’approche de l’élection présidentielle de 2027. Les résultats indiquent notamment un ralentissement du processus de normalisation de l’image du Rassemblement national, selon l’Institut Montaigne.",
+  "corps": "## Une étude annuelle au cœur du débat électoral\nL’enquête quantitative \"Fractures françaises\", réalisée par le cabinet Ipsos BVA‑CESI pour un quotidien national, a publié sa quatorzième édition. Trois mille personnes ont été interrogées, offrant ainsi un aperçu représentatif des opinions et des attentes de la population française à cinq mois du scrutin présidentiel prévu en 2027. Cette étude annuelle, reconnue pour son suivi longitudinal, sert de baromètre pour les acteurs politiques, les médias et les analystes afin d’ajuster leurs stratégies et de comprendre les évolutions sociopolitiques.\n\n## La \"dédiabolisation\" du RN mise à l’épreuve\nParmi les thématiques abordées, l’évolution de l’image du Rassemblement national (RN) a retenu l’attention. Blanche Leridon, directrice des études France à l’Institut Montaigne, a commenté les données en soulignant que le mouvement de normalisation de l’image du Rassemblement national semble s’enrayer. Cette observation, inédite depuis plusieurs années, suggère que les efforts de « dédiabolisation » du parti, initiés par ses dirigeants pour le rendre plus acceptable aux yeux d’un électorat plus large, rencontrent désormais des limites. Le sondage ne précise pas les raisons exactes de ce ralentissement, mais il indique une possible résurgence de réticences parmi les électeurs.\n\n## Implications pour la campagne présidentielle\nCes constats interviennent à un moment où les principaux candidats intensifient leurs campagnes, cherchant à capter les électeurs indécis. Le RN, mené par Marine Le Pen, devra probablement réévaluer sa stratégie de communication afin de contrer la perte d’élan observée. De leur côté, les partis traditionnels pourraient exploiter ce revirement d’opinion pour renforcer leurs arguments contre la radicalisation du discours politique. Les prochains mois seront déterminants pour mesurer si cette tendance se confirme ou si elle s’estompe avant le premier tour de l’élection.\n\n## Un aperçu du climat sociopolitique\nAu-delà du RN, l’enquête \"Fractures françaises\" fournit un panorama des préoccupations majeures des Français, incluant l’économie, la sécurité, l’immigration et les questions environnementales. Ces thématiques restent au cœur des débats et influenceront les programmes des candidats. La continuité de l’étude permet de comparer les évolutions d’une année sur l’autre, offrant ainsi une perspective historique sur les fluctuations de l’opinion publique dans le contexte électoral.",
+  "mots_cles": [
+    "enquête",
+    "Fractures françaises",
+    "présidentielle 2027",
+    "Rassemblement national",
+    "Institut Montaigne"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-16T08:55:19+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rassemblement-national-populaire-logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Felixe16",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rassemblement-national-populaire-logo.png",
+    "legende": "Logo d'époque",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Rassemblement-national-populaire-logo.png"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, présidentielle 2027 : découvrez les enseignements de la nouvelle enquête Fractures françaises, une grande étude sur l’état d’esprit des Français, à cinq mois de l’élection",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
