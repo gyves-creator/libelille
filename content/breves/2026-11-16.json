@@ -328,5 +328,25 @@
     "titres_sources": [
       "Entre Orange en octobre et SFR en novembre, la 2G disparaît de France en quelques semaines"
     ]
+  },
+  {
+    "titre": "Deux saisonniers jugés pour vandalisme d'une statue à Porto-Vecchio",
+    "texte": "Deux travailleurs saisonniers comparus en visioconférence devant le tribunal d’Ajaccio pour avoir vandalisé une statue de la Vierge à Porto‑Vecchio. L’un a simulé des actes sexuels sur le monument, l’autre a filmé et diffusé la scène, le parquet réclame des peines de prison avec sursis.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-16T21:29:52+00:00",
+    "titres_sources": [
+      "Statue de la Vierge vandalisée à Porto-Vecchio : des peines de prison ferme requises",
+      "Profanation de la Vierge Marie en Corse : à leur procès, les deux accusés entre honte et regrets"
+    ]
+  },
+  {
+    "titre": "Marine Le Pen indique que la France ne pourra plus financer l'Ukraine si élue",
+    "texte": "Marine Le Pen a déclaré à l’ambassadeur d’Ukraine que la France ne pourrait plus apporter d’aide financière à Kiev en cas de victoire à la présidentielle. Elle a toutefois affirmé qu’elle respecterait les engagements déjà pris par la France.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-16T21:29:52+00:00",
+    "titres_sources": [
+      "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
+      "Marine Le Pen assure auprès de l’ambassadeur ukrainien que la France ne pourrait « plus aider financièrement » Kiev si elle est élue présidente de la République"
+    ]
   }
 ]
