@@ -1,0 +1,38 @@
+{
+  "slug": "un-homme-condamne-a-30-ans-pour-le-meurtre-d-une-strasbourgeoise-en-guadeloupe",
+  "titre": "Un homme condamné à 30 ans pour le meurtre d’une Strasbourgeoise en Guadeloupe",
+  "chapeau": "Un homme de 45 ans a été jugé coupable de viol et de meurtre d’une femme de 30 ans originaire de Strasbourg. La cour d’assises de Basse‑Terre a prononcé une peine de trente années de réclusion criminelle le 13 novembre.",
+  "corps": "## Condamnation prononcée à Basse‑Terre\nLe vendredi 13 novembre, la cour d’assises de Basse‑Terre, en Guadeloupe, a rendu son verdict dans une affaire qui avait attiré l’attention des habitants de Strasbourg. Un homme de 45 ans a été reconnu coupable de viol et de meurtre d’une ressortissante strasbourgeoise âgée de 30 ans. La juridiction a ainsi infligé une peine de trente ans de réclusion criminelle, la plus lourde prévue dans le cadre de ce type de procédure.\n\n## Rappel des faits\nLe corps de la victime avait été découvert sans vie le 21 juillet 2024 sur une plage de l’archipel guadeloupéen. L’enquête, menée conjointement par les autorités locales et les services judiciaires français, avait permis d’identifier l’auteur présumé, arrêté quelques mois après les faits. Le procès, qui s’est déroulé à Basse‑Terre, a abouti à la condamnation sus‑mentionnée.\n\n## Répercussions pour les Strasbourgeois\nCette décision judiciaire, bien que rendue à distance, revêt une importance particulière pour la communauté strasbourgeoise. Elle rappelle la gravité des violences sexuelles et homicide, et montre que les autorités françaises poursuivent les auteurs, même lorsque les faits se situent dans les territoires d’outre‑mer. Les habitants de Strasbourg peuvent suivre le déroulement de l’affaire via les communications officielles du tribunal de Basse‑Terre.\n\n## Suivi de l’affaire\nLe jugement a été rendu en audience publique, conformément aux règles de transparence de la justice française. Aucun autre détail n’a été communiqué concernant d’éventuelles procédures d’appel ou d’autres mesures complémentaires. Les services de la préfecture de Strasbourg restent disponibles pour orienter les familles affectées vers les structures d’accompagnement appropriées.",
+  "mots_cles": [
+    "Strasbourg",
+    "Guadeloupe",
+    "condamnation",
+    "viol",
+    "meurtre"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-16T20:57:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Club_M%C3%A9dit%C3%A9rran%C3%A9e_%28Basse-Terre%2C_Guadeloupe%29_en_1978.jpg/1280px-Club_M%C3%A9dit%C3%A9rran%C3%A9e_%28Basse-Terre%2C_Guadeloupe%29_en_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Daniel Jolivet",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Club_M%C3%A9dit%C3%A9rran%C3%A9e_(Basse-Terre,_Guadeloupe)_en_1978.jpg",
+    "legende": "Club Méditérranée (later renamed Phocéa ) off Basse-Terre, Guadeloupe in 1978.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Club Méditérranée (Basse-Terre, Guadeloupe) en 1978.jpg"
+  },
+  "sources": [
+    {
+      "media": "L'Alsace",
+      "titre": "Guadeloupe. Meurtre d’une Strasbourgeoise en 2024 : 30 ans de réclusion",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXhmRUwtMXJIYUV0SXhRSUl4NXkyX0hjQnhEZmtkQ0FPMk9EMFl6ZGpHbmt4UXRzWGNTaWk3YV83QzB6VUZUVlVfcXlhaWRPSmd2aEU4amNqS1U3RE9WeWdtbEpfZE1vNmY5cnV4YWlROTBEenRQX192RFVnOVA5eThvX1hDdUc5aTVxWjNhR01FWUh1dmhwd0VqZm0zUlk0Q1A5OXR5WlVzNnZuRjlXTFFR?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Guadeloupe. Meurtre d’une Strasbourgeoise en 2024 : 30 ans de réclusion",
+      "url": "https://www.dna.fr/faits-divers-justice/2026/11/16/meurtre-d-une-strasbourgeoise-en-2024-30-ans-de-reclusion"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

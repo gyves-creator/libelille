@@ -310,5 +310,23 @@
     "titres_sources": [
       "Au procès des parents de l’inconnue de l’A10, un réquisitoire sobre, subtil et pédagogue"
     ]
+  },
+  {
+    "titre": "Justice autorise le cortège du 17 novembre à atteindre Bellecour",
+    "texte": "La justice a donné son accord au cortège prévu le 17 novembre pour rejoindre la place Bellecour à Lyon. L’intersyndicale a qualifié cette décision de victoire pour la liberté de manifester.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-16T20:57:22+00:00",
+    "titres_sources": [
+      "À Lyon, la justice autorise le cortège de la mobilisation du 17 novembre à manifester jusqu'à la place Bellecour"
+    ]
+  },
+  {
+    "titre": "SFR prévoit la fin du réseau 2G en novembre-décembre 2026",
+    "texte": "SFR désactivera le réseau 2G du 15 au 30 novembre 2026 dans les grandes agglomérations, puis du 1 au 15 décembre dans le reste du territoire. Il prévoit aussi la fin de la 3G fin 2028, alors que trois concurrents pourraient en racheter les actifs.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-16T20:57:22+00:00",
+    "titres_sources": [
+      "Entre Orange en octobre et SFR en novembre, la 2G disparaît de France en quelques semaines"
+    ]
   }
 ]
