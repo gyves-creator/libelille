@@ -76,5 +76,25 @@
     "titres_sources": [
       "Eramet : « L’Etat sacrifie les petits et grands actionnaires minoritaires sur l’autel de la souveraineté nationale »"
     ]
+  },
+  {
+    "titre": "Promotions jeux vidéo à l'approche du Black Friday",
+    "texte": "Les grandes enseignes multiplient les remises sur les jeux vidéo à mi-parcours du Black Friday. Amazon démarre sa Black Friday Week jeudi, suivie de la Fnac, Darty et Boulanger, qui proposent également des offres attractives.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-16T10:45:06+00:00",
+    "titres_sources": [
+      "Clair Obscur, Saros, Control Resonant… : les meilleures offres jeux vidéo du Black Friday",
+      "Black Friday en direct : les meilleures offres ce lundi, avant la Black Week"
+    ]
+  },
+  {
+    "titre": "Villeroy de Galhau alerte sur la dette française",
+    "texte": "François Villeroy de Galhau, ancien gouverneur de la Banque de France, a indiqué que l’État emprunte aujourd’hui à un coût bien plus élevé qu’au début de l’année, qualifiant cela de crise de la dette. Il estime toutefois que des solutions permettent d’y faire face.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-16T10:45:06+00:00",
+    "titres_sources": [
+      "\"La France décroche\", alerte l'ancien gouverneur de la Banque de France qui appelle à \"répondre\" à \"cette crise de la dette\"",
+      "Salaires, croissance, jeunesse... Le \"8h30 franceinfo\" de François Villeroy de Galhau"
+    ]
   }
 ]

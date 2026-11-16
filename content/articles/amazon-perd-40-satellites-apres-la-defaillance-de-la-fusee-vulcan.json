@@ -1,0 +1,38 @@
+{
+  "slug": "amazon-perd-40-satellites-apres-la-defaillance-de-la-fusee-vulcan",
+  "titre": "Amazon perd 40 satellites après la défaillance de la fusée Vulcan",
+  "chapeau": "Une anomalie survenue dix minutes après le décollage de la fusée Vulcan a entraîné la perte de la plus importante cargaison de satellites jamais expédiée par Amazon. Le lancement, réalisé depuis la Floride, était le premier d’une série prévue pour le réseau Internet du géant du commerce en ligne.",
+  "corps": "## Un lancement ambitieux interrompu\nLe décollage de la fusée Vulcan, opérée depuis la côte est des États-Unis, a connu une défaillance environ dix minutes après le départ. L’anomalie a entraîné la perte de l’ensemble des quarante satellites transportés, constituant ainsi la plus grande cargaison jamais confiée à Amazon pour le développement de son service d’accès à Internet.\n\n## Un premier vol parmi de nombreux contrats\nCes satellites faisaient partie d’une série de dizaines commandées auprès de United Launch Alliance, le consortium aérospatial qui fournit les lanceurs à la société de Jeff Bezos. Le vol était le premier d’une série prévue pour étoffer le réseau de satellites destiné à offrir une connexion haut débit à l’échelle mondiale.\n\n## Conséquences pour le projet de connectivité\nLa perte de la cargaison représente un revers important pour le programme d’infrastructure spatiale d’Amazon, dont l’objectif est de concurrencer les constellations déjà opérationnelles. Aucun chiffre officiel n’a été communiqué sur les coûts engendrés par l’échec, mais l’incident souligne les risques inhérents aux lancements de masse de satellites.\n\n## Perspectives et mesures correctives\nLes équipes techniques du lanceur et du client étudient les causes de l’anomalie afin d’ajuster les futures missions. Le calendrier des prochains lancements reste à confirmer, tandis que les autorités américaines de régulation spatiale surveillent l’incident dans le cadre de la sécurité des activités orbitales.",
+  "mots_cles": [
+    "Amazon",
+    "Vulcan",
+    "satellites",
+    "lancement spatial",
+    "Internet"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-16T10:44:44+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Seattle_%28February_2022%29_-_063.jpg/1280px-Seattle_%28February_2022%29_-_063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Another Believer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Seattle_(February_2022)_-_063.jpg",
+    "legende": "Seattle (February 2022)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Seattle (February 2022) - 063.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "«Nous n’avons pas été à la hauteur» : Amazon perd 40 satellites après une défaillance de la fusée Vulcan lors de son lancement",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/nous-n-avons-pas-ete-a-la-hauteur-amazon-perd-40-satellites-apres-une-defaillance-de-la-fusee-vulcan-lors-de-son-lancement-20261115"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
