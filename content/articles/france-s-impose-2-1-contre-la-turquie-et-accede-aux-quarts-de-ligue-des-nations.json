@@ -1,0 +1,43 @@
+{
+  "slug": "france-s-impose-2-1-contre-la-turquie-et-accede-aux-quarts-de-ligue-des-nations",
+  "titre": "France s'impose 2-1 contre la Turquie et accède aux quarts de Ligue des Nations",
+  "chapeau": "L'équipe de France a remporté son match décisif contre la Turquie à Bordeaux, s'assurant la première place de son groupe. La victoire, obtenue grâce à un score de 2-1, ouvre la voie aux quarts de finale de la compétition.",
+  "corps": "## Une victoire laborieuse à Bordeaux\nLe dimanche 15 novembre, le stade de Bordeaux a accueilli le duel entre la France et la Turquie dans le cadre de la Ligue des Nations. Les Bleus ont finalement remporté le match 2-1, ce qui leur a permis de terminer premiers de leur groupe et de se qualifier pour les quarts de finale. Le résultat a été décrit comme une victoire obtenue « sans éclat » et « sans briller », la France dominant le jeu mais ne maîtrisant pas toujours le tempo du match.\n\n## Analyse de la performance et des remarques du sélectionneur\nLe sixième match dirigé par Zinédine Zidane a mis en lumière des lacunes récurrentes de l'équipe, malgré la supériorité du score. Le sélectionneur a exprimé son mécontentement, déclarant ne pas être pleinement satisfait du jeu affiché et se montrant « un peu perplexe » face à la timidité de la prestation. Ces propos soulignent une volonté d'améliorer la cohérence collective avant les prochains affrontements.\n\n## Évaluations individuelles\nLes notes attribuées aux joueurs après la rencontre ont mis en avant plusieurs performances. Kylian Mbappé a été jugé percutant, tandis que Da Cunha a été salué pour sa clairvoyance sur le terrain. En revanche, Olise a suscité l'agacement, reflétant les tensions internes liées à la recherche d'un jeu plus fluide. Ces évaluations offrent un aperçu des points forts et des aspects à travailler pour la prochaine phase du tournoi.\n\n## Le contexte du tournoi\nParallèlement à la qualification française, d’autres équipes ont également validé leur place en quarts de finale, comme la Belgique qui a renversé l'Italie grâce à un but décisif de Jérémy Doku. Ces résultats confirment la dynamique compétitive de la Ligue des Nations, où chaque groupe voit se dessiner les favoris pour la suite du championnat.",
+  "mots_cles": [
+    "France",
+    "Turquie",
+    "Ligue des Nations",
+    "qualification",
+    "Zinédine Zidane"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-16T05:38:19+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/France_national_football_team_2018_%28cropped%29_-_Ousmane_Dembele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Кирилл Венедиктов",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:France_national_football_team_2018_(cropped)_-_Ousmane_Dembele.jpg",
+    "legende": "Сборная России проиграла французам",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:France national football team 2018 (cropped) - Ousmane Dembele.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "France-Turquie : revivez la victoire dans la douleur des Bleus qui se qualifient pour les quarts de finale de la Ligue des nations",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Ligue des nations: les Bleus dominent la Turquie sans briller",
+      "url": "https://video.lefigaro.fr/figaro/sports/ligue-des-nations-les-bleus-dominent-la-turquie-sans-briller-20261116"
+    },
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "France-Turquie : les Bleus renouent avec la victoire, mais exposent une nouvelle fois leurs lacunes",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/16/france-turquie-les-bleus-renouent-avec-la-victoire-mais-exposent-une-nouvelle-fois-leurs-lacunes_6811138_3242.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "marine-le-pen-prevoit-la-fin-des-aides-francaises-a-l-ukraine",
+  "titre": "Marine Le Pen prévoit la fin des aides françaises à l'Ukraine",
+  "chapeau": "Marine Le Pen, candidate du Rassemblement National, a confirmé son intention de mettre un terme aux aides de la France à l'Ukraine. Elle doit rencontrer l'ambassadeur ukrainien dans un lieu tenu secret, tandis que le président Emmanuel Macron a dénoncé les pressions en faveur d'une paix qu'il juge injuste.",
+  "corps": "## Position de Marine Le Pen sur l'Ukraine\n\nDans le cadre de la campagne à l'approche de l'élection présidentielle de 2027, la candidate du Rassemblement National a exprimé sa volonté d'abandonner le soutien français à l'Ukraine. Cette décision s’inscrit dans son programme, qui prévoit la suppression des aides allouées à Kiev. Elle n’a pas donné suite à l’invitation du président ukrainien, Volodymyr Zelensky, à un entretien officiel. Une rencontre avec l’ambassadeur de Kiev est toutefois prévue pour le lundi suivant, dans un lieu dont l’emplacement n’a pas été communiqué publiquement.\n\n## Réaction du président Emmanuel Macron\n\nLe président de la République, Emmanuel Macron, a récemment critiqué les acteurs qui, selon lui, cherchent à « forcer » l’Ukraine à accepter une « paix injuste ». Ses remarques, formulées samedi, soulignent son opposition aux pressions qui, à son sens, pourraient compromettre les intérêts ukrainiens. Aucun commentaire direct n’a été recueilli de la part de Marine Le Pen en réponse à ces critiques.\n\n## Contexte électoral\n\nL’élection présidentielle française de 2027 se déroulera selon le calendrier fixé par le code électoral, avec un premier tour suivi, le cas échéant, d’un second tour. Le mandat présidentiel dure cinq ans, sans possibilité de cumul avec d’autres fonctions exécutives. Les candidats déclarés doivent s’inscrire sur les listes électorales et respecter les modalités de vote détaillées sur le site officiel du service public.\n\n## Implications pour la politique étrangère\n\nLa position annoncée par la candidate du RN pourrait entraîner une réorientation de la politique française vis-à-vis de l’Ukraine, notamment en matière d’assistance militaire et économique. La rencontre prévue avec l’ambassadeur ukrainien pourrait servir de cadre à des discussions sur les modalités de cette éventuelle rupture d’aide, bien que le contenu de l’entretien reste inconnu. Le débat public autour de la question ukrainienne continue de se polariser, reflétant les divergences de vues entre les principaux acteurs politiques du pays.",
+  "mots_cles": [
+    "Marine Le Pen",
+    "Ukraine",
+    "présidentielle 2027"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-16T05:38:15+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Marine_Le_Pen_2011.jpg/1280px-Marine_Le_Pen_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Nicolas Richoffer",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2011.jpg",
+    "legende": "Marine Le Pen, le 11 janvier 2011 à Paris.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marine Le Pen 2011.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Marine Le Pen assume sa volonté d’abandonner l’Ukraine en mettant fin aux aides françaises",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
