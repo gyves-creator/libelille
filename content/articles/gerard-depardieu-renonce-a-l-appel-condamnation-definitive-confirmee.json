@@ -1,0 +1,38 @@
+{
+  "slug": "gerard-depardieu-renonce-a-l-appel-condamnation-definitive-confirmee",
+  "titre": "Gérard Depardieu renonce à l'appel, condamnation définitive confirmée",
+  "chapeau": "L'acteur français a abandonné son recours en appel, rendant ferme la peine de 18 mois de prison avec sursis prononcée en mai 2025. Il a présenté des excuses publiques, tandis qu'Anouk Grinberg a rappelé l'importance de la reconnaissance du tort.",
+  "corps": "## Un revirement judiciaire\nAprès avoir été déclaré coupable d'agressions sexuelles sur deux femmes lors du tournage du film *Les Volets verts* en 2021, Gérard Depardieu a officiellement renoncé à interjeter appel de la décision rendue en mai 2025. Cette décision fait que la sentence de 18 mois de prison avec sursis, déjà prononcée, devient définitive. L'acteur a indiqué qu'il avait entendu la condamnation et qu'il l'assumait, ajoutant qu'il présentait des excuses \"profondes et sincères\" aux victimes et à toute personne ayant pu en souffrir.\n\n## Les excuses de l'acteur\nDans un communiqué, Depardieu a exprimé son regret et a reconnu la gravité des faits qui lui sont reprochés. Il a souligné qu'il prenait la responsabilité de ses actes et qu'il souhaitait mettre un terme à la procédure judiciaire en cours. Cette prise de parole intervient après plusieurs semaines de couverture médiatique autour de son affaire, qui avait suscité un large débat sur les comportements abusifs dans le milieu du cinéma.\n\n## Réactions du milieu artistique\nAnouk Grinberg, actrice et amie de longue date de Depardieu, a réagi en affirmant que l'essentiel était que \"un homme, enfin, reconnaisse le mal qu'il a fait\". Son commentaire souligne la dimension symbolique de la reconnaissance publique du préjudice, au-delà de la sanction judiciaire. Aucun autre porte-parole n'a été cité dans les informations disponibles.\n\n## Contexte juridique\nL'affaire remonte à des faits survenus en 2021, lors du tournage de *Les Volets verts*. Après une enquête, le tribunal a condamné Depardieu en mai 2025 à une peine avec sursis, évitant ainsi l'emprisonnement effectif mais maintenant un casier judiciaire. Le renoncement à l'appel, annoncé le 16 novembre 2026, signifie que la décision ne pourra plus être contestée en appel et restera inscrite dans le dossier judiciaire de l'acteur.\n\nCe revirement clôture une procédure qui avait été suivie de près par les médias et le public, tout en rappelant la persistance des débats sur les abus de pouvoir dans le secteur du spectacle.",
+  "mots_cles": [
+    "Gérard Depardieu",
+    "condamnation",
+    "appel",
+    "agressions sexuelles",
+    "excuses"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-16T15:51:49+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/G%C3%A9rard_Depardieu_Cannes_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Georges Biard",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_Depardieu_Cannes_2010.jpg",
+    "legende": "Gérard Depardieu au festival de Cannes",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Gérard Depardieu Cannes 2010.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "Anouk Grinberg affirme que \"le plus important, c'est qu'un homme, enfin, reconnaisse le mal qu'il a fait\", au moment où Gérard Depardieu renonce à son procès en appel",
+      "url": "https://www.franceinfo.fr/culture/cinema/depardieu/anouk-grinberg-affirme-que-le-plus-important-c-est-qu-un-homme-enfin-reconnaisse-le-mal-qu-il-a-fait-au-moment-ou-gerard-depardieu-renonce-a-son-proces-en-appel_8284964.html#xtor=RSS-3-%5Bsociete%5D"
+    },
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Gérard Depardieu renonce à faire appel et « assume » sa condamnation pour agressions sexuelles",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/16/gerard-depardieu-renonce-a-faire-appel-et-assume-sa-condamnation-pour-agressions-sexuelles_6811634_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
