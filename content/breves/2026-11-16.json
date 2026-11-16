@@ -274,5 +274,23 @@
     "titres_sources": [
       "Le gouvernement britannique gracie les femmes condamnées pour avoir avorté, après l'entrée en vigueur d'une loi dépénalisant l'IVG hors délai"
     ]
+  },
+  {
+    "titre": "Renault prévoit la suppression de 1 000 emplois et 2 000 créations",
+    "texte": "Renault prévoirait de supprimer plus d'un millier d'emplois en France, via un plan de départs volontaires touchant 1 000 salariés, tout en créant 2 000 postes sur deux à trois ans. Le dispositif concernerait une dizaine de sites sur l’ensemble du territoire.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-16T20:03:14+00:00",
+    "titres_sources": [
+      "Renault va supprimer plus d’un millier de postes en France pour être plus compétitif face à la concurrence chinoise"
+    ]
+  },
+  {
+    "titre": "Macron reconnaît des erreurs à six mois de la fin de son mandat",
+    "texte": "Emmanuel Macron aurait admis, à six mois de la fin de son mandat, avoir commis des erreurs durant ses dix années à la présidence. Il a exprimé ces propos sur X à l'occasion du dixième anniversaire de sa première candidature.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-16T20:03:14+00:00",
+    "titres_sources": [
+      "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir"
+    ]
   }
 ]
