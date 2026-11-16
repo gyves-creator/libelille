@@ -196,5 +196,25 @@
       "L'incendie d'un immeuble à Phuket, une île très touristique de Thaïlande, fait au moins 11 morts et 36 blessés",
       "En Thaïlande, un incendie fait 11 morts sur l’île touristique de Phuket"
     ]
+  },
+  {
+    "titre": "Le rappeur Gims jugé en décembre à Paris pour corruption",
+    "texte": "Le parquet a indiqué que le chanteur Gims, son associé, son avocate, le responsable d’un centre de formation en sécurité privée et quatre policiers seront jugés en décembre à Paris. Ils sont poursuivis pour corruption et travail dissimulé.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-16T17:22:05+00:00",
+    "titres_sources": [
+      "Gims sera jugé dans une affaire de corruption en décembre, à Paris, aux côtés de quatre policiers",
+      "Le chanteur Gims doit être jugé en décembre à Paris dans une affaire de corruption et de travail dissimulé, avec notamment quatre policiers"
+    ]
+  },
+  {
+    "titre": "Des soldats français présents en Ukraine pour formation, pas combat",
+    "texte": "Selon des informations, des contingents de soldats français seraient déployés en Ukraine depuis l’été 2026 pour former les forces ukrainiennes et assurer l’entretien du matériel militaire. Leur mission exclurait toute participation aux combats.",
+    "rubrique": "international",
+    "publie_le": "2026-11-16T17:22:05+00:00",
+    "titres_sources": [
+      "Guerre en Ukraine : l'armée française joue-t-elle un rôle actif dans le pays ?",
+      "Guerre en Ukraine : la France présente dans le pays depuis au moins l'été 2026"
+    ]
   }
 ]

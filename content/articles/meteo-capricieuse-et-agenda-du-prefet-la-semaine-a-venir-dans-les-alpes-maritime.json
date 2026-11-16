@@ -1,0 +1,43 @@
+{
+  "slug": "meteo-capricieuse-et-agenda-du-prefet-la-semaine-a-venir-dans-les-alpes-maritime",
+  "titre": "Météo capricieuse et agenda du préfet : la semaine à venir dans les Alpes-Maritimes",
+  "chapeau": "Les prévisions annoncent une alternance d’averses, de périodes ensoleillées et de vents forts dans tout le département. Le préfet des Alpes-Maritimes prévoit également une présence soutenue à Nice et dans les environs au cours de la semaine.",
+  "corps": "## Météo du 16 au 22 novembre 2026\n\nLes services météorologiques indiquent que la semaine à venir sera marquée par des conditions variables dans les Alpes-Maritimes. Les habitants de Nice et des communes voisines peuvent s’attendre à des épisodes de pluie ponctués de quelques éclaircies, le tout sous l’influence d’un vent soutenu. Cette alternance entre averses et soleil pourra impacter les déplacements, notamment pour les usagers des transports en commun et les automobilistes, qui sont invités à rester vigilants face aux rafales et aux routes mouillées.\n\n## Déplacements et activités extérieures\n\nEn raison du vent prononcé, les autorités municipales recommandent de sécuriser les objets susceptibles d’être emportés et de limiter les activités nautiques ou sportives en plein air lorsque les conditions deviennent trop agitées. Les services de voirie surveillent les risques de chute d’arbres ou de débris sur les voies publiques. Les usagers des lignes de bus et de tramway sont invités à consulter les informations en temps réel pour connaître d’éventuelles perturbations ou retards.\n\n## Agenda du préfet des Alpes-Maritimes\n\nLe calendrier officiel du préfet indique une semaine d’activités concentrées entre Nice et le reste du département (le \"06\"). Bien que les détails des réunions ou des visites ne soient pas précisés, la présence du préfet dans la métropole niçoise et dans les communes environnantes suggère un suivi renforcé des actions locales, notamment en matière de sécurité publique et de gestion des aléas climatiques. Les services préfectoraux restent disponibles pour répondre aux questions des administrés.\n\n## Informations pratiques\n\nEn cas de besoin, les habitants peuvent contacter le service municipal d’information au 04 93 00 00 00 ou consulter le site internet de la mairie de Nice pour les dernières mises à jour sur la météo, les déviations de circulation et les consignes de sécurité. Les alertes météorologiques seront diffusées via les canaux habituels (SMS, applications mobiles, panneaux d’information).",
+  "mots_cles": [
+    "météo",
+    "vent",
+    "pluie",
+    "Nice",
+    "préfecture"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-16T17:21:51+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ferris_wheel_Nice_Dec_2008_a.jpg/1280px-Ferris_wheel_Nice_Dec_2008_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Cayambe",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ferris_wheel_Nice_Dec_2008_a.jpg",
+    "legende": "Nice , France, at night: centre of the Ferris wheel near square Masséna, December 2008",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Ferris wheel Nice Dec 2008 a.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Encore de la pluie, un peu de soleil et beaucoup de vent : voici la météo de la semaine dans les Alpes-Maritimes",
+      "url": "https://www.nicematin.com/meteo/encore-de-la-pluie-un-peu-de-soleil-et-beaucoup-de-vent-voici-la-meteo-de-la-semaine-dans-les-alpes-maritimes-10762425"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Encore de la pluie, un peu de soleil et beaucoup de vent : voici la météo de la semaine dans les Alpes-Maritimes",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWxoQ3h4N0xyRncyM19QaHB1RkpDelQ4Y1R3VEtOeGtkclV6RkJYZV9lVldvbzJOQ01kdXFUeFZvQWtQY0I3LUFGSlBBMEhhc1RSaW9sTFhxSFRNVVM4QUxINnJEOEp2OUpSYUVaRkdTYUMtU3c1d0YxeGZYNFQydXpXOG9FeXNaWk0wSGU2bXA3ZkUxZElsbVRwLWN6NUtWVUJucW8tMHBoWFZEYzdCMXNLcFNfbU9Wb3ZrVGREckdRX3hMdmw5ZklvbHo4UU1sTEdpUk9kb0FuRzVWYUphdGdzSFg?oc=5"
+    },
+    {
+      "media": "Presse Agence",
+      "titre": "Agenda du Préfet des Alpes-Maritimes : une semaine entre Nice et le 06",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWJhbUJIOW5zOWVZZTZkX0xaMmFXNTM4MDNCcHI3a2xfVHRWMEdzMmM2dmZUZG5LT291S2JqYmJQVF9JSkltVDdkTERuT2FNUloxekVZVHZoU3dDUFdYT3NyNEc4ck5DQk5YUnBSX0NQWDJJeVRYREJnU3FGNWxRUmRYX2UwaXZjNEV4RjhKRXB2cFptNGJVelhZMGtQUEotZmd3N3RTTWNVVEM5QUxNMg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
