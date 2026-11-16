@@ -1,0 +1,38 @@
+{
+  "slug": "report-du-match-nantes-gf38-en-ligue-2-au-lundi-suivant",
+  "titre": "Report du match Nantes – GF38 en Ligue 2 au lundi suivant",
+  "chapeau": "Le match de Ligue 2 opposant le FC Nantes au GF38, initialement prévu ce week-end, est décalé au lundi suivant. La décision résulte des mouvements sociaux qui perturbent la région.",
+  "corps": "## Report du match\nLe FC Nantes devait accueillir le GF38 ce week-end dans le cadre du championnat de Ligue 2. En raison des mobilisations sociales qui affectent la circulation et la sécurité publique, les organisateurs ont choisi de reporter la rencontre au lundi suivant. Aucun détail supplémentaire n’a été fourni sur les raisons précises des perturbations, mais la mesure vise à garantir le bon déroulement du spectacle sportif.\n\n## Conséquences pour les supporters\nLes supporters nésaux du report devront ajuster leurs déplacements. Les autorités locales recommandent de consulter les sites officiels du club et de la ville pour connaître les éventuelles modifications d’horaires de transport en commun et les itinéraires de déviation. Les billets déjà achetés restent valables pour la nouvelle date, mais il est conseillé de vérifier les informations auprès du service billetterie du FC Nantes.\n\n## Contexte du championnat\nLa Ligue 2 constitue le deuxième niveau du football professionnel français, regroupant trente équipes qui s’affrontent tout au long de la saison. Le FC Nantes, club historique, évolue régulièrement dans l’élite du football français, tandis que le GF38, issu de la ville de Grenoble, lutte pour consolider sa place dans le championnat. Un report de match peut impacter le calendrier des deux équipes, notamment en compressant les échéances suivantes.\n\n## Impact local\nOutre les supporters, le report peut entraîner des ajustements pour les commerçants et les services de restauration situés autour du stade. Les flux de visiteurs attendus le week-end étant réduits, les établissements sont invités à anticiper une moindre affluence. Les services de police et de sécurité restent mobilisés pour assurer le bon déroulement de la rencontre lundi, afin d’éviter tout incident lié aux mouvements sociaux persistants.\n\nEn attendant le nouveau créneau, les habitants de Nantes sont encouragés à suivre les annonces officielles du club et de la mairie pour toute mise à jour concernant la circulation et les transports.",
+  "mots_cles": [
+    "football",
+    "Ligue 2",
+    "Nantes",
+    "GF38",
+    "report"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-16T19:03:01+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/So_Chatellerault_-_FC_Nantes_2_-_National_3.jpg/1280px-So_Chatellerault_-_FC_Nantes_2_-_National_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "DDectateur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:So_Chatellerault_-_FC_Nantes_2_-_National_3.jpg",
+    "legende": "SO Chatellerault match on 14/03/2026 against FC Nantes in National 3",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:So Chatellerault - FC Nantes 2 - National 3.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Dauphiné Libéré",
+      "titre": "« On est obligé de s'adapter » : Nantes - GF38 reporté lundi prochain en raison des mouvements sociaux",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTm5kZDN0Tm5raGpsT3pheTZ3NDVXUVIxMWp2aFBxbkVPd0Q2d2lKcy03N3RSejlwc1hvZFpOQmtqeGJRSXotU2s4cVJwbkZhU09NLV8zWUNtRFBrdWhOdXRROUV3RjI2ZXFiLXBjbnFuSTk5UVJvMlZabXB5cVVyWDdHcjV2cEdmUk56aTJVQlE?oc=5"
+    },
+    {
+      "media": "Grenoble Foot Info",
+      "titre": "Ligue 2. Nantes – GF38 se jouera finalement lundi !",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSndtTjRYaGp0N1ZidnB3REM5eTNaQ0tsRjR6VnhtbXJVTFZNWGgyOXNHdjNaamdYWTVlQ3ZNRkhLVHMzNTByRWtXLW5iNHdTV0hOc25jQmthR1ZrNGUyRHNaLUJ4Sjdjb2tEWUhmMW1wdDFMNUdnSXNhLW8wZ1pySVd3WQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

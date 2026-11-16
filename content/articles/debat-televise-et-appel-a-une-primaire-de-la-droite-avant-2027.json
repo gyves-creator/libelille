@@ -1,0 +1,37 @@
+{
+  "slug": "debat-televise-et-appel-a-une-primaire-de-la-droite-avant-2027",
+  "titre": "Débat télévisé et appel à une primaire de la droite avant 2027",
+  "chapeau": "Un débat télévisé réunira cinq candidats à la présidentielle pour aborder le pouvoir d’achat et la précarité. Parallèlement, Gabriel Attal et Bruno Retailleau ont sollicité l’organisation d’une primaire afin d’unifier la droite‑centre et d’éviter un second tour opposant Marine Le Pen et Jean‑Luc Mélenchon.",
+  "corps": "## Débat télévisé sur le pouvoir d’achat\nLe soir du lundi, une émission en direct sera diffusée à partir de 20 h 20 sur TF1, puis relayée sur LCI. Elle réunira les cinq candidats officiellement en lice pour l’élection présidentielle de 2027 : Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean‑Luc Mélenchon et Bruno Retailleau. Au cours de ce temps d’antenne, les participants seront interrogés par des journalistes ainsi que par l’économiste Mathieu Plane, afin d’éclairer les enjeux liés à la vie chère, au pouvoir d’achat et à la précarité. Le format prévoit un échange direct entre les candidats, chaque intervenant devant exposer ses propositions face aux questions posées.\n\n## Appel à une primaire de la droite\nDans le même temps, deux figures majeures de la droite, Gabriel Attal et Bruno Retailleau, ont exprimé le souhait d’organiser une primaire pour désigner un candidat unique. Cette initiative vise à éviter qu’un second tour ne se déroule entre Marine Le Pen et Jean‑Luc Mélenchon, scénarios jugés peu souhaitables par les deux hommes. Leur proposition intervient alors que leurs résultats dans les sondages ont reculé simultanément, un revirement qu’ils associent à la nécessité d’une meilleure coordination au sein de la droite et du centre. L’appel à la primaire se veut donc à la fois une réponse stratégique aux évolutions de l’opinion publique et une tentative de rassembler les électeurs autour d’une candidature commune.\n\nCes deux développements illustrent les dynamiques actuelles de la campagne présidentielle : d’une part, la mise en avant de thèmes économiques cruciaux lors d’un débat national, d’autre part, les ajustements tactiques au sein des partis pour optimiser leurs chances face à la concurrence des extrêmes. Les électeurs disposeront ainsi d’une visibilité accrue sur les positions des candidats et sur les éventuelles alliances envisagées avant le premier tour.\n\nLes informations concernant les modalités de vote, l’inscription sur les listes et les dates clés restent disponibles sur le site officiel du service public.",
+  "mots_cles": [
+    "débat présidentiel",
+    "primaire droite",
+    "pouvoir d'achat",
+    "sondages"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-16T19:02:48+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/1280px-Gabriel_Attal_2025_%28close_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ismail Aissoub",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+    "legende": "Gabriel Attal sur un plateau télé en 2025",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Gabriel Attal 2025 (close crop).jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, présidentielle 2027 : suivez le débat entre Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau sur les questions de pouvoir d’achat",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-suivez-dans-notre-live-le-debat-entre-gabriel-attal-raphael-glucksmann-marine-le-pen-jean-luc-melenchon-et-bruno-retailleau-sur-la-vie-chere_6811633_6205049.html"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
+      "url": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "des-coupures-de-radiateurs-perturbent-le-chauffage-dans-une-residence-de-saint-r",
+  "titre": "Des coupures de radiateurs perturbent le chauffage dans une résidence de Saint‑Roch",
+  "chapeau": "Les habitants d’une résidence du quartier Saint‑Roch, à Nice‑Est, rencontrent des températures intérieures très basses malgré le remplacement de la chaudière. Le bailleur social Agis06 explique que la fermeture d’un radiateur peut affecter l’ensemble du système de chauffage.",
+  "corps": "## Un problème de chauffage persistant\nAprès plusieurs hivers où le chauffage était inexistant, les locataires de la résidence située dans le quartier Saint‑Roch espéraient un retour au confort grâce à l’installation d’une nouvelle chaudière. Les relevés effectués par les résidents montrent toutefois que les pièces restent froides, même lorsque le système est déclaré en marche.\n\n## Explication du bailleur\nAgis06, l’organisme gestionnaire du parc immobilier, a indiqué que la cause pourrait provenir d’un phénomène de déséquilibre hydraulique. Selon l’entité, la fermeture ou le blocage d’un radiateur entraîne une redistribution du fluide caloporteur, ce qui diminue le débit disponible pour les autres émetteurs. Ainsi, un seul radiateur désactivé pourrait réduire la chaleur diffusée dans l’ensemble de l’immeuble, expliquant les températures insuffisantes constatées par les occupants.\n\n## Conséquences pour les locataires\nLe manque de chaleur affecte le quotidien des résidents, notamment en période de grand froid. Les autorités locales ont rappelé que le chauffage est un service essentiel dans les logements sociaux et que les gestionnaires doivent garantir son bon fonctionnement. En attendant une solution technique, les locataires sont invités à signaler toute anomalie de radiateur à leur agence de gestion afin que des vérifications soient effectuées rapidement.\n\n## Démarches à suivre\nLes habitants peuvent contacter le service d’assistance d’Agis06 par téléphone ou via le site internet de la mairie de Nice pour signaler les problèmes de chauffage et obtenir des informations sur les éventuelles interventions prévues. En cas de difficultés persistantes, il est recommandé de se rapprocher du service public d’information administrative (311) pour connaître les droits et les recours disponibles.\n\nEn résumé, la fermeture d’un seul radiateur dans la résidence de Saint‑Roch peut entraîner une baisse de température généralisée, selon le bailleur social. Les locataires sont encouragés à faire remonter chaque dysfonctionnement afin de rétablir un chauffage adéquat avant l’arrivée des prochains épisodes de froid.",
+  "mots_cles": [
+    "chauffage",
+    "résidence sociale",
+    "Nice",
+    "Saint‑Roch",
+    "Agis06"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-16T19:02:54+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Port_Of_Nice%2C_C%C3%B4te_d%27Azur.jpg/1280px-Port_Of_Nice%2C_C%C3%B4te_d%27Azur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Moody Dreiza ( Moody751 at English Wikipedia )",
+    "licence": "CC BY 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Port_Of_Nice,_C%C3%B4te_d%27Azur.jpg",
+    "legende": "Port of Nice, Côte d'Azur",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Port Of Nice, Côte d'Azur.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Couper un radiateur pourrait priver ses voisins de chauffage : comment un bailleur social explique les problèmes dans une de ses résidences à Nice-Est",
+      "url": "https://www.nicematin.com/societe/social/couper-un-radiateur-pourrait-priver-ses-voisins-de-chauffage-comment-un-bailleur-social-explique-les-problemes-dans-une-de-ses-residences-a-nice-est-10762435"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Couper un radiateur pourrait priver ses voisins de chauffage : comment un bailleur social explique les problèmes dans une de ses résidences à Nice-Est",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdGttYmN1ZlBxeDdlYkhaOXdzbU4tVUxFY1g4aW4yZVRBT21qWDNLN3pRWDNiN2dZTHlPdWszMy1vNnFVeDlobmZUUmdVdV9ramV4eFhGaVFQQ3dPbnlrcUpUdjRCNjE0eUVXcWpLbmV3c1lOWUZpaXVCcWx6RHhucUlXeThydmlsRG9JZ2Q1R2JQR1NXZ0ZTOHJGdUpmUjJiZENqVVNlX1psdDVWcTlxVFFVYlRsVHNnLTYyNWRXV1drRWZlR0pELWxYS2NDcXpLcDJQS25rQ25Gb2ltNU5OZzZRRHgwRENkVUlYcXJWbHlmSzVCM0xsX09scDdwbWxlMEJfOHdIWDVGU3FjMF9LanRQczVKWXIxOHpWN0tfNm9lZGFi?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

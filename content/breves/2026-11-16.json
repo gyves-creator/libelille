@@ -236,5 +236,25 @@
       "Procès de l'assassinat du frère d'Amine Kessaci : perpétuité pour deux figures du narcobanditisme marseillais",
       "Amine Oualane et Karim Harrat, figures du narcobanditisme marseillais, ont été condamnés à la perpétuité pour le triple homicide de 2020, dont l’une des victimes est le demi-frère d’Amine Kessaci"
     ]
+  },
+  {
+    "titre": "Elon Musk et d’autres pressent le retour de Jensen Huang chez Nvidia",
+    "texte": "Elon Musk et plusieurs dirigeants de la tech américaine demanderaient la réintégration de Jensen Huang chez Nvidia, invoquant les doutes sur les accusations d’espionnage. Le président Donald Trump aurait jugé que son retour ne serait « pas une mauvaise idée » avant de partir en Asie.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-16T19:03:12+00:00",
+    "titres_sources": [
+      "L’incroyable scénario d’un possible retour de Jensen Huang à la tête de Nvidia",
+      "Nvidia : un retour de Jensen Huang à la tête de l’entreprise ne serait «vraiment pas une mauvaise idée», selon Trump"
+    ]
+  },
+  {
+    "titre": "La France dénonce l’Iran après une cyberattaque sur 700 supermarchés",
+    "texte": "Une cyberattaque attribuée à l’Iran a visé les systèmes de réfrigération de 700 supermarchés français dans la nuit du 11 au 12 octobre. Le gouvernement a dénoncé publiquement l’agression, la qualifiant de première étape d’une stratégie qui pourrait précéder d’éventuelles contre‑mesures.",
+    "rubrique": "international",
+    "publie_le": "2026-11-16T19:03:12+00:00",
+    "titres_sources": [
+      "Quelle riposte pour la France après la cyberattaque contre les réfrigérateurs de supermarché attribuée à l’Iran ?",
+      "Cyberattaque contre des réfrigérateurs de supermarché : le jour où la France a dénoncé l’Iran"
+    ]
   }
 ]
