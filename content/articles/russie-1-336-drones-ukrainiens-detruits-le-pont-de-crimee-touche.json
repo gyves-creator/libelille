@@ -1,0 +1,38 @@
+{
+  "slug": "russie-1-336-drones-ukrainiens-detruits-le-pont-de-crimee-touche",
+  "titre": "Russie : 1 336 drones ukrainiens détruits, le pont de Crimée touché",
+  "chapeau": "La Russie affirme avoir abattu plus de mille drones ukrainiens durant la nuit du 15 novembre et confirme qu’une frappe a atteint le pont stratégique menant à la Crimée. L’Ukraine aurait, de son côté, lancé près de six cents drones vers la région de Moscou, dont la plupart ont été interceptés.",
+  "corps": "## Une vague d’attaques de drones\nDans la nuit du 15 novembre, les forces aériennes russes ont déclaré avoir intercepté et détruit 1 336 drones lancés par l’Ukraine, selon le ministère de la Défense russe. Les engins auraient traversé plusieurs zones, dont la région de Moscou, la mer Noire et la mer d’Azov. Le maire de Moscou a indiqué que la majorité de ces appareils a été neutralisée, même si une partie importante a été détectée au-dessus de la capitale.\n\n## Le pont de Crimée, cible ukrainienne\nParallèlement aux tirs sur le territoire russe, une frappe ukrainienne a atteint le pont reliant le continent russe à la péninsule de Crimée, un ouvrage stratégique construit après l’annexion de 2014. Le dispositif aurait été « touché », entraînant une limitation de la circulation sur le pont. Aucun détail supplémentaire n’a été fourni sur l’étendue des dommages.\n\n## Contexte de la campagne aérienne\nCes opérations interviennent alors que la Russie poursuit ses frappes massives contre les installations énergétiques ukrainiennes, intensifiant la pression à l’approche de l’hiver. Le recours aux drones, tant par Moscou que par Kiev, constitue une composante majeure de la guerre aérienne actuelle, permettant de mener des attaques à longue distance tout en limitant les pertes humaines directes.\n\n## Réactions et perspectives\nLes autorités russes ont présenté la destruction du nombre record de drones comme une preuve de l’efficacité de leurs systèmes de défense aérienne. De leur côté, les responsables ukrainiens n’ont pas commenté les chiffres exacts, se concentrant sur la capacité à atteindre des cibles stratégiques, dont le pont de Crimée. Le conflit demeure ainsi marqué par une escalade technologique où chaque partie cherche à affaiblir les infrastructures adverses tout en protégeant les siennes.",
+  "mots_cles": [
+    "Ukraine",
+    "Russie",
+    "drones",
+    "pont de Crimée",
+    "guerre aérienne"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-16T12:19:35+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_%28%D0%A0%D0%BE%D1%81%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D1%80%29_3.jpg/1280px-%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_%28%D0%A0%D0%BE%D1%81%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D1%80%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Росавтодор",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_(%D0%A0%D0%BE%D1%81%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D1%80)_3.jpg",
+    "legende": "Crimean Bridge",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Крымский мост (Росавтодор) 3.jpg"
+  },
+  "sources": [
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Frappes ukrainiennes en Russie : le pont de Crimée touché",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-frappes-ukrainiennes-en-russie-le-pont-de-crim%C3%A9e-touch%C3%A9"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "L'Ukraine a frappé contre le pont reliant la Russie à la Crimée, et lancé plus de 600 drones dans la région de Moscou",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-a-frappe-contre-le-pont-reliant-la-russie-a-la-crimee-et-lance-plus-600-drones-dans-la-region-de-moscou_8284412.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

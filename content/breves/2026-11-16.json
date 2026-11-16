@@ -116,5 +116,23 @@
     "titres_sources": [
       "La vente et la consommation de cocaïne atteignent des sommets en France, selon une étude de l’OFDT"
     ]
+  },
+  {
+    "titre": "400 000 manifestants à Prague contre réforme de l’audiovisuel public",
+    "texte": "Selon les autorités, près de 400 000 manifestants se seraient rassemblés à Prague pour s’opposer à une réforme du financement de l’audiovisuel public. Cette mesure est portée par le gouvernement d’Andrej Babiš, considéré comme populiste.",
+    "rubrique": "international",
+    "publie_le": "2026-11-16T12:20:03+00:00",
+    "titres_sources": [
+      "République tchèque : les images de la plus grande manifestation dans le pays depuis 1989"
+    ]
+  },
+  {
+    "titre": "UE prévoit sanctions contre plus de 100 entités russes",
+    "texte": "L’Union européenne aurait annoncé de nouvelles sanctions contre plus de 100 entités et personnes afin de limiter le financement russe de la guerre en Ukraine. Des banques russes ainsi que le secteur du commerce électronique sont notamment visés.",
+    "rubrique": "international",
+    "publie_le": "2026-11-16T12:20:03+00:00",
+    "titres_sources": [
+      "L'UE annonce de nouvelles sanctions contre plus de 100 entités et personnes \"pour mieux restreindre la capacité de la Russie à financer sa guerre\" en Ukraine"
+    ]
   }
 ]
