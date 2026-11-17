@@ -1,0 +1,32 @@
+{
+  "slug": "debat-sur-la-primaire-droite-centre-avant-la-presidentielle-2027",
+  "titre": "Débat sur la primaire droite‑centre avant la présidentielle 2027",
+  "chapeau": "Gabriel Attal, Bruno Retailleau et David Lisnard plaident pour une primaire rassemblant la droite et le centre, tandis qu’Édouard Philippe s’y oppose. Un éditorialiste estime que l’exercice, conçu pour mobiliser les électeurs, a perdu son sens et sert désormais à se retirer discrètement de la scène politique.",
+  "corps": "## Une proposition de primaire au sein de la droite et du centre\n\nDans le contexte de la prochaine élection présidentielle prévue en 2027, trois responsables politiques – le ministre Gabriel Attal, le sénateur Bruno Retailleau et le maire David Lisnard – ont exprimé le souhait d’organiser une primaire réunissant les forces de droite et du centre. L’objectif affiché serait de consolider les soutiens électoraux et d’offrir un choix commun aux électeurs de ces courants. Cette initiative s’inscrit dans la tradition française où les primaires internes sont parfois utilisées pour clarifier les candidatures avant le premier tour.\n\n## Le refus d’Édouard Philippe et les critiques de la pertinence\n\nÉdouard Philippe, ancien Premier ministre, a indiqué ne pas vouloir participer à cette primaire. Son refus laisse la porte ouverte à d’autres scénarios de candidature et souligne les divergences internes au sein de la famille politique de droite. Dans une chronique, l’éditorialiste Françoise Fressoz a commenté que la primaire, née comme un instrument destiné à relancer la mobilisation des électeurs, semble aujourd’hui devenir « l’arme des perdants ». Elle estime que le dispositif a perdu sa raison d’être et ne sert plus qu’à permettre à certains acteurs de quitter le devant de la scène de façon moins embarrassante.\n\n## Contexte et enjeux du dispositif primaire\n\nLes primaires françaises, qu’elles soient ouvertes ou réservées aux adhérents, sont généralement perçues comme un moyen de légitimer la candidature d’un parti ou d’une coalition. Elles permettent de mesurer l’appétence du public et d’unifier les soutiens autour d’un candidat unique. Cependant, leur mise en œuvre implique des coûts logistiques et financiers, ainsi qu’une organisation interne complexe. Le débat actuel montre que, dans le cas de la droite et du centre, les avantages perçus ne font pas l’unanimité parmi les principaux acteurs.\n\n## Perspectives pour la campagne présidentielle 2027\n\nSi la primaire devait être mise en place, elle pourrait influencer la dynamique des campagnes en amont du premier tour, en concentrant les soutiens et en limitant la dispersion des voix. En revanche, l’absence de participation d’Édouard Philippe pourrait encourager la multiplication de candidatures indépendantes, rendant la scène électorale plus fragmentée. Le commentaire de l’éditorialiste souligne que la pertinence même de la primaire est remise en question, ce qui pourrait pousser les partis à reconsidérer leurs stratégies de mobilisation.\n\nEn définitive, le débat autour de la primaire droite‑centre reflète les tensions internes et les stratégies divergentes qui se dessinent à l’approche de la présidentielle 2027. Les décisions prises dans les semaines à venir détermineront si cet outil de mobilisation sera utilisé ou abandonné au profit d’autres formes de campagne.",
+  "mots_cles": [
+    "primaire",
+    "droite",
+    "centre",
+    "présidentielle 2027"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-17T05:06:27+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027_T1_carte_d%C3%A9partements_%26_r%C3%A9gions.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Julio974fr",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027_T1_carte_d%C3%A9partements_%26_r%C3%A9gions.png",
+    "legende": "Map of the results by department and region of the first round of the 2027 french presidential election.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Élection présidentielle française de 2027 T1 carte départements & régions.png"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : « La primaire, apparue à l’origine comme un outil apte à réveiller la mobilisation des électeurs, est en train de devenir l’arme des perdants »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/17/presidentielle-2027-la-primaire-apparue-a-l-origine-comme-un-outil-apte-a-reveiller-la-mobilisation-des-electeurs-est-en-train-de-devenir-l-arme-des-perdants_6812900_3232.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

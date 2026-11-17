@@ -1,0 +1,37 @@
+{
+  "slug": "frappes-russes-sur-deux-ponts-de-kiev-infrastructures-critiques-touchees",
+  "titre": "Frappes russes sur deux ponts de Kiev, infrastructures critiques touchées",
+  "chapeau": "Des frappes russes ont touché lundi soir les ponts Nord et Sud de Kiev, endommageant des infrastructures critiques selon le maire Vitali Klitschko. La Russie a également confirmé que le pont de Crimée a été frappé pour la deuxième journée consécutive.",
+  "corps": "## Attaques sur les ponts de la capitale ukrainienne\nLundi soir, des missiles d’origine russe ont percuté deux des principaux ouvrages d’art de la ville de Kiev, les ponts dits Nord et Sud. Ces deux structures assurent la circulation transversale du trafic routier et ferroviaire au cœur de la métropole, jouant un rôle essentiel dans la mobilité quotidienne des habitants et le transport de marchandises.\n\n## Cibles et dégâts constatés\nLe maire de la capitale, Vitali Klitschko, a indiqué que les frappes avaient endommagé des « systèmes d’infrastructures critiques ». Si les déclarations ne précisent pas l’ampleur exacte des dommages, il est entendu que les ponts, en tant que maillons vitaux du réseau de transport, font partie de ces installations stratégiques. Aucun détail supplémentaire sur les pertes humaines ou les réparations immédiates n’a été communiqué dans les informations disponibles.\n\n## Déclarations des autorités\nVitali Klitschko a informé la population que les attaques visaient des infrastructures essentielles et a souligné la nécessité de renforcer la protection des sites civils. De son côté, les autorités russes ont confirmé que le pont de Crimée, situé hors de Kiev, a de nouveau été la cible d’une frappe, marquant ainsi la deuxième journée consécutive d’attaques sur cet ouvrage.\n\n## Contexte du conflit\nCes nouvelles frappes s’inscrivent dans la poursuite des hostilités qui opposent la Russie à l’Ukraine depuis 2022. Les infrastructures de transport, notamment les ponts, sont fréquemment visées en raison de leur importance stratégique pour la logistique militaire et civile. Les autorités ukrainiennes continuent de dénoncer les attaques contre des cibles civiles, tandis que la Russie justifie ses opérations comme des actions contre des objectifs militaires.\n\nLes habitants de Kiev restent vigilants face à la menace d’éventuelles nouvelles frappes, et les services de secours se tiennent prêts à intervenir en cas de nouveaux incidents.",
+  "mots_cles": [
+    "Kiev",
+    "ponts",
+    "frappes russes",
+    "infrastructures critiques"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-17T05:06:33+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/St._Volodymyr%27s_Cathedral_in_Kiev.jpg/1280px-St._Volodymyr%27s_Cathedral_in_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Petar Milošević",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:St._Volodymyr%27s_Cathedral_in_Kiev.jpg",
+    "legende": "St Volodymyr's Cathedral in Kyiv, Ukraine.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:St. Volodymyr's Cathedral in Kiev.jpg"
+  },
+  "sources": [
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+      "url": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko",
+      "url": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
