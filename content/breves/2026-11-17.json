@@ -109,5 +109,23 @@
     "titres_sources": [
       "Renault embauche 2 000 ouvriers en France grâce au succès de ses modèles électriques"
     ]
+  },
+  {
+    "titre": "Manifestations du 17 novembre : perturbations du transport à Paris",
+    "texte": "Le trafic des trains régionaux serait perturbé et plusieurs stations de métro parisiennes fermées à la suite des manifestations du 17 novembre. L’intersyndicale inviterait les agents de la fonction publique à une nouvelle journée d’action pour demander une hausse salariale face à l’inflation.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-17T09:41:48+00:00",
+    "titres_sources": [
+      "DIRECT. Manifestations du 17 novembre : le trafic des trains régionaux perturbé, des stations de métro fermées à Paris"
+    ]
+  },
+  {
+    "titre": "Stick Nation : 3 millions d’utilisateurs notent des bouts de bois sur Instagram",
+    "texte": "Environ trois millions d’utilisateurs auraient noté des bouts de bois sur Instagram, créant la communauté Stick Nation qui partage des photos de bâtons ramassés. Cette initiative, née d’une blague entre amis, serait devenue un phénomène mondial considéré comme un espace internet neutre et apaisant.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T09:41:48+00:00",
+    "titres_sources": [
+      "Trois millions de personnes notent des bouts de bois sur Instagram, et c’est peut-être l'endroit le plus \"feel good\" d’internet"
+    ]
   }
 ]
