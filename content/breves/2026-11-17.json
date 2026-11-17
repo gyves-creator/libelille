@@ -35,5 +35,23 @@
     "titres_sources": [
       "REPORTAGE. \"On espère une interdiction à l'échelle nationale\" : la Chine peine à maîtriser l'explosion de l'usage des sacs plastiques jetables"
     ]
+  },
+  {
+    "titre": "L'IA freine les recrutements dans les métiers automatisables",
+    "texte": "Une étude de Coface et de l’Observatoire des emplois menacés et émergents indique que l’essor de l’intelligence artificielle ralentit les embauches au-delà des postes juniors, sans toutefois entraîner de licenciements. Elle signale toutefois une raréfaction des offres d’emploi dans ces fonctions.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T06:43:15+00:00",
+    "titres_sources": [
+      "L’essor de l’IA ralentit les recrutements des métiers les plus automatisables, au-delà des postes juniors"
+    ]
+  },
+  {
+    "titre": "Personnel éducatif des lycées en Île-de-France épuisé après deux mois de mobilisation",
+    "texte": "La région Île-de-France indique que 25 lycées restent perturbés, deux mois après le début de la mobilisation. Des enseignants et membres de la vie scolaire interrogés dans trois établissements déclarent que leurs relations avec la direction se sont détériorées.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-17T06:43:15+00:00",
+    "titres_sources": [
+      "Dans les lycées mobilisés, le personnel éducatif éprouvé après deux mois de mobilisation"
+    ]
   }
 ]
