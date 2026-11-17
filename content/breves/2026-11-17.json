@@ -451,5 +451,23 @@
     "titres_sources": [
       "EN DIRECT - Multiplex Ligue des nations : la Norvège de Haaland joue sa place en quarts, le Portugal veut se racheter"
     ]
+  },
+  {
+    "titre": "L’Asvel écrasée par Fenerbahçe à Istanbul",
+    "texte": "L’Asvel de Lyon Villeurbanne a subi une lourde défaite contre le Fenerbahçe turc lors de la 12e journée de l’Euroligue. Le match s’est déroulé en Turquie, où les Turcs ont dominé le jeu.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-17T20:32:42+00:00",
+    "titres_sources": [
+      "Basket : l’Asvel de Tony Parker sévèrement corrigée en Turquie"
+    ]
+  },
+  {
+    "titre": "Manifestations contre la vie chère rassemblent 146 000 à 500 000 participants",
+    "texte": "Le ministère de l’Intérieur comptabilise 146 000 manifestants, dont des fonctionnaires, salariés du privé et jeunes, lors des cortèges contre la hausse du coût de la vie. La CGT revendique quant à elle plus de 500 000 participants dans tout le pays.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-17T20:32:42+00:00",
+    "titres_sources": [
+      "\"Il y a des choses qu'on ne peut pas faire\", \"À la fin du mois, on est limite à découvert\"… Les fonctionnaires vent debout contre la vie chère"
+    ]
   }
 ]
