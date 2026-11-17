@@ -299,5 +299,23 @@
     "titres_sources": [
       "La présidentielle de 2027 et ses enjeux : l’immigration face à la réalité des chiffres"
     ]
+  },
+  {
+    "titre": "Suspension de six matches du sélectionneur des Springboks",
+    "texte": "Le sélectionneur sud-africain Rassie Erasmus serait suspendu pour six rencontres après avoir critiqué l’arbitrage du match contre la France, où les Springboks, champions du monde en titre, ont perdu. Ses propos évoquaient un possible trucage du résultat.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-17T16:42:54+00:00",
+    "titres_sources": [
+      "Rugby : le sélectionneur des Springboks suspendu six matches après ses critiques de l’arbitrage du match contre la France"
+    ]
+  },
+  {
+    "titre": "Nouvelle vague de manifestations le 17 novembre, 146 000 participants",
+    "texte": "Selon les organisateurs, environ 146 000 personnes manifesteraient dans plusieurs villes de France, mêlant lycéens, étudiants, retraités et salariés du privé, pour réclamer de meilleures rémunérations. Le parti LFI dénoncerait un durcissement de la répression et déposerait un projet de loi d’amnistie.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T16:42:54+00:00",
+    "titres_sources": [
+      "EN DIRECT - Grève du 17 novembre : 146.000 manifestants en France, «la répression» s’est «durcie» selon LFI, qui dépose une loi d’«amnistie»"
+    ]
   }
 ]
