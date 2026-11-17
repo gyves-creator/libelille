@@ -71,5 +71,24 @@
     "titres_sources": [
       "REPORTAGE. En Russie, les habitants vivent au quotidien la peur des attaques de drones ukrainiens"
     ]
+  },
+  {
+    "titre": "Accord de réduction tarifaire entre la Chine et le Canada",
+    "texte": "Les deux pays ont accepté de réduire les droits de douane sur environ 256 M€ d'exportations alimentaires et 400 M$ canadiens de poisson, fruits de mer et porc congelé. En échange, la Chine verra prolongées de deux ans les mesures d'exonération applicables à certains de ses produits.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T07:59:01+00:00",
+    "titres_sources": [
+      "La Chine et le Canada s’accordent sur des nouvelles réductions des droits de douane",
+      "La Chine et le Canada s’accordent sur de nouvelles réductions des droits de douane"
+    ]
+  },
+  {
+    "titre": "Plus de 500 km d'embouteillages en Île-de-France",
+    "texte": "Les autorités régionales ont signalé plus de 500 km d'embouteillages ce mardi matin en Île-de-France. Ils attribuent la congestion à la fermeture de l'A13, à une grève et à plusieurs accidents.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T07:59:01+00:00",
+    "titres_sources": [
+      "Fermeture de l’A13, grève, accidents… Plus de 500 kilomètres de bouchons en Île-de-France ce mardi matin"
+    ]
   }
 ]
