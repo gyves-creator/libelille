@@ -394,5 +394,24 @@
     "titres_sources": [
       "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »"
     ]
+  },
+  {
+    "titre": "Royaume‑Uni : un rapport propose des mesures pour 1 million de jeunes NEET",
+    "texte": "Un rapport publié le mardi 17 novembre expose des pistes destinées à près d’un million de Britanniques de 16 à 24 ans qui ne sont ni en emploi, ni en études, ni en formation. Le gouvernement prévoit s’en inspirer pour présenter ses propositions en 2027.",
+    "rubrique": "international",
+    "publie_le": "2026-11-17T19:10:26+00:00",
+    "titres_sources": [
+      "Royaume-Uni : une réforme « radicale » pour remettre dans l’emploi « une génération perdue »",
+      "\"Les entreprises doivent accorder la priorité aux jeunes\" : le Royaume-Uni veut remettre au travail un million de jeunes sans emploi"
+    ]
+  },
+  {
+    "titre": "Paris : un mois après le 17 octobre, appel à de nouvelles manifestations",
+    "texte": "Un mois après les mobilisations du 17 octobre, un cortège parisien s’est réuni pour commémorer cette journée qualifiée d’imparfaite mais décisive. Le mardi, l’intersyndicale de la fonction publique lance un nouvel appel à manifester, alors que les cortèges sont moins nombreux depuis le 7 novembre.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-17T19:10:26+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"C'est grâce à ce jour que ça continue aujourd'hui\" : un mois après le 17 octobre, le cortège parisien se souvient d'une journée de mobilisation imparfaite mais \"déterminante\""
+    ]
   }
 ]

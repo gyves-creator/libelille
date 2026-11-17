@@ -1,0 +1,33 @@
+{
+  "slug": "amiens-le-parking-de-l-ancienne-usine-whirlpool-temoin-d-une-fermeture-decisive",
+  "titre": "Amiens : le parking de l’ancienne usine Whirlpool, témoin d’une fermeture décisive pour la présidentielle 2027",
+  "chapeau": "Benjamin, journaliste, s’est rendu sur le site de l’ancienne usine Whirlpool à Amiens, où le parking, jadis animé, n’est plus qu’un terrain vague. Cette visite rappelle que la fermeture de l’usine, survenue il y a dix ans, a constitué un enjeu majeur lors de la campagne présidentielle de 2027.",
+  "corps": "## Un repère industriel devenu terrain vague\nBenjamin a parcouru le parking de l’ancien site de production Whirlpool, situé à Amiens, en Picardie. Le lieu, qui accueillait autrefois les flux de salariés et les livraisons de pièces détachées, apparaît aujourd’hui comme un espace désert, envahi par la végétation et les gravats. Le journaliste a retrouvé le délégué syndical qui était alors à la tête de la représentation du personnel, afin d’évaluer l’évolution du site depuis la cessation d’activité.\n\n## La fermeture de l’usine, un sujet de campagne\nIl y a dix ans, la décision de mettre fin à l’activité de l’usine Whirlpool avait suscité de vives réactions dans la région, tant du côté des salariés que des élus locaux. Cette fermeture a été citée à plusieurs reprises dans les débats électoraux, chaque candidat devant expliquer sa position sur la reconversion industrielle et le soutien aux territoires affectés. L’impact économique et social de la perte d’un employeur majeur a ainsi alimenté les programmes présentés lors de la campagne pour l’élection présidentielle de 2027.\n\n## Un témoignage syndical au cœur du débat\nLe délégué syndical rencontré par le journaliste a rappelé les circonstances de la fermeture, sans toutefois fournir de chiffres précis sur le nombre de postes supprimés. Il a souligné que le parking, aujourd’hui inutilisé, symbolise la rupture entre le passé industriel de la ville et les défis actuels de reconversion. Aucun engagement concret n’a été annoncé depuis lors pour réaménager le site, ce qui laisse la communauté locale dans l’attente d’une solution durable.\n\n## Perspectives pour les électeurs\nLes électeurs qui s’interrogent sur les conséquences de la fermeture de l’usine Whirlpool peuvent consulter les informations disponibles sur les modalités de vote et l’inscription sur les listes électorales via le service public. La question de la revitalisation des friches industrielles reste un sujet récurrent dans les programmes des candidats, reflétant l’importance accordée aux enjeux régionaux dans le cadre de la présidentielle de 2027.",
+  "mots_cles": [
+    "Whirlpool",
+    "Amiens",
+    "présidentielle 2027",
+    "fermeture d'usine",
+    "syndicat"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-17T19:10:17+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/HK_Causeway_Bay_%E7%A6%AE%E9%A0%93%E9%81%93_Leighton_Road_36_%E5%98%89%E6%9F%8F%E5%A4%A7%E5%BB%88_H%26S_Building_shop_Whirlpool_showroom_Aug-2010.JPG/1280px-HK_Causeway_Bay_%E7%A6%AE%E9%A0%93%E9%81%93_Leighton_Road_36_%E5%98%89%E6%9F%8F%E5%A4%A7%E5%BB%88_H%26S_Building_shop_Whirlpool_showroom_Aug-2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wfords378",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_Causeway_Bay_%E7%A6%AE%E9%A0%93%E9%81%93_Leighton_Road_36_%E5%98%89%E6%9F%8F%E5%A4%A7%E5%BB%88_H%26S_Building_shop_Whirlpool_showroom_Aug-2010.JPG",
+    "legende": "zh:銅鑼灣",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:HK Causeway Bay 禮頓道 Leighton Road 36 嘉柏大廈 H&S Building shop Whirlpool showroom Aug-2010.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "C’est Benjamin... à l'ex-usine Whirlpool, à Amiens",
+      "url": "https://www.franceinfo.fr/politique/c-est-benjamin-a-l-ex-usine-whirlpool-a-amiens_8286821.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
