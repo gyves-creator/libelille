@@ -242,5 +242,24 @@
     "titres_sources": [
       "EN DIRECT - Présidentielle 2027 : Bruno Retailleau tacle Marine Le Pen et sa réforme des retraites «injuste et bancale», qui «fragiliserait le système»"
     ]
+  },
+  {
+    "titre": "Voyager 1 atteint un jour‑lumière de la Terre",
+    "texte": "Le 18 novembre 2026, la sonde Voyager 1 de la NASA atteindra une distance d’un jour‑lumière, soit environ 25,9 milliards de kilomètres, soit 49 ans après son lancement en 1977. La veille, la NASA propose aux internautes d’envoyer un signal en morse depuis leur smartphone.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-17T15:00:18+00:00",
+    "titres_sources": [
+      "Voyager 1 atteint un jour-lumière de la Terre : à 26 milliards de km de la Terre, cela aurait pris 28 250 ans en voiture",
+      "Faire signe à une sonde à 26 milliards de kilomètres : c’est absurde, c’est poétique, et c’est ce soir"
+    ]
+  },
+  {
+    "titre": "Manifestations du 17 novembre à Paris : jeunes et risques d’incitation",
+    "texte": "Le 17 novembre, des jeunes ont occupé les rues de Paris pour marquer la grève. Des éléments d’ultragauche pourraient tenter d’intervenir en fin de cortège, selon des sources policières.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T15:00:18+00:00",
+    "titres_sources": [
+      "EN DIRECT - Grève du 17 novembre : «Occuper l’espace public le plus possible», les jeunes donnent le rythme de la manifestation à Paris"
+    ]
   }
 ]

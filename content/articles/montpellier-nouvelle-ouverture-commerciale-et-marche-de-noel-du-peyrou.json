@@ -1,0 +1,38 @@
+{
+  "slug": "montpellier-nouvelle-ouverture-commerciale-et-marche-de-noel-du-peyrou",
+  "titre": "Montpellier : nouvelle ouverture commerciale et marché de Noël du Peyrou",
+  "chapeau": "Une nouvelle enseigne, La Compagnie des Lavandières, s’installe prochainement à Montpellier. Le marché de Noël du Peyrou ouvrira également ses stands dans les prochains jours.",
+  "corps": "## Une nouvelle enseigne s’installe à Montpellier\nLa ville de Montpellier accueillera prochainement La Compagnie des Lavandières, une structure commerciale dont le nom a été annoncé récemment. Aucun détail supplémentaire n’a été communiqué sur l’activité exacte de l’entreprise, son adresse précise ou la date exacte d’inauguration. L’ouverture de ce commerce intervient dans un contexte de dynamisation du tissu commercial local, offrant aux habitants une nouvelle adresse où se rendre pour leurs achats ou services.\n\n## Le marché de Noël du Peyrou se prépare\nLe quartier du Peyrou, connu pour son espace ouvert et son rôle de cadre de nombreux événements publics, s’apprête à accueillir son marché de Noël. Les organisateurs ont indiqué que les stands seront installés « bientôt », sans préciser de date précise. Ce type de marché, habituellement installé chaque fin d’année, propose des chalets de vente d’artisanat, de produits alimentaires typiques de la saison et des animations pour les familles. Son implantation au Peyrou devrait faciliter l’accès en transports en commun et la circulation piétonne, bien que les autorités n’aient pas encore publié de consignes de déviation ou de modification de la voirie.\n\n## Impacts pour les habitants et informations pratiques\nL’ouverture de La Compagnie des Lavandières et la mise en place du marché de Noël du Peyrou représentent deux nouveautés susceptibles d’affecter le quotidien des Montpelliérains. Les résidents devront prévoir éventuellement des ajustements de leurs déplacements si des travaux d’aménagement sont entrepris avant l’inauguration du commerce. De même, l’affluence attendue autour du marché de Noël pourra entraîner une densité de circulation accrue dans le quartier du Peyrou, incitant à privilégier les transports en commun ou le stationnement à distance.\n\nPour toute question relative aux horaires, aux emplacements exacts ou aux éventuelles déviations, il est recommandé de consulter le site officiel de la mairie de Montpellier ou de contacter le service d’information de la ville. Les informations seront régulièrement mises à jour afin de garantir la fluidité des déplacements et la sécurité des visiteurs pendant ces deux événements.",
+  "mots_cles": [
+    "Montpellier",
+    "marché de Noël",
+    "Peyrou",
+    "ouverture commerciale",
+    "La Compagnie des Lavandières"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-17T14:59:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Montpellier_-_All%C3%A9e_Missak_Manouchian_%282%29.jpg/1280px-Montpellier_-_All%C3%A9e_Missak_Manouchian_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Combrian",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Montpellier_-_All%C3%A9e_Missak_Manouchian_(2).jpg",
+    "legende": "Missak Manouchian Path in Montpellier (Hérault, France).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montpellier - Allée Missak Manouchian (2).jpg"
+  },
+  "sources": [
+    {
+      "media": "AC Franchise",
+      "titre": "La Compagnie des Lavandières ouvre à Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlNzMDRLYk9DOVVpdi1tOXRvbmI0ZWtoV2FLaUtxM3gzdzBxaWZRSVAtQUs3ekdNX3RDNS05c2UzdkRVeTdIR2ZQYTgxc2lVazVBOWQ1OHN1dXZJc3JWbEQ2TkZwTEUyZFZQY0xodm5YMUZZRTNuV0sxbGU0ak9fVm9OY1U3eEFmcE5uYW1GUWpPTG5FUFpXVTYtN09kbTRPcWVIWi16QUpGeFdpZVZwaDB0Z2dIZ3ZuOWpVcnZYbDBENTRhQXc?oc=5"
+    },
+    {
+      "media": "InfOccitanie",
+      "titre": "Montpellier : le marché de Noël du Peyrou ouvre bientôt !",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVBwZXBLWlNEbUlGa2NUbWpyNWh5LVo2OVdDa2Ffd2FLTWlkZzZZWW1QRGxxbTBiUlp3QWg5Q1N1eF9XQmZlOHJ2MDNtNEptYlQ1QVlsLVFRVEZ3UE4xbW9pMDBCNkswZ0VwZ0VvTkxOSlZjMG5FbXF5OWRYX0dybHpQbEM?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
