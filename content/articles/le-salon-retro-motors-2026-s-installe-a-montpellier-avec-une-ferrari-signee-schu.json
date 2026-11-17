@@ -1,0 +1,38 @@
+{
+  "slug": "le-salon-retro-motors-2026-s-installe-a-montpellier-avec-une-ferrari-signee-schu",
+  "titre": "Le salon Rétro Motors 2026 s'installe à Montpellier avec une Ferrari signée Schumacher",
+  "chapeau": "Le salon Rétro Motors, dédié aux voitures anciennes et aux supercars, arrive à Montpellier. L’événement mettra en avant une Ferrari rare signée par le légendaire Michael Schumacher.",
+  "corps": "## Un rendez‑vous automobile d’exception à Montpellier\nLe salon Rétro Motors, consacré aux véhicules de collection et aux modèles de haute performance, se tiendra prochainement dans la ville de Montpellier. Parmi les pièces phares annoncées, une Ferrari d’époque, signée du nom du septuple champion du monde Michael Schumacher, suscite déjà un vif intérêt auprès des passionnés.\n\n## Une vitrine de supercars et de voitures historiques\nOutre la Ferrari signée, le programme prévoit l’exposition d’un large éventail de supercars contemporaines et de voitures anciennes, illustrant l’évolution du design et de la technologie automobile. Les organisateurs ont indiqué que les exposants présenteront des modèles emblématiques, allant des classiques des années 1960 aux bolides les plus récents, offrant ainsi aux visiteurs une traversée du temps automobile.\n\n## Un événement qui dynamise la vie locale\nLe salon attire chaque année de nombreux amateurs, collectionneurs et curieux, générant une affluence notable dans la ville. Bien que les détails précis de l’emplacement et des horaires n’aient pas été communiqués, les autorités municipales invitent les habitants à consulter les sites officiels de la ville pour connaître les éventuelles mesures de circulation ou de stationnement mises en place pendant la durée de l’exposition.\n\n## Informations pratiques pour les visiteurs\nLes personnes souhaitant assister à Rétro Motors sont encouragées à se rendre sur le site internet de la mairie de Montpellier ou à contacter le service d’information touristique pour obtenir les dernières mises à jour concernant l’accès, les transports en commun et les éventuelles restrictions temporaires. Ces sources fourniront les indications nécessaires afin de planifier au mieux la visite du salon.",
+  "mots_cles": [
+    "Rétro Motors",
+    "Ferrari",
+    "Michael Schumacher",
+    "Montpellier",
+    "voitures anciennes"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-17T16:03:10+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Montpellier_-_All%C3%A9e_Missak_Manouchian.jpg/1280px-Montpellier_-_All%C3%A9e_Missak_Manouchian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Combrian",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Montpellier_-_All%C3%A9e_Missak_Manouchian.jpg",
+    "legende": "Street sign of the Missak Manouchian Path in Montpellier (Hérault, France).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montpellier - Allée Missak Manouchian.jpg"
+  },
+  "sources": [
+    {
+      "media": "Claap",
+      "titre": "Rétro Motors 2026 à Montpellier : Une Ferrari rarissime signée Michael Schumacher en vedette",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0EyOXNtbzNLWFZ6N1JQVXZBOWZCcWpnTEhjcm9DZXdKY0F5MlR6TlRXNmcyTGhKRFhLRlVFcVAtUkJoZ1lkMmR6QlRuZlFMQ0RxLTBkeXBqdUtUbUlUNzJtMG9uRFRwcEt3V2xwWXJLNTJ6Wl9vNG5WY2EybGl2U0NIRTlsMGpjYXAwc2lldjFfeDZBVDFfMFoxTHllRkhNT3p1b2l6THAxaW90?oc=5"
+    },
+    {
+      "media": "Auto Plus",
+      "titre": "Une Ferrari signée par Michael Schumacher, des supercars et des voitures anciennes : le salon Rétro Motors arrive à Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dWQmV6MWV6Tm5ZZ0ZFRDNuUEVmc2ZmNWtQOHFiNDRpOHVmMjFkY3R6T3gzZ0ZHQXJQN09CZG0yeTR2MkhlUHBsc1FOVEZZUFYybmh6dkwzVkZONFpCbXF2YmM4M1NfM2htZFd3TENCaGU3WkhScVpSUTZLLXFlQ2JfcHRFcDVacjBqN0VBTkttNjIyMVF0SzNVV1ByWjdpOWJxYkd5YUxsQ05CMUg5X1I2TElBYS1RalM5N1R4TE55N0RMbnY5bzdhS2NDNzNONmhjUXpB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

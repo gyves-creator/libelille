@@ -1,0 +1,42 @@
+{
+  "slug": "trois-adherents-hospitalises-apres-un-probleme-technique-a-la-piscine",
+  "titre": "Trois adhérents hospitalisés après un problème technique à la piscine",
+  "chapeau": "Une défaillance des installations de traitement de l'eau a entraîné l'évacuation de la piscine d'une salle de sport à Strasbourg. Trois adhérents ont été transportés à l'hôpital pour des blessures légères.",
+  "corps": "## Incident et prise en charge\nDans l'après‑midi du 17 novembre, les services de secours sont intervenus à la piscine d'une salle de sport de Strasbourg après la détection d'un dysfonctionnement technique lié au traitement de l'eau. Le problème, identifié comme une anomalie du système de chloration, a provoqué des symptômes chez trois usagers, justifiant leur transport vers un établissement hospitalier. Les blessures ont été décrites comme légères, sans nécessiter de soins intensifs.\n\n## Evacuation et mesures de sécurité\nFace au risque potentiel pour la santé des baigneurs, les responsables de la salle ont immédiatement ordonné l'évacuation du bassin et la fermeture temporaire de l'ensemble des installations sportives. Les usagers présents ont été guidés vers les sorties de secours et informés de la situation par le personnel. Aucun autre incident n’a été signalé dans l’enceinte.\n\n## Enquête et suivi\nLes autorités sanitaires ont ouvert une enquête afin de déterminer les causes exactes du dysfonctionnement du dispositif de traitement de l’eau. Les techniciens devront vérifier l’état des équipements de chloration et s’assurer du respect des normes d’hygiène en vigueur. Les responsables de la salle de sport ont indiqué leur coopération avec les services compétents pour rétablir la conformité des installations avant toute réouverture.\n\n## Conséquences pour les habitants\nLa fermeture du bassin implique une interruption des cours de natation et des activités aquatiques prévues dans les prochains jours. Les adhérents souhaitant poursuivre leurs entraînements sont invités à se renseigner auprès de la mairie de Strasbourg ou du site officiel de la municipalité, où seront publiées les informations relatives aux éventuelles dérogations ou aux piscines alternatives ouvertes dans la ville. En cas d’urgence, le numéro national 112 demeure disponible.\n\nLes usagers sont priés de suivre les consignes diffusées par les autorités locales et de rester vigilants quant aux éventuelles nouvelles communications concernant la réouverture du site.",
+  "mots_cles": [
+    "Strasbourg",
+    "piscine",
+    "problème technique",
+    "évacuation"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-17T16:03:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_aux_glycines_%28Strasbourg%29.jpg/1280px-Maison_aux_glycines_%28Strasbourg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gzen92",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maison_aux_glycines_(Strasbourg).jpg",
+    "legende": "Wisteria house in Strasbourg (Bas-Rhin, France).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Maison aux glycines (Strasbourg).jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Strasbourg. Trois adhérents d'une salle de sport à l'hôpital à cause d'un problème technique",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWk4RUpDaUFUSUt1c1NzTmNrd2JNelJ3Vk43LTNXdEpQZ2tmbmNjSnRCakRfbXhxblJTTk4ydEJTTk9ZUHgwc1hneDZJM0RGdW02R0lsM1dDVklBZlBGMDg1NXFDSkJQdkROemM3R0dGMlVwNFpBYmdrU05VTmRpZ1FpRXE4NnJ0SHFPZU1xNmVjZ0NtajNFZmdvY0ptamNYX0NmWUpGaUtwYkVaeW5kTE5JbExWOEkzU0VGbEZJZElJZG93bElxUTYzSQ?oc=5"
+    },
+    {
+      "media": "ici.fr",
+      "titre": "La piscine d'une salle de sports à Strasbourg évacuée, trois blessés légers à cause d'un problème de chlore",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSVBoVnpGMzgwbWtCZnRtT0tKVkthN09RUjVrRkUtOHBYY1ZmNUxNUExPYWJmNnJfbjZLeURYb1dnTDVSNUhwN1hlOEVveUNWTmtFT3dsREJDdnZKVVVFUFZoSVZUbE1fZTZOalhHZi1Hb0hWa3gxWVh2XzBselQ1Qks4S1ZXT1N1ejhKcFVwTGctakRKRGYtT1I2RGhOeHMwS2VTR0Fpam4zU0phUXdPOWI1a29LSVVTbGhZNDJab3J0VnpQY2RiY1VaWkgzX2otVXVuNmluLVBBbjRhYUtRQmpPeGhOYW9IOGkzbmc3dUk0R3NKQ0EtdQ?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Trois adhérents d'une salle de sport à l'hôpital à cause d'un problème technique",
+      "url": "https://www.dna.fr/faits-divers-justice/2026/11/17/trois-adherents-d-une-salle-de-sport-a-l-hopital-a-cause-d-un-probleme-technique"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

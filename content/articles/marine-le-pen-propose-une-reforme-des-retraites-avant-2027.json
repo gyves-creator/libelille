@@ -1,0 +1,38 @@
+{
+  "slug": "marine-le-pen-propose-une-reforme-des-retraites-avant-2027",
+  "titre": "Marine Le Pen propose une réforme des retraites avant 2027",
+  "chapeau": "Marine Le Pen, candidate du Rassemblement national à l'élection présidentielle de 2027, a présenté son projet de réforme des retraites, prévoyant un retour à la retraite à 60 ou 62 ans avec une part de capitalisation obligatoire. Elle affirme que la mesure serait mise en œuvre dès son arrivée au pouvoir et qu'elle remplacerait la réforme actuelle d’Élisabeth Borne à compter du 1er janvier 2028.",
+  "corps": "## Principaux axes du projet\nMarine Le Pen a exposé plusieurs piliers de son programme de retraite. Le texte prévoit un abaissement de l'âge légal de départ, fixé soit à 62 ans, soit à 60 ans, selon les modalités qui seront précisées. Le financement serait assuré par une combinaison d'allongement de la durée de travail et d'une capitalisation obligatoire, sans toutefois garantir que le système retrouve un équilibre budgétaire. Cette approche s'inscrit dans une logique de mixité entre le régime par répartition, dominant aujourd'hui, et une composante d'épargne individuelle.\n\n## Mise en œuvre et perspectives\nLa candidate a indiqué que la réforme serait engagée dès son accession à la présidence, avec l'objectif d'abolir la réforme mise en place par le gouvernement d’Élisabeth Borne dès le 1ᵉʳ janvier 2028. Elle a déclaré que « des centaines de milliers de travailleurs partiront plus tôt », soulignant ainsi l'impact anticipé sur la durée de cotisation. La mise en place de la capitalisation serait, selon elle, progressive et accompagnée d'un dispositif de progressivité visant à protéger les revenus modestes, bien que les modalités exactes restent à préciser.\n\nLe projet s'inscrit dans un débat plus large sur la viabilité du système de retraite français, qui combine depuis plusieurs décennies un régime universel à points et des mesures de revalorisation. La proposition de Marine Le Pen vise à répondre aux attentes d'une partie de l'électorat souhaitant un départ plus précoce, tout en introduisant une logique d'épargne individuelle qui pourrait modifier la répartition des risques entre l'État et les assurés. Aucun chiffre officiel n'a été fourni quant à l'impact budgétaire ou à la date précise de mise en œuvre, la mesure restant conditionnée à la victoire électorale et à la validation parlementaire.\n\nSi la réforme était adoptée, elle marquerait un revirement par rapport aux récentes orientations du gouvernement, qui avait prévu d'harmoniser les âges de départ et d'introduire davantage de flexibilité. Le texte présenté par Marine Le Pen ne mentionne pas de dispositif de compensation pour les cotisants actuels, ce qui laisse ouverte la question de la transition entre les deux régimes.",
+  "mots_cles": [
+    "retraite",
+    "Marine Le Pen",
+    "réforme",
+    "capitalisation",
+    "âge de départ"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-17T16:02:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Marine_Le_Pen_%282017-03-24%29_01_cropped.jpg/1280px-Marine_Le_Pen_%282017-03-24%29_01_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "The Russian Presidential Press and Information Office",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_(2017-03-24)_01_cropped.jpg",
+    "legende": "Marine Le Pen during the meeting with Vladimir Putin.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marine Le Pen (2017-03-24) 01 cropped.jpg"
+  },
+  "sources": [
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+      "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites, un système basé sur la progressivité et une part de capitalisation",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "directeur-du-centre-penitentiaire-d-aix-luynes-en-garde-a-vue-pour-possession-d",
+  "titre": "Directeur du centre pénitentiaire d'Aix-Luynes en garde à vue pour possession d'images pédopornographiques",
+  "chapeau": "Le directeur du centre pénitentiaire d'Aix-Luynes a été placé en garde à vue pour détention d'images à caractère pédopornographique. Le ministère de la Justice a immédiatement suspendu le fonctionnaire à titre conservatoire et évoque une possible révocation si les faits sont confirmés.",
+  "corps": "## Mise en garde à vue du directeur\nLe responsable du centre pénitentiaire d'Aix-Luynes a été interpellé et placé en garde à vue dans le cadre d'une enquête portant sur la détention d'images pédopornographiques. L'arrestation intervient après la découverte de contenus illicites dans le cadre de contrôles internes. Aucun détail supplémentaire n'a été communiqué quant aux circonstances de la perquisition ou à l'étendue du matériel saisi.\n\n## Réaction du ministère de la Justice\nLe ministère de la Justice a annoncé une \"suspension immédiate à titre conservatoire\" du directeur concerné. Cette mesure, prise à titre conservatoire, vise à garantir le bon fonctionnement de l'établissement pénitentiaire pendant la durée de l'enquête. Le porte-parole du ministère a précisé qu'une procédure de révocation serait engagée si les faits s'avéraient avérés, conformément aux dispositions légales applicables aux fonctionnaires publics.\n\nLe directeur en question avait été nommé à la tête du centre pénitentiaire d'Aix-Luynes à l'été 2025, après une carrière dans l'administration pénitentiaire. Son remplacement provisoire n'a pas encore été annoncé, mais la suspension conservatoire implique la mise en place d'un intérim afin d'assurer la continuité des missions de l'établissement.\n\n## Cadre juridique et implications\nDans le système judiciaire français, la garde à vue permet aux autorités de retenir une personne suspectée d'avoir commis une infraction afin de procéder à des investigations complémentaires. La détention d'images à caractère pédopornographique constitue une infraction grave, passible de peines d'emprisonnement et de sanctions administratives.\n\nLa suspension à titre conservatoire d'un fonctionnaire de l'État, notamment d'un directeur d'établissement pénitentiaire, est une procédure prévue par le statut général des fonctionnaires. Elle vise à prévenir tout risque d'atteinte à la réputation de l'institution et à garantir le respect de la légalité pendant la phase d'instruction. Si les investigations confirment les faits, la révocation du fonctionnaire pourra être prononcée, entraînant la perte définitive de son poste.\n\nCette affaire intervient dans un contexte où les autorités renforcent la lutte contre les contenus pédopornographiques et veillent à la moralité des responsables d'établissements publics. Les suites de l'enquête détermineront les suites disciplinaires et pénales qui seront appliquées.",
+  "mots_cles": [
+    "prison",
+    "garde à vue",
+    "justice",
+    "images pédopornographiques",
+    "suspension"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-17T16:03:02+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/La_Maison_d%27Arr%C3%AAt_de_Luynes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Dominique PIPET",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Maison_d%27Arr%C3%AAt_de_Luynes.jpg",
+    "legende": "la Maison d'Arrêt d'Aix-Luynes [13080]",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:La Maison d'Arrêt de Luynes.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Le directeur de la prison d’Aix-Luynes en garde à vue pour détention d’images pédocriminelles",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/17/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-pour-detention-d-images-pedocriminelles_6812999_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "Le directeur de la prison d'Aix-Luynes placé en garde à vue pour détention d'images pédopornographiques",
+      "url": "https://www.franceinfo.fr/societe/prisons/le-directeur-de-la-prison-d-aix-luynes-place-en-garde-a-vue-pour-detention-d-images-pedopornographiques_8286707.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
