@@ -1,0 +1,38 @@
+{
+  "slug": "en-pologne-l-exercice-multinationnel-koalicja-mobilise-2-800-soldats-pour-l-ukra",
+  "titre": "En Pologne, l'exercice multinationnel « Koalicja » mobilise 2 800 soldats pour l'Ukraine",
+  "chapeau": "Jusqu'au 22 novembre, près de 2 800 militaires de onze pays s'entraînent en Pologne dans le cadre de l'opération « Koalicja ». Cette initiative, dirigée par la France et le Royaume‑Uni, vise à préparer une éventuelle intervention en faveur de l'Ukraine dès la fin du conflit avec la Russie.",
+  "corps": "## Un entraînement inédit au cœur de l'Europe de l'Est\nL'opération « Koalicja », lancée en Pologne, réunit environ 2 800 soldats issus de onze nations différentes. L'exercice, qui se poursuit jusqu'au 22 novembre, constitue une première en termes de coopération militaire volontaire entre ces États. Sous la direction conjointe de la France et du Royaume‑Uni, les troupes s'exercent à des scénarios de déploiement rapide, afin de renforcer leur capacité d'intervention collective.\n\n## Une forte participation française\nParmi les effectifs mobilisés, près de la moitié provient de l'armée française. Cette proportion élevée reflète l'engagement de la France dans la coalition des volontaires destinée à soutenir l'Ukraine. Les soldats français, aux côtés de leurs homologues étrangers, travaillent à améliorer la coordination et la réactivité des forces, deux éléments jugés essentiels pour une éventuelle action sur le terrain.\n\n## Objectifs stratégiques et perspectives d'avenir\nL'exercice a pour ambition de préparer une force multinationale capable d'intervenir dès que la guerre avec la Russie prendra fin. En se concentrant sur des procédures d'organisation accélérée, les participants cherchent à réduire les délais de mobilisation et à garantir une efficacité opérationnelle maximale. L'initiative s'inscrit dans le cadre plus large du soutien occidental à l'Ukraine, qui repose sur la mise en place de structures militaires capables de répondre rapidement à une évolution du conflit.\n\n## Implications pour la sécurité régionale\nLa tenue de « Koalicja » sur le sol polonais souligne le rôle croissant de la Pologne comme plateforme logistique et d'entraînement pour les forces occidentales. En réunissant des soldats de plusieurs pays, l'exercice renforce la visibilité de la solidarité européenne face aux menaces perçues provenant de la Russie. Bien que le déploiement effectif reste conditionné à la cessation des hostilités, la préparation en cours témoigne d'une volonté de disposer d'une réponse militaire coordonnée et prête à être mise en œuvre.",
+  "mots_cles": [
+    "exercice militaire",
+    "coalition des volontaires",
+    "Ukraine",
+    "Poland",
+    "France"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-17T17:12:47+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Liche%C5%84%2C_Stary_Liche%C5%84%2C_Polonia%2C_2016-12-21%2C_DD_39-41_HDR.jpg/1280px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Liche%C5%84%2C_Stary_Liche%C5%84%2C_Polonia%2C_2016-12-21%2C_DD_39-41_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Liche%C5%84,_Stary_Liche%C5%84,_Polonia,_2016-12-21,_DD_39-41_HDR.jpg",
+    "legende": "View at dusk of the Basilica of Our Lady of Sorrows , Queen of Poland, located in the village of Licheń Stary , near Konin , Greater Poland Voivodeship , Poland . The basilica, designed by Barbara Bie",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Basílica de Nuestra Señora de Licheń, Stary Licheń, Polonia, 2016-12-21, DD 39-41 HDR.jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "En Pologne, auprès d’un exercice militaire inédit de la coalition des volontaires, dirigé par la France et le Royaume-Uni",
+      "url": "https://www.lemonde.fr/international/article/2026/11/17/en-pologne-aupres-d-un-exercice-militaire-inedit-de-la-coalition-des-volontaires-dirige-par-la-france-et-le-royaume-uni_6812990_3210.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "REPORTAGE. \"On a besoin de s'entraîner\" : en Pologne, un exercice inédit mobilise des militaires de la coalition des Volontaires pour défendre l'Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-a-besoin-de-s-entrainer-en-pologne-un-exercice-inedit-mobilise-des-militaires-de-la-coalition-des-volontaires-pour-defendre-l-ukraine_8286437.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
