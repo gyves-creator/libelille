@@ -335,5 +335,26 @@
     "titres_sources": [
       "Les premières offres de leasing social de pompes à chaleur arrivent sur le marché, pour aider les ménages modestes à remplacer leurs chaudières"
     ]
+  },
+  {
+    "titre": "Arthur Fils bat Jodar, vise les demi-finales à Turin",
+    "texte": "Arthur Fils a battu Rafael Jodar en trois manches (4-6, 6-2, 6-2) lors des finales ATP du Masters de Turin. Cette victoire, première française depuis 2011, lui donne la possibilité de se qualifier pour les demi-finales contre le numéro un mondial Alexander Zverev jeudi.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-17T17:42:41+00:00",
+    "titres_sources": [
+      "Tennis : Fils renverse Jodar et s’offre le droit de rêver aux demi-finales du Masters",
+      "Tennis : Arthur Fils s'impose face à Rafael Jodar aux Masters",
+      "Arthur Fils se défait de Rafael Jodar au Masters de Turin, première victoire française depuis 2011 dans cette compétition"
+    ]
+  },
+  {
+    "titre": "États‑Unis, Mexique et Bolivie perdent le statut d’élimination de la rougeole",
+    "texte": "L’Organisation panaméricaine de la santé a annoncé que les États‑Unis, le Mexique et la Bolivie ne sont plus considérés comme ayant éliminé la rougeole. Cette décision suit la perte du même statut par le Canada l’an dernier, liée à une épidémie persistante.",
+    "rubrique": "international",
+    "publie_le": "2026-11-17T17:42:41+00:00",
+    "titres_sources": [
+      "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
+      "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé"
+    ]
   }
 ]
