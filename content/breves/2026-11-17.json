@@ -53,5 +53,23 @@
     "titres_sources": [
       "Dans les lycées mobilisés, le personnel éducatif éprouvé après deux mois de mobilisation"
     ]
+  },
+  {
+    "titre": "GTA 6 dévoile six nouvelles captures météo réalistes",
+    "texte": "Il semblerait que le jeu propose, à deux jours de sa sortie, six nouvelles images illustrant des conditions météorologiques variées à Leonida, entre pluies torrentielles, brouillard marin et orages tropicaux. Ces captures soulignent l’accent mis sur le réalisme environnemental.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-17T07:28:13+00:00",
+    "titres_sources": [
+      "GTA 6 donne un aperçu de sa météo particulièrement réaliste avec six nouvelles images"
+    ]
+  },
+  {
+    "titre": "Des habitants d’une ville proche de Moscou confrontés aux incursions de drones",
+    "texte": "Il semblerait que les résidents d’une petite localité à une heure de Moscou subissent quotidiennement les survols de drones ukrainiens et les tirs de la défense antiaérienne russe, perturbant leurs nuits. Cette situation alimente anxiété et inquiétude pour les enfants.",
+    "rubrique": "international",
+    "publie_le": "2026-11-17T07:28:13+00:00",
+    "titres_sources": [
+      "REPORTAGE. En Russie, les habitants vivent au quotidien la peur des attaques de drones ukrainiens"
+    ]
   }
 ]

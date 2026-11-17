@@ -1,0 +1,38 @@
+{
+  "slug": "immobilier-ancien-a-marseille-prix-moyen-de-4-331-m-et-lancement-d-un-nouveau-mo",
+  "titre": "Immobilier ancien à Marseille : prix moyen de 4 331 €/m² et lancement d’un nouveau modèle",
+  "chapeau": "Le prix moyen d’un logement ancien à Marseille s’établit à 4 331 €/m². Un nouveau dispositif baptisé « J’OSE L’IMMO » vient d’être présenté pour répondre aux enjeux du marché local.",
+  "corps": "## Un prix moyen qui caractérise le marché ancien\nLe dernier relevé indique que le coût moyen au mètre carré d’un bien immobilier ancien dans la métropole marseillaise atteint 4 331 euros. Ce niveau place la ville parmi les zones où le prix du logement ancien reste élevé, reflétant à la fois la densité de l’offre, la demande soutenue et la valeur attachée aux quartiers historiques. Pour les acquéreurs, ce chiffre constitue une référence indispensable lorsqu’ils évaluent la faisabilité d’un projet d’achat dans la capitale provençale.\n\n## Un nouveau modèle immobilier présenté\nParallèlement à la publication de ces données, un nouveau dispositif nommé « J’OSE L’IMMO » a été annoncé. Bien que les modalités précises n’aient pas été détaillées, l’initiative semble viser à proposer une alternative ou un complément aux pratiques traditionnelles du secteur. L’objectif affiché serait d’accompagner les acteurs du marché – acquéreurs, vendeurs et promoteurs – dans un contexte où les prix restent un facteur déterminant.\n\n## Contexte du marché local\nMarseille, deuxième ville de France en termes de population, possède un parc immobilier ancien important, hérité de plusieurs siècles de développement urbain. Le prix moyen observé dépasse celui de la moyenne nationale, ce qui s’explique par la combinaison d’une attractivité géographique, d’une offre culturelle dense et d’une pression croissante sur les zones résidentielles proches du littoral. Les acheteurs doivent donc prendre en compte ces spécificités lorsqu’ils envisagent une acquisition, notamment en matière de financement et de rentabilité.\n\n## Conséquences pour les habitants\nPour les résidents, le niveau de prix indiqué implique que toute transaction immobilière devra être soigneusement préparée, en tenant compte des frais annexes et des possibles évolutions du marché. Le lancement de « J’OSE L’IMMO » pourrait offrir des pistes supplémentaires, mais il convient d’attendre les précisions officielles pour mesurer son impact réel. En attendant, les services municipaux et les notaires restent les interlocuteurs privilégiés pour obtenir des informations actualisées et des conseils personnalisés.",
+  "mots_cles": [
+    "immobilier",
+    "Marseille",
+    "prix",
+    "ancien",
+    "logement"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-17T07:28:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/View-of-Marseille-2012.jpg/1280px-View-of-Marseille-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Acediscovery",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View-of-Marseille-2012.jpg",
+    "legende": "View of Marseille, France in June 2012",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:View-of-Marseille-2012.jpg"
+  },
+  "sources": [
+    {
+      "media": "l'Essentiel media",
+      "titre": "4 331 €/m2 en moyenne pour un achat dans l'immobilier ancien à Marseille",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaU0xaDhJcjBkLThlcXFZczdSM2JUR0lCRkhxaXA1amhZT09tMnFra19JOHNIQ0NrLThhZDZ1eW1Hcnl0Q0c1RHEyTUVDU3NCak9yWjI4aGRTMVpnRVpJTWtkT3RPMHVLalRLREdkSU4tSzRzQXMxcFdRb1hka0ZsMjZub0ZwLTNYVEM5SzRGcVJmUG53RnBQcUs1Z2ktQlVKMUQwTFUyOGpTYWRxdDUzdDd2YXF1djd5YUE?oc=5"
+    },
+    {
+      "media": "Presse Agence",
+      "titre": "J’OSE L’IMMO : le nouveau modèle immobilier à Marseille",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9LcWRDQnluTlJUcWJkWGh0UVVXXy1YT3dMV2xTc2FDRUhVMmZQTWR4MEx6eVg1RFR6RktOdmxzLXJ4aFRhSDFXR3lMVVlaRGM5WHBDZkdxbkoxbUxOY01POE9nZC1vOWxwSVUzdzB1VDlOQWVsbnU2YUhHT0xqdGU3UkVDdzg1Z2JmM0hNQ1hoTnN4akNRVFdJLUhFWWs?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
