@@ -1,0 +1,38 @@
+{
+  "slug": "deutsche-bank-chute-de-pres-de-6-apres-l-enquete-inside-deutsche-bank",
+  "titre": "Deutsche Bank chute de près de 6 % après l’enquête « Inside Deutsche Bank »",
+  "chapeau": "Les actions de Deutsche Bank ont reculé d’environ 6 % à la Bourse de Francfort mardi 17 novembre, suite à la diffusion d’une enquête massive. Celle‑ci, baptisée « Inside Deutsche Bank », s’appuie sur la fuite de plus de 15 millions de documents internes.",
+  "corps": "## Chute des cours boursiers\nLe titre de la banque allemande a perdu près de six pour cent lors de la séance matinale de la Bourse de Francfort le 17 novembre. Cette forte baisse intervient immédiatement après la publication d’un rapport d’enquête qui a mis en lumière des pratiques controversées au sein de l’établissement.\n\n## Une enquête journalistique sans précédent\nL’enquête, intitulée « Inside Deutsche Bank », est présentée comme la plus grande jamais réalisée sur une institution financière. Elle a mobilisé 230 journalistes provenant de 50 médias différents et repose sur l’analyse de plus de 15 millions de fichiers internes, couvrant les activités de la banque depuis le début des années 2010.\n\n## Allégations de pratiques illicites\nParmi les révélations, le rapport indique que la banque aurait entretenu des relations avec des oligarques russes soumis à des sanctions, aurait été liée à Jeffrey Epstein, et aurait participé à la vente d’armes ainsi qu’à des opérations de blanchiment d’argent. Il est également avancé que Deutsche Bank aurait délibérément ignoré ses propres dispositifs d’alerte afin de préserver des marchés jugés ultra‑lucratifs.\n\n## Contexte institutionnel\nDeutsche Bank, première banque privée allemande, joue un rôle majeur dans le secteur financier européen. La diffusion de ces informations a suscité une réaction immédiate des investisseurs, traduite par la chute des cours. Aucun communiqué officiel de la banque n’a été publié au moment de la rédaction de cet article.",
+  "mots_cles": [
+    "Deutsche Bank",
+    "enquête",
+    "actions",
+    "documents internes",
+    "blanchiment"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-17T10:16:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/GraphyArchy_-_Wikipedia_00210.jpg/1280px-GraphyArchy_-_Wikipedia_00210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "GraphyArchy",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GraphyArchy_-_Wikipedia_00210.jpg",
+    "legende": "Deutsche Bank Headquarters, Frankfurt (08/2017)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:GraphyArchy - Wikipedia 00210.jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "« Inside Deutsche Bank » : l’action de la banque chute en Bourse après la publication de l’enquête",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/17/deutsche-bank-chute-en-bourse-apres-une-enquete-sur-une-fuite-de-documents-internes_6812937_3234.html"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Deutsche Bank chute en Bourse de près de 6% après une enquête sur une fuite de documents internes",
+      "url": "https://www.lefigaro.fr/societes/deutsche-bank-chute-en-bourse-de-pres-de-6-apres-une-enquete-sur-une-fuite-de-documents-internes-20261117"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

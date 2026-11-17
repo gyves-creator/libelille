@@ -1,0 +1,38 @@
+{
+  "slug": "ramon-vega-fustige-la-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa",
+  "titre": "Ramon Vega fustige la candidature de Philippe Diallo à la présidence de la FIFA",
+  "chapeau": "L'UEFA a désigné le président de la Fédération française de football, Philippe Diallo, pour affronter Gianni Infantino lors de la prochaine élection de la FIFA. Le Suisse Ramon Vega, lui‑même candidat, a vivement critiqué cette décision, la qualifiant de farce et de honte pour le football européen.",
+  "corps": "## Contexte de la course à la présidence de la FIFA\nL'instance dirigeante du football mondial organise prochainement son scrutin pour élire son président. L'actuel titulaire, Gianni Infantino, est largement pressenti comme le favori. Les candidats doivent déposer leur dossier au plus tard ce mercredi, conformément au calendrier fixé par la FIFA. Parmi les prétendants figure Philippe Diallo, président de la Fédération française de football, qui a été porté par l'UEFA après sa désignation le lundi 16 novembre.\n\n## La réaction de Ramon Vega\nRamon Vega, ancien footballeur suisse et candidat à la présidence de la FIFA, a exprimé une opposition ferme à la candidature de Diallo. Dans une déclaration publique, il a qualifié cette initiative de « farce » et d'« honte pour le football européen », soulignant ce qu'il perçoit comme une incompatibilité avec les intérêts du continent. Vega, qui se présente également contre Infantino, a ainsi placé la candidature de Diallo au centre d'un débat interne à l'UEFA.\n\n## Implications pour le scrutin\nLa désignation de Diallo par l'UEFA introduit une dynamique supplémentaire dans une élection déjà très suivie. Si la candidature de Diallo se concrétise, le scrutin opposera trois figures majeures : le président sortant Gianni Infantino, le représentant français Philippe Diallo et le candidat suisse Ramon Vega. Les observateurs notent que la critique de Vega pourrait influencer les votes au sein des instances européennes, bien que le processus de décision finale reste soumis aux votes des membres de la FIFA.\n\n## Perspectives à moyen terme\nAlors que la date limite de dépôt des dossiers approche, chaque candidat doit consolider son programme et mobiliser le soutien des fédérations membres. Le débat autour de la candidature de Diallo, alimenté par les propos de Vega, illustre les tensions entre les différentes zones géographiques du football mondial. La suite du processus électoral déterminera si la critique de Vega aura un impact tangible sur le résultat final.",
+  "mots_cles": [
+    "FIFA",
+    "candidature",
+    "Ramon Vega",
+    "Philippe Diallo",
+    "UEFA"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-17T10:16:36+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Philippe_Diallo_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Footballnerd2007",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Philippe_Diallo_(cropped).png",
+    "legende": "Philippe Diallo, presidént de la Fedération Francais de Football",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Philippe Diallo (cropped).png"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Présidence de la FIFA : «Quelle farce ! Une honte pour le football européen !», Ramon Vega critique violemment la candidature de Philippe Diallo",
+      "url": "https://www.lefigaro.fr/sports/football/presidence-de-la-fifa-quelle-farce-une-honte-pour-le-football-europeen-ramon-vega-critique-violemment-la-candidature-de-philippe-diallo-20261117"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "La présidence de la Fifa ou la quête sans fin d'un adversaire à Gianni Infantino",
+      "url": "https://www.franceinfo.fr/sports/foot/la-presidence-de-la-fifa-ou-la-quete-sans-fin-d-un-adversaire-a-gianni-infantino_8285057.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
