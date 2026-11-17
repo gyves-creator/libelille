@@ -509,5 +509,23 @@
       "\"Je ne démissionnerai pas\", affirme le proviseur du lycée Paul-Éluard de Saint-Denis après l’intervention de policiers dans l’établissement",
       "Lycées, un proviseur jette l'éponge"
     ]
+  },
+  {
+    "titre": "Incendie détruit plusieurs bâtiments à Cholet, habitants évacués",
+    "texte": "Un incendie a ravagé plusieurs bâtiments à Cholet, dans le Maine-et-Loire, ce mardi matin, la cause restant indéterminée. Les habitants ont été évacués et se retrouvent sans logement, tandis que les secours évaluent les dégâts.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-17T21:59:53+00:00",
+    "titres_sources": [
+      "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever"
+    ]
+  },
+  {
+    "titre": "Apple signale des perturbations d'iCloud et de l'App Store",
+    "texte": "Apple indique que iCloud et l'App Store connaissent des lenteurs voire des indisponibilités depuis mardi après‑midi. La société n’a pas précisé l’origine du dysfonctionnement, qui perturbe l’accès aux services en ligne.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-17T21:59:53+00:00",
+    "titres_sources": [
+      "iCloud, App Store... Des \"pannes\" perturbent l'accès à plusieurs services d'Apple"
+    ]
   }
 ]
