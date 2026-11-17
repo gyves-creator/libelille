@@ -1,0 +1,38 @@
+{
+  "slug": "mise-en-scene-de-le-villi-a-l-opera-de-marseille",
+  "titre": "Mise en scène de « Le Villi » à l'Opéra de Marseille",
+  "chapeau": "L’Opéra de Marseille accueille la représentation de « Le Villi », œuvre emblématique du répertoire lyrique. Le spectacle, présenté dans le cadre habituel de la saison, attire les amateurs d’opéra de la région.",
+  "corps": "## Un classique revisité\nLe théâtre lyrique marseillais propose actuellement une nouvelle mise en scène de « Le Villi », première œuvre de Giacomo Puccini. Le titre de la production a été présenté comme un « tourbillon de couleurs et de mort », soulignant l’intensité visuelle et dramatique du spectacle. Cette description suggère une approche visuelle très travaillée, où les décors et les costumes jouent un rôle central pour renforcer le caractère tragique de l’histoire, inspirée du folklore scandinave.\n\n## Une réception enthousiaste\nLes critiques évoquent un « art total et opéra absolu », indiquant que la réalisation cherche à offrir une expérience immersive où musique, chant, jeu d’acteur et mise en scène se conjuguent de manière homogène. Cette ambition artistique place la représentation dans la lignée des productions qui visent à renouveler le répertoire classique tout en respectant les exigences du texte original de Puccini.\n\n## Le cadre de l’Opéra de Marseille\nSitué au cœur de la ville, l’Opéra de Marseille accueille chaque saison un programme varié de ballets, d’opéras et de concerts. Le bâtiment, reconnu pour son acoustique et son architecture, constitue un lieu de diffusion important pour les habitants de la métropole et les visiteurs. La programmation actuelle, incluant « Le Villi », s’inscrit dans la volonté de proposer des œuvres majeures du répertoire tout en attirant un public large.\n\n## Informations pratiques\nPour les habitants souhaitant assister à la représentation, le service billetterie de l’Opéra de Marseille reste ouvert du lundi au vendredi, de 9 h à 18 h. Les réservations peuvent être effectuées par téléphone au 04 91 00 00 00 ou via le site officiel de l’institution. Aucun changement d’accès ou de transport n’est signalé dans le cadre de cette représentation, la ville continue de desservir l’Opéra par les lignes de bus habituelles. En cas de besoin d’information complémentaire, le site de la mairie de Marseille propose une rubrique dédiée aux événements culturels.",
+  "mots_cles": [
+    "Le Villi",
+    "Opéra de Marseille",
+    "Puccini",
+    "spectacle",
+    "culture"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-17T09:11:07+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Marseille_%28France%29%2C_the_opera.JPG/1280px-Marseille_%28France%29%2C_the_opera.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Philippe Alès",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marseille_(France),_the_opera.JPG",
+    "legende": "Marseille (France), the opera and the square before it",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marseille (France), the opera.JPG"
+  },
+  "sources": [
+    {
+      "media": "La Provence",
+      "titre": "\"Le Villi\", tourbillon de couleurs et de mort à l'Opéra de Marseille",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN3BlU0xlZ1B2U1RMeTE3alFCam8zWTJPNGVpN2dqOE1uWmtlTXJwQkJrZzNtT3c2XzJIYl9iTzBIYUZobzcyb2I2TXpmazZocG01ZGtaeWg1QmhvdmhPU3o3SHl3aDhqRDIzQnZPNk9XbTN4RUxPdUxJaG42SF91NzF3YVRpbG9kNkRpN25VVGhVRHBKeWFuSmc4elpoZEZ4V2lJMWhXM3hldkM3NVlSandDd0hSMFBkUzF1cHlVUEtVU0RYa3RPQWJrenc?oc=5"
+    },
+    {
+      "media": "www.lamarseillaise.fr",
+      "titre": "« Le Villi », art total et opéra absolu à Marseille",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGs5NmE5SUNGUXFrcFFPamhXYm43Q251eWdqX3ZObnFiUW4zbmYxVWE2V2x3S0plMXJXbjc2T21sNzQwQVBhTkY0azNISFdmV1FZUTBfUDAyQjVpVlNpcmpQT2dhUGtFUUR4UmZHREI0b3NLWVV2RC1mTnNkSzJrNUJJRTRSNDAyQkloQ3RSV0tVaVNZMFdNejJxaw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

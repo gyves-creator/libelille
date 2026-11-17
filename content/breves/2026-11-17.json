@@ -90,5 +90,24 @@
     "titres_sources": [
       "Fermeture de l’A13, grève, accidents… Plus de 500 kilomètres de bouchons en Île-de-France ce mardi matin"
     ]
+  },
+  {
+    "titre": "Mélenchon rencontre les grands patrons pour présenter le programme LFI",
+    "texte": "Jean‑Luc Mélenchon, candidat à la présidentielle et chef de file de LFI, a rencontré mardi soir des grands patrons pour présenter un programme qui augmente la contribution des grandes entreprises. Manuel Bompard, coordinateur et député, a détaillé ces points dans l’émission 8h30 franceinfo le 17 novembre 2026.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-17T09:11:17+00:00",
+    "titres_sources": [
+      "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
+      "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard"
+    ]
+  },
+  {
+    "titre": "Renault prévoit 2 000 recrutements en CDI et 1 000 départs volontaires",
+    "texte": "Renault annonce le recrutement de 2 000 ouvriers en contrat à durée indéterminée dans ses usines françaises d’ici 2028, grâce à la forte demande de ses modèles électriques. L’entreprise négocie également jusqu’à 1 000 départs volontaires parmi ses salariés cadres.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-17T09:11:17+00:00",
+    "titres_sources": [
+      "Renault embauche 2 000 ouvriers en France grâce au succès de ses modèles électriques"
+    ]
   }
 ]

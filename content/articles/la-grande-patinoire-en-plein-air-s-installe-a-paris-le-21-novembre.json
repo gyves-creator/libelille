@@ -1,0 +1,38 @@
+{
+  "slug": "la-grande-patinoire-en-plein-air-s-installe-a-paris-le-21-novembre",
+  "titre": "La grande patinoire en plein air s'installe à Paris le 21 novembre",
+  "chapeau": "Une nouvelle édition de la patinoire extérieure ouvrira ses portes aux Parisiens le 21 novembre. L'événement intervient alors que la ville connaît des températures inhabituelles pour la saison.",
+  "corps": "## Une attraction hivernale de retour\nLe dispositif de glisse, baptisé « Patins en Folie », revient dans la capitale à la mi‑novembre. L'installation, prévue pour le 21 novembre, proposera aux habitants et aux visiteurs un espace de patinage en plein air, typique des animations hivernales parisiennes. Aucun détail n’a été communiqué sur le site exact, mais il s’agit d’une initiative récurrente qui se déroule habituellement dans des lieux publics accessibles.\n\n## Conditions météorologiques atypiques\nLe même soir, la métropole enregistre une température de 15 °C, un degré inhabituel pour le mois de novembre. Ce climat doux, comparable à une nuit d’été, pourrait influencer la tenue de la glace et les conditions de pratique. Les organisateurs devront probablement ajuster la technologie de refroidissement pour garantir une surface sécurisée, comme cela a été le cas lors des précédentes éditions.\n\n## Conséquences pour les usagers\nLes Parisiens désireux de profiter de la patinoire devront se munir de leurs patins ou les louer sur place, selon les modalités qui seront précisées ultérieurement. Les horaires d’ouverture, les tarifs et les éventuelles mesures de sécurité (port du casque, assistance médicale) seront affichés sur le site officiel de la ville. En cas de conditions météorologiques défavorables, des ajustements ou des fermetures temporaires pourraient être envisagés.\n\n## Informations pratiques\nPour toute question ou mise à jour, les habitants peuvent consulter le site internet de la mairie de Paris ou appeler le service d'information dédié aux loisirs urbains. Les transports en commun desservant le quartier où sera implantée la patinoire resteront opérationnels, aucune perturbation annoncée pour le moment. Les usagers sont invités à vérifier les éventuelles déviations ou restrictions de stationnement avant de se rendre sur place.\n\nEn résumé, la grande patinoire en plein air promet de recréer l’ambiance des fêtes dès la fin du mois, malgré un climat doux qui pourrait poser des défis techniques. Les autorités locales restent mobilisées pour assurer la sécurité et le bon déroulement de l’événement, tout en offrant aux Parisiens une activité de plein air conviviale.",
+  "mots_cles": [
+    "patinoire",
+    "Paris",
+    "hiver",
+    "loisirs",
+    "température"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-17T09:11:02+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Patinoire_de_l%27H%C3%B4tel_de_Ville%2C_Paris_December_2006.jpg/1280px-Patinoire_de_l%27H%C3%B4tel_de_Ville%2C_Paris_December_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ayustety from Tokyo, Japan",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Patinoire_de_l%27H%C3%B4tel_de_Ville,_Paris_December_2006.jpg",
+    "legende": "Patinoire de l'Hôtel de Ville, Paris.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Patinoire de l'Hôtel de Ville, Paris December 2006.jpg"
+  },
+  "sources": [
+    {
+      "media": "mesinfos",
+      "titre": "Patins en Folie : la grande patinoire en plein air revient à Paris le 21 novembre",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXZvVVZXVURJNFNXQXNmZWJscnNaNWtmcG5oSE1kS1J3UEpfb0w3LVhKWkJRZFdsT1NYMEZCSmVlUnpaLUtPYlRvdFFOc2VncUY5ZV9UdmFXVW40eU9OR3J0cDlZXzVpRVhxaGlrY1dHX1dLbkJTVUFnZmFhU0VzUXNCTUM2dEt2djZ4NEFwSUd5REV4VXIwNUxjNU9TZjJ0VE40eXdOcWthVGRZM1dPSG9jUmJSQlZCTC1NRHdncDE?oc=5"
+    },
+    {
+      "media": "Le Parisien",
+      "titre": "12°C à Lille, 15°C à Paris et 20°C à Biarritz : une nuit d’été en plein novembre",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVU9sYUVEbGhSeWJjelIycHZNZjVzU2ZYcENWYk1RQThGdnZhRy1UV1ZiMWU3Z1RMMkFLSTFabmZ2dWZaZDc0dmNHZ2hYdFcxQTlFVkxZbHhzRFFLTktKUkJCZW5TeVJjSHpPMV96UEpYU1VUVnhITGt1Q09Oa3IzWXlWcXhsUlhLa3JlN2hyb0ZONTlBczhrNlNrUFBPaFJJQUIxYkp5QnpFNjh6V0VfZG5wLWxaZHhvOENvY21yRXUtMVdaXzFzYkRfZ3NUdWtrQ2VoWmxrdnM3aHpVdm5Geg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
