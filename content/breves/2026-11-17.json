@@ -432,5 +432,24 @@
     "titres_sources": [
       "A Bergerac, malgré l’opposition du RN, une école porte désormais le nom d’Irène Sapir, rescapée de la rafle du Vél’ d’Hiv"
     ]
+  },
+  {
+    "titre": "Poutine à Shenzhen pour l’APEC, Kim Jong‑Un à Samijyon",
+    "texte": "Vladimir Poutine a atterri à Shenzhen pour le sommet APEC, où il doit rencontrer Donald Trump et Xi Jinping, selon Moscou. Kim Jong‑Un a été photographié avec sa femme et sa fille à la station de ski de Samijyon, promouvant le nouveau complexe immobilier.",
+    "rubrique": "international",
+    "publie_le": "2026-11-17T20:13:27+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : Vladimir Poutine est arrivé en Chine, où il doit rencontrer Donald Trump et Xi Jinping, selon Moscou",
+      "Kim Jong-Un va-t-il rencontrer Donald Trump en Chine ?"
+    ]
+  },
+  {
+    "titre": "Norvège et Portugal en Ligue des Nations",
+    "texte": "La Norvège, portée par Haaland, devrait disputer son ticket pour les quarts de finale de la Ligue des Nations. Le Portugal, déjà qualifié, chercherait à se racheter contre le Pays de Galles après sa défaite face au Danemark.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-17T20:13:27+00:00",
+    "titres_sources": [
+      "EN DIRECT - Multiplex Ligue des nations : la Norvège de Haaland joue sa place en quarts, le Portugal veut se racheter"
+    ]
   }
 ]
