@@ -1,0 +1,38 @@
+{
+  "slug": "apple-juge-pour-obsolescence-programmee-des-iphone-a-paris-en-juin-2027",
+  "titre": "Apple jugé pour obsolescence programmée des iPhone à Paris en juin 2027",
+  "chapeau": "Le tribunal de Nanterre ouvrira en juin 2027 un procès contre Apple, accusé d’avoir limité les réparations de ses iPhone par des verrous logiciels. L’entreprise conteste ces accusations et dénie toute pratique d’obsolescence programmée.",
+  "corps": "## Un procès inédit pour le géant technologique\nLe tribunal de Nanterre, en région parisienne, doit examiner en juin 2027 une affaire qui porte sur la prétendue mise en place de configurations logicielles destinées à restreindre la réparation et le reconditionnement des iPhone. Selon les éléments présentés, ces mécanismes empêcheraient l’accès aux pièces détachées et imposeraient des verrouillages logiciels, ce qui, d’après les autorités, pourrait expliquer les tarifs élevés pratiqués pour les réparations officielles.\n\n## Accusations et dénégation\nLes autorités françaises reprochent à Apple d’avoir instauré une forme d’obsolescence programmée, visant à pousser les consommateurs à remplacer leurs appareils plutôt qu’à les réparer. L’allégation repose sur l’idée que les logiciels intégrés limitent la durée de vie fonctionnelle des téléphones. Apple a toutefois rejeté ces accusations, affirmant que les mesures de sécurité et de performance mises en place sont destinées à garantir la qualité et la sécurité des appareils, et non à freiner les réparations.\n\n## Enjeux économiques et juridiques\nCette procédure constitue une première en France dans le domaine de l’obsolescence programmée appliquée aux produits électroniques grand public. Le jugement pourra avoir des répercussions importantes sur les pratiques commerciales des fabricants de smartphones, notamment en matière de disponibilité des pièces détachées et de transparence des logiciels. Le tribunal devra déterminer si les restrictions techniques sont justifiées par des impératifs de sécurité ou si elles constituent une stratégie visant à augmenter les ventes de nouveaux modèles.\n\n## Perspectives pour les consommateurs\nEn cas de condamnation, Apple pourrait être contraint de modifier ses logiciels afin de faciliter l’accès aux pièces détachées et de rendre les réparations plus abordables. Cela ouvrirait la voie à une plus grande réparabilité des appareils, un enjeu de plus en plus présent dans les débats sur la durabilité et la réduction des déchets électroniques. Le déroulement du procès et ses conclusions seront suivis de près par les associations de consommateurs et les acteurs du secteur de la réparation.",
+  "mots_cles": [
+    "Apple",
+    "obsolescence programmée",
+    "iPhone",
+    "tribunal de Nanterre",
+    "réparations"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-17T06:08:36+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Daniel L. Lu (user:dllu)",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
+    "legende": "Aerial view of Apple Park , the corporate headquarters of Apple Inc. , located in Cupertino , California . The roof is covered in solar panels with an output of 17 MW p , making it one of the biggest ",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Aerial view of Apple Park dllu.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Obsolescence programmée des iPhone : Apple sera jugé en juin 2027 à Paris, une première",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/obsolescence-programmee-des-iphone-apple-sera-juge-en-juin-2027-a-paris-une-premiere-20261117"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Le procès d’Apple pour obsolescence programmée s’ouvrira en juin 2027",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/17/le-proces-d-apple-pour-obsolescence-programmee-s-ouvrira-en-juin-2027_6812904_4408996.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

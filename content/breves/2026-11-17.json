@@ -16,5 +16,24 @@
     "titres_sources": [
       "Le procès d’Apple pour obsolescence programmée s’ouvrira en juin 2027"
     ]
+  },
+  {
+    "titre": "Enquête collaborative dévoile pratiques controversées de Deutsche Bank",
+    "texte": "Une enquête de 230 journalistes et 50 médias, fondée sur plus de 15 millions de fichiers internes, examine les activités de Deutsche Bank depuis 2010. Les documents révèlent des liens avec des oligarques russes sanctionnés, Jeffrey Epstein, des ventes d’armes et des manquements aux alertes anti‑blanchiment.",
+    "rubrique": "international",
+    "publie_le": "2026-11-17T06:08:42+00:00",
+    "titres_sources": [
+      "« Inside Deutsche Bank », une enquête de 230 journalistes et 50 médias sur 15 millions de fichiers",
+      "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels"
+    ]
+  },
+  {
+    "titre": "La Chine peine à freiner l’essor des sacs plastiques jetables",
+    "texte": "Les autorités chinoises envisagent une interdiction nationale pour contenir la forte augmentation de l’usage des sacs plastiques jetables. Alors que la Chine réussit à inverser la tendance de ses émissions de CO₂, le bilan reste beaucoup plus critique concernant le plastique.",
+    "rubrique": "international",
+    "publie_le": "2026-11-17T06:08:42+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"On espère une interdiction à l'échelle nationale\" : la Chine peine à maîtriser l'explosion de l'usage des sacs plastiques jetables"
+    ]
   }
 ]
