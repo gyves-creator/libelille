@@ -147,5 +147,24 @@
       "Prix des carburants : une baisse dans plus de 90 % des stations-service, selon Mathieu Lefèvre, ministre délégué à la transition écologique",
       "Le gouvernement affirme que le prix des carburants a baissé dans plus de 90% des stations-service"
     ]
+  },
+  {
+    "titre": "Paris lance le MascuRadar pour contrer les discours masculinistes",
+    "texte": "La mairie de Paris a mis en place le MascuRadar, un dispositif inspiré du violentomètre, destiné à détecter les propos masculinistes circulant chez les jeunes. Elle prévoit également d’allouer des moyens supplémentaires aux associations pour renforcer la lutte contre ces discours.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-17T11:28:54+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Les hommes devraient rester un peu au-dessus\" : ces discours masculinistes contre lesquels la ville de Paris veut lutter avec son MascuRadar",
+      "La mairie de Paris lance le \"mascuradar\" pour lutter contre le masculinisme"
+    ]
+  },
+  {
+    "titre": "Projet RN : réforme des retraites avec âge de départ abaissé",
+    "texte": "Marine Le Pen a indiqué qu’elle envisagerait de réduire l’âge légal de départ à la retraite, le faisant passer de 62 à 60 ans. Elle propose également de financer la mesure par une plus grande capitalisation des cotisations et d’autres pistes de financement.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T11:28:54+00:00",
+    "titres_sources": [
+      "Départ de 60 à 62 ans, capitalisation, âge du «premier emploi stable»… Ce qu’il faut retenir du projet de Marine Le Pen pour les retraites"
+    ]
   }
 ]
