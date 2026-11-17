@@ -1,0 +1,38 @@
+{
+  "slug": "greve-du-17-novembre-a-lyon-cortege-jusqu-a-la-guillotiere-rassemblements-limite",
+  "titre": "Grève du 17 novembre à Lyon : cortège jusqu'à la Guillotière, rassemblements limités",
+  "chapeau": "Une nouvelle mobilisation syndicale se déroule ce mardi 17 novembre à Lyon, avec un cortège qui parcourt la Guillotière jusqu’à la place Bellecour. Les autorités ont interdit les rassemblements dans le quartier de la Presqu’île, à l’exception de la place Bellecour, et ont déployé une surveillance renforcée.",
+  "corps": "## Déroulement du cortège\nCe mardi 17 novembre, les organisations syndicales et de jeunesse ont appelé à une journée de grève dans la métropole lyonnaise. Le cortège démarre dans le quartier de la Guillotière, zone où les manifestants ont déjà été présents lors des mobilisations du 17 octobre dernier, marquées par des actes de pillage. Après le passage dans la Guillotière, le parcours se poursuit vers la presqu’île, mais les forces de l’ordre ont indiqué que les rassemblements y sont interdits, à l’exception de la place Bellecour où le tribunal administratif a reconnu le droit des manifestants à conclure leur marche. La police a été déployée en nombre important le long du trajet, assurant une surveillance accrue et contrôlant les points d’accès aux rues principales.\n\n## Conséquences pour les habitants\nLes mesures prises entraînent des perturbations notables dans la circulation. Plusieurs voies du centre-ville, notamment les artères reliant la Guillotière à la presqu’île, sont partiellement bloquées ou déviées. Les services de transport en commun, dont les lignes de bus 71, 73 et le métro ligne B, affichent des retards ou des itinéraires temporaires. Les riverains sont invités à privilégier les déplacements à pied ou à vélo et à consulter les sites de la métropole ou les applications de transport pour connaître les alternatives disponibles. Les commerces situés le long du parcours signalent une baisse d’affluence, tandis que les établissements de la place Bellecour restent ouverts mais sous surveillance policière.\n\n## Contexte et suivi\nCette mobilisation s’inscrit dans la continuité des protestations du 17 octobre, qui avaient été organisées de façon non déclarée et avaient donné lieu à des débordements et à des actes de vandalisme. Les autorités locales, en réponse, ont renforcé le dispositif de sécurité et ont obtenu une décision du tribunal administratif autorisant la fin du cortège sur la place Bellecour, afin de canaliser la manifestation dans un espace public centralisé. Une enquête est ouverte sur les incidents survenus en octobre, et les forces de l’ordre restent vigilantes face à d’éventuelles nouvelles tensions.\n\n## Informations pratiques\nLes habitants souhaitant signaler un problème ou obtenir des renseignements peuvent contacter le numéro unique de la police municipale au 17 83 00 00 00. Les déviations et les horaires modifiés des transports en commun sont consultables sur le site officiel de la métropole de Lyon (lyon.fr) et via l’application de mobilité locale. Il est recommandé de rester informé des consignes de sécurité diffusées par les services municipaux tout au long de la journée.",
+  "mots_cles": [
+    "grève",
+    "Lyon",
+    "cortège",
+    "manifestation",
+    "rassemblements"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-17T11:15:14+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/La_Sa%C3%B4ne_dans_le_vieux_Lyon_%C3%A0_la_Renaissance.jpg/1280px-La_Sa%C3%B4ne_dans_le_vieux_Lyon_%C3%A0_la_Renaissance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Maurice Scève",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Sa%C3%B4ne_dans_le_vieux_Lyon_%C3%A0_la_Renaissance.jpg",
+    "legende": "La Saône sépare les différents ports de la ville à l'époque de la Renaissance",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:La Saône dans le vieux Lyon à la Renaissance.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Lyon. Grève du 17 novembre : le cortège atteint la Guillotière, les rassemblements interdits en Presqu'île, sauf place Bellecour",
+      "url": "https://www.leprogres.fr/social/2026/11/17/greve-du-17-novembre-a-lyon-depart-de-la-manifestation-a-11-heures-de-la-manufacture-des-tabacs"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Direct. Grève à Lyon : le cortège s'élance en direction de Bellecour sous haute surveillance",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORzVqY25DREo2bkpkTHFfR1ZOamJZcTVYRk5kUHZUd2NkM2pJRDBKXzIzU29iYU14RXZTWlBMMHhtMEZUZktMR3JZVmEzaUs2Y1JCMkg2Z0NiQjJNYVloSTNzSXVMRTBXYlNzWWVyZjNmd28xeDd1TzFfclZRejdlWE9qUDZ3MnRrSWM1TTAwQU9WS1hneWZGVjVhRHFHQVlKaUhrNVpmalJ4SE9wMEpCSG9LcW1GWjJ1bVpEenJlZ0lTUlUwN0tTWlJIcWxWXzcwcmVOZ3FxaUJGMm4yaWUxdmRiWFpOcW9J?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

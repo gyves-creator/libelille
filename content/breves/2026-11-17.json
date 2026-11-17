@@ -127,5 +127,25 @@
     "titres_sources": [
       "Trois millions de personnes notent des bouts de bois sur Instagram, et c’est peut-être l'endroit le plus \"feel good\" d’internet"
     ]
+  },
+  {
+    "titre": "Aston Martin confirme Alonso, Loeb et Moraes pour Dakar 2027",
+    "texte": "Le constructeur britannique Aston Martin a annoncé que Fernando Alonso, Sébastien Loeb et le champion en titre Lucas Moraes seront pilotes pour le rallye‑raid Dakar 2027. Cette décision marque le retour d’Alonso au Dakar après sept ans d’absence.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-17T11:15:29+00:00",
+    "titres_sources": [
+      "Dakar 2027 : Fernando Alonso et Sébastien Loeb feront équipe chez Aston Martin",
+      "Fernando Alonso fera son retour sur le Dakar en 2027 chez Aston Martin"
+    ]
+  },
+  {
+    "titre": "Le gouvernement annonce une chute des prix du carburant dans 90 % des stations",
+    "texte": "Le ministre a indiqué que les prix du diesel et de l’essence auraient baissé de plus de 20 centimes et de dix centimes, touchant 90 % des stations. Depuis le 1er novembre, le gouvernement vend à prix coûtant du gazole des stocks stratégiques, opération prévue trois mois.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-17T11:15:29+00:00",
+    "titres_sources": [
+      "Prix des carburants : une baisse dans plus de 90 % des stations-service, selon Mathieu Lefèvre, ministre délégué à la transition écologique",
+      "Le gouvernement affirme que le prix des carburants a baissé dans plus de 90% des stations-service"
+    ]
   }
 ]

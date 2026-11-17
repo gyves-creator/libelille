@@ -1,0 +1,38 @@
+{
+  "slug": "manifestations-du-17-novembre-2026-a-toulouse-et-dans-l-occitanie",
+  "titre": "Manifestations du 17 novembre 2026 à Toulouse et dans l'Occitanie",
+  "chapeau": "Des défilés sont en cours ce mardi 17 novembre dans plusieurs villes du sud-ouest, dont Toulouse. Les habitants sont invités à se tenir informés des éventuelles perturbations dans la capitale occitane.",
+  "corps": "## Déroulement des manifestations à Toulouse\nDes groupes de manifestants ont commencé à converger vers le centre de Toulouse dès les premières heures du mardi 17 novembre. Plusieurs défilés se succèdent dans les rues principales, avec une présence policière renforcée pour encadrer les rassemblements. Les mobilisations s’inscrivent dans le cadre d’une journée nationale de grèves et de protestations qui touche également Montauban, Tarbes, Agen et Saint‑Gaudens.\n\n## Conséquences pour les habitants\nBien que les autorités n’aient pas communiqué de restrictions spécifiques, les manifestations peuvent entraîner des ralentissements de la circulation, notamment aux intersections proches des lieux de rassemblement. Les services de transport urbain, dont les bus et le métro, sont susceptibles d’ajuster leurs horaires ou de proposer des itinéraires de déviation afin de garantir la sécurité des usagers. Les riverains sont donc encouragés à vérifier les informations en temps réel et à privilégier les déplacements à pied ou à vélo lorsque cela est possible.\n\n## Informations pratiques\nEn cas de besoin, les habitants peuvent contacter le numéro d’urgence de la police locale (17) ou se rendre sur le site internet de la mairie de Toulouse, qui publie régulièrement les consignes liées aux manifestations. Les services de la préfecture de la Haute‑Garonne restent également disponibles pour répondre aux questions relatives aux mesures de sécurité et aux éventuelles fermetures temporaires d’établissements publics. Pour suivre l’évolution de la situation, il est recommandé de consulter les bulletins d’information diffusés par les autorités municipales et les panneaux d’affichage routier installés le long des axes principaux.",
+  "mots_cles": [
+    "manifestations",
+    "Toulouse",
+    "17 novembre",
+    "mobilisation",
+    "trafic"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-17T11:15:21+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%28Toulouse%29_Spiroceras_orbignyi_-_Bajocien_-_Calvados_France_-_Museum_de_Toulouse.jpg/1280px-%28Toulouse%29_Spiroceras_orbignyi_-_Bajocien_-_Calvados_France_-_Museum_de_Toulouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:(Toulouse)_Spiroceras_orbignyi_-_Bajocien_-_Calvados_France_-_Museum_de_Toulouse.jpg",
+    "legende": "Ammonite Spiroceras orbignyi Stage : Bajocian Locality : Calvados , France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:(Toulouse) Spiroceras orbignyi - Bajocien - Calvados France - Museum de Toulouse.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "DIRECT. Manifestations du 17 novembre : plusieurs défilés en cours à Toulouse, Montauban, Tarbes, Agen ou Saint-Gaudens",
+      "url": "https://www.ladepeche.fr/2026/11/17/direct-manifestations-du-17-novembre-nouvel-appel-a-la-greve-des-syndicats-ce-mardi-220-000-a-300-000-personnes-attendues-13656543.php"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Direct La manif est en cours, suivez la nouvelle journée de mobilisation du mardi 17 novembre à Toulouse",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSW9fWk5EOXRXSHZOeTJSSE8xVWFZd3ZBLV9uQW1yQUd2YmxoWVg2MDU1Yno2VmtXcld4Ry14TUo0dVVacFgzT0xLWnVkVkwyT0owc2I5RVlHa19OVV9aM1dfczZCY3lQSFRnSEFuekE1ajBqalM1TVZmTU05TDJKSVFEcnVrT0JnMUtMRy1kT2NlV1FwZFF2N00zNXg1MVFKeEpVVUhSY1pxeUtrbU5zNVpGSVFHeWhQTEtBMDF4UmxEcklNeTJqVG1fbFBISDQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

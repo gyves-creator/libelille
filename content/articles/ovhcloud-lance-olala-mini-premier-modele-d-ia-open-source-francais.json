@@ -1,0 +1,38 @@
+{
+  "slug": "ovhcloud-lance-olala-mini-premier-modele-d-ia-open-source-francais",
+  "titre": "OVHcloud lance Olala mini, premier modèle d'IA open source français",
+  "chapeau": "OVHcloud a présenté le 17 novembre 2026 Olala mini, première version d’une nouvelle gamme de modèles de langage développés en interne. Le modèle, open source et entraîné sur des supercalculateurs européens, vient concurrencer Mistral AI, jusqu’ici unique référence française dans ce domaine.",
+  "corps": "## Un nouveau venu dans le paysage français de l'IA\nLe 17 novembre 2026, le groupe français de cloud computing OVHcloud a dévoilé Olala mini, la première itération d’une famille de modèles de langage. Conçu à partir de zéro, le modèle est entièrement open source et a été entraîné sur des supercalculateurs situés en Europe. Cette initiative marque l’entrée d’OVHcloud dans un secteur où la seule IA française reconnue était jusqu’alors Mistral AI.\n\n## Absence de résultats concrets\nÀ ce jour, aucun test public n’a été publié pour évaluer les performances d’Olala mini. L’absence de benchmarks rend difficile d’apprécier le niveau de maturité du modèle et la capacité du groupe à rivaliser avec les solutions déjà établies.\n\n## Un environnement concurrentiel dominé par les géants étrangers\nLe marché mondial de l’intelligence artificielle est largement contrôlé par des entreprises américaines, tandis que de nombreuses sociétés chinoises proposent des IA ouvertes à moindre coût. Dans ce contexte, OVHcloud devra définir sa stratégie pour se positionner face à ces acteurs majeurs et aux solutions open source déjà présentes.\n\n## Perspectives pour l’écosystème français\nL’arrivée d’Olala mini élargit le panel d’outils d’IA disponibles en France et pourrait favoriser le développement d’applications locales, notamment dans les secteurs du cloud, de la cybersécurité et du traitement de données. Toutefois, la concrétisation de ces potentialités dépendra de la diffusion de la technologie, de la disponibilité de tests indépendants et de l’acceptation par les développeurs et entreprises françaises.",
+  "mots_cles": [
+    "OVHcloud",
+    "Olala mini",
+    "IA open source",
+    "modèle de langage",
+    "Mistral AI"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-17T11:15:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Roubaix_vue_site_OVHcloud.jpg/1280px-Roubaix_vue_site_OVHcloud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Velvet",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Roubaix_vue_site_OVHcloud.jpg",
+    "legende": "View of OVHcloud plant, Boulevard de Beaurepaire, in Roubaix.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Roubaix vue site OVHcloud.jpg"
+  },
+  "sources": [
+    {
+      "media": "Numerama",
+      "titre": "OVH dévoile Olala, son premier modèle d’IA open source : Mistral n’est plus seul en France",
+      "url": "https://www.numerama.com/tech/2376025-ovh-devoile-olala-son-premier-modele-dia-open-source-mistral-nest-plus-seul-en-france.html"
+    },
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Olala, le premier modèle d’IA de l’entreprise française OVHcloud",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/17/l-entreprise-francaise-ovhcloud-devoile-son-premier-modele-d-ia-baptise-olala_6812932_4408996.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
