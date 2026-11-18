@@ -1,0 +1,37 @@
+{
+  "slug": "croissance-2027-le-ministre-lescure-alerte-sur-la-prevision-de-1",
+  "titre": "Croissance 2027 : le ministre Lescure alerte sur la prévision de 1 %",
+  "chapeau": "Le ministre de l’Économie, Roland Lescure, a indiqué que la prévision de croissance de 1 % pour 2027 était susceptible d’être révisée à la baisse. Il a également signalé que le gouvernement pourrait devoir envisager de nouvelles mesures d’économies pour équilibrer le budget de 2027.",
+  "corps": "## Révision de la prévision de croissance\nLe ministre a confirmé qu’un travail d’actualisation était en cours afin de réévaluer la croissance prévue à 1 % pour l’exercice 2027. Selon ses propos, cette estimation apparaît \"plutôt à la baisse\" et pourrait donc être ajustée dans les prochains mois.\n\n## Conséquences budgétaires envisagées\nFace à un scénario de croissance inférieur aux attentes, les autorités budgétaires envisagent la mise en place de mesures d’économies supplémentaires pour garantir l’équilibre du budget 2027. Aucun détail n’a encore été communiqué sur la nature exacte de ces mesures, mais le risque de nouvelles coupes budgétaires a été souligné.\n\n## Contexte économique\nUne prévision de croissance de 1 % place la France parmi les économies à la croissance la plus modeste en Europe. Cette cible, retenue lors de l’élaboration du projet de budget, repose sur des hypothèses de reprise post‑pandémique et de stabilité des marchés financiers. La réévaluation annoncée s’inscrit donc dans un contexte de vigilance accrue sur les performances macroéconomiques.\n\n## Perspectives\nLe gouvernement devra, selon les déclarations du ministre, suivre de près l’évolution des indicateurs économiques et ajuster sa politique budgétaire en conséquence. La prochaine actualisation de la prévision de croissance sera déterminante pour définir les orientations fiscales et les éventuelles mesures d’austérité à venir.",
+  "mots_cles": [
+    "croissance",
+    "budget 2027",
+    "Roland Lescure",
+    "mesures d'économies"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-18T15:05:38+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie%2C_des_Finances_et_de_la_Relance_01.jpg/1280px-B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie%2C_des_Finances_et_de_la_Relance_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "SailEOuiAla",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_%22Colbert%22_du_minist%C3%A8re_de_l%27%C3%89conomie,_des_Finances_et_de_la_Relance_01.jpg",
+    "legende": "Bâtiment \"Colbert\" du ministère de l'Économie, des Finances et de la Relance",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bâtiment \"Colbert\" du ministère de l'Économie, des Finances et de la Relance 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "La prévision de croissance de 1% pour 2027 «est à risque», reconnaît Roland Lescure",
+      "url": "https://www.lefigaro.fr/conjoncture/la-prevision-de-croissance-de-1-pour-2027-est-a-risque-reconnait-roland-lescure-20261118"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "La prévision de croissance de 1% en France pour 2027 \"est à risque\", reconnaît le ministre de l'Economie",
+      "url": "https://www.franceinfo.fr/economie/budget/la-prevision-de-croissance-de-1-en-france-pour-2027-est-a-risque-reconnait-le-ministre-de-l-economie-roland-lescure_8288000.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

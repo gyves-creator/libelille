@@ -274,5 +274,24 @@
     "titres_sources": [
       "« GTA VI » : dans ses tests, la presse internationale dithyrambique"
     ]
+  },
+  {
+    "titre": "Sauvetage épique à la Route du Rhum : Bonnier aide Sineau",
+    "texte": "Jules Bonnier aurait détourné sa voile pour porter secours à Benoît Sineau, qui avait activé sa balise de détresse après une importante voie d'eau lors de la Route du Rhum. Les deux skippers ont navigué ensemble pendant dix jours avant d’arriver à Pointe-à-Pitre.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-18T15:06:04+00:00",
+    "titres_sources": [
+      "«Sans cette récupération, je ne serais pas là» : récit d’un sauvetage épique et d’un moment gravé dans la légende de la Route du Rhum",
+      "Route du Rhum : le sauvetage épique de Benoît Sineau par Jules Bonnier"
+    ]
+  },
+  {
+    "titre": "Sécurité, priorité des maires de petites villes selon une étude",
+    "texte": "Une enquête de l’Association des petites villes de France, à laquelle ont participé près de six cents maires de communes de 2 500 à 25 000 habitants, montre que la sécurité est leur principale préoccupation. Ils précisent que leurs actions se focalisent sur la prévention des habitants.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-18T15:06:04+00:00",
+    "titres_sources": [
+      "Les maires de petites villes placent la sécurité en tête de leurs préoccupations, selon une étude"
+    ]
   }
 ]

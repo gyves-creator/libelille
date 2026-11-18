@@ -1,0 +1,43 @@
+{
+  "slug": "edouard-philippe-presente-son-programme-presidentiel-et-refuse-la-primaire-de-dr",
+  "titre": "Édouard Philippe présente son programme présidentiel et refuse la primaire de droite",
+  "chapeau": "Édouard Philippe, candidat du parti Horizons, a dévoilé mercredi 18 novembre une partie de son programme pour l'élection présidentielle de 2027, en appelant à des réformes radicales. Il a également réaffirmé son refus de participer à une primaire de la droite tout en détaillant des mesures sur l'école, la justice, les retraites, l'Europe et la défense de l'Ukraine.",
+  "corps": "## Un programme axé sur l'école et les finances publiques\nLors d'une conférence de presse à Paris, le candidat Horizons a exposé les grandes lignes de son projet présidentiel. Parmi les priorités annoncées, il a placé la refondation du système scolaire et le rétablissement des comptes publics. Ces axes sont présentés comme des leviers essentiels pour « rétablir l’ordre et remettre la France sur le chemin du progrès », selon les propos tenus lors de la réunion.\n\n## Des réformes qualifiées de « radicales »\nLe candidat a souligné la nécessité d’engager des changements profonds, en rupture avec les politiques menées ces dernières années. Cette ambition se traduit par des propositions concrètes dans plusieurs domaines : modernisation de la justice, réforme du système de retraite et renforcement de l’engagement européen. L’accent a également été mis sur le soutien à l’Ukraine, reflétant un positionnement ferme en matière de défense et de politique extérieure.\n\n## Refus de la primaire de la droite\nDans le même temps, Édouard Philippe a clairement indiqué qu’il ne souhaitait pas prendre part à une primaire organisée par la droite. Cette décision s’inscrit dans la volonté de présenter son propre projet sans passer par un processus de sélection interne, conformément à la ligne affichée par le parti Horizons.\n\n## Perspectives pour la campagne 2027\nCes annonces constituent la première étape d’une campagne qui s’étendra jusqu’à l’élection présidentielle de 2027. Le programme présenté vise à mobiliser les électeurs autour d’un discours de rupture et de renouveau, tout en affirmant une position indépendante vis-à-vis des structures de la droite traditionnelle.",
+  "mots_cles": [
+    "Édouard Philippe",
+    "programme présidentiel",
+    "réformes radicales",
+    "Horizons",
+    "élection 2027"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-18T15:05:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%C3%89douard_Philippe_2019_%28cropped%29.jpg/1280px-%C3%89douard_Philippe_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jacques Paquier",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg",
+    "legende": "Édouard Philippe lors de l'inauguration du Tribunal de Paris le 1 Avril 2019.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Édouard Philippe 2019 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Présidentielle 2027 : le candidat Édouard Philippe veut \"oser des réformes radicales\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Priorité donnée à l'école, rétablissement des comptes publics… Edouard Philippe développe plusieurs mesures de son programme présidentiel",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Edouard Philippe présente une partie de son programme pour « rétablir l’ordre et remettre la France sur le chemin du progrès »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

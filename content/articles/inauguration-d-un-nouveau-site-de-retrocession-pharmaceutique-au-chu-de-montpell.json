@@ -1,0 +1,38 @@
+{
+  "slug": "inauguration-d-un-nouveau-site-de-retrocession-pharmaceutique-au-chu-de-montpell",
+  "titre": "Inauguration d’un nouveau site de rétrocession pharmaceutique au CHU de Montpellier",
+  "chapeau": "Le Centre Hospitalier Universitaire de Montpellier a ouvert, le 18 novembre 2026, un site dédié à la rétrocession pharmaceutique. Cette structure vise à simplifier le retrait des médicaments spécialisés pour les patients de la région.",
+  "corps": "## Un espace dédié à la gestion des médicaments spécialisés\nLe CHU de Montpellier a inauguré un nouveau site destiné à la rétrocession pharmaceutique, c’est‑à‑dire à la remise des médicaments spécialisés aux patients. Ce dispositif, présenté comme « unique », centralise les procédures de retrait afin d’alléger les démarches administratives et logistiques habituellement rencontrées dans les services de pharmacie hospitalière.\n\n## Objectifs pour les usagers et le personnel médical\nL’objectif principal annoncé est de faciliter l’accès aux traitements nécessitant une surveillance particulière, souvent prescrits dans le cadre de pathologies chroniques ou de soins complexes. En regroupant les opérations de remise de ces produits dans un lieu dédié, le CHU espère réduire les temps d’attente et améliorer la traçabilité des médicaments, tout en libérant les équipes des services de pharmacie pour se concentrer sur d’autres missions cliniques.\n\n## Contexte et enjeux régionaux\nDans le cadre de la politique de santé publique, les établissements hospitaliers sont encouragés à optimiser la chaîne de distribution des médicaments, notamment ceux qui ne sont pas disponibles en pharmacie de ville. Le nouveau site du CHU de Montpellier s’inscrit dans cette dynamique, en offrant aux patients de la métropole et des environs un point de retrait sécurisé et spécialisé. Cette initiative répond également aux exigences de conformité réglementaire concernant la traçabilité et la sécurisation des produits pharmaceutiques à forte valeur thérapeutique.\n\n## Informations pratiques pour les patients\nLes usagers souhaitant retirer leurs médicaments spécialisés devront se rendre au site dédié du CHU, dont l’adresse exacte est communiquée par les services de santé concernés. Les horaires d’ouverture et les modalités de prise de rendez‑vous seront précisés par les équipes médicales lors de la prescription. En cas de besoin d’information complémentaire, il est recommandé de contacter le standard du CHU ou de consulter le site internet officiel de l’établissement.",
+  "mots_cles": [
+    "CHU Montpellier",
+    "rétrocession pharmaceutique",
+    "médicaments spécialisés",
+    "inauguration",
+    "santé publique"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-18T15:05:53+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Des_bus_de_ville_%C3%A0_Montpellier_vers_le_CHU_Saint-Eloi_%28juin_2019%29.jpg/1280px-Des_bus_de_ville_%C3%A0_Montpellier_vers_le_CHU_Saint-Eloi_%28juin_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Des_bus_de_ville_%C3%A0_Montpellier_vers_le_CHU_Saint-Eloi_(juin_2019).jpg",
+    "legende": "Des bus de ville à Montpellier vers le CHU Saint-Eloi (juin 2019).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Des bus de ville à Montpellier vers le CHU Saint-Eloi (juin 2019).jpg"
+  },
+  "sources": [
+    {
+      "media": "Hospimedia",
+      "titre": "Le CHU de Montpellier inaugure son nouveau site unique de rétrocession pharmaceutique",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSy13NzhnbnhCTm1qQXNuaDZseFF3ZG0wOFREWmlKOG1jWG9RdFJkb0VHbFJKZmlUWHhQV1FoM25LaVJtNXRfLUFLRDR2TGxobnZRRDhnWmtiNGZibHY2MzV4MWJ6S1ZYOUszUzRjbXhWQW5CdDN0b0EwMW0xOHVwVl9HRV83OVNEY2Zhb0dyMVVuaThVNDZpUE5pV2tDeHVxM3lOMXFKX0V1Zw?oc=5"
+    },
+    {
+      "media": "Echo des Tribunes",
+      "titre": "Montpellier : le CHU inaugure un nouveau site pour faciliter le retrait des médicaments spécialisés",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNXhRZURhV1RjYi1ycDZuNWdaZW5mM2NHYWNVSmxjVVRGMndudFJDdmZubENMbzVPRGl4em02VXNuVXRoVjJweHdndHo5Tnk3dENUZG55NnpUdTJ4U2xvMGJLdndkNE1CM1pBNklWejRkeTdjWVFyR3h2NnI4Vnl4UldDNnVSREtfWTZuYzFLVy1ETWRCeTRZWncwMGt1ZmFCNURFd1AxNDRJYmdHY0tYNGdfTjRyOWJEYms1LVhBQWlRdzAxNkZodXFCaXpLb1h4YXZhbVdfcjRpa1ZmeUs3ZFJZVnNDSHM?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
