@@ -1,0 +1,33 @@
+{
+  "slug": "tension-a-l-assemblee-entre-le-ministre-de-l-interieur-et-un-depute-lfi",
+  "titre": "Tension à l'Assemblée entre le ministre de l'Intérieur et un député LFI",
+  "chapeau": "Un échange houleux a opposé le ministre de l'Intérieur Laurent Nuñez à Pierre-Yves Cadalen, député La France Insoumise, lors d’une séance de questions au gouvernement. Les propos tenus ont rappelé des références historiques et suscité des réactions sur la conduite du débat parlementaire.",
+  "corps": "## Un débat qui dégénère\nLors d’une séance de questions au gouvernement à l’Assemblée nationale, le ministre de l’Intérieur, Laurent Nuñez, a réprimandé le député Pierre-Yves Cadalen, membre de La France Insoumise, en l’invitant à cesser d’alimenter les tensions et à respecter les principes de la loi républicaine. Le ministre a souligné que le maintien du calme et le respect du cadre légal étaient indispensables pour éviter d’envenimer la situation.\n\n## Réaction du député LFI\nLe député a répliqué en qualifiant l’attitude du ministre de « chienlit », terme historiquement employé par le général de Gaulle pour dénoncer les mouvements étudiants de mai 1968. Il a affirmé que les Français ne pardonneraient pas ce qu’il perçoit comme une « chienlit organisée », et a accusé le ministre de créer un ennemi imaginaire à l’intérieur du pays pour dissimuler une supposée incompétence.\n\n## Contexte politique\nL’échange s’inscrit dans le cadre habituel des séances de questions au gouvernement, où les parlementaires interrogent les membres du cabinet sur les politiques publiques. Les tensions entre le gouvernement et les groupes d’opposition, notamment LFI, sont récurrentes, reflétant des divergences profondes sur les orientations sécuritaires et sociales. Le recours à des termes forts, comme celui employé par le député, rappelle les moments de crise politique où le vocabulaire devient un outil de mobilisation.\n\n## Répercussions\nAucun communiqué officiel n’a immédiatement suivi cet échange, et aucune sanction parlementaire n’a été annoncée. Les propos ont toutefois alimenté le débat public sur le ton des discussions à l’Assemblée, certains observateurs rappelant l’importance du respect mutuel dans les institutions républicaines. Le terme « chienlit », bien que chargé d’histoire, a été utilisé pour souligner la gravité perçue de la situation par le député, tandis que le ministre a insisté sur la nécessité de respecter les règles de la République.\n\nCet incident illustre la polarisation actuelle au sein du Parlement français, où les enjeux de sécurité intérieure et de gouvernance sont régulièrement mis en scène dans des confrontations verbales intenses.",
+  "mots_cles": [
+    "Assemblée nationale",
+    "Laurent Nuñez",
+    "Pierre-Yves Cadalen",
+    "LFI",
+    "débat parlementaire"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-18T19:04:20+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wilfredor",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale_du_Qu%C3%A9bec,_Canada.jpg",
+    "legende": "Parliament Building of Quebec , in Quebec City, Canada, home to the National Assembly of Quebec.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Assemblée nationale du Québec, Canada.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les images de l’échange tendu entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen à l’Assemblée nationale",
+      "url": "https://www.lemonde.fr/politique/video/2026/11/18/les-images-de-l-echange-tendu-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-a-l-assemblee-nationale_6813192_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
