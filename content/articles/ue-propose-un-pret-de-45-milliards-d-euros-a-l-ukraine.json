@@ -1,0 +1,38 @@
+{
+  "slug": "ue-propose-un-pret-de-45-milliards-d-euros-a-l-ukraine",
+  "titre": "UE propose un prêt de 45 milliards d’euros à l’Ukraine",
+  "chapeau": "La Commission européenne prévoit de solliciter les États membres pour accorder à Kiev un nouveau financement de 45 milliards d’euros. Cette aide vise à renforcer la position de l’Ukraine dans les négociations, le remboursement étant conditionné à la responsabilité de la Russie pour les destructions engendrées.",
+  "corps": "## Une proposition de financement sans précédent\nLa Commission européenne a annoncé son intention de présenter aux pays de l’Union une demande de prêt de 45 milliards d’euros destinée à l’Ukraine. Cette initiative, portée par la présidente de la Commission, Ursula von der Leyen, s’inscrit dans le cadre du soutien continu de l’UE à Kiev depuis le déclenchement du conflit. Le montant évoqué représente l’une des plus importantes aides financières accordées à l’État ukrainien depuis le début de la guerre.\n\n## Objectifs affichés par la Commission\nSelon les propos de la présidente européenne, l’opération financière constitue « la meilleure façon de donner à l’Ukraine une position de force à la table des négociations ». L’idée sous-jacente est de permettre à Kiev de disposer de ressources suffisantes pour soutenir son effort de reconstruction et de défense, tout en améliorant son levier diplomatique face à la Russie.\n\n## Conditions de remboursement évoquées\nLe texte de la proposition indique que le remboursement du prêt ne serait exigé qu’après que la Russie aurait « payé pour les destructions qu’elle a causées en Ukraine ». Cette clause lie explicitement le remboursement à une éventuelle responsabilité financière de la Russie, sans préciser les modalités exactes de mise en œuvre.\n\n## Contexte plus large du soutien européen\nLe projet de prêt s’ajoute aux multiples programmes d’aide déjà mis en place par l’Union, incluant des fonds de secours, des garanties de prêts et des aides militaires. Le recours à un nouveau prêt massif reflète la volonté de l’UE de maintenir un soutien économique robuste, tout en cherchant à créer des conditions favorables à une résolution du conflit. Aucun détail supplémentaire n’a été fourni quant au calendrier de mise en œuvre ou aux modalités de vote au sein du Conseil européen.",
+  "mots_cles": [
+    "Ukraine",
+    "Union européenne",
+    "prêt",
+    "financement",
+    "guerre"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-18T11:14:41+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg/1280px-Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Posterrr",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg",
+    "legende": "Potocki Mausoleum Chapel in Pechera , Vinnytsia Oblast, Ukraine",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Kaplica grobowa rodziny Potockich P1680784 Peczera.jpg"
+  },
+  "sources": [
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "La Commission européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine",
+      "url": "https://www.france24.com/fr/europe/20261118-commission-europ%C3%A9enne-propose-nouveau-pr%C3%AAt-45-milliards-euros-ukraine"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : l’UE propose un nouveau prêt de 45 milliards d’euros à Kiev pour 2027",
+      "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-le-pont-de-crimee-lourdement-endommage-la-section-ferroviaire-reste-en-service_6810982_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
