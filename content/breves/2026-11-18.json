@@ -330,5 +330,25 @@
     "titres_sources": [
       "Pro D2 : Béziers suspendu de terrain pendant deux matchs"
     ]
+  },
+  {
+    "titre": "Hakeem Jeffries pressenti premier président noir de la Chambre",
+    "texte": "Hakeem Jeffries, 56 ans, député new‑yorkais, a été désigné par les démocrates comme premier président noir de la Chambre. Il devrait diriger la Chambre pendant les dernières années du mandat Trump, malgré des critiques internes sur son opposition à Trump et son soutien à Israël.",
+    "rubrique": "international",
+    "publie_le": "2026-11-18T16:43:43+00:00",
+    "titres_sources": [
+      "Hakeem Jeffries en passe de devenir le premier président noir de la Chambre des représentants, selon plusieurs médias américains",
+      "Hakeem Jeffries, désigné par les démocrates, devrait devenir le premier président noir de la Chambre des représentants américaine"
+    ]
+  },
+  {
+    "titre": "Mère du Lot-et-Garonne accusée d'espionner une institutrice",
+    "texte": "Une mère du Lot-et-Garonne a dissimulé un micro dans les vêtements de son fils pour enregistrer les propos de son institutrice. Une enquête a été ouverte suite aux enregistrements, la mère étant mise en cause pour espionnage.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-18T16:43:43+00:00",
+    "titres_sources": [
+      "Un micro pour espionner l'enseignante de son fils",
+      "\"Si tu veux jouer à la guerre, on peut aller en Iran se faire tirer dessus\" : une mère d'élève mise en cause pour avoir enregistré avec un micro les propos de l'institutrice de son fils"
+    ]
   }
 ]
