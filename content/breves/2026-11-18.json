@@ -71,5 +71,25 @@
     "titres_sources": [
       "En 2026, des gens ont encore ce mot de passe hallucinant"
     ]
+  },
+  {
+    "titre": "Évaluations 2026 : français en recul, maths stables",
+    "texte": "Les évaluations nationales de septembre 2026 indiquent une chute de sept points des scores moyens en français chez les élèves de quatrième, alors que les résultats en mathématiques restent stables. Le ministère mise sur les programmes et la formation des enseignants pour inverser la tendance.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-18T07:57:20+00:00",
+    "titres_sources": [
+      "Résultats des évaluations nationales 2026 : le français en recul, les mathématiques résistent",
+      "Une baisse en français, un niveau stable en mathématiques… Quelles sont les conclusions des évaluations nationales pour les élèves ?"
+    ]
+  },
+  {
+    "titre": "NBA : les Pistons éliminent les Spurs à San Antonio",
+    "texte": "Les Pistons de Detroit ont remporté le match de la série à domicile 93-105, mettant ainsi fin à la présence des Spurs de San Antonio. Victor Wembanyama, qui avait mené les Spurs, a peiné à trois points lors de la rencontre.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-18T07:57:20+00:00",
+    "titres_sources": [
+      "NBA : fin de série pour les Spurs, battus à domicile par les Pistons",
+      "NBA : Detroit stoppe net la série des Spurs de Victor Wembanyama"
+    ]
   }
 ]
