@@ -368,5 +368,24 @@
     "titres_sources": [
       "Le Sénat adopte le projet de budget de la Sécurité sociale pour 2027"
     ]
+  },
+  {
+    "titre": "Peluche du loup «mal‑aimé» d’Intermarché retirée du Noël",
+    "texte": "La peluche du loup «mal‑aimé», prévue pour Noël, ne serait pas commercialisée après que des contrôles qualité aient révélé des non‑conformités, selon le patron des Mousquetaires. Les 700 000 unités annoncées ne seraient donc pas disponibles pour les fêtes.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-18T17:38:36+00:00",
+    "titres_sources": [
+      "La peluche du loup \"mal-aimé\" d'Intermarché ne sera finalement pas disponible pour Noël",
+      "La peluche du célèbre loup «mal-aimé» d’Intermarché ne sera finalement pas disponible pour Noël"
+    ]
+  },
+  {
+    "titre": "ONG dénoncent blocage russe et US des négociations sur armes autonomes",
+    "texte": "Des ONG auraient indiqué que Washington et Moscou s’opposeraient à l’ouverture de négociations à l’ONU pour un accord contraignant sur les armes autonomes, malgré le soutien de la majorité des pays. Elles ont dénoncé cet obstacle mercredi.",
+    "rubrique": "international",
+    "publie_le": "2026-11-18T17:38:36+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : des ONG dénoncent les positions russes et américaines au sujet des armes autonomes, qui fonctionnent sans intervention humaine"
+    ]
   }
 ]
