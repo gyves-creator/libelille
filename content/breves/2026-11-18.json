@@ -34,5 +34,23 @@
     "titres_sources": [
       "Médias : « A l’ère des plateformes numériques, penser le pluralisme, c’est penser aussi sa visibilité »"
     ]
+  },
+  {
+    "titre": "Marco Rubio rassure après pannes informatiques, Trump critiqué",
+    "texte": "Le chef de la diplomatie américaine, Marco Rubio, tente de rassurer les Américains suite à plusieurs pannes informatiques. Le président Donald Trump est accusé d'avoir minimisé l'incident de la messagerie Outlook, son ministre affirmant que le sujet est pris au sérieux.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-18T06:41:40+00:00",
+    "titres_sources": [
+      "Marco Rubio, chef de la diplomatie américaine tente de rassurer ses compatriotes après une série de pannes informatiques"
+    ]
+  },
+  {
+    "titre": "Candidatures hors système, de Coluche à Teddy Riner, depuis 1965",
+    "texte": "Des personnalités comme Coluche, Emmanuel Macron et le judoka Teddy Riner ont présenté des candidatures qualifiées d'« hors système ». La surprise Riner, annoncée le 9 novembre, s'inscrit dans une tradition d'outsiders qui tentent la présidentielle depuis 1965, avec des succès variables.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-18T06:41:40+00:00",
+    "titres_sources": [
+      "Coluche, Emmanuel Macron, Teddy Riner… Ce que ces candidatures \"hors système\", plus ou moins réussies, disent de l'élection présidentielle"
+    ]
   }
 ]
