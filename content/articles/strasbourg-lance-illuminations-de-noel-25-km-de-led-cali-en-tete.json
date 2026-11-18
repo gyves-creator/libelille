@@ -1,0 +1,38 @@
+{
+  "slug": "strasbourg-lance-illuminations-de-noel-25-km-de-led-cali-en-tete",
+  "titre": "Strasbourg lance illuminations de Noël, 25 km de LED, Cali en tête",
+  "chapeau": "Les illuminations de Noël de Strasbourg débuteront ce vendredi, avec 25 kilomètres de LED installés dans la ville. Le spectacle musical, placé sous la direction de Cali, précède l’arrivée massive des touristes d’une semaine.",
+  "corps": "## Un lancement prévu ce vendredi\nLe dispositif d’éclairage, qui s’étend sur vingt‑cinq kilomètres de voies publiques, sera mis en marche ce vendredi. Cette mise en lumière s’inscrit dans le cadre de la tradition annuelle des fêtes de fin d’année à Strasbourg, connue pour son marché de Noël et son ambiance féérique. Les habitants pourront ainsi admirer les rues décorées dès le lendemain, avant l’afflux habituel de visiteurs.\n\n## Un concert signé Cali\nEn parallèle de l’allumage des LED, la programmation musicale de l’événement comporte la présence de l’artiste Cali, placé en tête d’affiche. Le concert, prévu le même soir que le lancement, vient enrichir le spectacle visuel d’une dimension sonore, offrant aux Strasbourgeois une soirée complète de divertissement. Aucun autre artiste n’a été mentionné dans les informations disponibles.\n\n## Une semaine d’anticipation avant la haute saison\nL’activation des illuminations une semaine avant le pic d’affluence touristique vise à permettre aux résidents de profiter du décor avant la foule. Cette anticipation permet également de répartir la fréquentation des sites décorés, réduisant ainsi la pression sur les services municipaux pendant la période la plus intense du marché de Noël.\n\n## Consignes pratiques pour les habitants\nAucun détail n’a été communiqué concernant d’éventuelles perturbations de la circulation ou des transports en commun liées à l’installation des LED. Les autorités locales invitent toutefois les habitants à consulter les canaux d’information officiels pour connaître d’éventuelles déviations ou recommandations de stationnement le jour du lancement. En cas de besoin, le service d’information de la mairie reste joignable via le numéro unique de la ville.",
+  "mots_cles": [
+    "illuminations",
+    "Noël",
+    "Strasbourg",
+    "Cali",
+    "LED"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-18T17:15:52+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Strasbourg_Concorde.jpg/1280px-Strasbourg_Concorde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jebulon",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_Concorde.jpg",
+    "legende": "The statue of Strasbourg, Place de la Concorde in Paris, by James Pradier (1790-1852).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Strasbourg Concorde.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Strasbourg. 25 kilomètres de LED, Cali en tête d'affiche : le lancement des illuminations de Noël, c'est vendredi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVFBlaTc0NnBsYTRkOFFQdWgzLXlMTk1SUGgyWDBVY0lYOXJvVGR1eVlOMTJkQm5xSUhMbDA4V3BzRGFJb3J5REtYMGt0eHAwWi1NT3lkTUp6YlpTazRfT2V5UjRES1FxQkNmQVBEUzNVUXcwdHNhVWtBMDBpbXhSbGt2bWRPbGtHMEZlNWk4TGVDLXV4QXJCOEtSWjd3LUpQSDVxY0tmaERCVFZDMjl6RlFiSHpKT3hpUVhNUkhYODA5Zw?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. 25 kilomètres de LED, Cali en tête d'affiche : le lancement des illuminations de Noël, c'est vendredi",
+      "url": "https://www.dna.fr/culture-loisirs/2026/11/18/show-musical-et-lancement-des-illuminations-de-noel-vendredi-en-avant-premiere"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
