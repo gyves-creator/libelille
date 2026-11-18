@@ -1,0 +1,38 @@
+{
+  "slug": "cnil-inflige-5-m-d-amende-a-la-macif-pour-manquements-a-la-securite-des-donnees",
+  "titre": "CNIL inflige 5 M€ d’amende à la Macif pour manquements à la sécurité des données",
+  "chapeau": "La Commission nationale de l'informatique et des libertés a infligé à l'assureur Macif une sanction financière de cinq millions d'euros. La décision fait suite à des failles identifiées dans la protection des données personnelles de ses assurés, dont la conservation de mots de passe en clair et des durées de stockage jugées excessives.",
+  "corps": "## Constats de l’autorité de protection des données\nLa CNIL a relevé plusieurs dysfonctionnements au sein des systèmes de la Macif. Parmi les points les plus critiqués figurent la conservation de mots de passe d’accès aux comptes clients sans aucun chiffrement, ainsi que la conservation de certaines informations personnelles au‑delà des durées jugées proportionnées aux finalités poursuivies. L’autorité a estimé que ces pratiques contrevenaient aux exigences de sécurité imposées par le Règlement général sur la protection des données (RGPD) et aux recommandations de la CNIL en matière de cybersécurité. Sur la base de ces constats, la sanction financière a été fixée à cinq millions d’euros, montant considéré comme proportionné à la gravité des manquements et à la taille de l’entreprise.\n\n## Réaction de la Macif\nFace à la décision, la Macif a déclaré qu’aucune donnée client n’avait été divulguée à ce jour. L’assureur a souligné que les incidents identifiés concernaient des failles de sécurisation interne et non une fuite ou un accès non autorisé aux informations personnelles. La société a indiqué qu’elle prenait déjà des mesures correctives pour renforcer la protection des mots de passe et réduire les durées de conservation des données, en conformité avec les exigences de la CNIL.\n\n## Contexte réglementaire et perspectives\nEn France, la CNIL veille à l’application du RGPD depuis son entrée en vigueur en 2018. Les sanctions financières peuvent atteindre jusqu’à 4 % du chiffre d’affaires annuel mondial d’une entreprise, ou 20  millions d’euros, selon le degré de gravité et la capacité de l’entité à mettre en œuvre des mesures correctives. La pénalité infligée à la Macif s’inscrit dans une série de contrôles renforcés menés par l’autorité auprès de secteurs jugés sensibles, tels que les assurances, la santé et les services financiers. Les entreprises concernées sont ainsi incitées à réviser leurs politiques de gestion des accès, à chiffrer systématiquement les informations d’authentification et à établir des durées de conservation clairement justifiées.\n\n## Implications pour les assurés\nPour les assurés de la Macif, la décision de la CNIL ne signifie pas nécessairement une exposition immédiate de leurs données, mais elle souligne l’importance d’une vigilance accrue quant à la sécurisation des informations personnelles. Les clients sont invités à surveiller leurs comptes en ligne, à changer régulièrement leurs mots de passe et à signaler toute activité suspecte aux services de l’assureur. La situation rappelle également le rôle clé des autorités de régulation dans la protection du droit à la vie privée à l’ère du numérique.",
+  "mots_cles": [
+    "CNIL",
+    "Macif",
+    "sécurité des données",
+    "amende",
+    "RGPD"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-18T16:10:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Le_voilier_de_course_MACIF_%2846%29.JPG/1280px-Le_voilier_de_course_MACIF_%2846%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jean-Pierre Bazard Jpbazard",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_voilier_de_course_MACIF_(46).JPG",
+    "legende": "Le voilier le course Open 60 de classe IMOCA « MACIF » dans le Bassin des Chalutiers à La Rochelle lors de l’ Europa Warm’ Up Race en 2012. La Rochelle fut la ville arrivée de cette course. Le « MACIF",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Le voilier de course MACIF (46).JPG"
+  },
+  "sources": [
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Données personnelles : la Macif condamnée par la CNIL à une amende de 5 millions d’euros pour des manquements à la sécurité",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/18/donnees-personnelles-la-macif-condamnee-par-la-cnil-a-une-amende-de-5-millions-d-euros-pour-des-manquements-a-la-securite_6813157_4408996.html"
+    },
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "La Cnil inflige une amende de 5 millions d'euros à l'assureur Macif Vie \"en raison de l'insuffisance des mesures prises pour la sécurité des données\"",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-cnil-inflige-une-amende-de-5-millions-d-euros-a-l-assureur-macif-vie-en-raison-de-l-insuffisance-des-mesures-prises-pour-la-securite-des-donnees_8288285.html#xtor=RSS-3-%5Binternet%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

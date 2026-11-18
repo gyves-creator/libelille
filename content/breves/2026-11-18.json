@@ -311,5 +311,24 @@
     "titres_sources": [
       "\"Un bras d'honneur invraisemblable aux locataires en précarité énergétique\" : les députés votent un amendement du RN levant les interdictions de louer des passoires thermiques"
     ]
+  },
+  {
+    "titre": "Armée israélienne lance opération contre menace à Gaza",
+    "texte": "L'armée israélienne indiquerait qu'elle a démarré une opération dans une zone de la bande de Gaza contrôlée par le Hamas, au‑delà de la ligne jaune. Elle préciserait que l'objectif serait d'éliminer une menace pesant sur ses soldats.",
+    "rubrique": "international",
+    "publie_le": "2026-11-18T16:10:41+00:00",
+    "titres_sources": [
+      "L’armée israélienne annonce le lancement d’une opération dans une zone de la bande de Gaza contrôlée par le Hamas",
+      "L'armée israélienne annonce le lancement d'une opération dans une zone de la bande de Gaza contrôlée par le Hamas"
+    ]
+  },
+  {
+    "titre": "Béziers suspendu de terrain pour deux matchs en Pro D2",
+    "texte": "L'organisme de la Pro D2 annoncerait la suspension du terrain de Béziers pour les deux prochains matchs, à la suite de débordements observés dans les tribunes lors du match contre Narbonne fin septembre. La sanction viserait à garantir la sécurité des spectateurs.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-18T16:10:41+00:00",
+    "titres_sources": [
+      "Pro D2 : Béziers suspendu de terrain pendant deux matchs"
+    ]
   }
 ]
