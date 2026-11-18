@@ -220,5 +220,23 @@
     "titres_sources": [
       "Sortie de GTA VI : à quelle heure les joueurs français pourront-ils commencer leur aventure ce jeudi ?"
     ]
+  },
+  {
+    "titre": "Enquête de justice espagnole ouverte contre Julio Iglesias",
+    "texte": "La justice espagnole a lancé une enquête pour faits d’agressions sexuelles présumées, portées par deux anciennes employées qui évoquent des abus survenus en 2021 dans les résidences du chanteur. Julio Iglesias conteste les accusations, les qualifiant de totalement infondées.",
+    "rubrique": "international",
+    "publie_le": "2026-11-18T12:39:14+00:00",
+    "titres_sources": [
+      "La justice espagnole ouvre une enquête contre le chanteur Julio Iglesias, accusé d'agressions sexuelles par deux anciennes employées"
+    ]
+  },
+  {
+    "titre": "Catherine Nay publie un livre sur l’enfance d’Emmanuel Macron",
+    "texte": "Catherine Nay publie « Ce pays dont le prince est un enfant », un livre‑enquête qui analyse l’ascension d’Emmanuel Macron à travers son enfance, notamment le lien fusionnel qu’il entretenait avec sa grand‑mère.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-18T12:39:14+00:00",
+    "titres_sources": [
+      "Emmanuel Macron, cet « enfant » qui nous gouverne, raconté dans un livre-enquête de Catherine Nay"
+    ]
   }
 ]
