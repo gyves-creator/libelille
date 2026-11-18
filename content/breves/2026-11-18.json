@@ -16,5 +16,23 @@
     "titres_sources": [
       "Face à la sécheresse, la résistance prometteuse de prairies innovantes dans le Poitou"
     ]
+  },
+  {
+    "titre": "Le tourisme mondial sous pression face au changement climatique",
+    "texte": "Le rapport Destination Climate RiskScan indique que les risques liés à la hausse des températures s’accentueraient. Le secteur touristique resterait insuffisamment préparé, d’après l’analyse de 2 600 régions réparties dans 263 pays.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-18T06:14:44+00:00",
+    "titres_sources": [
+      "Comment le changement climatique met sous pression le tourisme mondial"
+    ]
+  },
+  {
+    "titre": "Le pluralisme médiatique à l’épreuve des plateformes algorithmiques",
+    "texte": "Nathalie Sonnac aurait estimé que garantir la diversité des points de vue nécessite d’adapter le cadre légal à la transformation de l’écosystème médiatique. Elle aurait souligné l’émergence de plateformes algorithmiques privées comme un enjeu pour la visibilité des contenus.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-18T06:14:44+00:00",
+    "titres_sources": [
+      "Médias : « A l’ère des plateformes numériques, penser le pluralisme, c’est penser aussi sa visibilité »"
+    ]
   }
 ]

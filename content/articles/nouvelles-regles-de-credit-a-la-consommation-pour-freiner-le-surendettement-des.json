@@ -1,0 +1,33 @@
+{
+  "slug": "nouvelles-regles-de-credit-a-la-consommation-pour-freiner-le-surendettement-des",
+  "titre": "Nouvelles règles de crédit à la consommation pour freiner le surendettement des moins de 30 ans",
+  "chapeau": "Des mesures encadrant les crédits à la consommation entrent en vigueur vendredi afin de limiter le surendettement des jeunes. Un témoignage montre comment l’accès facilité aux achats, notamment de téléphones, peut entraîner une spirale d’endettement.",
+  "corps": "## Nouvelles mesures encadrant le crédit à la consommation\nDes dispositions législatives viennent d’être adoptées pour renforcer le contrôle des prêts à la consommation. Elles seront appliquées à compter du vendredi suivant leur publication et visent spécifiquement les personnes de moins de trente ans, groupe identifié comme le plus exposé aux risques d’endettement excessif. Parmi les points clés, on retrouve une obligation de vérification plus stricte de la capacité de remboursement, la limitation du nombre de crédits ouverts simultanément, ainsi que des exigences accrues en matière d’information du consommateur avant la signature du contrat. L’objectif affiché est de ralentir la progression du surendettement, phénomène qui a connu une hausse notable chez les jeunes au cours des dernières années.\n\n## Témoignage d’une jeune consommatrice\nUne jeune femme, qui a souhaité rester anonyme, décrit le mécanisme qui l’a conduite à une situation financière difficile. Elle explique que l’acquisition d’un nouveau téléphone, perçue comme indispensable, s’est faite à crédit, comme c’est le cas pour de nombreux produits technologiques. Chaque nouveau dispositif a entraîné l’ouverture d’un nouveau prêt, souvent sans que la capacité réelle de remboursement soit évaluée en profondeur. Au fil des achats, les mensualités se sont accumulées, créant une charge financière supérieure aux revenus disponibles. Le récit met en lumière le rôle des publicités et des offres promotionnelles qui incitent à financer immédiatement les biens de consommation, même lorsque le budget est déjà serré.\n\n## Contexte du surendettement chez les jeunes\nLes données officielles montrent que le nombre de dossiers de surendettement déposés par des ménages dont le chef de famille a moins de trente ans a augmenté de façon continue depuis plusieurs années. Cette évolution est attribuée à la combinaison de plusieurs facteurs : la généralisation du commerce en ligne, la facilité d’accès aux crédits à la consommation, et la pression sociale liée à la possession d’appareils électroniques récents. Les nouvelles règles cherchent donc à instaurer un cadre plus protecteur, en imposant aux établissements de crédit une plus grande responsabilité dans l’évaluation du risque d’endettement.\n\n## Perspectives d’application\nLes autorités chargées de la régulation du crédit soulignent que le respect de ces nouvelles exigences sera contrôlé par des inspections régulières et des sanctions en cas de non‑conformité. Elles encouragent également les jeunes consommateurs à recourir à des outils d’évaluation budgétaire et à privilégier l’épargne avant de contracter un nouveau crédit. Le témoignage recueilli illustre la nécessité d’une meilleure information et d’une plus grande prudence dans le recours aux facilités de paiement, afin d’éviter que la recherche d’un produit immédiat ne se transforme en un fardeau financier durable.",
+  "mots_cles": [
+    "surendettement",
+    "crédit à la consommation",
+    "jeunes",
+    "réglementation",
+    "téléphone"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-18T06:14:39+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Homme_statue_-_214.jpg/1280px-Homme_statue_-_214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license state",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Homme_statue_-_214.jpg",
+    "legende": "Living statue in Annecy , France .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Homme statue - 214.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "TÉMOIGNAGE. \"Dès qu'il y a un nouveau téléphone, tout le monde fait un crédit\" : comment le surendettement explose chez les moins de 30 ans",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
