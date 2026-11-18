@@ -238,5 +238,23 @@
     "titres_sources": [
       "Emmanuel Macron, cet « enfant » qui nous gouverne, raconté dans un livre-enquête de Catherine Nay"
     ]
+  },
+  {
+    "titre": "Alcaraz et Medvedev s'affrontent pour le dernier carré du Masters",
+    "texte": "Après leurs victoires à Turin, l’Espagnol et le Russe joueraient le match décisif du Masters ATP, qui déterminerait qui accèdera au dernier carré. L’enjeu représente un pas important vers les demi-finales.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-18T13:23:46+00:00",
+    "titres_sources": [
+      "EN DIRECT - Tennis : dernier carré du Masters en vue pour le vainqueur du choc Alcaraz-Medvedev"
+    ]
+  },
+  {
+    "titre": "Majorité des Français souhaitent un plafonnement des prix de base",
+    "texte": "Selon un sondage, plus de la moitié des Français demanderaient un plafonnement des prix des produits de première nécessité. 58 % déclareraient surveiller les propositions liées au pouvoir d’achat et feraient confiance aux actions politiques.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-18T13:23:46+00:00",
+    "titres_sources": [
+      "Plus de la moitié des Français attendent du futur président un plafonnement des prix des produits de base, selon une enquête ICI avec Odoxa"
+    ]
   }
 ]
