@@ -1,0 +1,33 @@
+{
+  "slug": "trilateral-inedit-a-shenzhen-poutine-trump-et-xi-reunis-lors-du-sommet-apec",
+  "titre": "Trilatéral inédit à Shenzhen : Poutine, Trump et Xi réunis lors du sommet APEC",
+  "chapeau": "Le président russe Vladimir Poutine a entamé mercredi des pourparlers avec le président chinois Xi Jinping à Shenzhen, en marge du sommet de la Coopération économique Asie‑Pacifique. Le jeudi, l’ancien président américain Donald Trump doit rejoindre les deux dirigeants pour une rencontre trilatérale inédite.",
+  "corps": "## Un contexte géopolitique chargé\nLe sommet de la Coopération économique Asie‑Pacifique (APEC) se tient du 18 au 19 novembre à Shenzhen, ville du sud‑est de la Chine. Cette réunion réunit chaque année des chefs d’État et de gouvernement des économies du Pacifique afin de débattre de questions commerciales, de développement durable et de coopération régionale. Cette année, le cadre a été choisi pour accueillir, pour la première fois, une rencontre trilatérale entre les dirigeants de la Russie, des États‑Unis et de la Chine.\n\n## Une rencontre entre Vladimir Poutine et Xi Jinping\nMercredi, le président russe Vladimir Poutine a rejoint le président chinois Xi Jinping dans les locaux du sommet. Les deux chefs d’État ont engagé des discussions à l’initiative de la Chine, qui cherche à affirmer son rôle de puissance incontournable sur la scène internationale. Aucun détail précis n’a été communiqué sur le contenu des entretiens, mais l’accent a été mis sur l’utilité attendue d’un futur sommet incluant les États‑Unis.\n\n## L’arrivée de Donald Trump et les enjeux de la trilatérale\nLe jeudi, l’ancien président américain Donald Trump doit se joindre aux deux dirigeants pour une réunion inédite. Cette présence américaine, bien que controversée, s’inscrit dans la volonté de la Chine de présenter un front uni entre les trois plus grands acteurs mondiaux. Le format trilatéral laisse entendre une volonté de limiter les débats sur les sujets de discorde, tout en mettant en avant la coopération économique et la stabilité régionale. Aucun communiqué officiel n’a encore précisé les thèmes qui seront abordés lors de cette séance.\n\n## Une stratégie chinoise de visibilité mondiale\nEn réunissant les deux rivaux géopolitiques à Shenzhen, la Chine se positionne comme l’hôte d’un dialogue de haut niveau, renforçant ainsi son image de médiateur et de puissance décisive. Cette démarche s’inscrit dans une politique plus large visant à accroître l’influence chinoise tout en contrôlant l’espace de discussion sur les questions sensibles. Le sommet APEC, traditionnellement centré sur les questions économiques, devient ainsi le théâtre d’une mise en scène géopolitique majeure.",
+  "mots_cles": [
+    "APEC",
+    "Shenzhen",
+    "trilatéral",
+    "géopolitique",
+    "leaders"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-18T05:10:22+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/The_west_panorama_of_Shenzhen2021.jpg/1280px-The_west_panorama_of_Shenzhen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Charlie fong",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_west_panorama_of_Shenzhen2021.jpg",
+    "legende": "The west panorama of Shenzhen, Shennan road in the middle, Shenzhen river in the left, and Kowloon–Canton railway in the right.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:The west panorama of Shenzhen2021.jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine s’attend à un sommet « d’une grande utilité » avec Donald Trump et Xi Jinping en Chine",
+      "url": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-vladimir-poutine-s-attend-a-un-sommet-d-une-grande-utilite-avec-donald-trump-et-xi-jinping-en-chine_6810982_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

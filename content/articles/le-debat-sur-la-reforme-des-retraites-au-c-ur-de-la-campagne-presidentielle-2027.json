@@ -1,0 +1,32 @@
+{
+  "slug": "le-debat-sur-la-reforme-des-retraites-au-c-ur-de-la-campagne-presidentielle-2027",
+  "titre": "Le débat sur la réforme des retraites au cœur de la campagne présidentielle 2027",
+  "chapeau": "Le système de retraite français fait l'objet d'un questionnement majeur dans le cadre de la présidentielle 2027. Les candidats exposent leurs analyses sur l'état actuel du dispositif et les leviers possibles d'une réforme.",
+  "corps": "## Un sujet récurrent dans la vie politique française\nLe système de retraite, pilier du modèle social, revient régulièrement au centre des discussions électorales. À l'approche de l'élection présidentielle de 2027, il apparaît comme l'un des grands dossiers de la campagne. Les différents programmes mettent en avant la nécessité de faire le point sur la situation actuelle du dispositif, d'en identifier les faiblesses et d'évoquer les pistes d'évolution. Cette mise en perspective s'inscrit dans la continuité des débats qui ont animé les précédentes échéances, où la soutenabilité financière, l'équité entre les générations et la prise en compte des spécificités professionnelles ont été régulièrement soulevées.\n\n## Les leviers envisagés pour une éventuelle réforme\nParmi les options évoquées, plusieurs axes reviennent fréquemment. Certains candidats suggèrent un allongement progressif de la durée de cotisation, d'autres plaident pour une revalorisation des mécanismes de calcul des pensions afin d'harmoniser les régimes. La question du financement, notamment par le biais d'une meilleure maîtrise des dépenses publiques ou d'une adaptation du taux de cotisation, figure également parmi les propositions. Enfin, la prise en compte des carrières atypiques et des travailleurs précaires est présentée comme un critère d'équité à intégrer dans toute réforme éventuelle.\n\n## Implications pour la campagne présidentielle\nLe débat sur les retraites constitue un point d'ancrage pour les candidats, qui l'utilisent pour illustrer leur vision globale du modèle social français. En présentant leurs positions, ils cherchent à répondre aux attentes d'un électorat sensible à la question de la retraite, tout en différenciant leurs propositions de celles de leurs adversaires. Cette thématique, largement médiatisée, influence le discours de campagne et contribue à façonner les priorités perçues par les électeurs.\n\n## Un cadre juridique et institutionnel à respecter\nToute modification du système de retraite doit s'inscrire dans le cadre constitutionnel et législatif français. Les réformes envisagées seront soumises à l'examen du Parlement et, le cas échéant, à un débat public élargi. Les institutions compétentes, telles que le Conseil d'État ou les commissions parlementaires spécialisées, joueront un rôle clé dans l'évaluation de la faisabilité et de la légalité des mesures proposées.\n\nEn résumé, la question de la réforme des retraites occupe une place centrale dans le paysage électoral de 2027, mobilisant à la fois les acteurs politiques, les partenaires sociaux et les citoyens. Les positions exprimées offrent un aperçu des orientations possibles, tout en rappelant la complexité inhérente à toute transformation du système de protection sociale français.",
+  "mots_cles": [
+    "retraite",
+    "réforme",
+    "présidentielle 2027",
+    "débat politique"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-18T05:10:18+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Presidentielles-2027-Selma-LABIB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown author Unknown author",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Presidentielles-2027-Selma-LABIB.png",
+    "legende": "Presidentielles-2027-Selma-LABIB",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Presidentielles-2027-Selma-LABIB.png"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Faut-il encore réformer les retraites ? Les faits à connaître pour comprendre le débat",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/faut-il-encore-reformer-les-retraites-les-faits-a-connaitre-pour-comprendre-le-debat_6813070_4355770.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
