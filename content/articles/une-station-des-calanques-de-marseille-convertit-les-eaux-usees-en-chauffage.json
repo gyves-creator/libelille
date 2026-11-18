@@ -1,0 +1,38 @@
+{
+  "slug": "une-station-des-calanques-de-marseille-convertit-les-eaux-usees-en-chauffage",
+  "titre": "Une station des calanques de Marseille convertit les eaux usées en chauffage",
+  "chapeau": "Une installation située dans les calanques de Marseille transforme les eaux usées en énergie thermique. Cette démarche s’inscrit dans le cadre de projets de valorisation des déchets pour alimenter le chauffage local.",
+  "corps": "## Une nouvelle utilisation des eaux usées à Marseille\nUne station implantée dans le secteur des calanques de Marseille a été mise en service pour récupérer l’énergie contenue dans les eaux usées et la convertir en chaleur utilisable. Le dispositif, présenté comme une première du genre dans le département des Bouches‑du‑Rhône, vise à exploiter le potentiel thermique des eaux résiduelles afin de réduire la consommation d’énergie fossile dans la région.\n\n## Contexte et objectifs du projet\nLe principe de valorisation énergétique des eaux usées repose sur la récupération de la chaleur dégagée lors du traitement des effluents. Cette chaleur, qui serait autrement perdue, peut être canalisée vers des réseaux de chauffage urbain ou des installations industrielles. Le projet s’inscrit dans une dynamique plus large de transition énergétique, où les collectivités locales cherchent à diversifier leurs sources d’énergie et à diminuer leurs émissions de CO₂. En France, plusieurs villes ont déjà expérimenté des systèmes similaires, bien que la localisation dans un environnement naturel sensible comme les calanques soit particulière.\n\n## Impacts attendus pour les habitants\nPour les résidents du secteur, la mise en œuvre de la station ne modifie pas les usages quotidiens du réseau d’assainissement. Cependant, la production de chaleur supplémentaire pourrait contribuer à stabiliser les coûts de chauffage, notamment pendant les périodes de froid. Les autorités locales n’ont pas communiqué de modifications immédiates des services publics, mais la perspective d’une énergie locale supplémentaire est présentée comme un avantage pour la communauté.\n\n## Perspectives et suivi du dispositif\nLe suivi de la performance de la station sera assuré par les services techniques en charge de la gestion des eaux usées. Les données relatives à la quantité d’énergie récupérée et à son intégration dans le réseau de chauffage seront publiées périodiquement. Cette transparence permettra d’évaluer l’efficacité du procédé et d’envisager d’éventuelles extensions ou répliques dans d’autres zones du bassin méditerranéen.\n\nEn cas de besoin d’information complémentaire, les habitants peuvent consulter le site internet de la mairie de Marseille ou contacter le service d’assainissement de la métropole. Aucun changement immédiat des itinéraires ou des services de transport n’est prévu suite à l’installation de la station.",
+  "mots_cles": [
+    "eaux usées",
+    "chauffage",
+    "Marseille",
+    "valorisation énergétique",
+    "calanques"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-18T07:30:16+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Calanque_de_l%27Erevine.jpg/1280px-Calanque_de_l%27Erevine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "kallerna",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Calanque_de_l%27Erevine.jpg",
+    "legende": "Erevine calanque &amp; viaduct, Marseille.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Calanque de l'Erevine.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Voix du Nord",
+      "titre": "À Marseille, l’eau sale se transforme en chauffage",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlc2Z0ZwTTExeWg1YXptSWxDRV84UjYtU3BiRHRoNUxXdXZUTVZJR2JXWXpqRnFWOWhKZVZHNjF3ZzlKVUZ4XzdSdk40dVkwcEkybm52SlpmWWpsUFV5QURJdnpYeC1CRGI3a2lTN2RtVm5nZ0VKTFFNN3JwLTVxZ0ptMHNXd1E2V2FvUG1nYlJDa0dPa2xDZVJTckZuQVY0RUZESw?oc=5"
+    },
+    {
+      "media": "Le Progrès",
+      "titre": "Bouches-du-Rhône. Dans les calanques de Marseille, une station transforme les eaux usées en chauffage",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1JIS1NCQ3czUHR5d1pKR2hnSUJ6cDgyNzM2Zmd4S2hIeUsyRk15Z1d5ODJNWm5ObnYteG5icHpvd0t1Z0I1OTVOTUVpb3BrWW1vWFJ2VF9aVURWbEd1eDY3c2pxT25takpfTkVTZ3pwdFF2TGdZbzZkSjZpRmZjdzNvMjNaM00wQlppNUVmdHJ0eG5qUHNHdGV5dFZVTEdldy11T1JxNHlhUV8yT045dHBzR1VkLVdGWktWd0lhWmZqcFBOVEJ0V3dtMDc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
