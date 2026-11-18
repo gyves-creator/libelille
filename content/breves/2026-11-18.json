@@ -256,5 +256,23 @@
     "titres_sources": [
       "Plus de la moitié des Français attendent du futur président un plafonnement des prix des produits de base, selon une enquête ICI avec Odoxa"
     ]
+  },
+  {
+    "titre": "Macif condamnée à 5 M€ d’amende pour mots de passe non cryptés",
+    "texte": "La CNIL aurait infligé une amende de 5 millions d’euros à la Macif pour avoir stocké les mots de passe de ses clients sans chiffrement. Un contrôle aurait mis en évidence de graves vulnérabilités informatiques dans la filiale d’assurance‑vie, qui se serait depuis mise en conformité.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-18T13:56:05+00:00",
+    "titres_sources": [
+      "La Macif condamnée à 5 millions d’euros d’amende par la Cnil pour avoir stocké sans cryptage les mots de passe de ses clients"
+    ]
+  },
+  {
+    "titre": "Grand Theft Auto VI acclamé dès ses premiers tests",
+    "texte": "La presse internationale et plusieurs influenceurs auraient publié les premières critiques très favorables du nouveau jeu de Rockstar Games, « Grand Theft Auto VI ». Les images et vidéos, accessibles depuis minuit, heure néo‑zélandaise, inonderaient les réseaux sociaux.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-18T13:56:05+00:00",
+    "titres_sources": [
+      "« GTA VI » : dans ses tests, la presse internationale dithyrambique"
+    ]
   }
 ]
