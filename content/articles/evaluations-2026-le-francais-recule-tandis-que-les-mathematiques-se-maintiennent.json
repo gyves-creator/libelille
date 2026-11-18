@@ -1,0 +1,38 @@
+{
+  "slug": "evaluations-2026-le-francais-recule-tandis-que-les-mathematiques-se-maintiennent",
+  "titre": "Évaluations 2026 : le français recule tandis que les mathématiques se maintiennent",
+  "chapeau": "Les premiers résultats des évaluations nationales publiés en septembre 2026 montrent une baisse généralisée des performances en français, de l'école primaire au lycée. Les scores en mathématiques, en revanche, restent stables, incitant le ministère de l'Éducation à renforcer les programmes et la formation des enseignants.",
+  "corps": "## Bilan des performances en français\nLes tests nationaux réalisés en septembre 2026 révèlent une détérioration des résultats en français à plusieurs niveaux du système scolaire. Chez les élèves du primaire, les notes diminuent de la classe de CE1 jusqu’au CM2. La tendance se poursuit au collège, avec des baisses observées en 5e, 4e et 2de. Au lycée, les évaluations confirment cette perte de niveau. En classe de quatrième, le score moyen en français a chuté de sept points depuis 2023, soulignant un recul continu sur plusieurs années.\n\n## Stabilité des mathématiques\nÀ l’inverse, les mathématiques ne connaissent pas de dégradation comparable. Les mêmes évaluations indiquent que les performances des élèves dans cette discipline restent globalement inchangées, sans baisse notable depuis les précédentes séries de tests. Cette stabilité contraste fortement avec la situation du français et constitue le seul point positif relevé dans les premiers bilans.\n\n## Réponses du ministère de l’Éducation nationale\nFace à ces constats, le ministère de l’Éducation nationale mise sur la mise en œuvre des nouveaux programmes scolaires et sur le renforcement de la formation des enseignants comme leviers principaux pour inverser la tendance. Aucun chiffre supplémentaire n’est fourni quant aux mesures précises ou aux échéances prévues. Le ministère souligne que ces actions visent à améliorer la maîtrise du français dès le plus jeune âge et à soutenir les enseignants dans la mise en œuvre des réformes pédagogiques.\n\n## Contexte et enjeux\nLes évaluations nationales, instaurées pour mesurer les acquis des élèves à l’échelle du pays, sont réalisées chaque année depuis plusieurs décennies. Elles permettent d’identifier les points forts et les faiblesses du système éducatif et d’ajuster les politiques publiques en conséquence. Le recul observé en français soulève des questions sur la pertinence des méthodes d’enseignement, la charge de travail des enseignants et les ressources allouées aux écoles. La stabilité des mathématiques, quant à elle, montre que certaines disciplines peuvent résister aux mêmes pressions, offrant ainsi des pistes d’analyse pour les réformes à venir.\n\nCes premiers résultats incitent à un suivi attentif des indicateurs éducatifs dans les mois à venir, afin de vérifier l’impact des mesures annoncées et d’ajuster les stratégies si nécessaire.",
+  "mots_cles": [
+    "évaluations nationales",
+    "français",
+    "mathématiques",
+    "enseignement",
+    "ministère de l'Éducation"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-18T10:14:40+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/R%C3%A9sidence_Wikim%C3%A9dia_France_au_110Bis_-_Minist%C3%A8re_de_l%27%C3%A9ducation_nationale_6.jpg/1280px-R%C3%A9sidence_Wikim%C3%A9dia_France_au_110Bis_-_Minist%C3%A8re_de_l%27%C3%A9ducation_nationale_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Mathieu Denel WMFr",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:R%C3%A9sidence_Wikim%C3%A9dia_France_au_110Bis_-_Minist%C3%A8re_de_l%27%C3%A9ducation_nationale_6.jpg",
+    "legende": "Résidence Wikimédia France au 110Bis - Ministère de l'éducation nationale",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Résidence Wikimédia France au 110Bis - Ministère de l'éducation nationale 6.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les évaluations nationales des élèves en 2026 révèlent des fragilités persistantes : le français en recul, les mathématiques résistent",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "Une baisse en français, un niveau stable en mathématiques… Quelles sont les conclusions des évaluations nationales pour les élèves ?",
+      "url": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/une-baisse-en-francais-un-niveau-stable-en-mathematiques-quelles-sont-les-conclusions-des-evaluations-nationales-pour-les-eleves_8286749.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

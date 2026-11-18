@@ -128,5 +128,23 @@
     "titres_sources": [
       "Black Friday 2026 : notre live des vraies bonnes affaires, à J-9 du grand jour"
     ]
+  },
+  {
+    "titre": "Absences massives de CRS pour consultations médicales",
+    "texte": "Le syndicat Alliance Police nationale signale que plus d'un millier de CRS étaient indisponibles mardi, optant pour des consultations médicales faute de droit de grève. Cette hausse d'absences traduit le mécontentement des policiers face à la mobilisation sociale.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-18T10:15:00+00:00",
+    "titres_sources": [
+      "VIDEO. \"Il faut savoir dire stop\" : les absences pour consultations médicales se multiplient chez les CRS, éprouvés et en colère face à la mobilisation sociale"
+    ]
+  },
+  {
+    "titre": "Gabriel Attal interviewé dans L'heure de vérité",
+    "texte": "Gabriel Attal, candidat du parti Renaissance, a été interviewé jeudi soir à 20h40 par Caroline Roux dans l'émission télévisée L'heure de vérité. L'entretien s'est inscrit dans le cadre de la campagne présidentielle.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-18T10:15:00+00:00",
+    "titres_sources": [
+      "\"L'heure de vérité\". Avec Gabriel Attal"
+    ]
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "slug": "la-federation-internationale-de-hockey-sur-glace-exclut-la-russie-du-mondial-jun",
+  "titre": "La Fédération internationale de hockey sur glace exclut la Russie du Mondial juniors après une cyberattaque",
+  "chapeau": "La Fédération internationale de hockey sur glace a annoncé qu’elle ne compterait pas la Russie parmi les équipes du Championnat du monde junior, qui débute fin décembre. La même journée, l’organisme a confirmé avoir été la cible d’une cyberattaque survenue mardi soir.",
+  "corps": "## Décision concernant la participation russe\nLe Tribunal arbitral du sport (TAS) a rendu, le 30 octobre, un arrêt ordonnant la réintégration de la Russie aux championnats du monde de hockey sur glace. Cette décision a suscité l’opposition de plusieurs fédérations nationales, qui ont exprimé leur refus de voir la Russie concourir aux compétitions majeures. Face à cette fronde, la Fédération internationale de hockey sur glace (IIHF) a choisi de ne pas inclure la Russie au Championnat du monde junior, prévu pour la fin du mois de décembre. Aucun autre détail n’a été communiqué sur les modalités de cette exclusion.\n\n## Cyberattaque signalée\nDans un communiqué diffusé mardi soir, l’IIHF a indiqué avoir été victime d’une cyberattaque. Les autorités de la fédération n’ont pas précisé la nature de l’incident, les éventuelles conséquences sur les systèmes informatiques ni l’identité des auteurs. L’annonce a été faite sans indication d’impact sur les compétitions en cours ou à venir, y compris le Mondial juniors.\n\n## Contexte général\nLe Championnat du monde junior, réservé aux joueurs de moins de 20 ans, constitue l’une des compétitions phares du calendrier international de hockey sur glace. La participation de la Russie, traditionnellement forte dans ce tournoi, aurait pu influer sur le déroulement de la compétition. La décision de l’IIHF s’inscrit donc dans un contexte de tensions géopolitiques et sportives, où les instances dirigeantes doivent concilier les exigences du droit sportif et les pressions des fédérations membres.\n\n## Répercussions possibles\nL’exclusion de la Russie du Mondial juniors pourrait entraîner des répercussions sur le calendrier des qualifications et sur la répartition des groupes. Par ailleurs, la cyberattaque soulève des questions de sécurité informatique au sein des organisations sportives internationales, qui gèrent des données sensibles liées aux athlètes, aux diffusions télévisées et aux transactions financières. Aucun communiqué officiel n’a encore indiqué les mesures prises pour renforcer la protection des systèmes de l’IIHF.\n\nCes deux événements, décision de non‑inclusion de la Russie et cyberattaque, se sont produits dans le même laps de temps, mais aucun lien direct n’a été établi entre eux dans les informations disponibles.",
+  "mots_cles": [
+    "hockey sur glace",
+    "cyberattaque",
+    "Russie",
+    "Mondial juniors",
+    "TAS"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-18T10:14:34+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/IIHF_Headquarter_Zurich.JPG/1280px-IIHF_Headquarter_Zurich.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "David Shilling David",
+    "licence": "CC BY-SA 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:IIHF_Headquarter_Zurich.JPG",
+    "legende": "The back side of the IIHF Headquarter in Zurich, Switzerland",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:IIHF Headquarter Zurich.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "La Fédération internationale de hockey sur glace victime d'une cyberattaque peu après avoir retoqué la participation des Russes au Mondial juniors",
+      "url": "https://www.franceinfo.fr/sports/hockey-sur-glace/la-federation-internationale-de-hockey-sur-glace-victime-d-une-cyberattaque-peu-apres-avoir-retoque-la-participation-des-russes-aux-mondiaux-juniors_8287931.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Hockey sur glace : la Fédération internationale victime d'une cyberattaque",
+      "url": "https://www.lefigaro.fr/sports/sports-d-hiver/hockey-sur-glace-la-federation-internationale-victime-d-une-cyberattaque-20261118"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
