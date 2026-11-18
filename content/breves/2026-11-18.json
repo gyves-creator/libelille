@@ -534,5 +534,23 @@
     "titres_sources": [
       "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement"
     ]
+  },
+  {
+    "titre": "Un immeuble à Lyon maintient 20-26 °C sans chauffage ni clim",
+    "texte": "Selon le promoteur, l’immeuble inauguré mardi à Lyon garderait une température intérieure comprise entre 20 °C et 26 °C toute l’année, rendant inutiles le chauffage et la climatisation. Cette performance serait obtenue grâce à l’inertie thermique du bâtiment et aux apports solaires.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-18T21:58:24+00:00",
+    "titres_sources": [
+      "Une vingtaine de degrés toute l'année, sans dépasser 26 : un nouvel immeuble à Lyon défit les saisons et permet de garder le chauffage et la climatisation éteints"
+    ]
+  },
+  {
+    "titre": "Des cars d’Indre-et-Loire passent à l’électrique",
+    "texte": "Dans le département d’Indre-et-Loire, les véhicules scolaires et de transport public ont été convertis en bus électriques en conservant carrosserie et sièges, le moteur diesel ayant été remplacé par des batteries. Selon les autorités, la facture d’énergie serait réduite d’environ moitié.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-18T21:58:24+00:00",
+    "titres_sources": [
+      "Véhicules électriques : des cars d’Indre-et-Loire passent au vert"
+    ]
   }
 ]
