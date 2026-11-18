@@ -184,5 +184,23 @@
     "titres_sources": [
       "La France dans le monde : des moyens réduits pour la diplomatie ?"
     ]
+  },
+  {
+    "titre": "Edouard Philippe présente les priorités de son programme présidentiel",
+    "texte": "Le candidat Horizons Edouard Philippe a présenté son programme présidentiel, mettant l’accent sur la priorité à l’école et le rétablissement des comptes publics. Il a indiqué que ces mesures seraient détaillées lors de la campagne à venir.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-18T11:37:22+00:00",
+    "titres_sources": [
+      "Priorité donnée à l'école, rétablissement des comptes publics... Edouard Philippe met en lumière plusieurs mesures de son programme présidentiel"
+    ]
+  },
+  {
+    "titre": "Comment éviter les spoilers de GTA 6 avant sa sortie du 19 novembre",
+    "texte": "Le jeu GTA 6 doit sortir le 19 novembre, mais des vidéos volées circulent déjà en ligne. Pour se prémunir, il recommande d’utiliser des filtres de contenu et de suivre les conseils publiés.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-18T11:37:22+00:00",
+    "titres_sources": [
+      "GTA 6 : comment éviter les spoilers sur l’histoire, la fin du jeu et le destin de Lucia et Jason ?"
+    ]
   }
 ]
