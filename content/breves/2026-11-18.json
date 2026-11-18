@@ -91,5 +91,24 @@
       "NBA : fin de série pour les Spurs, battus à domicile par les Pistons",
       "NBA : Detroit stoppe net la série des Spurs de Victor Wembanyama"
     ]
+  },
+  {
+    "titre": "IIHF touchée par cyberattaque, exclut la Russie du Mondial juniors",
+    "texte": "La Fédération internationale de hockey sur glace a signalé une cyberattaque survenue mardi soir. Malgré la décision du Tribunal arbitral du sport d’intégrer la Russie aux championnats du monde, l’instance a maintenu son exclusion du Mondial juniors qui débute fin décembre.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-18T09:13:26+00:00",
+    "titres_sources": [
+      "La Fédération internationale de hockey sur glace victime d'une cyberattaque peu après avoir retoqué la participation des Russes au Mondial juniors",
+      "Hockey sur glace : la Fédération internationale victime d'une cyberattaque"
+    ]
+  },
+  {
+    "titre": "Échec du lancement Vulcan Centaur de l’ULA, perte de poussée",
+    "texte": "United Launch Alliance a confirmé l’échec de son lanceur Vulcan Centaur, le premier incident critique en vingt ans. Selon des sources, la perte de poussée au décollage serait liée à un problème du circuit d’alimentation en méthane et oxygène, et non aux moteurs BE‑4.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-18T09:13:26+00:00",
+    "titres_sources": [
+      "Premier échec de la fusée Vulcan Centaur et premier raté critique en 20 ans pour ULA, et ce revers a peut-être des ramifications graves"
+    ]
   }
 ]

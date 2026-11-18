@@ -1,0 +1,33 @@
+{
+  "slug": "menaces-de-mort-et-balle-recue-par-courrier-contre-le-depute-de-marseille",
+  "titre": "Menaces de mort et balle reçue par courrier contre le député de Marseille",
+  "chapeau": "Un député marseillais aurait reçu des menaces de mort accompagnées d’une balle envoyée par la poste. Les services de police ont ouvert une enquête et appellent la population à la prudence.",
+  "corps": "## Une affaire qui interpelle les autorités\nDes faits auraient été signalés à la police de Marseille au cours de la matinée du 18 novembre 2026 : un courrier contenant une balle et des menaces de mort aurait été adressé au député Sébastien Delogu, élu de la 13e circonscription. Les enquêteurs ont saisi le colis, procédé à son analyse et ouvert une enquête pour atteinte à la sécurité d’une personnalité publique. Aucun indice n’a été rendu public sur l’auteur ou les motivations, et aucune mesure de sécurité supplémentaire n’a été annoncée pour les habitants du quartier.\n\n## Conséquences pour les habitants\nAucun service public, aucune voie de circulation ou aucun moyen de transport n’a été directement impacté par cet incident. Les autorités n’ont pas indiqué de perturbations dans la vie quotidienne de la population. Elles recommandent toutefois aux riverains de rester vigilants face à tout courrier suspect et d’éviter d’ouvrir des enveloppes présentant des signes d’anomalie (déformations, odeurs inhabituelles, pièces métalliques visibles). En cas de doute, il est conseillé de contacter immédiatement les services de police.\n\n## Conseils de prudence pour les citoyens\nLe ministère de l’Intérieur rappelle que la réception d’objets potentiellement dangereux par la poste constitue une infraction pénale passible de lourdes peines. Les habitants de Marseille sont invités à signaler tout comportement inhabituel ou tout courrier suspect au numéro d’urgence 17 ou via le site officiel de la police nationale. Des consignes de sécurité sont également disponibles sur le site de la mairie de Marseille, où il est possible de consulter les procédures à suivre en cas de menace ou d’objet suspect.\n\n## Contexte général\nLes menaces à l’encontre de personnalités politiques, y compris les députés, sont traitées avec une grande rigueur en France. La loi prévoit des sanctions spécifiques pour les menaces de mort et les envois d’objets dangereux, afin de protéger les représentants élus et de garantir la sécurité publique. Cette affaire s’inscrit dans un cadre juridique qui vise à dissuader toute forme de violence ou d’intimidation à l’encontre des élus, tout en assurant la protection des citoyens.\n\nEn attendant les conclusions de l’enquête, les autorités restent mobilisées et rappellent que toute information utile, même anonyme, peut contribuer à identifier l’auteur de ces faits. Les habitants peuvent également consulter le site de la préfecture de Bouches‑du‑Rhône pour suivre l’évolution de l’affaire et obtenir des mises à jour éventuelles.",
+  "mots_cles": [
+    "menaces",
+    "député",
+    "Marseille",
+    "sécurité",
+    "police"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-18T09:13:09+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/S%C3%A9bastien_Delogu_%28cropped%29.jpg/1280px-S%C3%A9bastien_Delogu_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "AN2303",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Delogu_(cropped).jpg",
+    "legende": "Sébastien Delogu speaks at the end of a demonstration in support to Gaza in front of the city Hall of Marseille, on 2 June 2024.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Sébastien Delogu (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Seven Radio",
+      "titre": "Marseille : le député Sébastien Delogu visé par des menaces de mort et une balle reçue par courrier",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzdhb0hYdEdnbU5QS2Q3REJuYlFkajFYakttdmMwTWM3Rm5EN0NYMzZXQU83bjhmLUsyclk5NnBLcDVWTzRyaWE3OE95ZWFsMEtKQXkyOFR3UFRjSm5nVDZ1UUVHZHY3dWNNSWIyM0k1OUVXUFFFMXpsbGU1cGhRcHIyemdNMVpDSFl3UHIzTER1Q2picjB6dmpXR3dMMHg5UjZSMkFwSTV3OGZ4czZNclprYXpCdlNDaFpYTWpCR3BoRFl5Z1FQUmI5SQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
