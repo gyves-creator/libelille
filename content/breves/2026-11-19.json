@@ -144,5 +144,25 @@
     "titres_sources": [
       "Le Danemark ratifie l'accord de sécurité avec les États-Unis et le Groenland"
     ]
+  },
+  {
+    "titre": "La HAS propose 60 recommandations pour encadrer l'aide à mourir",
+    "texte": "La Haute autorité de santé aurait présenté soixante recommandations pour encadrer l'aide à mourir, incluant l'usage limité de kits prêts à l'emploi. Elle préciserait que le patient choisirait entre deux options de suicide assisté, le soignant intervenant en cas de complications ou de retard.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-19T10:37:13+00:00",
+    "titres_sources": [
+      "La Haute autorité de santé présente 60 recommandations officielles pour encadrer la pratique de l'aide à mourir",
+      "Aide à mourir : le mode d’emploi de la Haute autorité de santé pour « permettre une mort apaisée »"
+    ]
+  },
+  {
+    "titre": "XV de France et Argentine annoncent effectifs pour le 21 novembre",
+    "texte": "Le XV de France, présenté par Fabien Galthié, comporte quatre changements, dont une ouverture et un troisième ligne, pour affronter les Pumas samedi 21 novembre au Stade de France. L'Argentine a annoncé six titulaires, dont Facundo Isa, dans son effectif pour le Championnat des nations.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-19T10:37:13+00:00",
+    "titres_sources": [
+      "France-Argentine : Facundo Isa et six autres joueurs du Top 14 titulaires avec les Pumas",
+      "XV de France : la composition face à l'Argentine dévoilée par Galthié"
+    ]
   }
 ]
