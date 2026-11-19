@@ -1,0 +1,38 @@
+{
+  "slug": "les-glorieuses-annoncent-une-date-symbolique-de-travail-gratuit-pour-les-femmes",
+  "titre": "Les Glorieuses annoncent une date symbolique de « travail gratuit » pour les femmes",
+  "chapeau": "Le collectif féministe Les Glorieuses a indiqué que, du fait des inégalités salariales persistantes, les femmes commenceraient à travailler gratuitement à 10 h 51 le jeudi 19 novembre 2026. Cette échéance, qui reculerait de douze jours en dix ans, souligne également les écarts de patrimoine et d’accès aux placements financiers entre les sexes.",
+  "corps": "## Une date symbolique pour illustrer le fossé salarial\nLe collectif Les Glorieuses, actif dans la lutte pour l’égalité entre les femmes et les hommes, calcule chaque année un moment précis où, en extrapolant les écarts de rémunération, les femmes seraient « au travail sans rémunération ». Cette année, le calcul place ce seuil à 10 h 51 le jeudi 19 novembre 2026. L’opération vise à rendre visible, de façon concrète, l’impact quotidien du différentiel de salaire qui persiste malgré les avancées législatives.\n\n## Un progrès lent, mesuré en jours\nSelon les données du collectif, si les tendances actuelles se maintiennent, la même date serait repoussée de douze jours au terme d’une décennie. Cette évolution graduelle indique que la réduction du fossé salarial progresse, mais à un rythme jugé insuffisant par les militantes. Le glissement de la date sert ainsi de repère visuel pour illustrer la lenteur des avancées en matière d’égalité de rémunération.\n\n## Au‑delà du salaire : écarts de patrimoine et placements\nDans la même communication, Les Glorieuses rappellent que les inégalités ne se limitent pas au revenu mensuel. Elles soulignent l’existence d’un écart de patrimoine notable entre les femmes et les hommes, ainsi que des différences dans l’accès aux produits d’épargne et aux placements financiers. Ces disparités structurelles renforcent la précarité économique des femmes, même lorsqu’elles perçoivent un salaire comparable à celui de leurs homologues masculins.\n\n## Contexte général de l’inégalité salariale en France\nLe phénomène observé s’inscrit dans un contexte plus large où, selon les statistiques officielles, les femmes gagnent en moyenne moins que les hommes pour un travail équivalent. Les raisons avancées comprennent la sous‑représentation des femmes dans les postes de direction, la concentration dans des secteurs moins rémunérés et les interruptions de carrière liées aux responsabilités familiales. Les initiatives comme celle des Les Glorieuses visent à maintenir la visibilité de ces enjeux afin de favoriser des politiques publiques plus ambitieuses.\n\nCette démarche symbolique, qui conjugue une date précise à un message de fond, cherche à mobiliser l’opinion publique et les décideurs autour de la nécessité de réduire les écarts de rémunération, de patrimoine et d’accès aux placements pour parvenir à une réelle égalité économique entre les sexes.",
+  "mots_cles": [
+    "inégalités salariales",
+    "Les Glorieuses",
+    "écart de patrimoine",
+    "travail gratuit",
+    "égalité femmes hommes"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-19T10:20:03+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Les_actions_glorieuses_de_S.A.S._Charles_Duc_de_Lorraine_1729_%285852426%29.jpg/1280px-Les_actions_glorieuses_de_S.A.S._Charles_Duc_de_Lorraine_1729_%285852426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sébastien Le Clerc",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Les_actions_glorieuses_de_S.A.S._Charles_Duc_de_Lorraine_1729_(5852426).jpg",
+    "legende": "Adres wydawniczy : A Paris : chez Chereau rue S. Jacques aux 2 piliers dor, [non post 1729] Współtwórcy : Chéreau, François (1680-1729) Wyd Opis fizyczny : [2] k., 11 k. tabl. : front. ; 4º obl",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Les actions glorieuses de S.A.S. Charles Duc de Lorraine 1729 (5852426).jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Les femmes travaillent-elles vraiment «gratuitement» depuis 10h51 ce jeudi 19 novembre ?",
+      "url": "https://www.lefigaro.fr/conjoncture/les-femmes-travaillent-elles-vraiment-gratuitement-a-partir-de-ce-vendredi-4-novembre-20221104"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Les femmes travaillent \"gratuitement\" à partir de jeudi à 10h51 jusqu'à la fin de l'année, selon Les Glorieuses",
+      "url": "https://www.franceinfo.fr/economie/disparites-salariales/les-femmes-travaillent-gratuitement-a-partir-de-jeudi-a-10h51-jusqu-a-la-fin-de-l-annee-selon-les-glorieuses_8289371.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

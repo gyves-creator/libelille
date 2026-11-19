@@ -126,5 +126,23 @@
     "titres_sources": [
       "Critiques et cachées depuis 11 ans : l’IA déterre deux failles dans NGINX, le serveur de 225 millions de sites"
     ]
+  },
+  {
+    "titre": "Le ministre du Commerce veut réorienter le financement du Cola d'Atlanta",
+    "texte": "Le ministre du Commerce aurait indiqué que le financement du Cola d’Atlanta doit être stoppé et que l’inflation doit être dirigée vers les agriculteurs et les PME. Il préconise d’être concilient avec les plus fragiles et exigeant avec les grands, à l’approche des négociations commerciales.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-19T10:20:25+00:00",
+    "titres_sources": [
+      "«Les cocos de Paimpol ne doivent plus financer le Cola d’Atlanta» : Serge Papin appelle à flécher l’inflation «vers les agriculteurs et les PME»"
+    ]
+  },
+  {
+    "titre": "Le Danemark ratifie un accord de défense avec les États‑Unis et le Groenland",
+    "texte": "Le Parlement danois a voté jeudi la ratification d’un accord de sécurité avec les États‑Unis, prévoyant la construction de deux bases américaines dans le sud et l’est du Groenland. L’accord inclut également l’installation d’un système de défense antimissile demandé par les États‑Unis.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T10:20:25+00:00",
+    "titres_sources": [
+      "Le Danemark ratifie l'accord de sécurité avec les États-Unis et le Groenland"
+    ]
   }
 ]

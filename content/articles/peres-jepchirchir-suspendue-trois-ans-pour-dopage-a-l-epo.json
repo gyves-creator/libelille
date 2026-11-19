@@ -1,0 +1,43 @@
+{
+  "slug": "peres-jepchirchir-suspendue-trois-ans-pour-dopage-a-l-epo",
+  "titre": "Peres Jepchirchir suspendue trois ans pour dopage à l'EPO",
+  "chapeau": "La marathonienne kenyane Peres Jepchirchir a été sanctionnée d’une suspension de trois ans après un contrôle positif à l’EPO. La décision, annoncée par l’Unité d’intégrité de l’athlétisme, fait suite à la reconnaissance des faits par l’athlète, âgée de 33 ans et championne olympique 2021.",
+  "corps": "## Une sanction lourde après un contrôle positif\nPeres Jepchirchir, championne du monde en titre du marathon et médaillée d’or aux Jeux olympiques de Tokyo en 2021, a vu sa carrière interrompue par une suspension de trois ans. L’Unité d’intégrité de l’athlétisme (AIU) a publié un communiqué confirmant que l’athlète a été contrôlée positive à l’érythropoïétine (EPO) avant sa victoire au marathon de Sydney, qui s’est déroulée à la fin du mois d’août. La coureuse a reconnu les faits, ce qui a conduit à l’application de la peine prévue par le règlement antidopage.\n\n## Parcours sportif de la Kenyan\nÂgée de 33 ans, Peres Jepchirchir s’est imposée comme l’une des meilleures marathoniennes de sa génération. Après son triomphe olympique à Tokyo, elle a consolidé son palmarès en remportant le marathon de Sydney cet été, une performance qui avait suscité de nombreuses attentes pour la saison à venir. Son titre de championne du monde du marathon, obtenu lors du dernier championnat mondial, renforçait son statut de figure majeure du sport d’endurance.\n\n## Le dopage à l’EPO et les règles antidopage\nL’EPO est une hormone qui stimule la production de globules rouges, augmentant ainsi la capacité d’oxygénation du sang et améliorant l’endurance. Son usage est strictement prohibé dans le sport, car il constitue un avantage artificiel et met en danger la santé des athlètes. Les instances internationales, dont l’AIU, appliquent des sanctions sévères pour les infractions, allant de la suspension à la perte de titres. Dans le cas présent, la durée de trois ans reflète la gravité de la violation et la reconnaissance par l’athlète des faits reprochés.\n\n## Conséquences pour le monde de l’athlétisme\nCette suspension retire Peres Jepchirchir des compétitions majeures jusqu’en 2029, impactant non seulement son parcours personnel mais aussi les sélections nationales pour les prochains championnats et Jeux olympiques. La décision souligne la vigilance accrue des autorités antidopage et rappelle aux athlètes les risques associés à l’usage de substances interdites. Le cas de Jepchirchir vient s’ajouter à une série de sanctions récentes, illustrant la volonté du sport de préserver son intégrité.",
+  "mots_cles": [
+    "Peres Jepchirchir",
+    "dopage",
+    "EPO",
+    "athlétisme",
+    "suspension"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-19T10:19:58+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Peres_Jepchirchir.jpg/1280px-Peres_Jepchirchir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gr5555",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Peres_Jepchirchir.jpg",
+    "legende": "Peres Jepchirchir nearing halfway point in 2022 Boston Marathon where she got 1st place.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Peres Jepchirchir.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "La kényane Peres Jepchirchir, championne du monde du marathon, suspendue trois ans pour dopage à l'EPO",
+      "url": "https://www.franceinfo.fr/sports/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage-a-l-epo_8289608.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Athlétisme : Peres Jepchirchir suspendue trois ans pour dopage",
+      "url": "https://www.lefigaro.fr/sports/athletisme/athletisme-peres-jepchirchir-suspendue-pour-trois-ans-pour-dopage-20261119"
+    },
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La championne du monde en titre du marathon, Peres Jepchirchir, suspendue trois ans pour dopage",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/19/la-championne-du-monde-en-titre-du-marathon-peres-jepchirchir-suspendue-trois-ans-pour-dopage_6813254_3242.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
