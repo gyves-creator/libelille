@@ -89,5 +89,24 @@
     "titres_sources": [
       "Anthropic valorisé 1 500 milliards de dollars à Wall Street : qui va toucher le jackpot ?"
     ]
+  },
+  {
+    "titre": "Décès de Bertrand Méheut, ancien président de Canal+",
+    "texte": "Bertrand Méheut, qui a dirigé le groupe Canal+ de 2002 à 2015, est décédé à 75 ans le mercredi 18 novembre. Le président actuel du directoire, Maxime Saada, a salué son influence durable sur l’entreprise.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-19T09:15:05+00:00",
+    "titres_sources": [
+      "«Un dirigeant d’exception» : Bertrand Meheut, l’ancien patron de Canal+, est mort",
+      "\"Il a laissé une empreinte durable\" : Bertrand Méheut, ancien président du groupe Canal+ est décédé"
+    ]
+  },
+  {
+    "titre": "Sommet tripartite Trump‑Poutine‑Xi sur la guerre en Ukraine",
+    "texte": "Le président américain, le président russe et le président chinois auraient tenu un sommet tripartite pour préserver la paix mondiale. Le chef d’État américain aurait indiqué que les discussions porteraient sur la guerre en Ukraine, affirmant qu’ils écrivaient l’histoire ensemble.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T09:15:05+00:00",
+    "titres_sources": [
+      "DIRECT. Rencontre entre Trump, Poutine et Xi : \"Ensemble nous écrivons l'histoire\", déclare le président américain, qui annonce une discussion sur la guerre en Ukraine"
+    ]
   }
 ]
