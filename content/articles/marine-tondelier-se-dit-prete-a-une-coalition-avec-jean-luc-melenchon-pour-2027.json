@@ -1,0 +1,42 @@
+{
+  "slug": "marine-tondelier-se-dit-prete-a-une-coalition-avec-jean-luc-melenchon-pour-2027",
+  "titre": "Marine Tondelier se dit prête à une coalition avec Jean-Luc Mélenchon pour 2027",
+  "chapeau": "Lors d'une interview diffusée sur France 2, la secrétaire nationale des Ecologistes a déclaré son ouverture à une alliance avec la France insoumise. Elle a indiqué être disposée à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon.",
+  "corps": "## Déclaration de Marine Tondelier\nDans le cadre du programme du \"20 Heures\" de France 2, la candidate écologiste à la présidentielle a affirmé être \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\". Cette prise de parole intervient alors que le parti des Ecologistes n’a pas encore statué sur la tenue d’une candidature propre, d’une alliance avec La France insoumise ou d’un rapprochement avec d’autres formations. La déclaration a été faite le mercredi 18 novembre 2026.\n\n## Réactions et contexte électoral\nManuel Bompard, porte-parole de La France insoumise, a qualifié cette initiative de \"bonne nouvelle\" et a indiqué qu’elle renforçait la perspective d’une victoire populaire. Les sondages publiés le même jour attribuent à Marine Tondelier entre 2 % et 4 % des intentions de vote, tandis que Jean‑Luc Mélenchon se positionne parmi les candidats susceptibles d’atteindre le second tour.\n\n## Enjeux pour les écologistes\nLe parti des Ecologistes reste indécis quant à la forme que prendra sa participation à l’élection présidentielle de 2027. La possibilité d’un retrait du scrutin au profit d’une alliance avec la France insoumise constitue une option envisagée, sans décision officielle à ce stade. La dynamique de campagne de Mélenchon a été décrite comme \"indéniable\" par la candidate écologiste, soulignant l’influence perçue de son programme sur les électeurs de gauche.\n\n## Perspectives pour la présidentielle 2027\nLe processus électoral se déroule dans un contexte où plusieurs formations cherchent à consolider leurs forces pour optimiser leurs chances au second tour. Les électeurs sont invités à consulter le site service‑public.gouv.fr pour connaître les modalités d’inscription sur les listes et les conditions de vote. Les positions exprimées par les différents acteurs restent susceptibles d’évoluer à mesure que la campagne progresse.",
+  "mots_cles": [
+    "Marine Tondelier",
+    "Jean-Luc Mélenchon",
+    "coalition",
+    "présidentielle 2027"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-19T05:14:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/20210819_tondelier.m-cr3.jpg/1280px-20210819_tondelier.m-cr3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Greenbox",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:20210819_tondelier.m-cr3.jpg",
+    "legende": "Intervention de Marine Tondelier, conseillère municipale d’Hénin-Beaumont, membre du bureau exécutif d’EÉLV, aux journées d'été des écologistes 2021, à Poitiers au parc Blossac",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:20210819 tondelier.m-cr3.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
+      "url": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

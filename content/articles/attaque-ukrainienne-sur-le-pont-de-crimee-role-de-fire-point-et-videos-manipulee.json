@@ -1,0 +1,38 @@
+{
+  "slug": "attaque-ukrainienne-sur-le-pont-de-crimee-role-de-fire-point-et-videos-manipulee",
+  "titre": "Attaque ukrainienne sur le pont de Crimée : rôle de Fire Point et vidéos manipulées",
+  "chapeau": "L'Ukraine a utilisé des drones et missiles fournis par l'entreprise Fire Point pour endommager partiellement le pont de Crimée lors de deux nuits consécutives. Si l'infrastructure a subi des dégâts importants, plusieurs vidéos diffusées ont été jugées manipulées et ne reflètent pas la réalité du chantier.",
+  "corps": "## Une opération préparée depuis des semaines\nL'offensive contre le pont de Crimée, axe stratégique reliant la Russie à la péninsule annexée en 2014, a été le fruit d'une planification longue et minutieuse. Selon les informations communiquées, l'action a mobilisé une douzaine d'armes différentes, dont des drones et des missiles développés par la société ukrainienne Fire Point. Cette entreprise, reconnue comme un pilier de l'industrie de défense ukrainienne, a commenté le succès de l'opération, soulignant l'efficacité de ses systèmes dans un contexte de combat aérien et de frappes de précision.\n\n## Deux nuits de frappes, des dégâts partiels\nLes frappes se sont déroulées sur deux nuits consécutives, entraînant la destruction partielle du pont. Les autorités ukrainiennes ont indiqué que l'édifice a été « lourdement endommagé », ce qui compromet temporairement la capacité de transport de la Russie vers la Crimée. Le pont, long de plusieurs kilomètres, constitue un lien vital pour le ravitaillement militaire et civil, et son affaiblissement représente un revers logistique pour Moscou.\n\n## Des vidéos manipulées circulent\nParallèlement aux informations officielles, plusieurs vidéos ont rapidement circulé sur les réseaux, montrant des scènes de destruction qui n'existaient pas. Des analystes ont identifié ces contenus comme étant manipulés, présentant des dommages exagérés ou fictifs. Cette désinformation a alimenté la confusion quant à l'ampleur réelle des dégâts, soulignant la difficulté de vérifier les images provenant de zones de conflit. Les autorités ukrainiennes n'ont pas confirmé la véracité de ces vidéos, rappelant que la désinformation constitue un volet fréquent des opérations de guerre moderne.\n\n## Contexte géopolitique\nLe pont de Crimée, inauguré en 2018, symbolise la volonté de la Russie de consolider son contrôle sur la péninsule annexée. Depuis le déclenchement du conflit en 2022, l'infrastructure a régulièrement fait l'objet de menaces et d'attaques. L'implication de Fire Point dans cette dernière offensive illustre la montée en puissance de l'industrie de défense ukrainienne, qui développe et exporte des systèmes d'armes de plus en plus sophistiqués. Cette capacité à frapper des cibles stratégiques à distance renforce la posture défensive de l'Ukraine face aux pressions russes.\n\nEn résumé, l'attaque a démontré l'efficacité des technologies ukrainiennes tout en révélant les enjeux de la guerre de l'information, où les images peuvent être détournées pour servir des narratifs divergents.",
+  "mots_cles": [
+    "Crimean Bridge",
+    "Ukraine",
+    "Fire Point",
+    "drones",
+    "vidéos manipulées"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-19T05:14:31+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2019_%D0%B3%D0%BE%D0%B4%D0%B0_%281%29.jpg/1280px-%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2019_%D0%B3%D0%BE%D0%B4%D0%B0_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Росавтодор",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2019_%D0%B3%D0%BE%D0%B4%D0%B0_(1).jpg",
+    "legende": "Crimean Bridge",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Крымский мост 13 сентября 2019 года (1).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ?",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Pont de Crimée attaqué : vrais dégâts, fausses vidéos",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261118-pont-de-crim%C3%A9e-attaqu%C3%A9-vrais-d%C3%A9g%C3%A2ts-fausses-vid%C3%A9os"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
