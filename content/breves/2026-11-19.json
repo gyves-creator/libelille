@@ -71,5 +71,23 @@
     "titres_sources": [
       "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe"
     ]
+  },
+  {
+    "titre": "Peres Jepchirchir suspendue trois ans pour dopage à l'EPO",
+    "texte": "L’athlète kényane Peres Jepchirchir, championne olympique du marathon en 2021, a été suspendue trois ans pour usage d’EPO. Cette sanction met fin à sa carrière internationale pendant la période concernée.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-19T07:59:55+00:00",
+    "titres_sources": [
+      "Athlétisme : Peres Jepchirchir suspendue trois ans pour dopage"
+    ]
+  },
+  {
+    "titre": "Anthropic valorisée à 1,5 billion de dollars, l’IPO promet des gains aux investisseurs",
+    "texte": "La société d’intelligence artificielle Anthropic aurait atteint une valorisation de 1,5 billion de dollars à Wall Street. Son introduction en bourse devrait créer d’importantes richesses pour les détenteurs d’actions, sans que les fonds n’arrivent directement sur leurs comptes.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-19T07:59:55+00:00",
+    "titres_sources": [
+      "Anthropic valorisé 1 500 milliards de dollars à Wall Street : qui va toucher le jackpot ?"
+    ]
   }
 ]
