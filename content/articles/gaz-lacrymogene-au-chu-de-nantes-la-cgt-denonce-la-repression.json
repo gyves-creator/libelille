@@ -1,0 +1,38 @@
+{
+  "slug": "gaz-lacrymogene-au-chu-de-nantes-la-cgt-denonce-la-repression",
+  "titre": "Gaz lacrymogène au CHU de Nantes : la CGT dénonce la répression",
+  "chapeau": "Des forces de l'ordre ont eu recours à des gaz lacrymogènes au pied du CHU de Nantes lors d'une manifestation le 17 novembre. La branche locale de la CGT a qualifié cet usage d'acte de répression policière.",
+  "corps": "## Une intervention policière lors d’une manifestation\nLe 17 novembre, une manifestation s’est déroulée aux abords du Centre Hospitalier Universitaire (CHU) de Nantes. Au cours de cet événement, les services de police ont employé des gaz lacrymogènes pour disperser les manifestants. Aucun détail supplémentaire sur les circonstances de l’intervention n’a été communiqué.\n\n## La réaction de la CGT du CHU\nLa section locale de la Confédération Générale du Travail (CGT) a immédiatement réagi à l’incident. Le syndicat a dénoncé ce qu’il considère comme une escalade de la répression policière, rappelant que l’usage de gaz lacrymogènes constitue une mesure coercitive lourde dans le cadre d’une manifestation civile.\n\n## Contexte local et implications\nLe CHU de Nantes, établissement de santé majeur de la région Pays de la Loire, accueille quotidiennement des milliers de patients et de personnels. Les manifestations qui se tiennent à proximité de ses installations peuvent, selon les autorités, perturber la circulation et l’accès aux services de santé, bien que aucune information précise sur d’éventuelles perturbations n’ait été fournie. La CGT, qui représente de nombreux agents hospitaliers, rappelle régulièrement l’importance du dialogue social et de la proportionnalité des réponses sécuritaires lors de mouvements sociaux.\n\n## Informations pratiques pour les riverains\nLes habitants du quartier et les usagers du CHU sont invités à rester attentifs aux consignes éventuelles des services de police et de la mairie. En cas de besoin, le numéro d’urgence de la police nationale (17) et le service d’information du CHU restent les contacts à privilégier pour obtenir des précisions sur la situation et les éventuelles modifications d’accès aux bâtiments hospitaliers.",
+  "mots_cles": [
+    "Nantes",
+    "CGT",
+    "gaz lacrymogène",
+    "manifestation",
+    "CHU"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-19T13:27:07+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_du_CHU_de_Nantes.jpg/1280px-Logo_du_CHU_de_Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agence de communication Saguez &amp; Partners",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Logo_du_CHU_de_Nantes.jpg",
+    "legende": "Nantes University Hospital Logo",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Logo du CHU de Nantes.jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "« La répression policière a franchi un cap » : l’usage de gaz lacrymogènes au pied du CHU de Nantes fait réagir la CGT",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNT2ZFcnhEbmQ1ZjlRNW0taGliZzJ6ZEJ6R0xabzNaSDhPTzJJVmxaalJ2eGJudnNVLTB0LS16M0dCdXBaQTlJLWFjaDYzbmtId1FYZkY1ekducVpzcGRaVHJROEdwTjFkbVd3YVlQWno1VklvM0hocmNuWU5Ma1pSWHlLNUVIUnd1dTRVaW9oSGd4QkNqUnE1RzZOUkowMUVzZVdyV2FpWElCRDB0aW04S2E1VFFiU0FfUXMwbkpIVXUza1Y0eGtWc3VWWmpVR0pWcWlXN0tXMUpJZkRQQ1hfaGtkeVNoMHRlV0RSVnhyQWRjNDBGU182cng4Rkl2ek0zZHZRakxHTkQtVC1NY1dFTk82c21kMGFaeThGeUxJWkRKVDVx?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Manifestation du 17 novembre : la CGT du CHU de Nantes dénonce la \"répression policière\"",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM1U4Z3JxRmRBbDFlZGwyaTlGQTRkSkQ1NjBXbUtWQURDNzJ6bTNPaWE0TUtkQWRVbno3Q3JYbERtY3RWbWN2X1NIdWVDcTNHR0l4Yy02b0dyR1pQZWVhbjVzdkoteDd6MC11SktkVHk1U3J0ZHJuZTRycFlWM3Z3RTNaR1dIMjNoNkFoREhjVk9mcE1BcFZMUWtITFVoZHNDOGVVQjZPa2tiLU5WeDJ5QTFJVmQ2VTZ4bnYxRUVKOElsZE14QThMbzVwMHNROVRkdHF1eXpFRFA3MU1VcEg4RlBWNG92bWpSVEFMODZfME84dw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

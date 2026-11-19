@@ -221,5 +221,24 @@
     "titres_sources": [
       "Ces lycéens sont exclus de leur lycée à cause des blocus"
     ]
+  },
+  {
+    "titre": "Le Parlement adopte une loi sur les droits voisins de la presse",
+    "texte": "Le Parlement aurait adopté, conformément à une directive européenne de 2019, une loi visant à renforcer la rémunération des éditeurs et agences de presse. Cette mesure obligerait les plateformes comme Google ou Meta à payer lorsqu’elles utilisent leurs contenus.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-19T13:27:15+00:00",
+    "titres_sources": [
+      "Droits voisins : le Parlement a définitivement adopté une loi pour mieux rémunérer la presse",
+      "«Droits voisins» : le Parlement adopte une loi pour que les plateformes rémunèrent mieux la presse"
+    ]
+  },
+  {
+    "titre": "GTA VI disponible, Leonida partage premiers secrets",
+    "texte": "Grand Theft Auto VI aurait été lancé, ouvrant la voie à de nouvelles expériences de jeu. Le site Leonida diffuserait en direct guides, astuces et premiers easter eggs découverts, permettant aux joueurs d’explorer rapidement les nouveautés du titre de Rockstar.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-19T13:27:15+00:00",
+    "titres_sources": [
+      "Sortie de GTA 6 : guides, astuces, secrets et premières découvertes pour tout savoir sur Leonida (EN DIRECT)"
+    ]
   }
 ]
