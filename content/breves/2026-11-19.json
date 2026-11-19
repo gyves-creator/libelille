@@ -35,5 +35,23 @@
     "titres_sources": [
       "Au moins 2 100 jeunes étrangers en France en attente d’une décision sur leur minorité"
     ]
+  },
+  {
+    "titre": "Allemagne : baisse de la taxe sur l'électricité dès 2027",
+    "texte": "Le gouvernement allemand a annoncé une réduction de la taxe sur l'électricité dès le 1er janvier 2027, avec plafonnement du prix des carburants. Cette mesure vise à soutenir le pouvoir d’achat des ménages et des entreprises, et représente une victoire pour le chancelier Friedrich Merz.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T06:40:02+00:00",
+    "titres_sources": [
+      "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère"
+    ]
+  },
+  {
+    "titre": "Sihoo Doro C300 Pro V2 à 385,39 € pour le Black Friday",
+    "texte": "La chaise Sihoo Doro C300 Pro V2, proposée à 385,39 euros pour le Black Friday, comprend un dossier mobile, un soutien lombaire réglable et des accoudoirs articulés. La version noire proposée ne comporte pas de repose-pieds.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-19T06:40:02+00:00",
+    "titres_sources": [
+      "Dossier mobile et accoudoirs articulés : ce que propose cette chaise Sihoo à 385,39 euros pour le Black Friday [Sponso]"
+    ]
   }
 ]
