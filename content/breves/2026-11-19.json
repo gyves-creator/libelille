@@ -53,5 +53,23 @@
     "titres_sources": [
       "Dossier mobile et accoudoirs articulés : ce que propose cette chaise Sihoo à 385,39 euros pour le Black Friday [Sponso]"
     ]
+  },
+  {
+    "titre": "Attaque du quartier financier de Riyad, tour du fonds souverain visée",
+    "texte": "La coalition dirigée par l’Arabie saoudite aurait indiqué que des débris sont tombés sur la tour du fonds souverain du quartier financier de Riyad, les dégâts étant en cours d’évaluation. Cette déclaration intervient quelques heures après l’interception d’un missile attribué aux houthistes.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T07:30:49+00:00",
+    "titres_sources": [
+      "Arabie saoudite : le quartier financier de Riyad de nouveau attaqué, la tour du fonds souverain endommagée"
+    ]
+  },
+  {
+    "titre": "L’Estonie introduit une version scolaire de ChatGPT dès la rentrée 2026",
+    "texte": "Le gouvernement estonien aurait prévu que tous les lycéens puissent, depuis la rentrée 2026, accéder à une version adaptée de ChatGPT, destinée à être utilisée comme outil pédagogique plutôt qu’interdite. L’expérimentation, inédite, reste toutefois soumise à une évaluation de ses effets sur l’apprentissage.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-19T07:30:49+00:00",
+    "titres_sources": [
+      "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe"
+    ]
   }
 ]

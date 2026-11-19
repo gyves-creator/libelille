@@ -1,0 +1,37 @@
+{
+  "slug": "corps-d-un-homme-retrouve-dans-le-port-du-vallon-des-auffes-a-marseille",
+  "titre": "Corps d’un homme retrouvé dans le port du Vallon des Auffes à Marseille",
+  "chapeau": "Un corps a été repêché dans les eaux du petit port du Vallon des Auffes, dans le 7ᵉ arrondissement de Marseille. La police a ouvert une enquête pour déterminer les circonstances du décès.",
+  "corps": "## Découverte du corps\nDans la soirée du 18 novembre, les services de police maritime ont été alertés d’une présence inhabituelle dans le port du Vallon des Auffes, un petit port de pêche situé entre le quartier du Prado et le quartier du 7ᵉ arrondissement. Les équipes de secours ont remonté à la surface le corps d’un homme d’une trentaine d’années, identifié plus tard comme étant âgé de 34 ans. Le corps était en état de rigidité cadavérique, indiquant que le décès était survenu plusieurs heures auparavant.\n\n## Enquête ouverte\nLes autorités ont immédiatement ouvert une enquête afin de déterminer les circonstances de ce décès. La police judiciaire a pris en charge le site, prélevant des éléments de preuve et interrogeant les riverains ainsi que les usagers du port. Aucun détail supplémentaire n’a été communiqué concernant les causes du décès ou l’identité de la personne décédée, conformément aux règles de protection de la vie privée.\n\n## Le port du Vallon des Auffes, un lieu emblématique\nLe Vallon des Auffes est connu pour son charme pittoresque, ses bateaux de pêche colorés et son petit restaurant de fruits de mer très fréquenté. Le port attire tant les habitants que les touristes, qui viennent y déguster des spécialités locales. L’incident n’a pas entraîné de perturbations majeures du trafic maritime ou routier, les quais restant accessibles aux embarcations habituelles.\n\n## Consignes pratiques pour les riverains\nAucun dispositif de sécurité supplémentaire n’a été mis en place à la suite de la découverte du corps. Les habitants et les usagers du port sont invités à signaler tout comportement suspect ou toute anomalie aux forces de l’ordre. En cas d’urgence, le numéro de la police nationale (17) reste le canal de contact principal. Les informations complémentaires seront communiquées par la préfecture de police de Marseille dès que l’enquête avancera.",
+  "mots_cles": [
+    "Marseille",
+    "Vallon des Auffes",
+    "corps retrouvé",
+    "enquête police"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-19T07:30:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/MarseillesRade.jpg/1280px-MarseillesRade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Florent Chabaud",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:MarseillesRade.jpg",
+    "legende": "Marseilles' Roadstead, Vallon des Auffes, Frioul Islands",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:MarseillesRade.jpg"
+  },
+  "sources": [
+    {
+      "media": "Midi Libre",
+      "titre": "En état de rigidité cadavérique depuis plusieurs heures : le corps sans vie d’un homme repêché dans l’eau au bord d’un petit port de Marseille",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNWVibnY5SDl4TGJuaW9WQXdpMFlzNGNCWnJfLWU4MjFmOV9mdm1uVUJMSnBiU3c5YTdwcjJobDF4bXZJcjNKMUR3VHBmYngxVEVIcWFfR1ZNaUJjdGg1TE9iaXNZRU0wbWQ2Vk9VUmxjYkIwdy1uZ0kyYWEzT3NWRzRMOWpnYjJiNHV1REEyNnBKUDRDenJnRHd6dkZLaXZkc2hISUllVW9FejhyRmNwQnNjVG55X3B5WFNZdFNaOWVXdmd2amRHeVMyZTlzdTIyaDNPSmowbTZ3Y3Y2OGpYSWdRWTZYQ196dTgzWVNPVlZ4UE9CSXNfZEktNEVBUjEySXRB?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Le corps d’un homme de 34 ans repêché dans le port du vallon des Auffes à Marseille, une enquête ouverte",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVzhUZFZvMW05NkRHbk9rcFZMSFNfYWVRV0N4NVZwajZybGxPVW1RTmxFTllCV3NDOVVyUDFOMzlwRFJycXpyZHJvYjkwREZ4WnZkaWFmODZKek13Y2JlTWhjMEpHeWo2VlhPdFFENmlJX0xiMlQxdkhMU1lMNXNVMUtDWUdObE5xWTE1ZHk0WnRZUTVBVGN6TnB1UEpJbE1qaFd0TUt3N3k5enF0aTlreFZNc1dPVHNILXFqNFY2Q0tjaGZycmhzalYtaFgyY3IxM2RuNTZ0V3I4b3d2U0NmZ3RickYxZEpfLVVBelJVY0JCOS1xdUoxeGNEVDEwbkQ4T1E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
