@@ -1,0 +1,33 @@
+{
+  "slug": "securite-renforcee-pour-le-marche-de-noel-de-strasbourg-a-partir-du-27-novembre",
+  "titre": "Sécurité renforcée pour le marché de Noël de Strasbourg à partir du 27 novembre",
+  "chapeau": "Le marché de Noël de Strasbourg ouvrira le 27 novembre 2026 sous un dispositif de sécurité similaire à celui de l’an passé. La préfecture du Bas‑Rhin confirme le maintien de mesures telles que la présence de CRS, l’usage de drones et la fermeture temporaire de certains arrêts de tram.",
+  "corps": "## Un dispositif de sécurité reconduit\nLa préfecture du Bas‑Rhin a indiqué que les mesures de sécurité prévues pour le marché de Noël 2026 seront quasiment identiques à celles appliquées l’année précédente. Parmi les dispositifs annoncés, on retrouve la présence de Compagnies Républicaines de Sécurité (CRS) pour assurer le maintien de l’ordre, le recours à des drones de surveillance afin de couvrir l’ensemble du site, ainsi que la fermeture ponctuelle de certains arrêts de tramway afin de limiter les flux de circulation autour du périmètre du marché.\n\n## Dates et cadre du marché\nLe marché de Noël de Strasbourg, événement majeur de la période hivernale, ouvrira officiellement ses stands le 27 novembre 2026. Il se tiendra dans le centre-ville, comme à l’accoutumée, et s’étendra sur plusieurs semaines, attirant chaque année des dizaines de milliers de visiteurs, tant locaux que touristes.\n\n## Contexte de mobilisation sociale\nLes autorités soulignent que le maintien de ce dispositif s’inscrit dans un contexte de forte mobilisation sociale. Bien que les détails de ces mobilisations ne soient pas précisés, la préfecture justifie la nécessité de conserver un niveau de sécurité élevé afin de garantir la sérénité des usagers et des commerçants du marché.\n\n## Informations pratiques pour les habitants\nLes usagers des transports en commun sont invités à se tenir informés des éventuelles perturbations liées à la fermeture temporaire de certains arrêts de tram. Les informations détaillées sur les itinéraires alternatifs et les horaires seront diffusées par les services de transport urbain. Pour toute question relative aux mesures de sécurité ou aux déviations, il est recommandé de consulter le site officiel de la préfecture du Bas‑Rhin ou de contacter le service d’accueil de la préfecture.\n\nEn résumé, le marché de Noël de Strasbourg se prépare à accueillir les visiteurs dès le 27 novembre, sous un dispositif de sécurité jugé éprouvé et reconduit par les autorités, afin d’assurer le bon déroulement de l’événement dans un climat de vigilance renforcée.",
+  "mots_cles": [
+    "marché de Noël",
+    "Strasbourg",
+    "sécurité",
+    "CRS",
+    "drones"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-19T17:15:34+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Strasbourg_Christkindelsm%C3%A4rik_30_nov_2014.jpg/1280px-Strasbourg_Christkindelsm%C3%A4rik_30_nov_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Photo Claude TRUONG-NGOC",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_Christkindelsm%C3%A4rik_30_nov_2014.jpg",
+    "legende": "Portail d’entrée lumineux du marché de Noël de Strasbourg , place de Broglie . En alsacien, Christkindelmarik / marché de l’enfant Jésus.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Strasbourg Christkindelsmärik 30 nov 2014.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Sécurité du marché de Noël : CRS, drones, arrêts de tram fermés... La préfecture reconduit le « dispositif éprouvé » en 2025",
+      "url": "https://www.dna.fr/culture-loisirs/2026/11/19/securite-du-marche-de-noel-la-prefecture-annonce-la-reconduction-du-dispositif-eprouve-en-2025"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
