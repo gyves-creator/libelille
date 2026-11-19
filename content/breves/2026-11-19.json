@@ -184,5 +184,24 @@
     "titres_sources": [
       "PSG : les Ultras sanctionnés, la tribune Auteuil fermée contre Lorient"
     ]
+  },
+  {
+    "titre": "La CIJ reconnaît un génocide contre les Rohingyas en Birmanie",
+    "texte": "La Cour internationale de justice aurait conclu que les forces birmanes ont tué des milliers de civils rohingyas, cherchant à anéantir une partie substantielle de cette population. Le texte mentionne également viols collectifs, exécutions de masse et le déplacement de centaines de milliers de personnes.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T12:07:16+00:00",
+    "titres_sources": [
+      "La Birmanie a commis un génocide à l'encontre des Rohingyas, statue la Cour internationale de justice dans un arrêt historique",
+      "La Birmanie a commis un génocide à l’encontre de la minorité rohingya, statue la Cour internationale de justice"
+    ]
+  },
+  {
+    "titre": "Rockstar annonce la suppression de la prostitution dans GTA 6",
+    "texte": "Rockstar Games aurait confirmé que la prochaine édition de Grand Theft Auto ne proposera plus de missions de prostitution, mettant ainsi fin à une pratique présente depuis 2001. Cette décision marque un revirement radical dans la série, selon le développeur.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-19T12:07:16+00:00",
+    "titres_sources": [
+      "GTA 6 met fin à 25 ans de prostitution dans la saga, et Rockstar assume"
+    ]
   }
 ]
