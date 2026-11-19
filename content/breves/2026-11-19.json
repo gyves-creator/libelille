@@ -164,5 +164,25 @@
       "France-Argentine : Facundo Isa et six autres joueurs du Top 14 titulaires avec les Pumas",
       "XV de France : la composition face à l'Argentine dévoilée par Galthié"
     ]
+  },
+  {
+    "titre": "Club France installé à Santa Monica pour les JO 2028",
+    "texte": "Le Comité national olympique français a confirmé l’installation du Club France dans l’Annenberg Community Beach House à Santa Monica, site de rassemblement prévu pour les Jeux de Los Angeles 2028. Le projet, financé à 1,41 million d’euros, vise à accueillir jusqu’à 120 000 personnes pendant la compétition.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-19T11:35:48+00:00",
+    "titres_sources": [
+      "À Santa Monica, le Club France s'offre un spot de rêve pour les Jeux olympiques de Los Angeles 2028",
+      "Jeux olympiques 2028 : les pieds dans le sable, le Club France s'offre un spot de rêve à Los Angeles",
+      "Pour les JO 2028, à Los Angeles, la France s’offre un site de carte postale"
+    ]
+  },
+  {
+    "titre": "Tribune Auteuil du PSG fermée suite à sanctions de la LFP",
+    "texte": "La commission de discipline de la LFP a sanctionné le Paris Saint‑Germain pour le comportement de ses supporters lors du match contre Troyes le 7 novembre. En conséquence, la tribune Auteuil sera fermée pour la rencontre prévue contre Lorient.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-19T11:35:48+00:00",
+    "titres_sources": [
+      "PSG : les Ultras sanctionnés, la tribune Auteuil fermée contre Lorient"
+    ]
   }
 ]
