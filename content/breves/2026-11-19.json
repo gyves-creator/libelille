@@ -203,5 +203,23 @@
     "titres_sources": [
       "GTA 6 met fin à 25 ans de prostitution dans la saga, et Rockstar assume"
     ]
+  },
+  {
+    "titre": "Violences du 17 octobre estimées à 207 M€",
+    "texte": "Selon France Assureurs, les affrontements du 17 octobre auraient engendré un coût de 207 millions d’euros. Les actes de casseurs ont débuté samedi, en marge des manifestations contre la vie chère, et se sont poursuivis dimanche.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-19T12:43:06+00:00",
+    "titres_sources": [
+      "«Un montant particulièrement élevé» : les violences du 17 octobre ont coûté 207 millions d’euros, selon France Assureurs"
+    ]
+  },
+  {
+    "titre": "3 000 lycéens sanctionnés pour participation aux blocus",
+    "texte": "L'Éducation nationale aurait indiqué que 3 000 élèves ont été renvoyés en conseil de discipline entre septembre et le 1er novembre 2026, tous pour leur rôle dans les blocus. Ces sanctions entraînent leur exclusion des lycées.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-19T12:43:06+00:00",
+    "titres_sources": [
+      "Ces lycéens sont exclus de leur lycée à cause des blocus"
+    ]
   }
 ]
