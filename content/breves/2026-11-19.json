@@ -277,5 +277,25 @@
     "titres_sources": [
       "« Les moyens consacrés à la justice restaurative tiennent plus du saupoudrage que d’une réelle politique publique »"
     ]
+  },
+  {
+    "titre": "Arcom veut imposer le pluralisme aux créateurs de contenus pour 2027",
+    "texte": "L’Arcom devrait appliquer aux principaux créateurs de contenus les mêmes obligations de pluralisme que celles déjà imposées aux chaînes de télévision et aux stations radio pour l’élection présidentielle de 2027. Cette mesure viserait à encadrer le phénomène massif des plateformes numériques.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-19T15:39:26+00:00",
+    "titres_sources": [
+      "Les principaux créateurs de contenus devront désormais respecter le pluralisme dans leur traitement de l'élection présidentielle",
+      "Présidentielle 2027 : l’Arcom annonce que les principaux créateurs de contenus devront respecter les mêmes règles de pluralisme que les télévisons et radios"
+    ]
+  },
+  {
+    "titre": "Shelton bat Jodar, complique la qualification d’Arthur Fils",
+    "texte": "Ben Shelton a battu Rafael Jodar en deux sets au Masters de Turin, ce qui complique la progression d’Arthur Fils. Le Français devra remporter son match contre Zverev pour rester en lice au dernier carré.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-19T15:39:26+00:00",
+    "titres_sources": [
+      "Ben Shelton domine Rafael Jodar au Masters de Turin et complique la tâche d'Arthur Fils",
+      "Tennis : Shelton domine Jodar et n’arrange pas les affaires d’Arthur Fils au Masters"
+    ]
   }
 ]
