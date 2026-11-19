@@ -390,5 +390,23 @@
     "titres_sources": [
       "« GTA VI » : en vidéo, notre journaliste découvre le jeu"
     ]
+  },
+  {
+    "titre": "Sénégal : mort d’un nourrisson de 2 jours après excision",
+    "texte": "Selon les autorités, un nourrisson de deux jours serait décédé d’une hémorragie le 13 novembre, après une excision pratiquée par sa grand‑mère. Des collectifs féministes réclament à l’État sénégalais de renforcer la lutte contre cette pratique interdite.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T18:36:35+00:00",
+    "titres_sources": [
+      "Au Sénégal, l’émoi après la mort d’un nourrisson victime d’une excision"
+    ]
+  },
+  {
+    "titre": "Record : 589 millions d’enfants en zones de conflit en 2025",
+    "texte": "L’ONG Save the Children indiquerait que près d’un quart des enfants dans le monde vivraient en zone de conflit, soit un record de 589 millions en 2025. Elle préciserait que 44 % de ces enfants se trouvent en Afrique.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T18:36:35+00:00",
+    "titres_sources": [
+      "Près d’un quart des enfants du monde vivent dans une zone de conflit, selon l’ONG Save the Children"
+    ]
   }
 ]
