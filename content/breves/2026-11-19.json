@@ -464,5 +464,23 @@
     "titres_sources": [
       "EN DIRECT - Tennis : Zverev prend le service de Fils, désormais dos au mur"
     ]
+  },
+  {
+    "titre": "Matteo Berrettini sélectionné pour la Coupe Davis à Bologne",
+    "texte": "Le joueur mondial n°43, Matteo Berrettini, a été retenu par le capitaine italien pour la phase finale de la Coupe Davis à Bologne du 24 au 29 novembre. Il intégrera l'équipe nationale lors de ce tournoi.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-19T20:36:48+00:00",
+    "titres_sources": [
+      "Coupe Davis : Matteo Berrettini guidera l’Italie"
+    ]
+  },
+  {
+    "titre": "Simulation de la submersion de Los Santos d'ici 2500",
+    "texte": "Des chercheurs ont publié le 17 novembre 2026 une simulation de l'élévation du niveau de la mer à Los Santos, ville de GTA 5, sans l'appui de Rockstar. Dans le scénario le plus défavorable, 6,5 % du territoire serait submergé d'ici l'an 2500.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-19T20:36:48+00:00",
+    "titres_sources": [
+      "Sans l’aide de Rockstar, des scientifiques ont réussi à noyer une ville de GTA"
+    ]
   }
 ]
