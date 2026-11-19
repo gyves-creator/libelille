@@ -108,5 +108,23 @@
     "titres_sources": [
       "DIRECT. Rencontre entre Trump, Poutine et Xi : \"Ensemble nous écrivons l'histoire\", déclare le président américain, qui annonce une discussion sur la guerre en Ukraine"
     ]
+  },
+  {
+    "titre": "Dégradation des conditions des Rohingyas au Bangladesh avant l’audience de la CIJ",
+    "texte": "Il semblerait que le financement des camps de réfugiés rohingyas au Bangladesh se raréfie, aggravant la vie de plus d’un million de personnes. La Cour internationale de Justice doit statuer le 19 novembre sur le génocide présumé de 2017 au Myanmar.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T09:40:21+00:00",
+    "titres_sources": [
+      "Dans les camps de réfugiés au Bangladesh, la situation des Rohingya se détériore en raison de la crise de financement"
+    ]
+  },
+  {
+    "titre": "Deux failles découvertes dans NGINX exposent 225 millions de sites",
+    "texte": "Des chercheurs ont mis au jour, après onze ans, deux vulnérabilités dans le serveur web NGINX, utilisé par environ 225 millions de sites. Il semblerait que ces failles puissent permettre à un attaquant de prendre le contrôle à distance des serveurs concernés.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-19T09:40:21+00:00",
+    "titres_sources": [
+      "Critiques et cachées depuis 11 ans : l’IA déterre deux failles dans NGINX, le serveur de 225 millions de sites"
+    ]
   }
 ]
