@@ -354,5 +354,23 @@
     "titres_sources": [
       "En cette fin d’année, le commerce de l’habillement s’alarme de la conjoncture"
     ]
+  },
+  {
+    "titre": "Report du règlement européen sur le méthane pour raisons de sécurité énergétique",
+    "texte": "L’Union européenne a annoncé le report de l’entrée en vigueur de son règlement pionnier sur le méthane, invoquant la sécurité énergétique. Le texte, longtemps critiqué par Washington et le secteur pétrolier, devrait être appliqué plus tard.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T17:38:14+00:00",
+    "titres_sources": [
+      "L’Union européenne reporte l’entrée en vigueur de son règlement pionnier sur le méthane au nom de la sécurité énergétique"
+    ]
+  },
+  {
+    "titre": "Six Français condamnés à la prison à vie en Irak pour appartenance à l’État islamique",
+    "texte": "Un tribunal irakien a condamné mercredi 18 novembre à la prison à vie, soit vingt ans en droit irakien, six ressortissants français pour appartenance à l’État islamique. Parmi eux, Thomas Barnouin, originaire d’Artigat en Ariège.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T17:38:14+00:00",
+    "titres_sources": [
+      "En Irak, la justice scelle le sort de six djihadistes français, dont Thomas Barnouin"
+    ]
   }
 ]
