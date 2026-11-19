@@ -258,5 +258,24 @@
     "titres_sources": [
       "Rugby, Championnat des nations : après la défaite contre les Gallois, les All Blacks avec les cadres face à l’Angleterre"
     ]
+  },
+  {
+    "titre": "Commission européenne ciblée par une cyberattaque IA en octobre",
+    "texte": "Un porte‑parole a indiqué que la Commission européenne a détecté le 22 octobre une campagne cybernétique générée par l’intelligence artificielle. À ce jour, aucune preuve de vol de données personnelles n’a été confirmée.",
+    "rubrique": "international",
+    "publie_le": "2026-11-19T15:05:24+00:00",
+    "titres_sources": [
+      "Une cyberattaque assistée par l’IA a ciblé la Commission européenne en octobre",
+      "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre"
+    ]
+  },
+  {
+    "titre": "Justice restaurative : appel à un budget national et interministériel",
+    "texte": "Dans une tribune, Nadia Lezebot et Benjamin Sayou soutiennent que les moyens alloués à la justice restaurative restent limités, comparables à un simple saupoudrage. Ils demandent la création d’un budget national et d’une coordination interministérielle pour développer ces mesures.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-19T15:05:24+00:00",
+    "titres_sources": [
+      "« Les moyens consacrés à la justice restaurative tiennent plus du saupoudrage que d’une réelle politique publique »"
+    ]
   }
 ]

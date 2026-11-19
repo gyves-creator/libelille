@@ -1,0 +1,36 @@
+{
+  "slug": "parlement-adoption-de-la-loi-sur-les-droits-voisins-pour-la-presse",
+  "titre": "Parlement : adoption de la loi sur les droits voisins pour la presse",
+  "chapeau": "Le Parlement a définitivement adopté une loi instituant les droits voisins afin que les plateformes numériques rémunèrent les éditeurs et les agences de presse. Cette mesure s’appuie sur la directive européenne de 2019 et vise à compenser l’usage des contenus journalistiques en ligne.",
+  "corps": "## Une nouvelle règle pour les contenus journalistiques en ligne\n\nLa loi adoptée instaure le principe des droits voisins, un dispositif qui oblige les plateformes telles que Google ou Meta à verser une compensation financière aux éditeurs et aux agences de presse lorsqu’elles exploitent leurs articles, vidéos ou photos. Le texte législatif précise que la rémunération doit être proportionnée à l’usage réel du contenu, sans toutefois fixer de modalités de calcul détaillées à ce stade.\n\n## Origine européenne et portée nationale\n\nCes droits voisins découlent d’une directive européenne adoptée en 2019, qui a encouragé les États membres à harmoniser la protection des producteurs de contenus éditoriaux face aux géants du numérique. La transposition française, désormais actée par le Parlement, constitue la première mise en œuvre concrète de ce cadre au niveau national. Elle s’inscrit dans une stratégie plus large visant à rééquilibrer les relations économiques entre la presse écrite, souvent fragilisée, et les plateformes qui bénéficient d’un trafic important grâce à leurs contenus.\n\n## Implications pour les acteurs du secteur\n\nPour les éditeurs, la loi représente une source potentielle de revenus additionnels, dont l’importance dépendra de la capacité des plateformes à identifier et à quantifier l’utilisation de chaque élément protégé. Les agences de presse, qui fournissent une grande partie du flux d’informations aux médias, sont également concernées et pourront ainsi percevoir une part des recettes générées par la diffusion de leurs productions. De leur côté, les plateformes devront mettre en place des mécanismes de suivi et de paiement conformes aux exigences du texte, ce qui pourrait entraîner des ajustements techniques et juridiques.\n\n## Perspectives et suivi de la mise en œuvre\n\nLa mise en application de la loi devra être accompagnée d’un dispositif de contrôle afin de vérifier le respect des obligations de paiement. Des instances de régulation, éventuellement désignées par le gouvernement, seront chargées de superviser le processus et de résoudre les différends éventuels entre les parties. Le texte prévoit également la possibilité d’ajustements futurs, en fonction des retours d’expérience et de l’évolution du marché numérique.\n\nCette législation marque une étape importante dans la reconnaissance du travail des professionnels de l’information et dans la tentative de rétablir un équilibre économique entre la création de contenus et leur diffusion en ligne.",
+  "mots_cles": [
+    "droits voisins",
+    "rémunération presse",
+    "plateformes numériques"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-19T15:05:05+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/L-Assemblee-Nationale-Gillray.jpeg/1280px-L-Assemblee-Nationale-Gillray.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "James Gillray",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:L-Assemblee-Nationale-Gillray.jpeg",
+    "legende": "L'Assemblée Nationale ; —or —Grand Co-operative Meeting at St. Ann's Hill. — Respectfully Dedicated to the admirers of \"A Broad-Bottom'd Administration\" Js. Gillray, invt. &amp; fect. SUMMARY: Print s",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:L-Assemblee-Nationale-Gillray.jpeg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "«Droits voisins» : le Parlement adopte une loi pour que les plateformes rémunèrent mieux la presse",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/droits-voisins-le-parlement-adopte-une-loi-pour-que-les-plateformes-remunerent-mieux-la-presse-20261119"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Droits voisins : le Parlement a définitivement adopté une loi pour mieux rémunérer la presse",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/19/droits-voisins-le-parlement-a-definitivement-adopte-une-loi-pour-mieux-remunerer-la-presse_6813305_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
