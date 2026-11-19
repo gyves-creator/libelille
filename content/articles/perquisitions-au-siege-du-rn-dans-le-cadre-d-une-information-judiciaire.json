@@ -1,0 +1,37 @@
+{
+  "slug": "perquisitions-au-siege-du-rn-dans-le-cadre-d-une-information-judiciaire",
+  "titre": "Perquisitions au siège du RN dans le cadre d’une information judiciaire",
+  "chapeau": "Des perquisitions ont été menées au siège du Rassemblement national ainsi qu’au ministère de l’Intérieur dans le cadre d’une information judiciaire ouverte fin juillet. La justice enquête sur d’éventuelles fuites d’informations liées à des enquêtes en cours, un ancien haut cadre du ministère étant suspecté.",
+  "corps": "## Une information judiciaire ouverte fin juillet\nUne information judiciaire a été lancée à la fin du mois de juillet, portant sur des faits de violation du secret professionnel, de violation du secret de l’enquête et de recel de ces infractions. Les investigations portent sur d’éventuelles fuites d’éléments relevant d’enquêtes en cours, dont la nature exacte n’a pas été précisée publiquement. Les autorités judiciaires ont ainsi décidé d’intervenir dans les locaux du parti afin de recueillir les preuves nécessaires.\n\n## Perquisitions au siège du parti et au ministère de l’Intérieur\nLes forces de l’ordre ont procédé à des perquisitions simultanées au siège du Rassemblement national et dans les locaux du ministère de l’Intérieur. Ces opérations visaient à identifier les éventuels documents ou communications ayant pu être transmis de façon illicite. Au moins une personne ayant occupé un poste élevé au sein du ministère, souvent désignée comme un « haut cadre de Beauvau », fait actuellement l’objet de soupçons. Aucun détail supplémentaire n’a été communiqué sur l’identité de cette personne ou sur le contenu des documents recherchés.\n\n## Contexte et suites possibles\nLe secret de l’enquête et le secret professionnel sont des principes protégés par le code de procédure pénale français. Leur violation constitue un délit passible de sanctions pénales, notamment lorsqu’elle entraîne le recel de ces informations. Dans le cadre de cette affaire, la justice cherche à déterminer si des éléments confidentiels relatifs à des enquêtes en cours ont été divulgués à des membres du parti politique. Les suites de l’enquête dépendront des résultats des perquisitions et des éventuelles auditions qui seront organisées. En attendant, le parti concerné n’a pas publié de commentaire officiel sur les faits reprochés.",
+  "mots_cles": [
+    "Rassemblement national",
+    "perquisition",
+    "information judiciaire",
+    "secret de l'enquête"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-19T19:08:31+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rassemblement_national_populaire_1941.jpg/1280px-Rassemblement_national_populaire_1941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown author Unknown author Archives du journal Le Matin .",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Rassemblement_national_populaire_1941.jpg",
+    "legende": "L'état-major du Rassemblement national populaire : Jean Fontenoy, Eugène Deloncle, Marcel Déat, Jean Goy et Jean Van Ormelingen (dit Jean Vanor). Extrait de la \"une\" du journal Le Matin , n° 20831, 10",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Rassemblement national populaire 1941.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Le siège du RN a été perquisitionné dans le cadre d'une information judiciaire, notamment pour \"violation du secret de l'enquête\"",
+      "url": "https://www.franceinfo.fr/politique/front-national/le-siege-du-rn-perquisitionne-dans-le-cadre-d-une-information-judiciaire-notamment-pour-violation-du-secret-de-l-enquete_8290280.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
