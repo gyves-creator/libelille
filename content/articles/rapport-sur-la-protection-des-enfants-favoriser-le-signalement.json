@@ -1,0 +1,38 @@
+{
+  "slug": "rapport-sur-la-protection-des-enfants-favoriser-le-signalement",
+  "titre": "Rapport sur la protection des enfants : favoriser le signalement",
+  "chapeau": "La déléguée à la protection des enfants à l'école, Cristelle Gillard, a présenté un rapport basé sur près de deux cents dossiers étudiés. Le document préconise le développement d’une culture du signalement et une coordination renforcée des acteurs pour mieux protéger les élèves victimes de violences.",
+  "corps": "## Un premier aperçu des dossiers étudiés\nLe jeudi 19 novembre, Cristelle Gillard, déléguée à la protection des enfants à l'école, a remis un rapport qui regroupe les premières observations issues d’environ deux cents dossiers. Ces dossiers concernent des situations de violences survenues à l’école ou dans le périscolaire, ainsi que les réponses apportées par les services éducatifs et sociaux. L’analyse met en lumière des lacunes dans la remontée des faits et dans le suivi des victimes, ce qui conduit la déléguée à appeler à une amélioration de la chaîne de protection.\n\n## Principales recommandations\nLe texte insiste sur la nécessité d’instaurer une véritable « culture du signalement ». Il s’agit d’encourager les élèves, les parents et les professionnels à signaler rapidement tout indice de maltraitance ou de harcèlement, sans crainte de représailles. En parallèle, le rapport souligne l’importance d’une meilleure coordination entre les différents acteurs impliqués : établissements scolaires, services de protection de l’enfance, autorités locales et associations spécialisées. Cette coopération viserait à assurer un suivi continu et à éviter les ruptures d’information qui peuvent compromettre la prise en charge des enfants.\n\n## Un accompagnement à long terme pour les victimes\nAu-delà du signalement, le document préconise la mise en place d’un accompagnement durable pour les élèves victimes. Après six mois d’exercice, la déléguée a constaté que les mesures d’urgence, bien que nécessaires, ne suffisent pas à garantir la résilience des jeunes affectés. Un suivi psychologique, éducatif et social sur le long terme apparaît comme indispensable pour prévenir les rechutes et favoriser la réintégration scolaire.\n\n## Perspectives d’évolution\nLe rapport, présenté comme une première étape, invite les autorités à s’appuyer sur ces constats pour élaborer des protocoles plus robustes. Il laisse entendre que d’autres analyses approfondies seront menées à mesure que de nouveaux dossiers seront traités. L’objectif affiché est de transformer les enseignements tirés en actions concrètes, afin de renforcer la protection des enfants dans l’ensemble du système éducatif.",
+  "mots_cles": [
+    "protection enfants",
+    "violences scolaires",
+    "culture du signalement",
+    "coordination acteurs",
+    "accompagnement long terme"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-19T06:14:31+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Rue_de_Reuilly%2C_Paris_August_2016.jpg/1280px-Rue_de_Reuilly%2C_Paris_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "besopha",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_de_Reuilly,_Paris_August_2016.jpg",
+    "legende": "Paris sans la foule",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Rue de Reuilly, Paris August 2016.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "La déléguée à la protection des enfants à l'école appelle à améliorer la \"culture\" du signalement à la suite du scandale dans le périscolaire",
+      "url": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-deleguee-a-la-protection-des-enfants-a-l-ecole-appelle-a-ameliorer-la-culture-du-signalement-a-la-suite-du-scandale-dans-le-periscolaire_8289422.html#xtor=RSS-3-%5Bsociete%5D"
+    },
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Violences à l’école et dans le périscolaire : un rapport appelle à un accompagnement sur le long terme des élèves victimes",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/19/violences-a-l-ecole-et-dans-le-periscolaire-un-rapport-appelle-a-un-accompagnement-sur-le-long-terme-des-eleves-victimes_6813234_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
