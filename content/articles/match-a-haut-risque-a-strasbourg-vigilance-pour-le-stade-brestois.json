@@ -1,0 +1,38 @@
+{
+  "slug": "match-a-haut-risque-a-strasbourg-vigilance-pour-le-stade-brestois",
+  "titre": "Match à haut risque à Strasbourg : vigilance pour le Stade Brestois",
+  "chapeau": "Les autorités locales ont indiqué que le match du Stade Brestois prévu à Strasbourg présente un risque élevé de décompression. Aucun détail supplémentaire n’a été communiqué pour le moment.",
+  "corps": "## Risque identifié pour le match\nLes services de sécurité de la ville ont signalé que la rencontre du Stade Brestois, qui se déroulera à Strasbourg, est classée comme à haut risque en raison d’un possible phénomène de décompression. Le terme désigne une situation où la pression exercée par une foule dense peut entraîner des désordres ou des accidents. Aucun élément concret n’a été précisé quant aux raisons exactes de cette alerte, si ce soit la capacité du stade, le profil des supporters ou d’autres facteurs.\n\n## Mesures générales de prévention\nDans le cadre de la prévention des incidents liés à la foule, les autorités appliquent habituellement des protocoles standard : renforcement des effectifs de police, contrôle des entrées, surveillance accrue des zones de circulation et mise à disposition de personnel médical. Ces dispositions visent à garantir la sécurité des spectateurs et à limiter les risques de débordement. Aucun dispositif particulier n’a été annoncé pour ce match, la ville se réservant le droit d’adapter les mesures en fonction de l’évolution de la situation.\n\n## Conséquences pour les habitants et les usagers\nEn l’absence d’informations précises, les résidents du quartier où se situe le stade sont invités à rester attentifs aux consignes des forces de l’ordre et à éviter les déplacements inutiles aux heures de coup d’envoi. Les transports en commun pourraient être impactés si des contrôles supplémentaires sont mis en place, mais aucune modification d’itinéraire n’a encore été confirmée. Les riverains sont encouragés à consulter les sites officiels de la mairie ou de la préfecture pour d’éventuelles mises à jour.\n\n## Informations pratiques\nPour toute question ou signalement, il est possible de contacter le numéro d’urgence de la police locale. Les sites internet de la mairie de Strasbourg et du service de sécurité publique offrent également des informations actualisées sur les mesures en vigueur et les éventuelles déviations routières.",
+  "mots_cles": [
+    "Stade Brestois",
+    "Strasbourg",
+    "décompression",
+    "sécurité",
+    "match"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-20T16:04:27+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Stade_de_la_Meinau_-_Vue_depuis_les_gradins_-_pelouse_%281%29.jpg/1280px-Stade_de_la_Meinau_-_Vue_depuis_les_gradins_-_pelouse_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gzen92",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stade_de_la_Meinau_-_Vue_depuis_les_gradins_-_pelouse_(1).jpg",
+    "legende": "Vue de la pelouse depuis les gradins du stade de la Meinau à Strasbourg (Bas-Rhin, France).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Stade de la Meinau - Vue depuis les gradins - pelouse (1).jpg"
+  },
+  "sources": [
+    {
+      "media": "maville.com",
+      "titre": "Stade Brestois. « Une décompression peut arriver » : pourquoi le match à Strasbourg est à haut risque",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS3lPdEpaZ2plWGxxWHBWX191MHVEMXZ6UkNXdXFyT2dIYzFWUHhQSjdaU241U2pLVVhDci1RZ3BjU2dCVTY1emZySVhJU1Y5UWNHclF0RzU2NEs2V0FQc25TdnVBQnBxNmpBQjJkb0pNdHl0eHlsN1VJcDYtVXBQdVlNTW0wZ0k3cl9sckg1RWxPakZsSVdEREFaQTVNYWN2V2Y0ZUpOWHVmQ2JfZE5ndnBkYnllbl9uOGJSNlR6MVg1OWkwYW5kbG1zSVRBS2FFRzRHb3JGSjhPTFBSRTNiQ3RqQUpWcnBXODdLOS1JNHE5a18tMDNySw?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "Stade Brestois. « Une décompression peut arriver » : pourquoi le match à Strasbourg est à haut risque",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPTmZSc2lOUVNLUTBjdGNJTnZ0b1pLOUl1OXhJTWpjTjVMa2lkVVhicENCLVVsRUpQWVo0TnptNmEtTFhUa3ItbDAxcFBFSlplOXo1Wkl2ZnJIVV9BS3RILUR2WXlyN3Q1aEdJRXR0WDJubDRtdEJFMmxPMGctOG9uY0FqRFpQRzNQZl9aT3FhZlMyQzEwMndHYU5ZNnZwZ3g1VWtzVzg3eU9VbTN2Q0F5NkNvTTFFa3REVkoyTzNnbndJXzZvZk0xdDhvaG1UdG9kNThQSVY3Z3VGOGhwYkdROUdMXy1sa3U4UzJ4d3E1OEZZY3pDaWxwZVVGUnVWZDlLRThHSmNSUFRXYTkxMl9fSjdvSUZmVEY0?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

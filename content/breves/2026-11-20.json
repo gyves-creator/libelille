@@ -320,5 +320,23 @@
     "titres_sources": [
       "De l'océan Indien aux Caraïbes, la sécheresse frappe plusieurs territoires d'Outre-mer"
     ]
+  },
+  {
+    "titre": "Gouvernement allemand demande plus de transparence sur Deutsche Bank",
+    "texte": "Le gouvernement allemand a demandé davantage de transparence concernant les révélations d’une enquête journalistique sur Deutsche Bank. La banque, qui minimise les faits comme anciens, voit son cours baisser et subit une pression politique internationale.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-20T16:04:36+00:00",
+    "titres_sources": [
+      "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique"
+    ]
+  },
+  {
+    "titre": "Elyamine Settoul critique focus djihadiste après l’attentat de Trappes",
+    "texte": "Le politologue Elyamine Settoul a publié une tribune appelant à élargir l’étude des formes d’extrémisme au-delà du djihadisme. Elle souligne que l’attentat raciste de Trappes montre la nécessité d’analyser également les idéologies suprémacistes et masculinistes.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-20T16:04:36+00:00",
+    "titres_sources": [
+      "Attentat raciste de Trappes : « Suprémacistes, djihadistes et masculinistes partagent le même rapport mythifié au passé »"
+    ]
   }
 ]

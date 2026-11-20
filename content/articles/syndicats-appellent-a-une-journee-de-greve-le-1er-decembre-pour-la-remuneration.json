@@ -1,0 +1,38 @@
+{
+  "slug": "syndicats-appellent-a-une-journee-de-greve-le-1er-decembre-pour-la-remuneration",
+  "titre": "Syndicats appellent à une journée de grève le 1er décembre pour la rémunération des agents",
+  "chapeau": "Les organisations syndicales du secteur public et les principales unions du privé ont publié un communiqué commun appelant à la mobilisation le 1er décembre. Elles dénoncent une détérioration de la situation salariale des agents et invitent à des actions de grève à l’échelle nationale.",
+  "corps": "## Un appel conjoint des syndicats\nUn communiqué diffusé ce vendredi rassemble les organisations syndicales du public ainsi que les principales fédérations du privé – CGT, FO, CFDT, Unsa, FSU, Solidaires, CFE‑CGC et FA‑FP. Elles invitent les salariés à se mobiliser partout en France le 1er décembre, en organisant une journée de grève. Le texte souligne que la situation salariale des agents de la fonction publique se dégrade, et que les partenaires du secteur privé partagent la même préoccupation.\n\n## La gravité de la situation salariale\nLes syndicats mettent en avant ce qu’ils qualifient de \"gravité\" de la situation salariale, soulignant que les augmentations récentes ne compensent pas l’inflation ni la charge de travail accrue. Ils indiquent que les revendications portent sur une revalorisation des traitements, la prise en compte du coût de la vie et la réduction des écarts entre le secteur public et le privé. Aucun chiffre précis n’est fourni dans le communiqué, la demande se limitant à une amélioration globale des conditions de rémunération.\n\n## Modalités de la mobilisation\nLe communiqué précise que la mobilisation doit se traduire par des arrêts de travail et des défilés simultanés du public et du privé. Les syndicats appellent à la solidarité interprofessionnelle, estimant que la convergence des revendications renforcera le poids de la négociation. Aucun détail n’est donné sur les secteurs ou les services qui seront les plus affectés, la mobilisation étant présentée comme nationale et transversale.\n\n## Contexte et perspectives\nEn France, les négociations salariales entre l’État et les organisations syndicales sont régulièrement ponctuées de mobilisations lorsqu’un consensus n’est pas atteint. La fonction publique regroupe un grand nombre d’agents, depuis l’enseignement jusqu’aux services de santé, et les revendications salariales sont souvent perçues comme un enjeu de justice sociale. Le recours à une journée de grève simultanée avec le secteur privé constitue une stratégie visant à élargir la pression sur les décideurs économiques et politiques. Les négociations à venir dépendront de l’impact de la mobilisation du 1er décembre et des réponses apportées par les autorités compétentes.",
+  "mots_cles": [
+    "grève",
+    "fonction publique",
+    "syndicats",
+    "salaire",
+    "mobilisation"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-20T16:04:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Minist%C3%A8re_des_Affaires_%C3%89trang%C3%A8res.JPG/1280px-Minist%C3%A8re_des_Affaires_%C3%89trang%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Chaperon rouge007",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_des_Affaires_%C3%89trang%C3%A8res.JPG",
+    "legende": "This building is indexed in the base Mérimée , a database of architectural heritage maintained by the French Ministry of Culture , under the reference PA00088723 . brezhoneg ∙ català ∙ Deutsch ∙ Engli",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Ministère des Affaires Étrangères.JPG"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Salaires : la fonction publique et le secteur privé appelés à une journée de grève par les syndicats le 1er décembre",
+      "url": "https://www.lefigaro.fr/social/salaires-huit-syndicats-de-la-fonction-publique-appellent-a-une-journee-de-greve-le-1er-decembre-20261120"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Une intersyndicale lance un nouvel appel à la grève et à la mobilisation le 1er décembre, les salariés du privé invités à défiler avec ceux du public",
+      "url": "https://www.franceinfo.fr/societe/manifestations/une-intersyndicale-de-la-fonction-publique-lance-un-nouvel-appel-a-la-greve-et-a-la-mobilisation-le-1er-decembre_8292254.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
