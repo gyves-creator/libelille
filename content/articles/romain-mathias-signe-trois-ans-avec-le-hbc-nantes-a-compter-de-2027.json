@@ -1,0 +1,43 @@
+{
+  "slug": "romain-mathias-signe-trois-ans-avec-le-hbc-nantes-a-compter-de-2027",
+  "titre": "Romain Mathias signe trois ans avec le HBC Nantes à compter de 2027",
+  "chapeau": "Le club nantais de handball a officialisé l'arrivée du joueur international français Romain Mathias, originaire de Sélestat. Le contrat, d'une durée de trois saisons, prendra effet à partir de la saison 2027.",
+  "corps": "## Un recrutement international\nLe HBC Nantes a conclu un accord avec Romain Mathias, joueur de l'équipe nationale française de handball, qui évoluait auparavant à Sélestat. Le jeune arrière ou pivot, selon les informations disponibles, rejoindra les rangs nantais pour trois campagnes sportives, à compter de la saison 2027. Cette signature renforce la politique de recrutement du club, qui mise régulièrement sur des joueurs à l'expérience internationale afin de consolider sa place parmi les meilleures équipes de la Ligue Nationale de Handball.\n\n## Ce que cela implique pour les Nantais\nPour les supporters du HBC Nantes, l'arrivée de Mathias se traduit par une nouvelle option tactique sur le terrain et un potentiel renforcement de la compétitivité du club lors des championnats nationaux et des compétitions européennes. Aucun changement immédiat n'est annoncé concernant les accès au stade, les horaires des matchs ou les tarifs des billets. Les supporters sont invités à suivre les communications officielles du club pour connaître les dates précises des matchs de la saison 2027 et les éventuelles opérations de billetterie.\n\n## Contexte du club et du championnat\nLe HBC Nantes évolue depuis plusieurs années dans la première division française de handball, disputant ses rencontres au Palais des Sports de Beaulieu. Le club a régulièrement atteint les phases finales du championnat et participe également aux coupes européennes, ce qui justifie son intérêt pour des joueurs de calibre international. Romain Mathias, déjà sélectionné en équipe de France, apporte une expérience de haut niveau qui pourra être mise à profit tant en championnat qu'en coupes.\n\n## Informations pratiques\nLes habitants de Nantes souhaitant suivre les actualités du club ou obtenir des renseignements sur les billets peuvent consulter le site officiel du HBC Nantes ou contacter le service d'information du stade. En cas de questions relatives aux déplacements ou aux accès le jour des matchs, il est recommandé de vérifier les mises à jour sur le site de la ville de Nantes ou de la Ligue Nationale de Handball.",
+  "mots_cles": [
+    "handball",
+    "HBC Nantes",
+    "Romain Mathias",
+    "Sélestat",
+    "recrutement"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-20T15:04:01+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Coupe_de_France_2016-17_Nantes_vainqueur_2017-05-27_2.jpg/1280px-Coupe_de_France_2016-17_Nantes_vainqueur_2017-05-27_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wenflou",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Coupe_de_France_2016-17_Nantes_vainqueur_2017-05-27_2.jpg",
+    "legende": "Nantes vainqueurs de la coupe de France 2016-17 de handball face à Montpellier. A Bercy, le 27 mai 2017.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Coupe de France 2016-17 Nantes vainqueur 2017-05-27 2.jpg"
+  },
+  "sources": [
+    {
+      "media": "Journal Nantes Sport",
+      "titre": "HBC Nantes : Romain Mathias, international tricolore, rejoint le H pour 2027",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTlFdzU4MUJZbkVLT0ZHN3c5ZlVBald0ZWZhaE1ZZVphd2ZJMHNXY1VtYkEzaE1xVVZSbTdzTUFESWFueTh2SVZ6SWJaVUwzdldrMDN5NUNiQ1FxdnJnY3dvMzd6djNNYktVSUVsS09MaXFtODRNU3Z4SDhrZnZ2bUllSXZicldaeERvR0ExZUhXTnptcUVuMEROSQ?oc=5"
+    },
+    {
+      "media": "L'Équipe",
+      "titre": "Romain Mathias (Sélestat) s'engage officiellement avec Nantes pour trois saisons",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0VVcTJxaWt2T1A5OEVtY2JSX01ISVFlOGRjdXVXeVctempuVzc0Qk5vUUQ1V0xGRGpRdEpVWmxCemlrNHdzdWJBdkpUaGtHTTdvWGZ0Sk9GVXRnYnZwejJpUURnMGo3WHlDVXlUZGJCQVljWFlpWmxta1FYN1VSVEJtMl9jWnJTWXc4X1gzX09EVkdXMXNMSTlFUTRiVkhQZjJjVmlYTkNwMElKR2Z6UmNXV2JrSUZGNTV0UHM3TzMyOFBVVVJGag?oc=5"
+    },
+    {
+      "media": "HBCNantes",
+      "titre": "Infos pratiques : HBC Nantes - Sélestat",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wcDFtM2R4V2dSSlNoTl9QWEdFZFJLdGpEYXQzYlNkNkZwUW9iRUlWNTI5dFpoaGFxcDJuejJGVFZVUHhXUURlaFNETlRNWGJxSmJVUG5RWWdtb2VKVGtaelVOTWZkZ1QyZUFIaU93bFh6QUhpeENBZFFQcw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

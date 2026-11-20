@@ -282,5 +282,23 @@
     "titres_sources": [
       "Agios, découverts, paiements fractionnés : ce qui change pour votre argent à partir du 20 novembre"
     ]
+  },
+  {
+    "titre": "Affaires marocaines de Teddy Riner révélées",
+    "texte": "Un article indique qu’une société détenue par le judoka, candidat à la présidentielle, aurait reçu des commandes du roi Mohammed VI d’un montant de plusieurs millions d’euros. Cette information souligne les liens économiques entre les deux hommes.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-20T15:04:15+00:00",
+    "titres_sources": [
+      "Les affaires marocaines de Teddy Riner, « ami personnel » du roi Mohammed VI"
+    ]
+  },
+  {
+    "titre": "L’Élysée évoque l’adhésion de l’Ukraine à l’OTAN",
+    "texte": "Le présidentiel a affirmé que garantir à Kiev une protection équivalente à celle prévue par le traité atlantique reviendrait à une adhésion de l’Ukraine à l’OTAN, position soutenue par la France. Il a également réclamé une place prépondérante pour l’Europe dans les négociations.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T15:04:15+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine | L’Elysée évoque une adhésion à l’OTAN du pays et réclame une pleine place pour les Européens dans les négociations"
+    ]
   }
 ]

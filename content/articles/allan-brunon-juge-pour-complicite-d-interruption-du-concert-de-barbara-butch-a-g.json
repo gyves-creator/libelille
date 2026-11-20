@@ -1,0 +1,38 @@
+{
+  "slug": "allan-brunon-juge-pour-complicite-d-interruption-du-concert-de-barbara-butch-a-g",
+  "titre": "Allan Brunon jugé pour complicité d’interruption du concert de Barbara Butch à Grenoble",
+  "chapeau": "Le concert de la DJ Barbara Butch, stoppé après une vingtaine de minutes à Grenoble en juillet, a conduit à la mise en examen d’un élu local. Allan Brunon, député LFI, devra comparaître en février et encourt jusqu’à trois ans de prison pour complicité d’entrave à la liberté artistique.",
+  "corps": "## Un concert stoppé dans la polémique\nLe 18 juillet, la scène du club grenoblois a été vidée en moins de trente minutes lorsque des manifestants, identifiés comme militants pro‑palestiniens et « insoumis », ont interrompu la performance de la DJ Barbara Butch. Les protestataires reprochaient à l’artiste son soutien à la proposition de loi Yadan, présentée puis retirée au printemps, et ont ainsi entravé le déroulement du spectacle.\n\n## La mise en examen d’un élu local\nAllan Brunon, élu municipal d’opposition affilié à La France Insoumise, a été placé en examen pour « complicité d’entrave concertée à la liberté artistique ». Le parquet indique que l’enquête porte sur d’éventuelles responsabilités de l’élu dans l’organisation ou le soutien logistique de l’action qui a conduit à l’interruption du concert. La procédure prévoit une comparution en février, avec une peine maximale de trois ans d’emprisonnement en cas de condamnation.\n\n## Contexte juridique et sociétal\nEn France, la liberté artistique est protégée par la Constitution et le Code pénal, qui sanctionne les atteintes volontaires à cette liberté. Les autorités judiciaires peuvent ainsi poursuivre les personnes qui, de façon concertée, empêchent la tenue d’un événement culturel. Le cas de Grenoble s’inscrit dans un climat de tensions accrues autour de la question palestinienne et des débats sur la législation liée à la liberté d’expression, illustré par la polémique autour de la loi Yadan.\n\n## Réactions et suites possibles\nAucun représentant de la municipalité n’a encore commenté la procédure, tandis que les organisateurs du concert ont exprimé leur regret face à l’interruption et ont souligné l’importance de garantir le droit des artistes à se produire sans pression extérieure. La décision du tribunal en février déterminera si la responsabilité pénale d’Allan Brunon sera retenue, ce qui pourrait avoir des répercussions sur la manière dont les manifestations sont gérées lors d’événements culturels en France.",
+  "mots_cles": [
+    "Barbara Butch",
+    "Allan Brunon",
+    "Grenoble",
+    "concert interrompu",
+    "liberté artistique"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-20T15:03:48+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Leslie_barbara_butch.jpg/1280px-Leslie_barbara_butch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Atelier-Sham-Too",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leslie_barbara_butch.jpg",
+    "legende": "Leslie Barbara Butch's portrait",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Leslie barbara butch.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Concert interrompu de Barbara Butch à Grenoble : un élu local LFI, Allan Brunon, sera jugé en février",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/concert-interrompu-de-barbara-butch-a-grenoble-un-elu-local-lfi-allan-brunon-sera-juge-en-fevrier_6813650_823448.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "L'élu insoumis Allan Brunon jugé en février, poursuivi pour complicité dans l'interruption du concert de Barbara Butch à Grenoble",
+      "url": "https://www.franceinfo.fr/societe/justice/l-elu-insoumis-allan-brunon-juge-en-fevrier-poursuivi-pour-complicite-dans-l-interruption-du-concert-de-barbara-butch-a-grenoble_8292266.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

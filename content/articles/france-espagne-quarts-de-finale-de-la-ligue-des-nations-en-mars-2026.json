@@ -1,0 +1,38 @@
+{
+  "slug": "france-espagne-quarts-de-finale-de-la-ligue-des-nations-en-mars-2026",
+  "titre": "France - Espagne, quarts de finale de la Ligue des Nations en mars 2026",
+  "chapeau": "La France affrontera l'Espagne en quart de finale de la Ligue des Nations, avec le match aller prévu en Espagne le 25 mars et le retour au Stade de France le 28 mars. Le sélectionneur Zinedine Zidane a rappelé que ce duel ne constitue pas une revanche de la demi-finale du Mondial 2026.",
+  "corps": "## Dates et lieux des confrontations\nLe tirage au sort a placé la France contre l'Espagne pour les quarts de finale de la Ligue des Nations. Le premier match se déroulera sur le sol espagnol, fixé au 25 mars, tandis que le match retour est programmé au Stade de France le 28 mars. Certaines sources évoquent toutefois une fourchette de dates plus large, allant du 25 au 27 mars pour le premier affrontement et du 28 au 30 mars pour le second, mais le calendrier officiel indique les dates précises du 25 et du 28.\n\n## Enjeux et historique du duel\nL'Espagne entre dans ce quart de finale en tant que championne en titre de la Coupe du Monde et détentrice du titre européen, ce qui renforce la stature de l'opposant français. Le passé récent ajoute une dimension supplémentaire : lors du Mondial 2026, l'Espagne a éliminé la France en demi-finale, faisant d'elle le « bourreau » des Bleus. Le sélectionneur des Bleus, Zinedine Zidane, a souligné que ce nouveau choc ne doit pas être perçu comme une revanche, déclarant : « Ce n’est pas une revanche de la demi-finale au Mondial ». Cette mise en garde vise à recentrer les attentes sur la compétition actuelle.\n\nLe format de la confrontation reste celui de l'aller-retour, prévu pour le mois de mars. Une source indique que les rencontres auront lieu en mars 2027, mais les informations les plus récentes placent les deux matchs en mars 2026, conformément au calendrier officiel de la Ligue des Nations. Aucun détail supplémentaire n’a été fourni quant aux horaires ou aux billets.\n\n## Perspectives pour les deux équipes\nPour la France, ce quart de finale représente une occasion de se mesurer à la nation qui a détenu le titre mondial depuis l'année précédente, tout en tentant de dépasser le souvenir de la défaite en demi-finale du Mondial. L'Espagne, de son côté, cherchera à confirmer sa suprématie en Europe en poursuivant sa progression dans la compétition. Les deux équipes aborderont le duel avec la conscience que chaque match, joué sur le terrain adverse puis à domicile, pourra déterminer leur avenir dans le tournoi.",
+  "mots_cles": [
+    "France",
+    "Espagne",
+    "Ligue des Nations",
+    "quart de finale",
+    "Zidane"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-20T15:03:44+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maillot_%C3%A9quipe_de_France_de_football_am%C3%A9ricain.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Shervean",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maillot_%C3%A9quipe_de_France_de_football_am%C3%A9ricain.png",
+    "legende": "Maillot créé à partir du modèle de Fernando Martello ( User:Fma12 ) et modifié pour l'équipe de France de football américain.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Maillot équipe de France de football américain.png"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Ligue des nations : les dates du choc France-Espagne sont connues",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-les-dates-du-choc-france-espagne-sont-connues-20261120"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "L'équipe de France affrontera l'Espagne, championne du monde en titre, en quarts de finale de la Ligue des nations",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-affrontera-l-espagne-championne-du-monde-en-titre-en-quarts-de-finale-de-la-ligue-des-nations_8292032.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
