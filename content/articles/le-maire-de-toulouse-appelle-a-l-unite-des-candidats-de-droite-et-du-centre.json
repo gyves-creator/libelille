@@ -1,0 +1,33 @@
+{
+  "slug": "le-maire-de-toulouse-appelle-a-l-unite-des-candidats-de-droite-et-du-centre",
+  "titre": "Le maire de Toulouse appelle à l’unité des candidats de droite et du centre",
+  "chapeau": "Jean‑Luc Moudenc, maire de Toulouse, a publié une tribune dans Le Monde invitant les quatre principaux candidats de la droite et du centre à se rencontrer. Il souligne la nécessité de définir des convergences communes sous peine d’un échec collectif.",
+  "corps": "## Un appel public à la concertation\nDans une tribune parue dans le quotidien Le Monde, le maire toulousain a lancé un appel explicite aux quatre figures les plus en vue de la droite et du centre pour la présidentielle de 2027 : Gabriel Attal, David Lisnard, Édouard Philippe et Bruno Retailleau. Il les incite à se parler et à se placer autour d’une même table afin d’identifier les points d’accord fondamentaux qui pourraient structurer une offre politique cohérente.\n\n## Risque d’un échec collectif\nL’auteur de la tribune met en garde contre les conséquences d’une absence de dialogue. Selon ses propos, le manque de convergence entre ces prétendants pourrait entraîner « un échec cuisant et collectif », nuisant non seulement à leurs chances respectives mais aussi à la capacité de la droite et du centre à proposer une alternative crédible aux électeurs. Cette mise en garde s’inscrit dans le contexte habituel des cycles électoraux français, où la capacité à former des alliances ou à présenter un front commun joue souvent un rôle décisif.\n\n## Contexte électoral\nL’élection présidentielle de 2027 se prépare déjà, avec les listes de candidats qui se précisent progressivement. Les partis de droite et du centre, historiquement capables de coalescer autour de programmes partagés, observent cette période de positionnement comme cruciale. L’appel du maire de Toulouse reflète une préoccupation partagée par plusieurs acteurs locaux qui souhaitent éviter la dispersion des voix et la multiplication de candidatures qui pourraient affaiblir la position du camp de droite.\n\n## Réaction attendue\nAucun des quatre hommes politiques mentionnés n’a encore réagi publiquement à l’interpellation. La tribune, toutefois, crée une visibilité supplémentaire sur la nécessité d’un dialogue précoce, avant le lancement officiel des campagnes. Le maire de Toulouse, en tant que figure locale influente, utilise sa plateforme pour rappeler que la réussite électorale dépend en partie d’une capacité à établir des bases communes dès les premières étapes du processus.\n\nEn l’absence de réponses officielles, la proposition de Moudenc reste une invitation ouverte à la concertation, un point de départ potentiel pour des négociations qui pourraient façonner le paysage politique à l’approche du premier tour de la présidentielle.",
+  "mots_cles": [
+    "Jean-Luc Moudenc",
+    "élection présidentielle 2027",
+    "candidats droite",
+    "convergence politique",
+    "tribune Le Monde"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-20T05:10:15+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Jean-Luc_Moudenc%2C_maire_%28LR%29_de_Toulouse_%28cropped%29.jpg/1280px-Jean-Luc_Moudenc%2C_maire_%28LR%29_de_Toulouse_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kevin Figuier",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jean-Luc_Moudenc,_maire_(LR)_de_Toulouse_(cropped).jpg",
+    "legende": "Jean-Luc Moudenc, maire (LR) de Toulouse, pendant une conférence de presse.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Jean-Luc Moudenc, maire (LR) de Toulouse (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Jean-Luc Moudenc, maire de Toulouse : « Gabriel Attal, David Lisnard, Edouard Philippe et Bruno Retailleau, de vous quatre, il n’en faudra qu’un. Comment faire ? »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/20/jean-luc-moudenc-maire-de-toulouse-gabriel-attal-david-lisnard-edouard-philippe-et-bruno-retailleau-de-vous-quatre-il-n-en-faudra-qu-un-comment-faire_6813555_3232.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
