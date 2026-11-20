@@ -1,0 +1,38 @@
+{
+  "slug": "le-parlement-adopte-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-o",
+  "titre": "Le Parlement adopte la présomption d'usage légal des armes par les forces de l'ordre",
+  "chapeau": "Le texte qui instaure une présomption de légitime défense pour les policiers a été adopté à la Chambre haute. La majorité de droite, les centristes et le Rassemblement national ont soutenu le projet, tandis que la gauche sénatoriale prévoit de le contester devant le Conseil constitutionnel.",
+  "corps": "## Adoption du texte à la Chambre haute\nLe Sénat a voté en faveur du projet de loi visant à établir une présomption d’usage légal des armes par les forces de l’ordre. Le scrutin s’est soldé par 205 voix favorables contre 110 opposées. Le texte bénéficie du soutien de la droite majoritaire, de la plupart des centristes et du Rassemblement national, qui ont tous exprimé leur appui au cours des débats.\n\n## Réactions de l’opposition sénatoriale\nLes sénateurs de la gauche ont immédiatement annoncé leur intention de saisir le Conseil constitutionnel. Ils dénoncent la mesure comme une forme de « permis de tuer » pour les policiers, estimant qu’elle affaiblirait les garanties de contrôle de la légitime défense et porterait atteinte aux droits fondamentaux des citoyens.\n\n## Cadre législatif et portée du texte\nLe projet de loi, déjà examiné en première lecture, vise à faciliter la justification des tirs effectués par les forces de l’ordre en présumant leur légalité, sauf preuve contraire. Cette présomption s’inscrit dans le débat plus large sur la régulation de l’usage de la force publique en France, où les autorités cherchent à concilier sécurité et respect des libertés individuelles. La procédure d’adoption implique désormais le passage à l’Assemblée nationale, suivi de la promulgation du texte, à moins que le Conseil constitutionnel ne le bloque suite à la saisine annoncée par la gauche sénatoriale.\n\n## Perspectives et enjeux futurs\nSi le texte venait à être promulgué, il modifierait le cadre juridique de l’intervention policière, notamment en matière de responsabilité pénale et disciplinaire. Les organisations de défense des droits humains et certains parlementaires ont déjà indiqué qu’ils suivraient de près les éventuelles décisions du Conseil constitutionnel, qui devra se prononcer sur la conformité du texte avec la Constitution, notamment les principes de proportionnalité et de protection de la vie.\n\nLe débat reste donc ouvert, avec une phase de contrôle constitutionnel qui pourrait retarder ou modifier l’application de la loi, avant son éventuelle mise en œuvre sur le terrain.",
+  "mots_cles": [
+    "légitime défense",
+    "forces de l'ordre",
+    "Parlement",
+    "Conseil constitutionnel",
+    "loi"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-20T19:08:47+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Palais_Luxembourg_Sunset.JPG/1280px-Palais_Luxembourg_Sunset.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benh LIEU SONG with some parts cloned out by Nicolas SANCHEZ",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_Luxembourg_Sunset.JPG",
+    "legende": "The palace of Luxembourg , in the Luxembourg garden , Paris , at sunset.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Palais Luxembourg Sunset.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
+      "url": "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La loi sur la présomption de légitime défense pour les forces de l’ordre définitivement adoptée par le Parlement, ayant été approuvée au Sénat",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
