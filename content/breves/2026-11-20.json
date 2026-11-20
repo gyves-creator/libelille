@@ -338,5 +338,23 @@
     "titres_sources": [
       "Attentat raciste de Trappes : « Suprémacistes, djihadistes et masculinistes partagent le même rapport mythifié au passé »"
     ]
+  },
+  {
+    "titre": "Explosion dans une usine sidérurgique à Aliaga fait 19 morts",
+    "texte": "Une explosion a touché le 9 novembre l’usine de sidérurgie du groupe Habas à Aliaga, près d’Izmir, tuant 19 personnes. Le drame relance le débat sur la sécurité des travailleurs en Turquie, qui réclament de meilleures conditions.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T16:39:33+00:00",
+    "titres_sources": [
+      "Explosion dans une usine en Turquie : \"Investir dans la sécurité coûte plus que de laisser mourir\""
+    ]
+  },
+  {
+    "titre": "Le « vote utile » critiqué pour affaiblir le débat d’idées",
+    "texte": "Matthieu Goar, responsable du service politique, estime que la notion de vote utile, qui domine les discussions cet automne, réduit le débat aux seuls sondages. Cette dynamique, selon lui, empêche l’émergence d’un véritable échange d’idées lors de la présidentielle de 2027.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-20T16:39:33+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : la bataille délétère du « vote utile »"
+    ]
   }
 ]
