@@ -1,0 +1,38 @@
+{
+  "slug": "manifestation-pacifique-devant-le-lycee-marie-curie-a-strasbourg-le-20-novembre",
+  "titre": "Manifestation pacifique devant le lycée Marie-Curie à Strasbourg le 20 novembre",
+  "chapeau": "Le 20 novembre 2026, une vingtaine de participants, parmi lesquels des lycéens, leurs parents, des enseignants et des syndicalistes, se sont rassemblés devant le lycée Marie-Curie à Strasbourg. Ils ont exprimé leur opposition à ce qu’ils qualifient de répression policière et d’intimidation dans les établissements scolaires.",
+  "corps": "## Une mobilisation intergénérationnelle\n\nEnviron quatre-vingts personnes ont participé à la manifestation qui s’est déroulée devant l’entrée principale du lycée Marie-Curie, situé dans le quartier de la Meinau à Strasbourg. Le rassemblement, déclaré pacifique par les organisateurs, a réuni des élèves du lycée, leurs parents, des membres du personnel éducatif ainsi que des représentants syndicaux et des étudiants d’autres établissements.\n\n## Revendications portées devant l’établissement\n\nLes manifestants ont dénoncé ce qu’ils perçoivent comme une politique de répression policière et d’intimidation à l’encontre des élèves dans les écoles. Ils ont appelé à un examen des pratiques de contrôle et à la garantie d’un climat scolaire respectueux des droits des jeunes. Aucun incident de violence n’a été signalé pendant la réunion, qui s’est déroulée dans le calme.\n\n## Contexte des mouvements étudiants en France\n\nDepuis plusieurs mois, des mouvements étudiants se multiplient dans plusieurs villes françaises, portant sur des questions de libertés individuelles, de gestion des établissements scolaires et de relations avec les forces de l’ordre. Les revendications du lycée Marie-Curie s’inscrivent dans ce cadre plus large, où les jeunes et leurs familles cherchent à influencer les politiques éducatives et sécuritaires.\n\n## Informations pratiques pour les riverains\n\nAucun arrêt de circulation ou perturbation des transports n’a été annoncé dans le secteur du lycée le jour de la manifestation. Les autorités locales rappellent que les rassemblements doivent rester pacifiques et que les usagers peuvent consulter le site de la mairie de Strasbourg pour toute mise à jour concernant la sécurité publique ou les éventuelles déviations temporaires.",
+  "mots_cles": [
+    "Strasbourg",
+    "lycée Marie-Curie",
+    "manifestation",
+    "répression policière",
+    "intimidation scolaire"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-20T17:06:07+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2007%2C_Petite_France_%C3%A0_Strasbourg_4.jpg/1280px-2007%2C_Petite_France_%C3%A0_Strasbourg_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Syced",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:2007,_Petite_France_%C3%A0_Strasbourg_4.jpg",
+    "legende": "2007, Petite France à Strasbourg",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:2007, Petite France à Strasbourg 4.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Strasbourg. Devant le lycée Marie-Curie, parents et élèves soutiennent le mouvement lycéen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2RtTktPRUNHZzV4SUVidW4zTEFRTjQwV21FQng5NEJfbERIRmpLOWdVVlBGSGpjUDg3VFZNQXpiRl9GVDRDNVloMEtWR0ZtQU5KNWhzWVRVRmU4N0Y0V2I5c2tOSDFPeUdTa0NIZmk2TDUyRXhiV2VUczFvUkMyWFFZbXFYMjhNUTllOENXOVV5UTg?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Devant le lycée Marie-Curie, parents et élèves soutiennent le mouvement lycéen",
+      "url": "https://www.dna.fr/education/2026/11/20/parents-et-eleves-soutiennent-le-mouvement-lyceen"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
