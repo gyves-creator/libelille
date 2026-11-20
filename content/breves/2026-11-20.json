@@ -54,5 +54,24 @@
     "titres_sources": [
       "Les armateurs français veulent peser dans la campagne présidentielle pour défendre leur compétitivité"
     ]
+  },
+  {
+    "titre": "Bukele se présente à un troisième mandat au Salvador",
+    "texte": "Le président salvadorien Nayib Bukele, 45 ans, a officiellement annoncé sa candidature au troisième mandat. Cette candidature est rendue possible par la réforme constitutionnelle adoptée l'an passé, qui le rend éligible pour le scrutin de février 2027.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T07:32:06+00:00",
+    "titres_sources": [
+      "Le président Nayib Bukele candidat pour un troisième mandat au Salvador",
+      "Salvador : le président Bukele profite de sa réforme constitutionnelle pour se présenter à un troisième mandat"
+    ]
+  },
+  {
+    "titre": "Découverts de moins de 200 € requalifiés en crédits à la consommation",
+    "texte": "À compter du 20 novembre, les découverts bancaires inférieurs à 200 € seront traités comme des crédits à la consommation. Les établissements financiers devront ainsi vérifier la solvabilité du client avant d’accorder l’autorisation de découvert.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-20T07:32:06+00:00",
+    "titres_sources": [
+      "Les découverts bancaires de moins de 200 euros désormais considérés comme des crédits à la consommation"
+    ]
   }
 ]

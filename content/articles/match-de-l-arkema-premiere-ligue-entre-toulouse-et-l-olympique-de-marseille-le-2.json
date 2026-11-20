@@ -1,0 +1,38 @@
+{
+  "slug": "match-de-l-arkema-premiere-ligue-entre-toulouse-et-l-olympique-de-marseille-le-2",
+  "titre": "Match de l'Arkema Première Ligue entre Toulouse et l'Olympique de Marseille le 20 novembre 2026",
+  "chapeau": "Un affrontement de la première division féminine de football opposera le Toulouse à l'Olympique de Marseille le 20 novembre 2026. La rencontre s'inscrit dans le calendrier de l'Arkema Première Ligue, la compétition phare du football féminin en France.",
+  "corps": "## Un rendez‑vous sportif dans le calendrier de la Première Ligue\nLe 20 novembre 2026, les équipes féminines du Toulouse et de l'Olympique de Marseille s'affronteront dans le cadre de l'Arkema Première Ligue. Ce championnat, organisé par la Fédération française de football, regroupe les meilleures équipes du pays et constitue le plus haut niveau du football féminin en France. La date annoncée place ce match au cœur de la deuxième moitié de la saison, période où chaque point compte pour le classement final.\n\n## Implications pour les supporters locaux\nPour les habitants de la région, la rencontre représente une occasion de soutenir le football féminin et de suivre de près l'évolution du championnat. Aucun détail n’a été communiqué concernant les horaires précis, les modalités d’accès ou les éventuelles mesures de sécurité. Les clubs concernés invitent les supporters à consulter leurs sites internet officiels ou les points de vente habituels pour obtenir les informations pratiques relatives aux billets et aux transports.\n\n## Contexte de la compétition\nL'Arkema Première Ligue, sponsorisée par le groupe chimique Arkema, bénéficie d’une visibilité grandissante depuis plusieurs saisons. Elle joue un rôle clé dans le développement du sport féminin en France, en offrant aux joueuses une plateforme de haut niveau et en attirant un public de plus en plus large. Les deux équipes, le Toulouse et l'Olympique de Marseille, affichent des effectifs composés de joueuses évoluant tant au niveau national qu’international, ce qui promet un duel technique et tactique de qualité.\n\n## Informations pratiques\nEn l’absence de précisions sur les conditions de déplacement, les habitants sont encouragés à se tenir informés via les canaux de communication des clubs ou les services municipaux. Pour toute question relative à la sécurité ou aux accès, il est possible de contacter les services de police locaux ou la mairie de la commune concernée. Les sites internet de la Fédération française de football et de l’Arkema Première Ligue offrent également des mises à jour régulières sur le déroulement de la saison et les prochains matchs.",
+  "mots_cles": [
+    "football féminin",
+    "Arkema Première Ligue",
+    "Toulouse",
+    "Olympique de Marseille",
+    "match"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-20T07:32:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/OM_feminines_by_Malost.jpg/1280px-OM_feminines_by_Malost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Malost",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:OM_feminines_by_Malost.jpg",
+    "legende": "Match Saint-Martin-de-Crau-OM féminines 16/10/2011",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:OM feminines by Malost.jpg"
+  },
+  "sources": [
+    {
+      "media": "Eurosport",
+      "titre": "Toulouse - Olympique de Marseille en direct - Arkema Première Ligue : Football Scores & Résultats - 20/11/2026",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXdUeEk5cHNtVWt0Ty1MNER6NFBHY2FmT2ZwU3NJX1lwamJJVUhSMjI4NXJhbjFUOGV6N1ZOVmhKbzd6SFBXcUt2QXJOSC1VSHdCeF8yR19ZcHQwSTc1T1dCQ2p6Yi1yRHUtQ1B0dW5FSUdHVnJKUnBlcVlOa1ZhS0ZGazBCenBwR2VIdjdYME5Fek5VMXNwWHh1SGdWRGpTY2ppUWVoWkw4VFgxNWVSQ3pVeS1Mek9QbE9kaQ?oc=5"
+    },
+    {
+      "media": "L'Équipe",
+      "titre": "Toulouse (F) - Marseille (F), Arkema Première Ligue (F), match en direct le 20/11/2026",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRU42ZWF3LTBVeHdpaFVmX20zSW9BVXVpZTRDWUFIc0x3M3NoZjZEUm9UbXNsLUpMcDM1ajlZWlMyWW1GQkhrc1ZtNHp3bVBvRFVOMTlrZVB4YlNYODBOeU1yM29xcy1GZjJIcDQ5RG16TEc0WkJjc1VNQkl1TVBlaW1QeGRySWNoelJ5UVY3ZGRVcDBMZkpNbFk1V2NVOHl3ZXREc3dnRm8yQVR1RU1LeEwzOA?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
