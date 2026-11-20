@@ -1,0 +1,33 @@
+{
+  "slug": "proces-du-motard-accuse-de-la-mort-de-la-petite-kamilya-a-vallauris-s-ouvre-a-gr",
+  "titre": "Procès du motard accusé de la mort de la petite Kamilya à Vallauris s'ouvre à Grasse",
+  "chapeau": "Le tribunal correctionnel de Grasse a ouvert ce vendredi 20 novembre 2026 l’audience du jeune motard impliqué dans la mort de la petite Kamilya, 7 ans, sur un passage piéton à Vallauris en août 2024. Les parents de la victime ont assisté à la séance, dont la diffusion d’images de l’accident a été présentée.",
+  "corps": "## Une audience très attendue à Grasse\nL’audience collégiale du procès de Mattéo B., le jeune motard mis en cause dans la mort de la petite Kamilya, a débuté ce vendredi 20 novembre 2026 au tribunal correctionnel de Grasse. Les faits remontent au 29 août 2024, lorsqu’une fillette de sept ans a été percutée sur un passage piéton de la commune de Vallauris. Le procès se déroule dans le cadre du droit pénal français, où la responsabilité d’un conducteur peut être jugée devant une juridiction correctionnelle.\n\n## Présence des proches de la victime\nLes parents de la petite Kamilya ont été présents dans la salle d’audience. Au cours de la séance, le tribunal a diffusé les images de l’accident, ce qui a conduit les parents à quitter la salle alors que les séquences étaient projetées. Le père de la victime était également arrivé au palais de justice, témoignant de l’importance de l’affaire pour les familles concernées.\n\n## Déroulement et suites attendues\nLe procès, qui se tient à Grasse, implique la mise en examen du jeune motard pour homicide involontaire. Aucun verdict n’a encore été rendu, la procédure restant en cours. Les autorités judiciaires n’ont pas communiqué de mesures particulières susceptibles d’impacter la circulation ou la vie quotidienne des habitants de Vallauris ou de la région ni de consignes spécifiques à destination du public.\n\n## Informations pratiques pour les riverains\nLes habitants de Vallauris souhaitant suivre l’évolution du dossier peuvent consulter le site internet du tribunal de Grasse ou contacter le service d’information judiciaire du parquet. En cas de besoin d’assistance ou de renseignements complémentaires, le numéro du service d’accueil du tribunal est disponible sur le site officiel de la justice française.",
+  "mots_cles": [
+    "procès",
+    "Vallauris",
+    "motard",
+    "Kamilya",
+    "tribunal de Grasse"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-20T11:14:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Promenade_des_Anglais_%28Nice%29%2C_France.jpg/1280px-Promenade_des_Anglais_%28Nice%29%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Uhooep",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_France.jpg",
+    "legende": "Promenade des Anglais (Nice), France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Promenade des Anglais (Nice), France.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "« Je n’aurais jamais dû faire ça » : au procès de la mort de la petite Kamilya à Vallauris, la défense du jeune motard Mattéo B.",
+      "url": "https://www.nicematin.com/societe/justice/je-n-aurais-jamais-du-faire-ca-au-proces-de-la-mort-de-la-petite-kamilya-a-vallauris-la-defense-du-jeune-motard-matteo-b-10764682"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

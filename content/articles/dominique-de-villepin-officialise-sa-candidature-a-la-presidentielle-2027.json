@@ -1,0 +1,42 @@
+{
+  "slug": "dominique-de-villepin-officialise-sa-candidature-a-la-presidentielle-2027",
+  "titre": "Dominique de Villepin officialise sa candidature à la présidentielle 2027",
+  "chapeau": "L’ancien Premier ministre Dominique de Villepin a annoncé vendredi sa participation à l’élection présidentielle de 2027. Il se présente comme une alternative aux courants actuels et vise à rassembler électeurs de droite et de gauche.",
+  "corps": "## Annonce officielle\nLe vendredi 20 novembre 2026, Dominique de Villepin, qui a occupé le poste de Premier ministre sous la présidence de Jacques Chirac, a officiellement déclaré sa candidature à la présidentielle de 2027. Dans son communiqué, il a dénoncé ce qu’il a qualifié d'« une situation de pourrissement » du pays, se positionnant ainsi en rupture avec les politiques en place.\n\n## Positionnement politique\nLes informations recueillies indiquent que le candidat se veut une alternative aux courants qualifiés de macronisme, de la France Insoumise (LFI) et du Rassemblement national (RN). Un rapport précise qu’il cherche à séduire à la fois les électeurs de gauche et de droite, en mettant en avant un « rafraîchissement politique » destiné à élargir son audience. Cette stratégie vise à attirer des soutiens au-delà de son héritage traditionnel de droite.\n\n## Parcours et popularité\nDominique de Villepin est connu pour son opposition au conflit irakien de 2003, position qui a marqué son retour sur la scène publique ces dernières années, notamment à travers ses prises de parole sur les questions internationales comme la guerre à Gaza. Selon une source, son image reste davantage appréciée parmi les électeurs de gauche, même si son profil politique reste ancré à droite. Cette dualité pourrait influencer la dynamique électorale, bien que les intentions de vote restent à confirmer.\n\n## Contexte électoral\nL’élection présidentielle française se déroule selon un mode à deux tours, avec un premier tour ouvert à tous les candidats déclarés et un second tour réservé aux deux premiers. Les modalités d’inscription et de vote sont détaillées sur le site officiel du service public. Les candidats doivent recueillir les parrainages requis et respecter les échéances fixées par le Conseil constitutionnel.\n\nCes éléments offrent un aperçu de la candidature de Dominique de Villepin, de son positionnement et des enjeux auxquels il se confronte dans le cadre de la prochaine échéance présidentielle.",
+  "mots_cles": [
+    "Dominique de Villepin",
+    "présidentielle 2027",
+    "candidature",
+    "politique française"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-20T11:13:55+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg/1280px-Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Georges Seguin (Okki)",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg",
+    "legende": "Dominique de Villepin en dédicace au Salon du livre de Paris (cropped).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Dominique de Villepin 20100330 Salon du livre de Paris 2 cropped.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html"
+    },
+    {
+      "media": "Le Figaro - Politique - L'actualité du gouvernement et de l'opposition",
+      "titre": "Présidentielle 2027 : Dominique de Villepin, les coulisses d’une entrée en campagne imminente",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Dominique de Villepin candidat : un homme de droite populaire à gauche mais en quête d'électeurs",
+      "url": "https://www.france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -171,5 +171,23 @@
     "titres_sources": [
       "Les truffes d'hiver peu nombreuses à cause de la météo, lors du lancement de la saison dans le Vaucluse"
     ]
+  },
+  {
+    "titre": "Californie ouvre enquête sur Nvidia pour risque de fuite de puces IA",
+    "texte": "California AG opened investigation Thursday into Nvidia, accusing it of concealing to investors the risk that its AI chips could be diverted to China. The probe could lead to regulatory scrutiny and potential penalties.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-20T11:14:51+00:00",
+    "titres_sources": [
+      "Scandale Jensen Huang : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine"
+    ]
+  },
+  {
+    "titre": "Lancement de Windows Baseline Protection, bloque apps non sécurisées",
+    "texte": "Microsoft introduces Windows Baseline Protection for Windows 11, allowing software to check that a PC meets eight security safeguards. If the device fails, the system may block the application to protect against threats.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-20T11:14:51+00:00",
+    "titres_sources": [
+      "Votre PC passera-t-il le test ? Windows 11 pourra bientôt bloquer vos applications s’il est jugé mal protégé : voici les conditions"
+    ]
   }
 ]
