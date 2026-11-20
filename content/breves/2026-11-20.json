@@ -34,5 +34,25 @@
     "titres_sources": [
       "Agressions de reporters, offensive à l’Assemblée, pression des syndicats : quand la gauche menace la liberté d’informer"
     ]
+  },
+  {
+    "titre": "Trois morts et deux ponts endommagés à Kiev après frappes russes",
+    "texte": "Les autorités locales ont indiqué trois morts et deux ponts endommagés à Kiev après des frappes de missiles balistiques et de drones vendredi. Ces tirs surviennent après la menace de représailles de Vladimir Poutine suite à la frappe ukrainienne du pont de Crimée nuit précédente.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T06:40:18+00:00",
+    "titres_sources": [
+      "En direct : trois morts et deux ponts endommagés à Kiev suite à des frappes russes",
+      "Trois personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
+      "EN DIRECT, guerre en Ukraine : des frappes russes sur Kiev font trois morts et endommagent deux ponts"
+    ]
+  },
+  {
+    "titre": "Armateurs français demandent protection fiscale aux candidats",
+    "texte": "Les armateurs français ont appelé les candidats à la présidentielle à maintenir les avantages fiscaux et sociaux dont bénéficie la flotte nationale. Ils alertent que la concurrence internationale menace la compétitivité et la capacité d’investissement de la marine marchande française.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-20T06:40:18+00:00",
+    "titres_sources": [
+      "Les armateurs français veulent peser dans la campagne présidentielle pour défendre leur compétitivité"
+    ]
   }
 ]
