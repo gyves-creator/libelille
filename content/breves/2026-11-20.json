@@ -375,5 +375,25 @@
     "titres_sources": [
       "A Blois, dix-huit mois de prison dont neuf avec sursis requis contre l’influenceur Mounim Sabhi : « Je n’ai voulu humilier personne »"
     ]
+  },
+  {
+    "titre": "Le Danemark expulserait un attaché russe après tentative d’assassinat",
+    "texte": "Le Danemark accuse la Russie d’avoir organisé l’assassinat d’un ressortissant ukrainien sur son territoire. En réponse, le gouvernement envisagerait d’expulser l’attaché de défense de l’ambassade russe et de suspendre les visas Schengen non essentiels pour les Russes.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T17:39:15+00:00",
+    "titres_sources": [
+      "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un Ukrainien sur son sol",
+      "EN DIRECT, guerre en Ukraine : le Danemark expulse un diplomate russe après la tentative d’assassinat d’un rappeur ukrainien sur son sol"
+    ]
+  },
+  {
+    "titre": "Jeunes européens prévoient grève internationale du 20 novembre",
+    "texte": "Des jeunes de près de vingt pays européens organiseront une grève et des manifestations le 20 novembre. Ils revendiquent la lutte contre la vie chère, le changement climatique, le droit au logement et les politiques d’austérité.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T17:39:15+00:00",
+    "titres_sources": [
+      "Mobilisations : la jeunesse européenne en colère",
+      "Vie chère, climat, droit au logement... La jeunesse d'Europe se mobilise ce week-end"
+    ]
   }
 ]
