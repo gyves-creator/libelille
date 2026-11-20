@@ -1,0 +1,38 @@
+{
+  "slug": "marseille-pillages-du-17-octobre-les-commercants-demandent-des-aides",
+  "titre": "Marseille : pillages du 17 octobre, les commerçants demandent des aides",
+  "chapeau": "Des actes de pillage ont touché le centre-ville de Marseille le 17 octobre, plongeant de nombreux commerces dans une situation difficile. Les commerçants réclament des mesures d’aide concrètes et les autorités annoncent la mise en place d’un dispositif d’urgence.",
+  "corps": "## Contexte des pillages du 17 octobre\nLe 17 octobre, des actes de pillage se sont déroulés dans le centre-ville de Marseille, affectant plusieurs établissements commerciaux. Les faits ont entraîné des pertes matérielles et une détérioration de l’activité économique locale, décrite comme étant en état d’« agonie ». Aucun détail supplémentaire n’a été communiqué concernant l’ampleur des dégâts ou le nombre de commerces touchés.\n\n## Revendications des commerçants\nFace à la situation, les commerçants du centre-ville ont exprimé le besoin d’aides concrètes. Ils souhaitent que les mesures d’accompagnement soient rapidement mises en œuvre afin de permettre la reprise de leurs activités. Les demandes portent notamment sur un soutien financier, mais la nature exacte des aides sollicitées n’a pas été précisée dans les informations disponibles.\n\n## Réponse des autorités locales\nEn réaction aux perturbations causées par les pillages, les responsables municipaux ont indiqué que des aides d’urgence seraient déployées pour le centre-ville, qualifié de zone en difficulté. Le texte ne détaille pas les modalités de ce dispositif, laissant entendre que les mesures restent à définir ou à préciser. Il est donc possible que des dispositifs d’accompagnement, tels que des subventions ou des allègements fiscaux, soient envisagés, mais aucune confirmation n’a été apportée.\n\n## Informations pratiques pour les commerçants\nLes commerçants souhaitant obtenir des renseignements ou déposer une demande d’aide sont invités à contacter le service d’aide aux entreprises de la mairie de Marseille. Les coordonnées et les formulaires de demande sont généralement accessibles via le site officiel de la ville. En cas d’urgence ou de besoin d’assistance immédiate, il est recommandé de se rapprocher du point d’accueil dédié aux entreprises, dont les horaires d’ouverture sont publiés sur le portail municipal.\n\nCette situation souligne la vulnérabilité du tissu commercial urbain face à des événements de violence et rappelle l’importance d’un soutien rapide des autorités locales pour limiter les conséquences économiques et sociales.",
+  "mots_cles": [
+    "Marseille",
+    "pillages",
+    "commerçants",
+    "aides d'urgence",
+    "centre-ville"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-20T09:12:27+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/View-of-Marseille-June-2012.jpg/1280px-View-of-Marseille-June-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Acediscovery",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View-of-Marseille-June-2012.jpg",
+    "legende": "View of Marseille, France in June 2012",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:View-of-Marseille-June-2012.jpg"
+  },
+  "sources": [
+    {
+      "media": "Destimed",
+      "titre": "Marseille. Après les pillages, des aides d’urgence pour un centre-ville à l’agonie",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd05MZlFxNENMNUYyOHg3TmFxUWVUQ00zZVB5bUZYQkpOekZtLTFHZ25DdVd5RXhVME5keVVVUEtqZVFqYmxqQTBxUm5RSzlZNnI4aHczalFUS3ZQa3lqQnQ5WlNVZWViVEFCVjZ3ZENHQjE4Y3JRWUgxVV8xUE9WWW01RFg1ZVZla3NXUWY1MDRGQXhMV3Jva2F5UUN6RExVU1AtZUFR?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "Pillages du 17 octobre à Marseille : les commerçants veulent des aides concrètes",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdEg1bEZQOHczc2owLVZJd1Y1M29ZcTlRSVk4WVk0bW1PLTUzWkFfZDhDV0F6N25GbTFvWDZOdVMyYThwYS1qUDRuNXBWN3lnejlabW1RbFU2WHNDOTRGR1c4TUFMakwzOEFFOG52bDF1M0VCWTJNczhkajVab0dIbWdMazBKWXU1akZSMFgyRDVKOVZudnBqSEIwYjcyUmtVUVBWTWJ6RU1yUFVkdkVESU9XN01JRU9oelM1UVlTVDdLTldCRGJtU3hLZy1sYzYwaFhnc2dDeUN0dTdvYUM1N3RUQm9NYmE4WVZIckJTODVIT3F0YXF5bmJNcmE4b2w3enc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

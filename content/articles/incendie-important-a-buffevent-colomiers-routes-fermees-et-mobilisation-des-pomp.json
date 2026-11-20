@@ -1,0 +1,38 @@
+{
+  "slug": "incendie-important-a-buffevent-colomiers-routes-fermees-et-mobilisation-des-pomp",
+  "titre": "Incendie important à Buffevent (Colomiers) : routes fermées et mobilisation des pompiers",
+  "chapeau": "Un feu de grande ampleur s’est déclaré vendredi matin dans le secteur de Buffevent, à Colomiers, près de Toulouse. La circulation est interrompue sur la voie concernée et les secours restent mobilisés.",
+  "corps": "## Un incendie difficile d’accès mobilise les secours\n\nVers le matin du 20 novembre, un incendie s’est déclaré dans le quartier de Buffevent, à Colomiers, commune limitrophe de Toulouse. Le feu, installé dans une zone difficile d’accès, a nécessité l’intervention d’un nombre important de pompiers. Les équipes de secours ont été dépêchées rapidement afin de maîtriser la situation et limiter la propagation du brasier.\n\n## Conséquences sur la circulation\n\nEn raison de l’ampleur de l’incendie, la route qui traverse le secteur a été fermée à la circulation. Les automobilistes sont invités à suivre les itinéraires de déviation indiqués sur place et à se tenir informés des éventuelles mises à jour. Aucun incident majeur lié à la fermeture n’a été signalé à ce stade.\n\n## Informations pratiques pour les riverains\n\nLes habitants du quartier sont priés de rester vigilants et d’éviter de se rapprocher de la zone sinistrée. Les services de la mairie de Colomiers ainsi que la préfecture restent à disposition pour répondre aux questions et fournir des consignes supplémentaires. En cas d’urgence, le numéro du service de secours (112) doit être contacté.\n\n## Suivi de l’opération\n\nLes pompiers continuent de travailler sur le feu, dont l’évolution reste à surveiller. Aucun détail supplémentaire n’a été communiqué quant à la cause de l’incendie ou à la durée prévue des travaux de réouverture de la voie. Les autorités locales mettront à jour les informations dès que de nouvelles données seront disponibles.",
+  "mots_cles": [
+    "incendie",
+    "Colomiers",
+    "Toulouse",
+    "pompiers",
+    "route fermée"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-20T09:12:37+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Colomiers_-_Ancienne_mairie.jpg/1280px-Colomiers_-_Ancienne_mairie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "FHd",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Colomiers_-_Ancienne_mairie.jpg",
+    "legende": "Ancienne mairie de Colomiers, construite en 1936",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Colomiers - Ancienne mairie.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Un violent incendie mobilise de nombreux pompiers près de Toulouse, une route fermée à la circulation",
+      "url": "https://www.ladepeche.fr/2026/11/20/un-violent-incendie-mobilise-de-nombreux-pompiers-pres-de-toulouse-une-route-fermee-a-la-circulation-13662546.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Un violent incendie mobilise de nombreux pompiers près de Toulouse, une route fermée à la circulation",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcVk5bTQzcFhzMEhWdW5ncllfQ0pLVzdfTUkyT0Juelc2aUtQR1BKZWFKZUlVU285Mk90akVyRjR4Ql9BclFhNF90RUhTVWtIUXNoZS1YRjZ1Y2dOaEZMR3QwS3JCM21DdElVX0QwWU9JWDFKZ1lZWFFwaW9vTnl4Yk1KcnBJWlpCMzBjT0JvSXVNRkZkeWNjS0ViTnBfWGpaVzBxWTJHb015N1RyZ3dJWHV3aFdicV9vSl96dmNmV2pIaXBVYld1V0dvYTBheUw0aFNGZVdHZEU3Y2ZhLVgzUlhWVQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
