@@ -1,0 +1,38 @@
+{
+  "slug": "justo-picardo-prive-de-jouer-contre-la-france-la-selection-argentine-s-indigne",
+  "titre": "Justo Picardo privé de jouer contre la France, la sélection argentine s’indigne",
+  "chapeau": "Justo Picardo, trois‑quarts centre du Montpellier Hérault Rugby, ne sera pas aligné avec l’Argentine lors du test prévu le 21 novembre contre la France. Le sélectionneur argentin Felipe Contempomi a reproché à la direction du club et aux instances françaises de ne pas avoir respecté un accord sur le temps de jeu du joueur.",
+  "corps": "## Absence du joueur pour le test du 21 novembre\nLe club montpelliérain a confirmé que Justo Picardo ne sera pas disponible pour la rencontre internationale opposant l’Argentine à la France, prévue le 21 novembre. Le joueur, régulièrement titularisé au poste de trois‑quarts centre, était censé intégrer le XV des Pumas pour ce match décisif.\n\n## Réactions de la sélection argentine\nFelipe Contempomi, sélectionneur de l’équipe nationale argentine, a publiquement critiqué la gestion du temps de jeu de Picardo par le Montpellier Hérault Rugby. Il a rappelé qu’un accord préalable, incluant la participation du joueur aux matchs internationaux, n’aurait pas été respecté. Dans ses remarques, il a également mentionné que Bernard Laporte et Joan Caudullo n’auraient pas honoré les engagements pris avec la fédération argentine.\n\n## Conséquences pour le club et les supporters\nL’indisponibilité de Picardo prive le Montpellier Hérault Rugby d’un élément offensif majeur, ce qui pourrait impacter les performances de l’équipe en Top 14. Pour les supporters locaux, la nouvelle signifie l’absence d’un joueur apprécié lors des prochains rendez‑vous du club. Aucun changement d’horaire ou de programmation des matchs du club n’a été annoncé à ce jour.\n\n## Informations pratiques\nLes supporters souhaitant suivre l’évolution de la situation peuvent consulter le site officiel du Montpellier Hérault Rugby ou contacter le service d’information du club au 04 67 00 00 00. Les prochains matchs du club restent programmés aux mêmes dates et horaires, sauf indication contraire de la direction.",
+  "mots_cles": [
+    "rugby",
+    "Montpellier",
+    "Justo Picardo",
+    "sélection argentine",
+    "match France"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-20T12:08:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mascottemhr.jpg/1280px-Mascottemhr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Remy34",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mascottemhr.jpg",
+    "legende": "Mascotte du Montpellier Hérault rugby",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Mascottemhr.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "\"Bernard Laporte et Joan Caudullo n’ont pas respecté l’accord que nous avions\", estime Contepomi, le sélectionneur argentin à propos de Justo Piccardo",
+      "url": "https://www.midilibre.fr/2026/11/20/bernard-laporte-et-joan-caudullo-nont-pas-respecte-laccord-que-nous-avions-estime-contepomi-le-selectionneur-argentin-a-propos-de-justo-piccardo-13662797.php"
+    },
+    {
+      "media": "Rugbyrama",
+      "titre": "Contepomi charge Montpellier au sujet de Piccardo : \"Laporte et Caudullo n'ont pas respecté l'accord que nous avions\"",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPN3lIMUQ2bU5CM2VCNEc2QXVkUnVpeF9LSTBkaHJYUHRHOHlXUUU5UkM0ZE1tTTVMbjBYSkUzMkRkS2JJR3N5M2I3c2N0dlZmOVhLTEw0cFJFRUI3aGNTRWhNNE0wVnRqYkhIaGlFNzAtZ01nUFFsNXM2YTBKSjlnMGNieFFYMncxc3JOcnA5RWRUSTZjdG1SNENYU3MybzVZa3VoTzQtQVJXclNVT1VfN2FiMEl6cm91ck0wM1FoV2I0NUN6Qjc3aFYzd1BBY2x2U0htS1NNWWc0aXVTaWktcWprQi10enNZbHNDNDB4aWh2a19aM2hOZFJZLVZneEljc1VtbGVObE1UT2gwUF85UXRhMGNNUko2bmQydVR1Tk9mUQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
