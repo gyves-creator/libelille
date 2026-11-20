@@ -264,5 +264,23 @@
       "Deux missiles russes chutent en Pologne, le Premier ministre Tusk dénonce \"une provocation\"",
       "Pologne : deux missiles russes s’abattent dans le sud-est du pays, frontalier de l’Ukraine"
     ]
+  },
+  {
+    "titre": "PSG presque complet avant le déplacement à Nice",
+    "texte": "Le Paris Saint‑Germain a fait le point sur ses effectifs ce vendredi, à la veille du match de Ligue 1 à Nice. Les joueurs Ousmane Dembélé, Eduardo Mendes et Moussa Doué sont proches d’être disponibles.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-20T13:57:10+00:00",
+    "titres_sources": [
+      "Ligue 1 : Dembélé, Mendes, Doué… Le PSG presque au complet avant Nice"
+    ]
+  },
+  {
+    "titre": "Nouvelles règles sur découverts, agios et crédits à la consommation",
+    "texte": "À partir du 20 novembre, une directive européenne impose un contrôle renforcé des découverts autorisés et des agios par les banques. Les conditions des prêts à la consommation et des paiements différés seront également durcies.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-20T13:57:10+00:00",
+    "titres_sources": [
+      "Agios, découverts, paiements fractionnés : ce qui change pour votre argent à partir du 20 novembre"
+    ]
   }
 ]
