@@ -1,0 +1,38 @@
+{
+  "slug": "accident-a-l-entree-est-de-nantes-un-motard-blesse-et-perturbations-du-trafic",
+  "titre": "Accident à l’entrée est de Nantes : un motard blessé et perturbations du trafic",
+  "chapeau": "Un jeune motard de 22 ans a été blessé dans un accident survenu à l’entrée est de Nantes vendredi matin. L’incident a entraîné des ralentissements sur la voie routière et des perturbations du trafic ferroviaire régional.",
+  "corps": "## Accident et conséquences immédiates\nVers le matin du vendredi 20 novembre, un accident s’est produit à l’entrée est de la ville de Nantes, impliquant un motard de 22 ans. Les secours ont transporté le conducteur au centre hospitalier universitaire de Nantes pour y recevoir les soins nécessaires. Aucun autre détail n’a été communiqué quant aux circonstances exactes de l’accident.\n\n## Impact sur les déplacements\nL’accident a provoqué des ralentissements notables sur la chaussée desservant l’entrée est de la métropole, affectant les automobilistes et les usagers de deux-roues. Parallèlement, le trafic ferroviaire a été perturbé sur les lignes TER reliant Nantes aux Sables‑d’Olonne et à Rennes. Les trains concernés ont connu des retards et, dans certains cas, des annulations partielles.\n\n## Consignes aux usagers\nLes riverains et les usagers du réseau routier sont invités à suivre les panneaux de signalisation temporaires et à envisager des itinéraires alternatifs, notamment en empruntant les axes périphériques ou en utilisant les transports en commun lorsque cela est possible. Les voyageurs du TER sont priés de consulter les informations en temps réel sur le site officiel de la SNCF ou les applications mobiles dédiées afin de connaître l’état des services et les éventuelles modifications d’horaires.\n\n## Informations pratiques\nEn cas d’urgence, le numéro du SAMU reste le 15, tandis que les informations sur le trafic routier peuvent être obtenues via le service d’assistance du département ou le site internet de la préfecture. Les usagers souhaitant suivre l’évolution de la situation peuvent également se référer aux panneaux d’information installés le long des voies affectées.",
+  "mots_cles": [
+    "accident",
+    "Nantes",
+    "trafic",
+    "TER",
+    "motard"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-20T13:22:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Marit%C3%A9.jpg/1280px-Marit%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jibi44",
+    "licence": "CC BY 2.5",
+    "licence_url": "https://creativecommons.org/licenses/by/2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Marit%C3%A9.jpg",
+    "legende": "Port de Nantes (escale du Marité quai de la Fosse)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marité.jpg"
+  },
+  "sources": [
+    {
+      "media": "maville.com",
+      "titre": "Un jeune motard de 22 ans blessé dans un accident à l’entrée de Nantes, il a été transporté au CHU",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcnhvVDA3Wjk1VElnblBFQ2ZQNm13aHZWMjdMMy1RaWxxa0o1MGc5ak8zRXNlNk1ZQkptTHF5eG1leGNfckczTVhwRzhFeF85RDVoVXh4ZUR5Ry1sSlFQTnlXaDJIZmd1alo5OTZ0SFg3ZE10NFhEeFV6ZlNGQUU1b1NoQWFJc084NUhQY3VLbmpPWG1qRWNkbkhHSnBjbnVhRWxyMmVOSE9fVmxLVDBQbkotTl9xVDJEcWREaVBMVDdYUVhIUWZkWGViRGdCMTJLTEdUYmxtaWRMV1Vod1VueTlCY20wQjFWNDBJSlVtZW4?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "Nantes Matin : journal de 8H du vendredi 20 novembre",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSlFJYTFRQjNGV0JEbVA2Si16a0VBWFRFdk1pdGpxTTdJUGE4UnJwTUdJSXFZRTlBYnZWT1NhMTUxVEM0T1ZYalFtb3pnSTR2VDBjX0tuSU1PUUw0Z0VlRUI4eFhJX3JGQUpCcllsTWo4YXlScEtyZjRmLWdNdUIzZHA4TlZMWkFZd25FMGRPQ2ZubVBkSTEzYnk1LVRGMHMtcTJIQjd5SWdORmZWbDRITjhtOWE0WkRUMG1BZUdxdVpSNmlLU0NRRUtudC1QVXNuckFrSUE4cWhaTjdYQkp4Mmd1SExMQQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

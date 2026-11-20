@@ -244,5 +244,25 @@
     "titres_sources": [
       "Exclue de LFI en 2024, Clémentine Autain appelle à son tour à se rallier à la candidature de Jean-Luc Mélenchon"
     ]
+  },
+  {
+    "titre": "Grève dans la fonction publique le 1er décembre, appel des syndicats",
+    "texte": "Huit syndicats de la fonction publique ont indiqué qu’ils souhaiteraient organiser une journée de grève le 1er décembre. Ils appellent les agents à se mobiliser dans l’ensemble du pays afin de protester contre la détérioration de leurs conditions salariales.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-20T13:22:35+00:00",
+    "titres_sources": [
+      "Salaires : huit syndicats de la fonction publique appellent à une journée de grève le 1er décembre",
+      "Une intersyndicale de la fonction publique lance un nouvel appel à la grève et à la mobilisation le 1er décembre"
+    ]
+  },
+  {
+    "titre": "Missiles russes tombent en Pologne, Tusk qualifie de provocation",
+    "texte": "Deux missiles russes sont tombés dans le sud‑est de la Pologne, proche de la frontière ukrainienne, sans faire de victimes. Le Premier ministre Donald Tusk a qualifié cet incident de provocation de Moscou, soulignant le risque d’escalade lié aux manœuvres militaires dans la région.",
+    "rubrique": "international",
+    "publie_le": "2026-11-20T13:22:35+00:00",
+    "titres_sources": [
+      "Deux missiles russes chutent en Pologne, le Premier ministre Tusk dénonce \"une provocation\"",
+      "Pologne : deux missiles russes s’abattent dans le sud-est du pays, frontalier de l’Ukraine"
+    ]
   }
 ]
