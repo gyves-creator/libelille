@@ -189,5 +189,23 @@
     "titres_sources": [
       "Votre PC passera-t-il le test ? Windows 11 pourra bientôt bloquer vos applications s’il est jugé mal protégé : voici les conditions"
     ]
+  },
+  {
+    "titre": "Rapport sur la présence d’un procureur lors de la perquisition du RN",
+    "texte": "La procureure générale de Paris a transmis son rapport à Gérald Darmanin sur la présence d’un procureur adjoint du parquet de Paris lors de la perquisition du siège du Rassemblement national début novembre. Le document précise les circonstances de cet accompagnement.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-20T11:37:13+00:00",
+    "titres_sources": [
+      "La procureure générale de Paris a remis son rapport à Gérald Darmanin sur la présence d'un procureur lors d'une perquisition au siège du RN"
+    ]
+  },
+  {
+    "titre": "France affrontera l’Espagne en quarts de Ligue des Nations 2027",
+    "texte": "La France jouera contre l’Espagne, championne du monde en titre, en quarts de finale de la Ligue des Nations. Les deux rencontres, aller‑retour, se tiendront en mars 2027.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-20T11:37:13+00:00",
+    "titres_sources": [
+      "L'équipe de France affrontera l'Espagne, championne du monde en titre, en quarts de finale de la Ligue des nations"
+    ]
   }
 ]
