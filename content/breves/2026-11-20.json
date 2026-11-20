@@ -300,5 +300,25 @@
     "titres_sources": [
       "EN DIRECT, guerre en Ukraine | L’Elysée évoque une adhésion à l’OTAN du pays et réclame une pleine place pour les Européens dans les négociations"
     ]
+  },
+  {
+    "titre": "L'ATP prévoit 320 M€ de prize money partagé dès 2028",
+    "texte": "L'ATP a indiqué que, dès la saison 2028, les joueurs du circuit masculin se partageront 320 millions d’euros de gains et de primes. Cette hausse concernera l’ensemble des joueurs, des meilleurs aux plus modestes, et s’inscrit dans le cadre du renforcement du financement du tennis professionnel.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-20T15:37:52+00:00",
+    "titres_sources": [
+      "Tennis : pourquoi les revenus des joueurs vont exploser à partir de 2028",
+      "Tennis: l'ATP annonce que les joueurs du circuit se partageront 320 millions d’euros à partir de 2028",
+      "Le circuit ATP va considérablement augmenter ses récompenses pour tous les joueurs à partir de 2028"
+    ]
+  },
+  {
+    "titre": "Sécheresse persistante menace cultures en Outre-mer",
+    "texte": "Une sécheresse prolongée touche plusieurs territoires d’Outre‑mer, du sud de l’océan Indien aux Antilles. Le manque d’eau fragilise les cultures à La Réunion, aux Antilles et en Guyane, où le niveau du fleuve continue de baisser.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-20T15:37:52+00:00",
+    "titres_sources": [
+      "De l'océan Indien aux Caraïbes, la sécheresse frappe plusieurs territoires d'Outre-mer"
+    ]
   }
 ]
