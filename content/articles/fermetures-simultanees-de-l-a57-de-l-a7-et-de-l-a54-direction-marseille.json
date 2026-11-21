@@ -1,0 +1,33 @@
+{
+  "slug": "fermetures-simultanees-de-l-a57-de-l-a7-et-de-l-a54-direction-marseille",
+  "titre": "Fermetures simultanées de l'A57, de l'A7 et de l'A54 direction Marseille",
+  "chapeau": "Trois tronçons d'autoroute menant à Marseille sont fermés à la même heure, impactant les déplacements des usagers. Les fermetures concernent l'A57, l'A7 et l'A54 sur des portions précises.",
+  "corps": "## Fermetures annoncées sur trois axes majeurs\nDes sections de l'A57, de l'A7 et de l'A54, toutes orientées vers Marseille, sont déclarées fermées à compter de ce matin. L'A57 est interrompue entre la bifurcation A570 et le secteur La Valette‑Centre n°3. L'A7, qui constitue l'une des principales liaisons entre le sud‑est de la France et la ville, est fermée entre le point Sénas n°26 et la jonction avec l'A54. Enfin, l'A54, voie de liaison entre les zones d'Eyguières‑Miramas et de Grans, est fermée entre les repères n°13 et n°14, toujours dans le sens de Marseille.\n\n## Conséquences pour les usagers et alternatives possibles\nCes fermetures simultanées affectent les automobilistes, les transporteurs et les usagers des transports en commun qui empruntent ces axes pour rejoindre Marseille ou la périphérie. L'absence d'information sur la durée ou les raisons de ces arrêtés rend la planification des déplacements plus difficile. Les conducteurs sont invités à consulter les services d'information routière, les panneaux de signalisation et les sites internet dédiés aux conditions de circulation afin d'identifier les déviations proposées. En fonction des points de blocage, les itinéraires alternatifs peuvent passer par les routes départementales adjacentes ou par d'autres autoroutes, telles que l'A8 ou l'A9, selon la provenance et la destination.\n\n## Recommandations pratiques pour les habitants\nDans l'attente de précisions officielles, il est recommandé aux résidents et aux visiteurs de la région de prévoir un temps supplémentaire pour leurs trajets, d'éviter les heures de pointe lorsque cela est possible et de vérifier régulièrement les mises à jour sur les sites des préfectures ou des collectivités locales. En cas d'urgence ou de besoin d'information détaillée, le numéro du service d'information routière de la préfecture peut être consulté sur le site internet de la mairie de Marseille. Les applications mobiles de trafic en temps réel offrent également des alertes instantanées et des itinéraires réorientés.\n\n## Contexte des autoroutes concernées\nL'A57, l'A7 et l'A54 sont des artères essentielles du réseau autoroutier français, assurant la liaison entre le sud de la France et la métropole marseillaise. Leur fermeture simultanée, même partielle, représente un impact notable sur la mobilité régionale, notamment pour les travailleurs pendulaires, les livraisons de marchandises et les touristes. Le suivi de la situation reste indispensable pour limiter les désagréments et garantir la sécurité des usagers.",
+  "mots_cles": [
+    "autoroute",
+    "fermeture",
+    "Marseille",
+    "trafic",
+    "déviation"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-21T08:56:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/A57_%C3%A9changeur_avec_A570_directions_Nice_et_Hy%C3%A8res.JPG/1280px-A57_%C3%A9changeur_avec_A570_directions_Nice_et_Hy%C3%A8res.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Tabl-trai",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:A57_%C3%A9changeur_avec_A570_directions_Nice_et_Hy%C3%A8res.JPG",
+    "legende": "Exchanger between A57 and A570 autoroutes in eastern Toulon, Var, PACA, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:A57 échangeur avec A570 directions Nice et Hyères.JPG"
+  },
+  "sources": [
+    {
+      "media": "Radio VINCI Autoroutes",
+      "titre": "A57 fermeture direction Marseille entre la bifurcation A570 et La Valette-Centre n°3",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ25Ic25tU1JqR0p0SldrTDNDaU50Q1QwVHBCR2ZZTTAxMGlmLXQzOXNENG53WUNRZWQzWTV3VEtvNmlCUS1NM0hMMVR5Skc5QkJuR2kxWmNqOEJXb05UMy01UWdxeTQ0c1MyaHlvaUtWVEkxN0J2S2wxQXJkZ0NEOU9HdE1KY3ZvdEJxenpHTjNqVnd2N0w3S3F6QVhqLWJLYkhFdFFmUUdXTkdtT2F4bWppc25RSExvQWhTRGJPVXgyeW1lcUE1T19zZnVjV2c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "formations-street-medic-a-paris-lors-des-manifestations",
+  "titre": "Formations street medic à Paris lors des manifestations",
+  "chapeau": "Des formations de secourisme de rue seraient proposées à Paris dans le cadre des manifestations en cours. Elles viseraient à permettre aux participants de prendre soin les uns des autres.",
+  "corps": "## Un dispositif d’entraide en cours de mise en place\nDes sessions de formation au secourisme de rue, appelées « street medic », seraient organisées dans la capitale pendant les manifestations récentes. L’objectif affiché est de fournir aux manifestants des gestes de premiers secours afin qu’ils puissent intervenir rapidement en cas de besoin et veiller à la sécurité collective. Aucun détail n’a été donné sur le nombre de participants attendus ni sur les lieux précis où ces ateliers seraient dispensés.\n\n## Le rôle traditionnel des street medics\nLe concept de street medic repose sur l’idée que des volontaires formés aux gestes de premiers secours peuvent agir en première ligne lors d’événements publics, notamment les rassemblements et les protestations. Cette pratique, bien implantée dans plusieurs pays, vise à réduire les risques de blessures graves et à soutenir les services médicaux officiels en apportant une assistance immédiate. Dans le contexte parisien, elle s’inscrit dans une dynamique d’entraide entre manifestants, sans que les autorités ou les organisations porteuses du dispositif ne soient explicitement identifiées.\n\n## Conséquences pour les usagers de la ville\nSi ces formations se concrétisent, les participants disposeront de compétences de base en réanimation cardio‑pulmonaire, en gestion des hémorragies et en prise en charge des traumatismes légers. Cette capacité d’intervention pourrait limiter les déplacements vers les services d’urgence et alléger la pression sur les équipes médicales déjà mobilisées lors des rassemblements. Les habitants du quartier où se tiendraient les ateliers pourraient également bénéficier d’une présence accrue de volontaires formés, ce qui contribue à renforcer le sentiment de sécurité.\n\n## Informations pratiques\nAucun point de contact officiel n’a été communiqué pour s’inscrire ou obtenir davantage de renseignements. Les personnes intéressées sont invitées à suivre les annonces des services municipaux ou de la préfecture, accessibles via les sites institutionnels habituels, afin de connaître les modalités d’inscription et les éventuelles consignes de sécurité liées aux manifestations.",
+  "mots_cles": [
+    "manifestations",
+    "street medic",
+    "Paris",
+    "formation",
+    "secourisme"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-21T08:56:27+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Paris_-_Eiffelturm_-_frontal_vom_Marsfeld.jpg/1280px-Paris_-_Eiffelturm_-_frontal_vom_Marsfeld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Taxiarchos228",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Eiffelturm_-_frontal_vom_Marsfeld.jpg",
+    "legende": "Paris: Eiffel tower",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Paris - Eiffelturm - frontal vom Marsfeld.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actu.fr",
+      "titre": "Manifestations : à Paris, des formations street medic organisées pour \"prendre soin les uns des autres\"",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2NhVU1ab25CMVRhVWpQdFBJcU1ENktLbWdkQ3NtYWowQUk3UWZ0bVBLcVgwWlhocG9QVU5kZ3pCbnctcDdaYjFKaTlERTdlM1hZUDlJRllJdm1SYVc4bnRrSEN5VVB6UTlPMFk1cTQzLVRadUR0RXBQRUhRTzEwMEtkdnN3a3VyQW5QV3d2RFV4d0ZPanNUSmRpLU1sc0VNdS1PWVNuZldmYlBmRWotSGc3aGpZWk5xV2FkaU4xWklTclk3bzdXNVI3SlBwcG9sQ1dmWVY1OFM3Mi1qb3gxVWpZX2hzUnJNLVE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
