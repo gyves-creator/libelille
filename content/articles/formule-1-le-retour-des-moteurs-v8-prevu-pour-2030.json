@@ -1,0 +1,38 @@
+{
+  "slug": "formule-1-le-retour-des-moteurs-v8-prevu-pour-2030",
+  "titre": "Formule 1 : le retour des moteurs V8 prévu pour 2030",
+  "chapeau": "La catégorie prévoit de réintroduire les moteurs V8 à partir de 2030, avec une hybridation limitée. Cette évolution vise à recentrer la compétition sur le pilotage pur, suite aux critiques des pilotes concernant la gestion de la batterie.",
+  "corps": "## Un retour aux racines techniques\nÀ compter de la saison 2030, la Formule 1 abandonnera progressivement le format actuel de motorisation hybride pour réintégrer les moteurs V8. Le nouveau cahier des charges prévoit une hybridation restreinte, sans préciser le niveau exact d’assistance électrique. Cette décision s’inscrit dans une volonté de retrouver l’« ADN » originel du sport automobile, où la puissance du moteur était le principal facteur de performance.\n\n## Réduction de la part électrique\nEn début de saison, la proportion d’énergie fournie par la batterie était fixée à 50 % du total, avant d’être abaissée à 47 %. Cette légère diminution reflète les ajustements déjà engagés en vue du futur changement de motorisation. Le pourcentage exact de l’hybridation prévue pour les V8 n’a pas été communiqué, mais il restera limité par rapport aux exigences actuelles.\n\n## Les pilotes, fervents partisans du changement\nDe nombreux pilotes ont exprimé leur mécontentement face à la gestion de la batterie, qu’ils jugent trop contraignante et éloignée du pilotage traditionnel. Parmi eux, le champion du monde Max Verstappen, pilote de l’écurie Red Bull, a déclaré ne pas apprécier la nouvelle façon de conduire imposée par la forte composante électrique. Le sentiment général est que le retour du V8 permettrait de mettre davantage en avant les compétences de conduite pure, réduisant l’influence des stratégies de gestion énergétique.\n\n## Perspectives pour les équipes et les fans\nLes équipes devront préparer leurs programmes de développement afin d’intégrer les nouveaux moteurs V8 tout en respectant les contraintes d’hybridation limitées. Cette transition pourrait également influencer la dynamique des courses, en modifiant les points de virage où la puissance du moteur est décisive. Pour les supporters, le changement est perçu comme une opportunité de retrouver le son caractéristique des V8 et le spectacle associé à une conduite moins assistée par l’électronique.\n\nLe passage aux V8 représente ainsi une étape majeure dans l’évolution de la Formule 1, alliant tradition technique et réponses aux attentes des pilotes quant à la nature même du pilotage.",
+  "mots_cles": [
+    "Formule 1",
+    "moteurs V8",
+    "2030",
+    "pilotes",
+    "hybridation"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-21T06:01:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hotel_Formule_1.JPG/1280px-Hotel_Formule_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gregor Helms",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hotel_Formule_1.JPG",
+    "legende": "Hotel Formule 1 bei Hannover",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Hotel Formule 1.JPG"
+  },
+  "sources": [
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La formule 1 va renouer avec les moteurs V8 à partir de 2030 pour retrouver son « ADN »",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/21/la-formule-1-va-renouer-avec-les-moteurs-v8-a-partir-de-2030-pour-retrouver-son-adn_6813877_3242.html"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Formule 1 : les moteurs V8 feront leur grand retour dès 2030",
+      "url": "https://www.lefigaro.fr/sports/formule-1/formule-1-les-moteurs-v8-feront-leur-grand-retour-des-2030-20261121"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
