@@ -1,0 +1,43 @@
+{
+  "slug": "sixieme-journee-de-mobilisation-contre-la-vie-chere-a-lyon-corteges-interdits-en",
+  "titre": "Sixième journée de mobilisation contre la vie chère à Lyon, cortèges interdits en Presqu'île",
+  "chapeau": "Un nouvel acte de protestation contre le coût de la vie est prévu ce samedi à Lyon, avec trois cortèges prévus sur la Presqu'île. La préfecture a publié un arrêté interdisant les cortèges dans une large partie de la ville, suscitant des inquiétudes quant à d’éventuels incidents.",
+  "corps": "## Manifestation prévue pour le sixième samedi consécutif\nDes appels à manifester, non déclarés officiellement, circulent parmi les habitants de Lyon pour le sixième samedi d’affilée. L’événement, intitulé « Acte VI contre la vie chère », prévoit trois cortèges qui devraient traverser le quartier de la Presqu'île. Les organisateurs n’ont pas communiqué de programme détaillé, mais l’objectif affiché reste la dénonciation du pouvoir d’achat jugé insuffisant.\n\n## Mesures prises par les autorités\nFace à la répétition des rassemblements, la préfecture a pris un arrêté interdisant les cortèges dans une large partie de la ville. Cette décision vise à prévenir d’éventuels débordements et à garantir la sécurité publique. Les forces de l’ordre sont attendues sur le terrain pour veiller au respect de l’interdiction et assurer le bon déroulement du jour. Les habitants sont invités à se tenir informés des consignes locales, notamment en consultant le site de la mairie ou le numéro d’urgence de la police.\n\n## Conséquences pour les riverains et usagers\nL’interdiction des cortèges implique que la circulation piétonne et automobile pourra être restreinte dans les secteurs concernés. Les transports en commun pourraient également être affectés, selon les directives de la préfecture. Les riverains sont donc priés de prévoir des itinéraires alternatifs et de suivre les informations diffusées par les services municipaux. Aucun incident n’a été signalé à ce jour, mais les autorités restent vigilantes face aux craintes exprimées concernant d’éventuels troubles.\n\n## Recommandations pratiques\nPour les habitants du quartier de la Presqu'île et des environs, il est recommandé de vérifier les éventuelles déviations ou modifications d’horaires de transport avant de se déplacer. En cas de besoin, le numéro d’information de la préfecture et le site officiel de la ville restent les sources les plus fiables pour obtenir des précisions sur les restrictions en vigueur.",
+  "mots_cles": [
+    "manifestation",
+    "Lyon",
+    "vie chère",
+    "préfecture",
+    "cortèges"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-21T09:55:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/View-of-Lyon-France.jpg/1280px-View-of-Lyon-France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Acediscovery",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View-of-Lyon-France.jpg",
+    "legende": "View of Lyon, France in November 2011",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:View-of-Lyon-France.jpg"
+  },
+  "sources": [
+    {
+      "media": "Lyon Mag",
+      "titre": "Acte VI contre la vie chère à Lyon : trois cortèges pour viser la Presqu'île",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTMyWFNIdlh5TVNoSldwN1BZVEpFLXpyb1NiWDVBVG84X3RoNkVVNUZRUEt3R3Y5UG9YcTFvS1N2V3ZNRUc3dGc5TVQ1bk8ydnoxR1IzQW9USmh6czZzQ3RvTE1wWFdhSG91dWxHYlZuTXRBb2FHc1BJWU9oQ2hpbGlYSDB4OTB5MGg4Ync5NVk3a3hCTEhCRmVHWDlCTGkyalVhVkd0TzRrZWpIX1JNNWxRVQ?oc=5"
+    },
+    {
+      "media": "Le Progrès",
+      "titre": "Lyon. Manifestation contre la vie chère : crainte de nouveaux incidents en Presqu’île ce samedi",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTm9IYklaUXpjcjV0d19lbnhMMjc3OWJlOTFaT1A4bllObDhwVTZNLWo1RnN1bXZTWnpyRnhkUVQ4MDVadjd0SHNUWFNsTG1Hb1c1RkNNdU1KRVJLclFoeW9vMzJFc3ZLdmplN2Nvcm9oTTVsZTFMZnFDTzhXeHFqRTZWWWYzU3pjYkNITE5fMkdFRVdRUUhnVG1xNklmV0R6YUdSU3JSZGVveUF0RWloejNXNXp3QzAyY2cxWDZOM29jcjZ1ckIzWTZjS1FnS2ZVQkdhelBIYW1kUQ?oc=5"
+    },
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Lyon. Manifestation contre la vie chère : crainte de nouveaux incidents en Presqu’île ce samedi",
+      "url": "https://www.leprogres.fr/social/2026/11/21/manifestation-contre-la-vie-chere-crainte-de-nouveaux-incidents-en-presqu-ile-ce-samedi-21-novembre"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -126,5 +126,23 @@
     "titres_sources": [
       "Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\""
     ]
+  },
+  {
+    "titre": "Rousseau demande la mise à pied du préfet du Loiret",
+    "texte": "La députée écologiste Sandrine Rousseau a déclaré que le préfet du Loiret, Hugues Moutouh, devait être suspendu pour soupçons de fuites d'informations vers le Rassemblement national. Elle a demandé au ministre de l'Intérieur d'agir rapidement.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-21T09:55:32+00:00",
+    "titres_sources": [
+      "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la député écologiste Sandrine Rousseau"
+    ]
+  },
+  {
+    "titre": "Préfecture de Lyon interdit les cortèges en centre-ville",
+    "texte": "La préfecture du Rhône a prohibé les manifestations dans le centre de Lyon alors que les gilets jaunes annoncent une sixième journée de mobilisation. Les commerçants de la place Bellecour redoutent le retour des cortèges, malgré le report des rassemblements hors de la place.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-21T09:55:32+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville"
+    ]
   }
 ]
