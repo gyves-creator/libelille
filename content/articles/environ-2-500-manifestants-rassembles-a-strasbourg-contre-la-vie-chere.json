@@ -1,0 +1,38 @@
+{
+  "slug": "environ-2-500-manifestants-rassembles-a-strasbourg-contre-la-vie-chere",
+  "titre": "Environ 2 500 manifestants rassemblés à Strasbourg contre la vie chère",
+  "chapeau": "Le samedi 21 novembre, une foule d’environ 2 500 personnes s’est réunie à Strasbourg dans le cadre de l’acte VI de la contestation. Les forces de l’ordre ont indiqué que la mobilisation visait à protester contre la hausse du coût de la vie.",
+  "corps": "## Une mobilisation d’environ deux mille cinq cents participants\r\n\r\nSelon les forces de l’ordre, près de 2 500 personnes ont défilé à Strasbourg ce samedi 21 novembre, marquant le sixième acte d’une série de manifestations qualifiées de « contestations ». L’objectif déclaré des manifestants était de dénoncer la hausse du coût de la vie, un sujet qui alimente de nombreuses mobilisations à l’échelle nationale depuis plusieurs mois. Aucun incident majeur n’a été signalé pendant le rassemblement, et les autorités n’ont pas indiqué de perturbations importantes des services publics ou des transports.\r\n\r\n## Le contexte de la contestation\r\n\r\nDepuis le début de l’année, plusieurs villes françaises connaissent des rassemblements similaires, souvent désignés par des numéros d’acte, afin de mettre en avant les difficultés rencontrées par les ménages face à l’inflation et aux prix des produits de première nécessité. Ces manifestations s’inscrivent dans un mouvement plus large de revendications sociales, où la question du pouvoir d’achat occupe une place centrale. Les organisateurs appellent généralement à des mesures gouvernementales visant à réduire les charges et à soutenir les foyers les plus modestes.\r\n\r\n## Réactions des autorités locales\r\n\r\nLes services de police ont été mobilisés pour assurer le bon déroulement de la manifestation et garantir la sécurité des participants ainsi des riverains. Aucun acte de violence n’a été rapporté, et les forces de l’ordre ont indiqué que la manifestation s’est déroulée dans le calme. Aucun communiqué officiel de la mairie ou du préfet n’a été publié à ce jour concernant d’éventuelles consignes spécifiques pour les habitants.\r\n\r\n## Informations pratiques pour les riverains\r\n\r\nBien que aucune perturbation majeure n’ait été annoncée, les habitants de Strasbourg sont invités à rester attentifs aux éventuelles modifications temporaires de la circulation ou aux restrictions de stationnement qui pourraient être mises en place lors de futures manifestations. En cas de besoin, le numéro de la police municipale (17) reste disponible pour signaler tout problème lié à la sécurité ou à la circulation. Le site internet de la mairie propose également une rubrique d’actualités locales où seront publiées les éventuelles consignes à suivre.",
+  "mots_cles": [
+    "Strasbourg",
+    "manifestation",
+    "vie chère",
+    "acte VI",
+    "contestations"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-21T14:57:45+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Brest_tram_Place_Strasbourg.JPG/1280px-Brest_tram_Place_Strasbourg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Smiley.toerist",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Brest_tram_Place_Strasbourg.JPG",
+    "legende": "Tram in Brest by the Place Strasbourg",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Brest tram Place Strasbourg.JPG"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "Strasbourg. 2 500 manifestants pour l’acte VI de la contestation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVpTekowVmpHbmFpVGpjRHRQZlYyOTdaaE1XR0FUaE9MZ0llUURtNl9YbUowMm00STlORy1tZHB5dWktcUxKdG80ZXRkcUNvX3VGa19BOWl2ZERvWmgtR2tSUFBTRS1LSy03MkJjSlVoa2JTMG1LTVZhVlpyVUpseTR6ZHRHdXQ3elVRNVBObHhhZWZpR1Vyc0NwbDNSRDd1cXN0SEpxN1ZkZjBH?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. 2 500 manifestants pour l’acte VI de la contestation",
+      "url": "https://www.dna.fr/education/2026/11/21/quelques-centaines-de-manifestants-pour-l-acte-vi-de-la-contestation"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

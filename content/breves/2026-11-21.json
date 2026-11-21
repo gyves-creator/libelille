@@ -307,5 +307,26 @@
     "titres_sources": [
       "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre"
     ]
+  },
+  {
+    "titre": "Finlande signale intrusion d’un hélicoptère russe et attaque de drone",
+    "texte": "Le ministère finlandais de la Défense a indiqué qu’un hélicoptère russe a pénétré jusqu’à 4,1 km dans l’espace aérien national, violant le territoire. Une attaque de drone contre un cargo russe dans le golfe de Finlande a été détectée et communiquée aux alliés de l’OTAN.",
+    "rubrique": "international",
+    "publie_le": "2026-11-21T14:57:56+00:00",
+    "titres_sources": [
+      "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
+      "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque de drone sur un cargo russe en mer Baltique",
+      "Une \"attaque de drone\" contre un cargo russe détectée dans le golfe de Finlande"
+    ]
+  },
+  {
+    "titre": "La CAF soutient unanimement Gianni Infantino pour la présidence de la FIFA",
+    "texte": "La Confédération africaine de football a déclaré son appui total et unanime à Gianni Infantino lors de l’élection à Abuja, où le Français Philippe Diallo était présent. Cette position renforce la candidature d’Infantino pour un nouveau mandat à la tête de la FIFA.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T14:57:56+00:00",
+    "titres_sources": [
+      "Foot : La Confédération africaine de football (CAF) unie derrière Infantino, sous les yeux de Diallo",
+      "La Confédération africaine de football reste unie derrière Gianni Infantino dans la course à la présidence de la Fifa, sous les yeux de Philippe Diallo"
+    ]
   }
 ]
