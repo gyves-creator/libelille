@@ -288,5 +288,24 @@
     "titres_sources": [
       "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros"
     ]
+  },
+  {
+    "titre": "Angleterre prête à affronter les All Blacks avec Murley",
+    "texte": "L'Angleterre, deuxième de la poule Nord à un point de la France, devrait recevoir les All Blacks, leaders sud, à 15 h 10 lors de la dernière journée. Le sélectionneur Steve Borthwick a annoncé la titularisation de Cadan Murley à la place de Tommy Freeman.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T14:29:58+00:00",
+    "titres_sources": [
+      "EN DIRECT - Championnat des nations : l’Angleterre débute mieux que les All Blacks",
+      "Championnat des nations : Murley à la place de Freeman dans le XV anglais contre les All Blacks"
+    ]
+  },
+  {
+    "titre": "Enquête sur violences policières et agressions sexuelles à Paris",
+    "texte": "Une enquête aurait été ouverte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre à Paris. Deux manifestants seraient également accusés d'avoir frappé chacun un policier, accusations qu'ils contestent.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-21T14:29:58+00:00",
+    "titres_sources": [
+      "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre"
+    ]
   }
 ]
