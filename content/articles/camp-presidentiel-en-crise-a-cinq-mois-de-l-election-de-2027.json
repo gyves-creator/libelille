@@ -1,0 +1,33 @@
+{
+  "slug": "camp-presidentiel-en-crise-a-cinq-mois-de-l-election-de-2027",
+  "titre": "Camp présidentiel en crise à cinq mois de l'élection de 2027",
+  "chapeau": "À moins de six mois du scrutin présidentiel, les membres de l'ancienne majorité peinent à se fédérer. Un débat sur l'organisation d'une primaire à droite met en évidence des divergences idéologiques et des enjeux individuels.",
+  "corps": "## Des tensions au sein de la majorité\nLe groupe politique qui a porté le président sortant montre des signes de désunion croissante. Les discussions internes révèlent que les dirigeants peinent à définir une stratégie commune, chaque courant privilégiant ses propres priorités. Cette situation complique la mise en place d'un programme unifié capable de mobiliser l'électorat au moment où la campagne s'intensifie.\n\n## Le débat sur la primaire à droite\nParmi les questions les plus débattues figure la possibilité d'organiser une primaire au sein de la droite. Certains responsables estiment qu'une primaire pourrait permettre de clarifier les orientations et de choisir un candidat capable de rassembler les différentes tendances. D'autres, en revanche, craignent que le processus n'accentue les fractures déjà présentes, en ouvrant la voie à des luttes de pouvoir internes. Le manque d'accord sur ce point reflète la difficulté à concilier les aspirations des factions les plus conservatrices avec celles des courants plus modérés.\n\n## Conséquences pour la campagne électorale\nL'absence d'une ligne directrice clairement définie pourrait affecter la capacité du camp présidentiel à présenter un front cohérent face aux opposants. Sans consensus sur la méthode de sélection du candidat et sur les priorités politiques, les messages diffusés aux électeurs risquent d'apparaître contradictoires. Cette situation pourrait également influencer le positionnement des autres partis, qui pourraient exploiter les divisions internes pour renforcer leur propre visibilité.\n\n## Contexte institutionnel\nL'élection présidentielle française, prévue en 2027, constitue le point d'ancrage du calendrier politique quinquennal. Le processus de candidature implique, entre autres, la collecte de signatures de soutien et la déclaration officielle auprès du Conseil constitutionnel. Les modalités d'inscription sur les listes électorales et les conditions de vote sont détaillées sur le site officiel du service public.\n\nAlors que le compte à rebours se poursuit, le camp présidentiel devra résoudre ses désaccords pour élaborer une stratégie électorale efficace. La question de la primaire à droite reste un sujet de discussion central, dont l'issue pourrait déterminer la cohésion du mouvement à l'approche du premier tour.",
+  "mots_cles": [
+    "présidentielle 2027",
+    "camp présidentiel",
+    "primaire droite",
+    "fractures idéologiques",
+    "stratégie politique"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-21T05:02:28+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Demonstration_of_1st_May_2026_in_Paris_%E2%80%94_Louise_Michel_2027_and_circle_A.jpg/1280px-Demonstration_of_1st_May_2026_in_Paris_%E2%80%94_Louise_Michel_2027_and_circle_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Aristoxène",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Demonstration_of_1st_May_2026_in_Paris_%E2%80%94_Louise_Michel_2027_and_circle_A.jpg",
+    "legende": "Anarchist graffiti during the demonstration of 1st May 2026 in Paris asking for Louise Michel for 2027, a reference to the 2027 French presidential elections",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Demonstration of 1st May 2026 in Paris — Louise Michel 2027 and circle A.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

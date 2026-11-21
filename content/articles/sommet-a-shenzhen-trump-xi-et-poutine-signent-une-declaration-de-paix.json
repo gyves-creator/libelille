@@ -1,0 +1,38 @@
+{
+  "slug": "sommet-a-shenzhen-trump-xi-et-poutine-signent-une-declaration-de-paix",
+  "titre": "Sommet à Shenzhen : Trump, Xi et Poutine signent une déclaration de paix",
+  "chapeau": "Les chefs d'État américain, russe et chinois se sont rencontrés à Shenzhen pendant plus d'une heure, aboutissant à une déclaration de paix. De retour aux États‑Unis, Donald Trump a souligné la proximité de ses relations avec Vladimir Poutine et Xi Jinping.",
+  "corps": "## Une rencontre de trois heures à Shenzhen\nLe président des États‑Unis, le président russe et le président chinois se sont réunis jeudi à Shenzhen, en Chine, pour un échange d'une durée d'environ une heure et vingt minutes. Au cours de cette séance, les trois dirigeants ont débattu de plusieurs dossiers, dont la situation en Ukraine, avant de convenir d'une déclaration de paix qui a été signée à l'issue de la rencontre.\n\n## Retour à Washington et défense de la coopération trilatérale\nLe lendemain, à Washington, le président américain a exprimé sa satisfaction quant aux discussions tenues avec ses homologues russes et chinois. Il a notamment mis en avant la proximité de ses relations avec Vladimir Poutine et Xi Jinping, affirmant que ces liens contribuent à la sécurité des États‑Unis. Le président a rappelé que les échanges de Shenzhen avaient porté sur la recherche d'un règlement du conflit ukrainien.\n\n## Contexte et enjeux géopolitiques\nShenzhen, ville du sud de la Chine, accueille régulièrement des sommets internationaux en raison de son rôle économique majeur. La réunion de trois puissances nucléaires intervient dans un contexte de tensions persistantes en Europe de l'Est et de rivalités stratégiques entre les grandes puissances. La déclaration de paix signée lors du sommet constitue un premier pas officiel vers une coopération plus étroite entre les trois pays, même si les modalités concrètes restent à préciser.\n\n## Perspectives\nLes déclarations publiques du président américain soulignent la volonté de poursuivre le dialogue avec la Russie et la Chine, tout en maintenant une posture de sécurité nationale. La suite des négociations, notamment concernant l'Ukraine, dépendra des actions diplomatiques à venir et de la capacité des trois États à transformer la déclaration de paix en mesures concrètes.",
+  "mots_cles": [
+    "Shenzhen",
+    "Donald Trump",
+    "Xi Jinping",
+    "Vladimir Poutine",
+    "déclaration de paix"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-21T05:02:32+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/June_2026_Official_Portrait_of_Donald_J._Trump_by_Daniel_Torok_%283x4_close_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Daniel Torok",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:June_2026_Official_Portrait_of_Donald_J._Trump_by_Daniel_Torok_(3x4_close_cropped).jpg",
+    "legende": "President Donald Trump sitting at the Resolute Desk to pose for a portrait taken by Daniel Torok",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:June 2026 Official Portrait of Donald J. Trump by Daniel Torok (3x4 close cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Sommet à Shenzhen : Donald Trump assure que ses relations \"fantastiques\" avec Xi Jinping et Vladimir Poutine contribuent à la sécurité des Etats-Unis",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-suivez-la-conference-de-presse-du-president-americain-donald-trump-apres-un-sommet-inedit-avec-xi-jinping-et-vladimir-poutine_8292656.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Etats-Unis : de retour d’Asie, Donald Trump défend sa proximité avec Vladimir Poutine et Xi Jinping",
+      "url": "https://www.lemonde.fr/international/article/2026/11/21/etats-unis-de-retour-d-asie-donald-trump-defend-sa-proximite-avec-vladimir-poutine-et-xi-jinping_6813916_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
