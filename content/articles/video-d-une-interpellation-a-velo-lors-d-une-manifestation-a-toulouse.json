@@ -1,0 +1,38 @@
+{
+  "slug": "video-d-une-interpellation-a-velo-lors-d-une-manifestation-a-toulouse",
+  "titre": "Vidéo d'une interpellation à vélo lors d'une manifestation à Toulouse",
+  "chapeau": "Une séquence diffusée en ligne montre un policier saisissant le vélo d'une passante dans le centre de Toulouse pendant une manifestation. L'incident, filmé alors que les forces tentaient d'appréhender un jeune suspect, suscite des interrogations sur les pratiques de police lors des mouvements de rue.",
+  "corps": "## Contexte de la manifestation\nLe 21 novembre 2026, une manifestation s'est déroulée dans le centre-ville toulousain. Les forces de l'ordre étaient mobilisées pour assurer la sécurité du public et contenir d'éventuels débordements. Selon la vidéo partagée sur les réseaux sociaux, un individu aurait été aperçu en train de lancer des projectiles, incitant les policiers à intervenir de manière rapprochée.\n\n## L'intervention filmée\nDans les images, un fonctionnaire de la Police nationale apparaît en train de réquisitionner le vélo d'une femme qui circulait à proximité du lieu de l'affrontement. L'action se déroule alors que les agents poursuivent le jeune homme suspecté d'avoir jeté des projectiles. Aucun commentaire officiel n'a été publié à ce jour pour confirmer les circonstances exactes ni la légalité de la saisie du vélo.\n\n## Réactions et suite de l'enquête\nL'événement a rapidement suscité des réactions sur les plateformes numériques, où les usagers débattent de la proportionnalité de l'intervention. Aucun élément ne précise si la passante a été blessée ou si le vélo a été restitué. L'enquête, si elle est ouverte, reste à confirmer par les autorités compétentes. En l'absence d'information officielle, il convient de rappeler que toute accusation doit être fondée sur des faits avérés et que la présomption d'innocence s'applique aux personnes impliquées.\n\n## Conséquences pratiques pour les riverains\nPour les habitants et les usagers du centre de Toulouse, aucune perturbation majeure n'a été signalée concernant la circulation ou les transports en commun. Les services municipaux n'ont pas indiqué de déviations ou de restrictions temporaires liées à cet incident. En cas de besoin d'information complémentaire, les citoyens peuvent consulter le site internet de la mairie de Toulouse ou contacter le numéro d'urgence de la Police nationale.",
+  "mots_cles": [
+    "manifestation",
+    "Toulouse",
+    "police nationale",
+    "intervention",
+    "vélo"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-21T10:55:12+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Police_nationale_France_police_patch_blanc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Dickelbers",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Police_nationale_France_police_patch_blanc.jpg",
+    "legende": "Écusson en tissus de la police nationale française french fond blanc",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Police nationale France police patch blanc.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "\"Vous êtes filmé monsieur\" : à Toulouse, un policier a-t-il volé le vélo d'une femme dans la rue lors d'une manifestation ?",
+      "url": "https://www.ladepeche.fr/2026/11/21/vous-etes-filme-monsieur-a-toulouse-un-policier-a-t-il-vole-le-velo-dune-femme-dans-la-rue-lors-dune-manifestation-13664480.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "\"Vous êtes filmé monsieur\" : à Toulouse, un policier a-t-il volé le vélo d'une femme dans la rue lors d'une manifestation",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT2NxNEE3Z0dQcjA0REtabXd2aU5RZkxMTGRfcXY3VzJxc1ZNRGlTcktjM1NZSTBNMVNOb2l1TDNfTTgybUp2N08wMGFFaUxwMS1lbXk1ZDBwdGQ0TVBmdDY2dTc1eUhNaXY0Y3l1YXpYZUl0VHpQcm1Vc0E0enBxUGlUZUVNU3piN1ZjaTFQTjZqMU9hZmZJa0FJOTZsd2pOUEdEcGEwSjk0LVJxN2JXeG5DbXFVbmRDYnlCNGNqZDdZRzFmcngyVF94a1V5cld4UVNVOUhOSkpSUjZJR21GcTFQVUwwQzItVWRJZTkxT3l3bkEtUVE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

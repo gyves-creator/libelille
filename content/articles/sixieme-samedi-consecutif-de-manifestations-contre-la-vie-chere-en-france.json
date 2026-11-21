@@ -1,0 +1,38 @@
+{
+  "slug": "sixieme-samedi-consecutif-de-manifestations-contre-la-vie-chere-en-france",
+  "titre": "Sixième samedi consécutif de manifestations contre la vie chère en France",
+  "chapeau": "Le 21 novembre, syndicats et mouvements des gilets jaunes ont lancé un appel à la rue pour la jeunesse et contre le coût de la vie. Cette mobilisation s’inscrit dans un dispositif européen de protestations coordonnées sur trois jours.",
+  "corps": "## Un appel européen et une continuité nationale\nLe samedi 21 novembre marque le sixième samedi d’affilée où des rassemblements sont organisés en France. L’initiative provient d’un appel lancé par des syndicats européens et des associations de défense du droit au logement, qui ont prévu des actions synchronisées du vendredi au dimanche. En France, les organisations syndicales et le mouvement des gilets jaunes ont repris cet appel, invitant les manifestants à se mobiliser pour la jeunesse et contre la hausse du coût de la vie.\n\n## Une mobilisation dont l’ampleur reste incertaine\nLes autorités et les organisateurs ne disposent pas encore d’indicateurs précis pour mesurer la participation attendue. Les prévisions indiquent une difficulté à anticiper le nombre de participants, le contexte étant décrit comme une baisse de la mobilisation par rapport aux précédents samedis. Le terme « acte VI » est utilisé pour désigner cette sixième journée de protestation, soulignant la continuité du mouvement.\n\n## Contexte sociétal des protestations\nLe mouvement des gilets jaunes, apparu en 2018, s’est régulièrement associé à des revendications liées au pouvoir d’achat et aux conditions de vie. Les syndicats, quant à eux, défendent le droit au logement et interviennent fréquemment dans des actions de protestation à l’échelle européenne. L’appel actuel se place dans la lignée de ces mobilisations, visant à mettre en lumière les difficultés économiques ressenties par les jeunes et les ménages confrontés à la hausse des prix.\n\n## Perspectives pour les prochains jours\nLes actions prévues s’étendent du vendredi au dimanche, suivant le cadre fixé par l’appel européen. Les organisateurs encouragent la participation tout en rappelant la nécessité de respecter les règles de sécurité publique. La situation reste dynamique, et les développements de la mobilisation seront observés au fil du week‑end.",
+  "mots_cles": [
+    "manifestations",
+    "vie chère",
+    "gilets jaunes",
+    "syndicats",
+    "Europe"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-21T10:55:02+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Manifestation_du_5_novembre_2026_-_Avenue_Maurice_Blondel_%C3%A0_Aix-en-Provence_18.jpg/1280px-Manifestation_du_5_novembre_2026_-_Avenue_Maurice_Blondel_%C3%A0_Aix-en-Provence_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gabriel from92",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Manifestation_du_5_novembre_2026_-_Avenue_Maurice_Blondel_%C3%A0_Aix-en-Provence_18.jpg",
+    "legende": "Cortège de la manifestation du 5 novembre 2026 pour défendre les salaires, les services publics, l’emploi et l’industrie, sur l'avenue Maurice Blondel à Aix-en-Provence (Bouches-du-Rhône). À Aix-en-Pr",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Manifestation du 5 novembre 2026 - Avenue Maurice Blondel à Aix-en-Provence 18.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "DIRECT. Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère, pour le sixième samedi d'affilée",
+      "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-%5Bsociete%5D"
+    },
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

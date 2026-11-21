@@ -1,0 +1,32 @@
+{
+  "slug": "l-elysee-juge-tres-decevant-le-projet-de-budget-ue-2028-2034",
+  "titre": "L’Élysée juge «très décevant» le projet de budget UE 2028-2034",
+  "chapeau": "Le président du Conseil européen a présenté ce samedi un nouveau cadre budgétaire pour la période 2028-2034, incluant un montant de 204 milliards d’euros et une taxe numérique. L’Élysée a qualifié ce projet de «très décevant».",
+  "corps": "## Contexte du projet de budget\nLe Conseil européen, présidé par son président, a dévoilé un projet de budget couvrant les sept années 2028 à 2034. Le texte prévoit une enveloppe globale de 204 milliards d’euros, montant qui englobe les politiques de cohésion, la recherche, la sécurité et d’autres priorités communautaires. Une nouveauté notable est l’introduction d’une taxe numérique, destinée à faire contribuer les grandes plateformes en ligne aux recettes de l’Union.\n\n## Réaction de l’Élysée\nLe palais de l’Élysée a réagi rapidement à la présentation du projet. Le porte-parole de la présidence a exprimé une forte déception, qualifiant le texte de «très décevant». Aucun détail supplémentaire n’a été fourni sur les raisons de cette appréciation, mais la formulation laisse entendre que les attentes françaises en matière de financement ou de répartition des ressources n’ont pas été satisfaites.\n\n## Implications possibles\nSi le projet de budget devait être adopté sans modifications, la taxe numérique pourrait représenter une source de revenus supplémentaire pour les institutions européennes, tout en suscitant des débats sur la souveraineté fiscale des États membres. Le désaccord exprimé par l’Élysée pourrait conduire à des négociations au sein du Conseil des ministres, où chaque pays défend ses priorités budgétaires. Le processus de décision du budget de l’UE implique plusieurs étapes, dont l’examen par la Commission européenne, le vote du Parlement européen et l’accord du Conseil des ministres.\n\n## Perspectives à moyen terme\nLe rejet ou la modification du texte par la France pourrait influencer la dynamique des négociations, notamment si d’autres États partagent des réserves similaires. Le budget 2028-2034 reste un sujet central pour la planification à long terme de l’Union, affectant les programmes de transition écologique, les investissements dans les infrastructures et les réponses aux crises futures. La suite des discussions dépendra des positions des principaux acteurs institutionnels et de la capacité à concilier les intérêts nationaux avec les objectifs communs de l’Union européenne.",
+  "mots_cles": [
+    "budget UE",
+    "taxe numérique",
+    "Union européenne",
+    "Élysée"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-21T10:55:07+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Co-Founded_by_European_Union_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Michel Bakni",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Co-Founded_by_European_Union_logo.png",
+    "legende": "Co-Founded by European Union",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Co-Founded by European Union logo.png"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Budget de l’UE : Paris rejette le nouveau projet qui prévoit 204 milliards d'euros et une taxe numérique",
+      "url": "https://www.lefigaro.fr/conjoncture/budget-le-conseil-europeen-prevoit-des-coupes-de-204-milliards-d-euros-et-une-taxe-numerique-20261121"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
