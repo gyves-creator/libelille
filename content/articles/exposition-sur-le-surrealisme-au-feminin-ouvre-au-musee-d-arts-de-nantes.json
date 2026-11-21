@@ -1,0 +1,38 @@
+{
+  "slug": "exposition-sur-le-surrealisme-au-feminin-ouvre-au-musee-d-arts-de-nantes",
+  "titre": "Exposition sur le surréalisme au féminin ouvre au Musée d'Arts de Nantes",
+  "chapeau": "Le Musée d'Arts de Nantes accueillera une nouvelle exposition consacrée au surréalisme porté par des artistes féminines dès le 21 janvier 2027. L’exposition, intitulée « une traversée du surréalisme au féminin », propose aux habitants de découvrir des œuvres inédites autour de ce mouvement artistique.",
+  "corps": "## Une programmation centrée sur les femmes du surréalisme\n\nÀ compter du 21 janvier 2027, le Musée d'Arts de Nantes ouvre ses portes à une exposition qui met en avant le rôle des femmes dans le surréalisme. Le titre de la manifestation, « une traversée du surréalisme au féminin », indique clairement l’orientation thématique : présenter des créations, des archives et des objets liés à ce courant artistique du début du XXᵉ siècle, tout en soulignant la contribution féminine souvent méconnue.\n\n## Un rendez‑vous culturel pour les Nantais\n\nCette exposition s’inscrit dans la programmation habituelle du musée, qui propose régulièrement des expositions temporaires complémentaires à sa collection permanente. Elle offre ainsi aux habitants du quartier, aux étudiants et aux visiteurs de la ville une occasion supplémentaire d’enrichir leur connaissance du patrimoine artistique. Aucun changement d’accès ou de fréquentation du musée n’est annoncé ; les visiteurs pourront se rendre dans les espaces d’exposition habituels.\n\n## Informations pratiques\n\nL’exposition sera visible pendant plusieurs semaines, la durée exacte n’étant pas précisée dans les informations disponibles. Pour connaître les horaires d’ouverture, les tarifs d’entrée et les éventuelles visites guidées, il est recommandé de consulter le site officiel du Musée d'Arts de Nantes ou de contacter directement l’établissement. Aucun dispositif de transport ou de déviation n’est indiqué, le musée restant accessible par les lignes de transport en commun habituelles.\n\n## Contexte du surréalisme et de la visibilité féminine\n\nLe surréalisme, mouvement né dans les années 1920, a longtemps été associé à des figures masculines telles que André Breton ou Salvador Dalí. Cette exposition vise à rééquilibrer la représentation en mettant en lumière des artistes comme Leonor Fini, Remedios Varo ou d’autres créatrices dont les œuvres ont contribué à façonner le langage visuel du surréalisme. En proposant cette « traversée », le musée participe à la reconnaissance croissante du rôle des femmes dans l’histoire de l’art.\n\nLes habitants de Nantes et les amateurs d’art sont invités à découvrir cette perspective nouvelle dès le 21 janvier, afin d’enrichir le débat culturel local et de soutenir la visibilité des artistes féminines dans le patrimoine artistique contemporain.",
+  "mots_cles": [
+    "Musée d'Arts de Nantes",
+    "surréalisme",
+    "exposition",
+    "femmes",
+    "art"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-21T14:06:57+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%28Nantes%29_Portrait_de_Madame_de_Senonnes_par_Ingres_-_Mus%C3%A9e_d%27Arts_de_Nantes.jpg/1280px-%28Nantes%29_Portrait_de_Madame_de_Senonnes_par_Ingres_-_Mus%C3%A9e_d%27Arts_de_Nantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:(Nantes)_Portrait_de_Madame_de_Senonnes_par_Ingres_-_Mus%C3%A9e_d%27Arts_de_Nantes.jpg",
+    "legende": "",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:(Nantes) Portrait de Madame de Senonnes par Ingres - Musée d'Arts de Nantes.jpg"
+  },
+  "sources": [
+    {
+      "media": "Unidivers",
+      "titre": "Sans titre (barre d’acier) Musée d’arts de Nantes Nantes – 21 janvier 2027",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlcydFRZNXc2bUJ6eTk2UEdYYzFLYWJRSFZOMGljNm5KWnBXVXNiWk9neFgzeDJhNXNCRnVCVG5aUGhyRjBYM05feVRzQ1U2ckh6VTE2Rzd2RHRxX1RSYTA0dWhqOGVpNTlEQ2RnQjJteTlmOEtqQk13MnZDNV9fa3A2RHFFMzZuQ08zWjR2OGEtQzU1eWc?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "Exposition : une traversée du surréalisme au féminin au musée d’Arts de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTVljal9JSy1xeFB6Y0c0UWd5T2VzY1plVEl6TnZGYWVRenU2RFVwdzFpYm5FaE9LTG5DcjhOSlFlUkxlcy1vS3BlSUVpeThURnlrcFo5ZUFVZVh0QkdlQndOdkVNaTRVWjZWMnljckY2bnlORUE1dF93YkdYQklMTExkcU00RElEVjFQekZrd0ZfYmhfZzhhQWtyOVRUZGdYWHJMcXZELU9KS0N4S1lwZzU3emF1UGV3aVkycVJWbmpROXJ3TkhCTG9XUjVXa0IwNWlNZ1E4SHd0SFdiNWJsamo4SW1tREZ5Wll2UWdUZWx6c3dhWmlVdVBEQlRkX2M?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
