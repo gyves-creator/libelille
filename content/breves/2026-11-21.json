@@ -402,5 +402,23 @@
     "titres_sources": [
       "REPORTAGE. \"On fait même des shampoings aux Barbie\" : à l'approche de Noël, des jouets sont recyclés puis revendus moitié prix à Villeurbanne"
     ]
+  },
+  {
+    "titre": "Blocage de deux Tesla FSD et difficultés similaires pour MG en Allemagne",
+    "texte": "Deux véhicules Tesla dotés du système Full Self‑Driving ont été immobilisés après avoir échoué au contrôle technique allemand. La même difficulté touche la marque MG et la désinformation freine les achats de voitures électriques.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-21T17:25:18+00:00",
+    "titres_sources": [
+      "Deux Tesla en FSD bloquées, les mauvais élèves du contrôle technique allemand et les freins à l’achat : le récap Vroom de la semaine"
+    ]
+  },
+  {
+    "titre": "Un Français de 36 ans coupable de dégradation d’une relique royale en Écosse",
+    "texte": "Un Français de 36 ans a plaidé coupable en Écosse d’avoir volontairement endommagé en 2025 la vitrine contenant la « Pierre du Destin », bloc de grès utilisé aux couronnements royaux. Le jugement aura lieu le 6 janvier.",
+    "rubrique": "international",
+    "publie_le": "2026-11-21T17:25:18+00:00",
+    "titres_sources": [
+      "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire"
+    ]
   }
 ]
