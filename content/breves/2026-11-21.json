@@ -346,5 +346,25 @@
     "titres_sources": [
       "\"Le cancer vous change \" : la princesse Kate partage son expérience de la maladie dans un documentaire très personnel intitulé \"Guérir\""
     ]
+  },
+  {
+    "titre": "Alcaraz atteint la finale du Masters de Turin après avoir battu Shelton",
+    "texte": "Le numéro 3 mondial a surmonté Ben Shelton (4e) en trois sets (3-6, 6-3, 7-6) pour se qualifier. En finale dimanche, il affrontera le vainqueur du match entre Alexander Zverev et Daniil Medvedev.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T15:53:53+00:00",
+    "titres_sources": [
+      "Tennis : Alcaraz a le dernier mot contre Shelton et atteint sa première finale au Masters",
+      "Carlos Alcaraz lâche un set mais se qualifie pour la finale du Masters de Turin, après un gros combat face à Ben Shelton"
+    ]
+  },
+  {
+    "titre": "Bezzecchi s'impose en pole et remporte le sprint du GP du Portugal",
+    "texte": "Le pilote Aprilia a décroché la pole position puis a gagné la course sprint du Grand Prix du Portugal après la chute de Marc Márquez dans les derniers tours. Cette victoire ouvre la voie à une éventuelle confirmation du champion du monde.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T15:53:53+00:00",
+    "titres_sources": [
+      "MotoGP : Bezzecchi s’adjuge le sprint du GP du Portugal, chute de Marquez",
+      "MotoGP : Bezzecchi devance Márquez et s’adjuge la pole au Portugal"
+    ]
   }
 ]

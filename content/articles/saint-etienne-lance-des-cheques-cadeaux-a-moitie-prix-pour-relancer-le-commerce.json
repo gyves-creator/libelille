@@ -1,0 +1,33 @@
+{
+  "slug": "saint-etienne-lance-des-cheques-cadeaux-a-moitie-prix-pour-relancer-le-commerce",
+  "titre": "Saint-Étienne lance des chèques-cadeaux à moitié prix pour relancer le commerce du centre",
+  "chapeau": "La municipalité a engagé 200 000 € pour financer des bons d’achat à prix réduit destinés aux habitants. Ces chèques-cadeaux visent à soutenir les commerçants du centre-ville dont l’activité a été affectée par les manifestations du 17 octobre.",
+  "corps": "## Un dispositif financier ciblé\nLa ville de Saint-Étienne a mis en place un programme de chèques-cadeaux à moitié prix, financé à hauteur de deux cent mille euros. Les bons, distribués aux résidents, permettent d’acheter des biens et services auprès des commerçants du centre-ville à un tarif réduit. L’objectif affiché est de stimuler la fréquentation des boutiques locales et d’aider les établissements qui ont vu leur chiffre d’affaires chuter lors des manifestations du 17 octobre.\n\n## Contexte des manifestations du 17 octobre\nLes protestations qui ont eu lieu le 17 octobre ont entraîné des perturbations importantes dans le centre de Saint-Étienne. Les rues commerçantes ont été partiellement bloquées, et de nombreux magasins ont enregistré une baisse d’activité notable. Cette situation a conduit les autorités locales à rechercher des mesures d’urgence pour soutenir le tissu commercial, considéré comme un pilier de l’économie municipale.\n\n## Modalités d’utilisation des bons\nLes chèques-cadeaux sont valables uniquement dans les commerces du centre-ville. Leur valeur nominale est divisée par deux, ce qui signifie que les habitants paient la moitié du prix indiqué sur le bon lorsqu’ils l’utilisent. Cette réduction vise à encourager les achats immédiats et à compenser partiellement la perte de clientèle subie pendant les manifestations. Aucun détail supplémentaire n’a été fourni concernant la durée de validité ou les critères d’éligibilité des bénéficiaires.\n\n## Perspectives et suivi du dispositif\nLa municipalité n’a pas communiqué de chiffres prévisionnels quant à l’impact attendu sur le chiffre d’affaires des commerçants. Le suivi de l’efficacité du dispositif pourra être évalué à moyen terme, en fonction du taux de restitution des bons et de la reprise du trafic piétonnier. Cette initiative s’inscrit dans une série d’actions locales visant à relancer l’activité économique après des périodes de tension sociale.",
+  "mots_cles": [
+    "Saint-Étienne",
+    "chèques-cadeaux",
+    "commerce",
+    "manifestations",
+    "soutien économique"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-21T15:53:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Saint_Etienne_views.png/1280px-Saint_Etienne_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Km42ify",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint_Etienne_views.png",
+    "legende": "En haut une vue depuis la cité du design Au centre la cité des affaires et les immeubles de One Station En bas le Musée de la Mine, le jardin de la place Jean Jaurès et la Place du Peuple",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Saint Etienne views.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "\"Ça va nous permettre de rebondir\" : à Saint-Étienne, des chèques-cadeaux à moitié prix pour aider les commerçants",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-va-nous-permettre-de-rebondir-des-cheques-cadeaux-pour-aider-les-commercants_8293772.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
