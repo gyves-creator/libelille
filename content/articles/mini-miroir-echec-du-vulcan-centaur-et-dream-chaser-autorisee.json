@@ -1,0 +1,32 @@
+{
+  "slug": "mini-miroir-echec-du-vulcan-centaur-et-dream-chaser-autorisee",
+  "titre": "Mini‑miroir, échec du Vulcan Centaur et Dream Chaser autorisée",
+  "chapeau": "Foundational Space a validé un mini‑miroir permettant de localiser les satellites hors service. Le lancement du Vulcan Centaur a échoué, tandis que la navette Dream Chaser a reçu l’autorisation d’atterrir en Californie.",
+  "corps": "## Un mini‑miroir pour repérer les satellites en panne\n\nLa société Foundational Space a confirmé la mise au point d’un dispositif baptisé « mini‑miroir ». Cette technologie, présentée comme capable de détecter la position exacte de satellites en panne, vise à améliorer le suivi des engins hors service et à réduire les risques de collisions en orbite. Aucun détail supplémentaire n’a été communiqué sur le principe de fonctionnement ou sur les essais déjà réalisés, mais la validation officielle indique que le dispositif est désormais opérationnel et prêt à être déployé par les opérateurs spatiaux.\n\n## L’échec du lanceur Vulcan Centaur\n\nLe programme de la fusée Vulcan Centaur, développée aux États-Unis, a connu un revers lors de son dernier lancement, qui s’est soldé par un échec. Les autorités n’ont pas précisé les causes exactes de cet incident, mais il est indiqué que les conséquences pourraient s’étendre à d’autres lanceurs américains, suggérant une possible réévaluation des procédures de contrôle et de certification. Aucun chiffre relatif aux pertes matérielles ou aux impacts financiers n’a été fourni dans les informations disponibles.\n\n## Dream Chaser : le feu vert pour un atterrissage californien\n\nParallèlement à ces deux événements, la navette spatiale Dream Chaser a obtenu l’autorisation officielle d’effectuer des atterrissages en Californie. Cette validation ouvre la voie à l’utilisation de la capsule pour des missions de transport de charges utiles et de retours d’échantillons depuis la Station spatiale internationale ou d’autres plateformes orbitales. Le cadre réglementaire et les sites d’atterrissage prévus n’ont pas été détaillés, mais la décision marque une étape importante pour la commercialisation de véhicules réutilisables aux États‑Unis.\n\n## Bilan de la semaine scientifique\n\nCes trois faits, présentés dans le récapitulatif scientifique de la semaine, illustrent la diversité des avancées et des défis rencontrés dans le secteur spatial. D’un côté, l’innovation technologique avec le mini‑miroir promet de renforcer la sécurité en orbite, tandis que l’échec du Vulcan Centaur rappelle la complexité inhérente aux lancements. De l’autre, l’autorisation accordée à Dream Chaser confirme l’intérêt croissant pour les véhicules capables de revenir sur le sol, un élément clé de la stratégie de réduction des coûts et de la durabilité des missions spatiales.",
+  "mots_cles": [
+    "satellites",
+    "Vulcan Centaur",
+    "Dream Chaser",
+    "technologie spatiale"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-21T19:54:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Dream_Chaser_pre-drop_tests.7.jpg/1280px-Dream_Chaser_pre-drop_tests.7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ken Ulbrich",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Dream_Chaser_pre-drop_tests.7.jpg",
+    "legende": "Edwards, Calif. – ED13-0266-054- Sierra Nevada Corporation, or SNC, team members check the company's Dream Chaser flight vehicle systems following a 60 mph tow test on taxi and runways at NASA's Dryde",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Dream Chaser pre-drop tests.7.jpg"
+  },
+  "sources": [
+    {
+      "media": "Numerama",
+      "titre": "Solution aux satellites fantômes, échec de la fusée Vulcan Centaur, nouvelle navette spatiale – le récap’ sciences de la semaine",
+      "url": "https://www.numerama.com/sciences/2380261-solution-aux-satellites-fantomes-echec-de-la-fusee-vulcan-centaur-nouvelle-navette-spatiale-le-recap-sciences-de-la-semaine.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
