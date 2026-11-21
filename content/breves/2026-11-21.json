@@ -553,5 +553,24 @@
     "titres_sources": [
       "Premier League : Arsenal bousculé, Manchester City déçoit et Chelsea ridiculisé"
     ]
+  },
+  {
+    "titre": "Fournier Beaudry et Cizeron gagnent le Grand Prix de Finlande",
+    "texte": "Le duo français a remporté le Grand Prix de Finlande à Helsinki, assurant ainsi leur qualification pour la finale mondiale du Grand Prix. Cette deuxième victoire de la saison renforce leur position de tête.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T21:20:27+00:00",
+    "titres_sources": [
+      "En total contrôle, Laurence Fournier Beaudry et Guillaume Cizeron survolent le Grand Prix de Finlande",
+      "Patinage : Fournier Beaudry et Cizeron survolent le Grand Prix de Finlande"
+    ]
+  },
+  {
+    "titre": "Maxi Banque Populaire retourné lors du Route du Rhum aux Açores",
+    "texte": "L’Ultim d’Armel Le Cléac’h a chaviré aux Açores samedi, puis a été remorqué jusqu’à Lorient. Les images diffusées montrent le retournement du Maxi Banque Populaire pendant la course.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T21:20:27+00:00",
+    "titres_sources": [
+      "Route du Rhum : les impressionnantes images du retournement de Maxi Banque Populaire après son chavirage"
+    ]
   }
 ]
