@@ -384,5 +384,23 @@
     "titres_sources": [
       "Moto : l’incroyable envolée de Diogo Moreira à plus de 200 km/h au Portugal"
     ]
+  },
+  {
+    "titre": "PSG l'emporte rapidement contre Nice à la 11e journée",
+    "texte": "Le Paris Saint‑Germain aurait renversé Nice en moins d’une minute lors de la 11e journée. Les Aiglons, sixièmes après une remontée de cinq victoires sur six matchs, repartent sans points.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T16:54:51+00:00",
+    "titres_sources": [
+      "EN DIRECT - Nice-PSG : les Parisiens renversent des Aiglons sonnés en moins d’une minute"
+    ]
+  },
+  {
+    "titre": "Enjoué recycle 15 000 jouets à Villeurbanne pour Noël",
+    "texte": "L’entreprise Enjoué aurait mis en vente à moitié prix 15 000 jouets et jeux à Villeurbanne, après tri et réparation. Cette activité créerait 50 emplois pour d’anciens chômeurs.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-21T16:54:51+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"On fait même des shampoings aux Barbie\" : à l'approche de Noël, des jouets sont recyclés puis revendus moitié prix à Villeurbanne"
+    ]
   }
 ]

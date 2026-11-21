@@ -1,0 +1,33 @@
+{
+  "slug": "manifestations-du-21-novembre-baisse-de-participation-a-paris-tensions-a-marseil",
+  "titre": "Manifestations du 21 novembre : baisse de participation à Paris, tensions à Marseille et Lyon",
+  "chapeau": "Le troisième jour d'actions coordonnées sur le droit au logement a vu une diminution du nombre de manifestants à Paris dans l'après‑midi. Des tensions sont toutefois apparues dans les villes du sud et de l'est, à Marseille et à Lyon.",
+  "corps": "## Déroulement des manifestations le 21 novembre\n\nDans la capitale, le cortège a atteint la place de la Nation avant de poursuivre son parcours dans le calme relatif. Les organisateurs ont signalé une baisse du nombre de participants au cours de l'après‑midi, comparativement aux deux journées précédentes. Cette diminution s’est traduite par une moindre densité de la foule et un déroulement plus serein des rassemblements.\n\nEn revanche, les villes de Marseille et de Lyon ont connu des tensions accrues dès le second quart de journée. Les forces de l'ordre y ont été mobilisées pour encadrer les attroupements, qui ont donné lieu à des débordements ponctuels. Aucun chiffre précis n’a été communiqué sur le nombre de manifestants ni sur le nombre d’interventions policières.\n\n## Cadre européen et appel à l’action\n\nCes mobilisations s’inscrivent dans le cadre d’un appel lancé par des syndicats et des associations de défense du droit au logement à l’échelle européenne. L’« acte VI » de la campagne prévoit trois jours d’actions coordonnées, du vendredi au dimanche, afin de mettre en lumière les difficultés d’accès au logement et les conditions de vie précaires. Les participants visent à exercer une pression collective sur les pouvoirs publics pour obtenir des mesures concrètes en matière de politique du logement.\n\nLe mouvement, qui a débuté la veille, a rassemblé des milliers de personnes dans plusieurs villes françaises. Les revendications portent notamment sur la régulation des loyers, l’augmentation de l’offre de logements sociaux et la lutte contre les expulsions. Les organisations impliquées ont souligné l’importance d’une mobilisation continue afin d’amplifier la visibilité du problème au niveau national et européen.\n\n## Situation actuelle et perspectives\n\nÀ la clôture de la journée, les autorités locales de Paris ont indiqué que le maintien de l’ordre s’est déroulé sans incident majeur. À Marseille et à Lyon, les forces de l’ordre ont déclaré que les interventions visaient à prévenir toute escalade de la violence. Aucun incident grave n’a été signalé, mais la tension reste palpable dans les deux agglomérations.\n\nLes prochains jours resteront déterminants pour évaluer l’impact de ces actions sur les débats législatifs en cours concernant le logement. Les organisateurs envisagent de poursuivre les manifestations si les réponses institutionnelles ne répondent pas aux exigences formulées, tandis que les autorités appellent au dialogue pour éviter de nouvelles tensions.",
+  "mots_cles": [
+    "manifestations",
+    "logement",
+    "Paris",
+    "Marseille",
+    "Lyon"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-21T16:54:37+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Paris_11e_-_Place_de_la_Nation_-_Le_Triomphe_de_la_R%C3%A9publique_%28Jules_Dalou%29_01.jpg/1280px-Paris_11e_-_Place_de_la_Nation_-_Le_Triomphe_de_la_R%C3%A9publique_%28Jules_Dalou%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jules Dalou",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_11e_-_Place_de_la_Nation_-_Le_Triomphe_de_la_R%C3%A9publique_(Jules_Dalou)_01.jpg",
+    "legende": "The Triumph of the Republic , sculpture by Jules Dalou, Place de la Nation in Paris, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Paris 11e - Place de la Nation - Le Triomphe de la République (Jules Dalou) 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Manifestations du 21 novembre : le nombre de personnes mobilisées en baisse dans l’après-midi, le cortège parisien est arrivé place de la Nation",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
