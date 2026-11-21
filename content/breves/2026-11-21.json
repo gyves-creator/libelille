@@ -52,5 +52,23 @@
     "titres_sources": [
       "REPORTAGE. \"Une bulle dans le quotidien\" : comment le \"splunch\", mi-spa, mi lunch, relance la fréquentation de l'hôtellerie de luxe"
     ]
+  },
+  {
+    "titre": "Pyrénées-Atlantiques : le mari de Laure Zacchello mis en examen pour assassinat",
+    "texte": "Après deux ans d’enquête, les autorités du Pyrénées-Atlantiques ont placé le conjoint de Laure Zacchello sous le statut de suspect pour assassinat. Cette mise en examen remplace la qualification initiale de meurtre sur conjoint.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-21T07:19:05+00:00",
+    "titres_sources": [
+      "Pyrénées-Atlantiques : le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat"
+    ]
+  },
+  {
+    "titre": "Le projet de data center Google dans le Berry suscite un débat sur l’IA",
+    "texte": "L’entreprise américaine a annoncé la construction d’un data center dans le Berry, jugé indispensable pour répondre aux besoins de ses utilisateurs. Une partie des riverains s’y oppose, estimant que le développement accéléré de l’intelligence artificielle les prend de court.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-21T07:19:05+00:00",
+    "titres_sources": [
+      "«Si j’avais su, je serais resté aux courriers postaux» : dans le Berry, l’arrivée d’un data center Google vire au débat sur la marche forcée de l’IA"
+    ]
   }
 ]

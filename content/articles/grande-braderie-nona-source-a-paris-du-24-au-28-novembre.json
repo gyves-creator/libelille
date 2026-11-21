@@ -1,0 +1,38 @@
+{
+  "slug": "grande-braderie-nona-source-a-paris-du-24-au-28-novembre",
+  "titre": "Grande Braderie Nona Source à Paris du 24 au 28 novembre",
+  "chapeau": "Du 24 au 28 novembre, la marque Nona Source organise à Paris une Grande Braderie dédiée aux tissus et cuirs. L'événement, présenté comme une initiative de mode circulaire, sera ouvert au public pendant cinq jours.",
+  "corps": "## Une braderie au cœur de la mode circulaire\nNona Source, reconnue pour son engagement dans la mode circulaire, lance une Grande Braderie à Paris. Pendant cinq jours, les visiteurs pourront parcourir des stands proposant des tissus, des cuirs et d’autres matériaux destinés à la création, à la réparation ou à la revalorisation. L’objectif affiché est de favoriser la réutilisation des matières et de réduire le gaspillage dans le secteur de la mode, en offrant aux particuliers et aux professionnels un accès à des ressources de qualité.\n\n## Un événement ouvert à tous les habitants\nL’initiative se déroule dans la capitale, sans précision de quartier ou de rue dans les informations communiquées. Aucun renseignement n’a été fourni concernant d’éventuelles perturbations de la circulation ou des transports en commun. Les autorités locales n’ont pas signalé de mesures particulières à prendre, et les organisateurs invitent les participants à se rendre sur le site officiel de la mairie ou de Nona Source pour obtenir d’éventuelles mises à jour.\n\n## Informations pratiques\nLa Grande Braderie s’étendra du lundi 24 novembre au vendredi 28 novembre, chaque jour ouvrant ses portes aux curieux. Aucun tarif d’entrée n’a été indiqué, et il est recommandé de vérifier les horaires exacts ainsi que les éventuelles consignes sanitaires sur le site internet de l’événement. En cas de besoin, les habitants peuvent contacter le service d’information de la mairie au 3117 ou consulter le site paris.fr pour les dernières actualités relatives à la manifestation.",
+  "mots_cles": [
+    "Nona Source",
+    "braderie",
+    "mode circulaire",
+    "Paris",
+    "tissus"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-21T07:18:49+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nona_River_%281%29.jpg/1280px-Nona_River_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Anup Sadi",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nona_River_(1).jpg",
+    "legende": "Nona River",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nona River (1).jpg"
+  },
+  "sources": [
+    {
+      "media": "Sortir à Paris",
+      "titre": "Grande Braderie Nona Source à Paris : cinq jours pour chiner tissus et cuirs",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSlQxQVpoLXI1dWtfbzZDcjJoQ3l0X3Q4c0NuR0xaVXdfem9mSHd4RF9KZ3BNaWJTTVI2VFdOdmpUa1BPLUt6TjItUllLbjdoTkRxWVlPSGZQOG9uWndPeWtWQmtUeDlFTzR2WE9OZTduOVE4X185SlVLVklOUm1jQkZCcjhNam9LY2FEWU1hSzM4RlZYUWhOdU9MNGtmU3RBbkpwOWFnSUlpQTN6TVhVbTNmY2xXRDhoWWo4R19vQW9VSXJHSV8tX0EwQmRtYm9sdjhGLVJJWmo?oc=5"
+    },
+    {
+      "media": "Connaissance des Arts",
+      "titre": "« Laisser dormir de si belles matières, ce n’est pas dans l’esprit du luxe » : Nona Source, référence de la mode circulaire, ouvre sa Grande Braderie à Paris du 24 au 28 novembre",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNc0VILUV6YThneWkyRkZiTTJmaVlUbkg2STBTMHRZbVN1TkhZc3FzNURhb2dlQzcxUU9GRWpleXlzQmhUemRfUzVQaXBidmFFWGhLTHpRVk9wSzJtMDF3SURSX3U2WjdiOE5LNENYVkx3dV9qd2JyY2hDMmtRZWZjd0dUbnZzcDV5dlVYajc1Vzg3Tl93ZmUxV3lQSzJaMzJTaGpPR3BTb0tXNm1OQ1lEaUlvUDJTVUNKY1d1MVVaQ3dma0ozNmxxekRVb0p3SE12TU1rQzI0ZktzR0RHTUxiczJfaF90NlFkanB2TDNSUEdidkVXNmZtRkZmMVA1WnhSSGx5MEdiTTlianhBektjclM1QnJYVE9MRVU0dDAtREVOczVYZ2U1UDZwTWpxT2RwWFdCa2tMbFhLb3ZRMWNkYTl1UF9SNGV0OXc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
