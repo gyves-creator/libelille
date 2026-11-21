@@ -144,5 +144,23 @@
     "titres_sources": [
       "REPORTAGE. \"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville"
     ]
+  },
+  {
+    "titre": "Droit au logement réclame encadrement des loyers et plus de logements sociaux",
+    "texte": "L'association Droit au logement exige un renforcement de l'encadrement des loyers et la construction accrue de logements sociaux. Elle veut également combattre les passoires thermiques pour placer le logement au cœur de l'Acte VI de la mobilisation contre la vie chère.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-21T10:30:16+00:00",
+    "titres_sources": [
+      "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\""
+    ]
+  },
+  {
+    "titre": "L'ONU envisage un encadrement international des armes autonomes",
+    "texte": "Une conférence des Nations Unies a ouvert la discussion sur la possible régulation internationale des systèmes d'armes autonomes, appelés robots tueurs. Les délégués ont souligné les risques de frappes non discriminées, d'absence de responsabilité humaine et de non‑respect du droit humanitaire.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-21T10:30:16+00:00",
+    "titres_sources": [
+      "Une conférence de l'ONU ouvre à la voie à un possible encadrement international des \"robots tueurs\""
+    ]
   }
 ]
