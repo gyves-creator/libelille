@@ -1,0 +1,37 @@
+{
+  "slug": "cafe-dobree-a-nantes-l-entreprise-d-insertion-cesse-ses-activites",
+  "titre": "Café Dobrée à Nantes : l’entreprise d’insertion cesse ses activités",
+  "chapeau": "L’entreprise d’insertion qui assure la gestion du café Dobrée à Nantes a annoncé l’arrêt de son activité. Les autorités locales ont été informées et les habitants sont invités à suivre les prochaines communications officielles.",
+  "corps": "## Une décision annoncée\nL’organisme d’insertion chargé de l’exploitation du café Dobrée a déclaré qu’il mettait fin à son mandat. Aucun détail n’a été fourni quant aux raisons de cette décision ni à la date précise de la fermeture. La mesure concerne l’ensemble de l’établissement, qui était exploité dans le cadre d’un projet d’insertion professionnelle.\n\n## Conséquences pour les riverains\nAucun impact direct sur la circulation ou les transports n’a été signalé à ce stade. Les clients habituels du café, ainsi que les personnes bénéficiaires des actions d’insertion menées sur place, devront attendre les indications des services municipaux. La municipalité n’a pas encore communiqué de plan de remplacement ou de soutien spécifique.\n\n## Le rôle des entreprises d’insertion\nLes structures d’insertion visent à offrir des emplois à des publics en difficulté d’accès au marché du travail, souvent en associant activité économique et formation. Dans le cas présent, le café Dobrée constituait à la fois un lieu de convivialité et un dispositif d’accompagnement professionnel. La cessation de l’activité pourrait donc affecter à la fois l’offre de services de proximité et les parcours d’insertion des salariés concernés.\n\n## Prochaines étapes\nLes autorités locales sont attendues pour préciser les suites à donner à cette fermeture. Les habitants sont invités à consulter le site internet de la mairie ou à contacter le service social de la ville pour obtenir des informations actualisées. En l’absence de nouvelles précises, il est recommandé de rester attentif aux éventuelles annonces de dérogations ou de réaménagements du local.",
+  "mots_cles": [
+    "Nantes",
+    "Café Dobrée",
+    "entreprise d’insertion",
+    "fermeture"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-21T13:04:22+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/1%2C3%2C1%2C2..._Soleil_%21_tag_in_Nantes_%28ACAB%29.jpg/1280px-1%2C3%2C1%2C2..._Soleil_%21_tag_in_Nantes_%28ACAB%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Skimel",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1,3,1,2..._Soleil_!_tag_in_Nantes_(ACAB).jpg",
+    "legende": "1,3,1,2... Soleil ! tag in Nantes, playing on 1312 (ACAB, All Cops are Bastards) and \"un deux trois soleil\", green light/red light game in French, in Nantes.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:1,3,1,2... Soleil ! tag in Nantes (ACAB).jpg"
+  },
+  "sources": [
+    {
+      "media": "maville.com",
+      "titre": "À Nantes, l’entreprise d’insertion qui gère le café Dobrée jette l’éponge",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVHdhLXF1ekxEcjg2T3ZzbEt5cGl3YmQ1NDBmREN2bWcwRlljYTZxcTRGdVhNTXl5ZU9wSzExSE44aEM5UHAzRllTZ3FvdmstQXdKOUVmcUV5Vk5fT3NaeTd1TWxfV1BuaWtuS3VLQVJRRV80WEFrQ1ZVWGo5N0FVbHphT3Z6WFJ2ZS1NWFVuaVQ4V1lySUpobnBUTGdDeXVUMlFDZXZzSWQyWkRGUkU2NFBGZU5EREVpTU1hZ2JkUHZKVXV2YzJ6bmJXakI1UEFlREszek9zenY?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "À Nantes, l’entreprise d’insertion qui gère le café Dobrée jette l’éponge",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOX3lnUGFJcWFqTlVMdWJxWjJhdG5TWVZyYWtBbEV1MjJycGN5X0J2RUFvT2Y5REktQi1SRFdWRF93cGtjLXFTOThBdlkwVUZreHNHa3Y0XzBrbVVjbkFtdmRmS3hUR1lqQmpDdmNPUFFGbEQtaDZMQk8zUi14R0JVeTZsMjF4cFpzcmVaZVMzQ1RCQy1BMzZ5aXo5S0t5OTJiMFBETFRBWllkT1VBMXVleVBNSG9DVkp1OXNRaTJZVG1MbXZ5ak9adWFrOUpNOElHNVlINndDT3o4QU15b2lLY0VWTkppazgxVFJQRl95Qnl2blZCLUEw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
