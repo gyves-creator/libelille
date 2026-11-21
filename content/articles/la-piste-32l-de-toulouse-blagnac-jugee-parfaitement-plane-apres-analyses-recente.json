@@ -1,0 +1,37 @@
+{
+  "slug": "la-piste-32l-de-toulouse-blagnac-jugee-parfaitement-plane-apres-analyses-recente",
+  "titre": "La piste 32L de Toulouse‑Blagnac jugée parfaitement plane après analyses récentes",
+  "chapeau": "Une expertise réalisée au printemps 2025 a confirmé que la piste 32L de l’aéroport de Toulouse‑Blagnac conserve une planéité exemplaire. Cette constatation ouvre la possibilité, selon les spécialistes, de reprendre d’éventuels décollages supersoniques à pleine charge.",
+  "corps": "## Une évaluation technique rassurante pour les usagers\nL’Association des professionnels du Concorde a publié les résultats d’une série de relevés effectués au printemps 2025 sur la piste 32L, dite « piste Concorde », de l’aéroport de Toulouse‑Blagnac. Selon cette étude, la surface de la piste, inaugurée en 1968 pour accueillir l’avion supersonique Concorde, reste parfaitement plane. Aucun défaut d’inclinaison ou d’irrégularité n’a été détecté, ce qui garantit le respect des normes de sécurité en vigueur pour les décollages à grande vitesse.\n\n## Implications éventuelles pour le trafic aérien\nSi la planéité de la piste est confirmée, les autorités aéroportuaires pourraient envisager, à moyen terme, la réintroduction de services supersoniques, voire l’accueil de nouveaux aéronefs à performances élevées. L’expertise indique que la piste pourrait supporter un décollage à pleine charge, condition indispensable pour un vol supersonique. Aucun projet concret n’a encore été annoncé, et aucune modification des horaires ou des flux de trafic n’est prévue à court terme. Les riverains ne doivent donc pas s’attendre à des perturbations supplémentaires dans les prochains mois.\n\n## Contexte historique et technique\nConstruite en 1968 spécialement pour le Concorde, la piste 32L a toujours occupé une place symbolique dans l’histoire de l’aviation française. Son entretien a été régulièrement revu afin de répondre aux exigences strictes de l’appareil supersonique, notamment en matière de planéité et de résistance du revêtement. Les relevés de 2025 s’inscrivent dans le cadre d’un suivi périodique mené par des experts indépendants, dont les conclusions viennent renforcer la réputation de l’aéroport comme infrastructure de haute qualité.\n\n## Que retenir pour les habitants ?\nPour les habitants de la région toulousaine, la principale information est que la piste 32L reste en excellent état, sans impact direct sur la vie quotidienne. Aucun changement d’accès, de circulation routière ou de bruit n’est attendu suite à ces résultats. En cas d’évolution future du trafic supersonique, les autorités communiqueront les mesures d’accompagnement éventuelles. En attendant, les usagers peuvent consulter le site officiel de l’aéroport pour toute information relative aux vols et aux services proposés.",
+  "mots_cles": [
+    "piste Concorde",
+    "Toulouse‑Blagnac",
+    "planéité",
+    "aéronautique"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-21T11:52:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Korean_Air_takes_delivery_of_its_first_A380_at_Toulouse_Blagnac_International_Airport.jpg/1280px-Korean_Air_takes_delivery_of_its_first_A380_at_Toulouse_Blagnac_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Mattun0211",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_Air_takes_delivery_of_its_first_A380_at_Toulouse_Blagnac_International_Airport.jpg",
+    "legende": "Korean Air takes delivery of its first A380 in Tolouse.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Korean Air takes delivery of its first A380 at Toulouse Blagnac International Airport.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "La \"piste Concorde\" de Toulouse-Blagnac affiche une planéité exemplaire... Après analyses, le supersonique pourrait encore y décoller à pleine charge",
+      "url": "https://www.ladepeche.fr/2026/11/21/la-piste-concorde-de-toulouse-blagnac-affiche-une-planeite-exemplaire-apres-analyse-le-supersonique-pourrait-encore-y-decoller-a-pleine-charge-13663325.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "La \"piste Concorde\" de Toulouse-Blagnac affiche une planéité exemplaire... Après analyses, le supersonique pourrait encore y décoller à pleine charge",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLUZrc2E5QnhobVNYNVlQOW5GVmpkYlJMcWo4ck5BSHdwdUZNbmEwY1FGc2x4ekdTSEFicUl0UGU0MFBDVXBsaXpadzVON3lGR0w0NWkyRG1WZnZBN2xpbW5NQ2xSNG5UbnZOVDNfdURRSm5TMHFncEE0OGU5M1g5R2ZlOXBnYXBqZl9seTNrMUkxVlJSRmIxV3RuNG04cENDOHFYYlZsOWtzdUdiMmhybGxPdFNSMDlkcEFfb2Y2Q2N4MG5FWG9CZ1FyQU44cnJ2bTRjRHU3Q3ZfNlo5VFpkdlA3TzhKV3ZmZFBZTFRYNjA4TDZRaXU4TWJMQzRCcXJOSVBhYndaR1VQV0sySUhJQXN3d3IzYTEyTFBr?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

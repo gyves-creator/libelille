@@ -1,0 +1,33 @@
+{
+  "slug": "prefecture-d-angers-interdit-deux-rassemblements-prevus-dimanche-a-15-h",
+  "titre": "Préfecture d'Angers interdit deux rassemblements prévus dimanche à 15 h",
+  "chapeau": "La préfecture a décidé de bloquer les manifestations programmées ce dimanche à Angers, tant du côté de l'extrême droite que des organisations antiracistes. L'initiative ultradroite était portée par le militant Jean‑Eudes Gannat, tandis que les groupes antifascistes prévoyaient un rassemblement simultané.",
+  "corps": "## Décision de la préfecture\nLa préfecture d'Angers a annoncé l'interdiction de deux manifestations prévues le dimanche à 15 heures. Cette mesure concerne un rassemblement initié par le militant d’extrême droite Jean‑Eudes Gannat ainsi qu’un autre organisé par des associations antiracistes. Les autorités locales ont justifié la décision par la nécessité de garantir l’ordre public et d’éviter tout risque de confrontation entre les deux groupes.\n\n## Contexte des interdictions\nEn France, le préfet dispose du pouvoir de suspendre ou d’interdire des réunions publiques lorsqu’il estime que la sécurité publique ou la tranquillité du voisinage est menacée. Cette prérogative s’applique notamment lorsqu’il existe un risque de débordement ou de violences entre manifestants aux opinions opposées. Les deux rassemblements prévus à Angers devaient se tenir à la même heure, ce qui a renforcé les craintes d’affrontements.\n\n## Réactions attendues\nAucun communiqué officiel n’a été publié par les organisateurs du côté ultradroite ou antiraciste à ce stade. L’interdiction laisse présager une possible mobilisation alternative ou des recours juridiques, comme le prévoit la législation française en matière de liberté de réunion. Les autorités restent vigilantes et surveillent la situation jusqu’au jour prévu des manifestations.\n\n## Implications pour la ville d'Angers\nL’annulation de ces deux rassemblements évite à la municipalité d’Angers d’être le théâtre d’éventuels affrontements. La décision de la préfecture s’inscrit dans une politique de prévention des troubles à l’ordre public, fréquemment appliquée dans les villes où des mouvements opposés prévoient de se rencontrer. Les habitants de la ville seront ainsi épargnés d’éventuelles perturbations liées à ces manifestations.",
+  "mots_cles": [
+    "Angers",
+    "préfecture",
+    "interdiction",
+    "rassemblements",
+    "ultradroite"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-21T11:52:36+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ch%C3%A2teau_d%27Angers%2C_South_view_20170611_1.jpg/1280px-Ch%C3%A2teau_d%27Angers%2C_South_view_20170611_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "DXR",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27Angers,_South_view_20170611_1.jpg",
+    "legende": "A south view of Château d'Angers",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Château d'Angers, South view 20170611 1.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les rassemblements d’ultradroite et antifasciste prévus dimanche à Angers interdits par la préfecture",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/21/les-rassemblements-d-ultradroite-et-antifasciste-prevus-dimanche-a-angers-interdits-par-la-prefecture_6813982_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -198,5 +198,23 @@
     "titres_sources": [
       "«C’est la spoliation que vous admirez ?» : passe d’armes inattendue entre Knafo et Bompard sur Tetris"
     ]
+  },
+  {
+    "titre": "Wall Street enregistre d'importantes pertes, Nasdaq chute de 5,28%",
+    "texte": "Le Nasdaq aurait chuté de 5,28 %, effaçant ainsi les gains enregistrés depuis le début de l'année. Parallèlement, la Bourse de Wall Street aurait accumulé des pertes de plusieurs centaines de milliards de dollars, attribuées à la faiblesse du secteur de l’intelligence artificielle.",
+    "rubrique": "international",
+    "publie_le": "2026-11-21T11:52:58+00:00",
+    "titres_sources": [
+      "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA"
+    ]
+  },
+  {
+    "titre": "Harry Kane opéré, indisponible trois mois pour le Bayern",
+    "texte": "Harry Kane aurait été opéré avec succès de la cheville gauche. La blessure, une déchirure de la syndesmose, le tiendrait indisponible au moins trois mois, selon le club.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T11:52:58+00:00",
+    "titres_sources": [
+      "Bundesliga : Harry Kane a été opéré avec succès de la cheville gauche"
+    ]
   }
 ]
