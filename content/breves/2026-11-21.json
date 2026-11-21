@@ -535,5 +535,23 @@
       "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
       "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions"
     ]
+  },
+  {
+    "titre": "Panic sur Wall Street après chute historique de la tech",
+    "texte": "Il pourrait y avoir des craintes d'un krach après une chute historique du secteur technologique. Le secteur aurait connu sa pire semaine depuis la crise du Covid, malgré l'introduction en bourse réussie d'Anthropic.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-21T20:50:58+00:00",
+    "titres_sources": [
+      "Panique à Wall Street : faut-il craindre un krach après une chute historique de la tech ?"
+    ]
+  },
+  {
+    "titre": "Premier League : Arsenal, Man City et Chelsea en mauvaise posture",
+    "texte": "Il semblerait qu'Arsenal ait été bousculé, que Manchester City ait déçu et que Chelsea ait été ridiculisé lors des matchs de ce samedi. Ces performances laissent entrevoir une reprise difficile pour les équipes en lice.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-21T20:50:58+00:00",
+    "titres_sources": [
+      "Premier League : Arsenal bousculé, Manchester City déçoit et Chelsea ridiculisé"
+    ]
   }
 ]
