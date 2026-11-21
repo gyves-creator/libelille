@@ -108,5 +108,23 @@
     "titres_sources": [
       "GTA 6 : guides, astuces et trouvailles, tout savoir sur le jeu (EN DIRECT)"
     ]
+  },
+  {
+    "titre": "Deux démonstrations concurrentes de l'hypothèse de Riemann publiées",
+    "texte": "Le 20 novembre, deux démonstrations de l'hypothèse de Riemann ont été rendues publiques, l’une issue de l’IA Claude d’Anthropic. Quelques heures plus tard, le président de l’American Mathematical Society a publié le brouillon d’un jeune chercheur prétendant l’avoir résolue.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-21T09:29:41+00:00",
+    "titres_sources": [
+      "L’humain contre-attaque sur l’hypothèse de Riemann : un chercheur aurait craqué l’énigme avant l’IA Claude"
+    ]
+  },
+  {
+    "titre": "Des gilets jaunes demandent de nouvelles stratégies d’action",
+    "texte": "Face à l’essoufflement du mouvement, des militants gilets jaunes de Montauban à Toulouse appelleraient à rechercher d’autres moyens d’action. Ils évoquent les difficultés de mobilisation et sondent des pistes pour relancer le collectif.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-21T09:29:41+00:00",
+    "titres_sources": [
+      "Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\""
+    ]
   }
 ]
