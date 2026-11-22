@@ -472,5 +472,23 @@
     "titres_sources": [
       "Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores"
     ]
+  },
+  {
+    "titre": "Glucksmann exclut Marine Le Pen de l’Élysée",
+    "texte": "Le candidat PS et Place publique Raphaël Glucksmann a déclaré qu’il ne concéderait jamais la présidence à Marine Le Pen. Il a présenté ses priorités écologiques, de pouvoir d’achat et de retraite lors du Grand Enjeu du 22 novembre.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-22T19:33:32+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique"
+    ]
+  },
+  {
+    "titre": "Le RN devance LFI chez les électeurs LGBT",
+    "texte": "Une enquête montre que le Rassemblement National dépasse La France Insoumise dans les intentions de vote des personnes LGBT, le parti se présentant comme protecteur des minorités sexuelles face aux agressions homophobes.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-22T19:33:32+00:00",
+    "titres_sources": [
+      "« Tout le monde chez nous n’est pas de gauche » : quand le vote RN progresse chez les personnes LGBT"
+    ]
   }
 ]
