@@ -1,0 +1,43 @@
+{
+  "slug": "france-ecrase-l-argentine-45-17-et-atteint-la-finale-du-nations",
+  "titre": "France écrase l'Argentine 45-17 et atteint la finale du Nations",
+  "chapeau": "Le XV de France a battu les Pumas 45-17 au Stade de France samedi soir, s’assurant ainsi la première place du groupe Nord. Cette victoire leur ouvre la finale du tout premier Championnat des nations, qui se jouera contre l'Afrique du Sud à Twickenham.",
+  "corps": "## Une victoire éclatante contre les Pumas\nLe samedi soir, le XV de France a dominé l'Argentine au Stade de France, à Saint‑Denis, en s’imposant avec un score de 45 à 17. Les Bleus ont affiché une supériorité nette tout au long de la rencontre, marquant à la fois des essais et des points de pénalité. Aucun détail supplémentaire sur le déroulement du match n’a été fourni, mais le résultat reflète une performance largement supérieure à celle de leurs adversaires.\n\n## Un passage en première place du groupe Nord\nCette victoire place la France en tête du groupe Nord du Championnat des nations. L’équipe, menée par le capitaine Dupont, termine première de son poule, ce qui lui assure la qualification directe à la finale. Le classement final du groupe n’a pas été précisé, mais la première place a été confirmée.\n\n## Vers la finale à Twickenham contre les Springboks\nEn remportant ce match, les Bleus rejoignent l’Afrique du Sud, les Springboks, pour la finale de la compétition. Celle‑ci se tiendra le week‑end suivant à Twickenham, à Londres. La rencontre opposera les deux hémisphères du rugby, marquant la conclusion de la première édition du Championnat des nations.\n\n## Contexte du nouveau tournoi\nLe Championnat des nations est une compétition récente qui réunit les meilleures équipes du Nord et du Sud de l’hémisphère. Cette première édition voit la France et l’Argentine s’affronter dans la phase de poule, avant que les vainqueurs de chaque groupe ne se rencontrent en finale. La finale à Twickenham constitue un rendez‑vous majeur pour les supporters des deux équipes, offrant une première confrontation directe entre la France et l’Afrique du Sud dans le cadre de ce nouveau format.",
+  "mots_cles": [
+    "rugby",
+    "Championnat des nations",
+    "France",
+    "Argentine",
+    "finale"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-22T05:06:19+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Equipe_de_France_de_rugby%C3%A0_XV_le_22-01-1928_au_Stade_de_Colombes.jpg/1280px-Equipe_de_France_de_rugby%C3%A0_XV_le_22-01-1928_au_Stade_de_Colombes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agence Rol",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Equipe_de_France_de_rugby%C3%A0_XV_le_22-01-1928_au_Stade_de_Colombes.jpg",
+    "legende": "Stade de Colombes [de g. à d. debout] Ribère, Galia, Morère, Camel II, Cazenave, Bonamy, Loury, Vails [et assis ou accroupis] Vellat, H. Behoteguy, Lacazedieu, Jaureguy, Behoteguy, Dupont, Pélissier (",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Equipe de France de rugbyà XV le 22-01-1928 au Stade de Colombes.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Pour le XV de France, un contenu \"pas parfait\" face à l'Argentine mais un objectif de finale validé",
+      "url": "https://www.franceinfo.fr/sports/rugby/xv-de-france/pour-le-xv-de-france-un-contenu-pas-parfait-face-a-l-argentine-mais-un-objectif-de-finale-valide_8294219.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "France-Argentine : les Bleus (re)donnent rendez-vous aux Springboks en finale",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/la-france-punit-l-argentine-et-retrouvera-l-afrique-du-sud-en-finale-du-championnat-des-nations-20261121"
+    },
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "France-Argentine : les Bleus balaient les Pumas et retrouveront l’Afrique du Sud en finale du Championnat des nations de rugby",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/21/france-argentine-les-bleus-balaient-les-pumas-et-retrouveront-l-afrique-du-sud-en-finale-du-championnat-des-nations-rugby_6814070_3242.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

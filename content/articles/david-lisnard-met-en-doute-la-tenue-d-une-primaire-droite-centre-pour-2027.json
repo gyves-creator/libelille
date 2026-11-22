@@ -1,0 +1,32 @@
+{
+  "slug": "david-lisnard-met-en-doute-la-tenue-d-une-primaire-droite-centre-pour-2027",
+  "titre": "David Lisnard met en doute la tenue d’une primaire droite‑centre pour 2027",
+  "chapeau": "Le candidat de Nouvelle Energie estime qu’une primaire réunissant la droite et le centre ne pourrait se justifier que si Édouard Philippe et Éric Zemmour y participaient. Considérant ces conditions comme peu réalistes, il exprime des réserves sur la viabilité d’une telle initiative.",
+  "corps": "## Position de David Lisnard\nLe représentant de Nouvelle Energie, David Lisnard, a indiqué que l’organisation d’une primaire rassemblant les forces de droite et du centre ne prendrait sens que si deux personnalités, Édouard Philippe et Éric Zemmour, y prenaient part. Selon ses propos, la participation de ces deux figures est « pratiquement irréalisable », ce qui alimente le doute quant à la possibilité même de tenir ce scrutin.\n\n## Enjeux d’une primaire droite‑centre\nDans le cadre du processus électoral présidentiel français, les primaires internes sont parfois utilisées par des familles politiques pour désigner un candidat commun. Une telle démarche vise généralement à consolider les voix d’un même boussole idéologique afin d’optimiser les chances face à d’autres coalitions. La proposition d’une primaire réunissant la droite et le centre pour l’élection de 2027 s’inscrit donc dans cette logique de regroupement.\n\n## Contextualisation politique\nLe terme « macronistes » désigne les partisans du mouvement initié par l’actuel président, dont les orientations sont souvent perçues comme centrées. La suggestion de Lisnard de « exclure les macronistes » par le biais d’une primaire indique une volonté de créer un front alternatif distinct des forces déjà en place. Toutefois, l’absence de confirmation de la participation d’Édouard Philippe, ancien Premier ministre, et d’Éric Zemmour, figure politique de droite, rend la perspective incertaine.\n\n## Perspectives\nEn l’absence de déclarations officielles de la part d’Édouard Philippe ou d’Éric Zemmour, la proposition de Lisnard demeure hypothétique. Le débat autour de la tenue d’une primaire droite‑centre reflète les dynamiques internes aux partis et aux mouvements qui cherchent à définir leurs stratégies pour la présidentielle de 2027. Les prochains mois permettront d’observer si les conditions évoquées par le candidat de Nouvelle Energie seront réunies ou si d’autres formes de coordination émergeront.",
+  "mots_cles": [
+    "Présidentielle 2027",
+    "David Lisnard",
+    "Nouvelle Energie",
+    "primaire droite‑centre"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-22T05:06:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/David_Lisnard_en_2026.jpg/1280px-David_Lisnard_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Grégor Sauvagère",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg",
+    "legende": "David Lisnard in 2026",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:David Lisnard en 2026.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
