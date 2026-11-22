@@ -1,0 +1,43 @@
+{
+  "slug": "meteo-et-activites-du-dimanche-22-novembre-a-paris",
+  "titre": "Météo et activités du dimanche 22 novembre à Paris",
+  "chapeau": "Les prévisions météorologiques pour le dimanche 22 novembre 2026 à Paris ont été publiées ce matin. Plusieurs médias ont également proposé des idées de sorties pour profiter de la journée et de la saison hivernale.",
+  "corps": "## Prévisions météo pour le dimanche 22 novembre\nDes bulletins météo ont été diffusés en début de journée, présentant les conditions attendues à Paris et dans ses environs pour le dimanche 22 novembre. Les services météorologiques indiquent que la journée sera typique du début d’hiver parisien, avec des températures fraîches et un risque de précipitations. Les habitants sont invités à consulter les sites officiels, tels que Météo France, pour obtenir les détails actualisés et préparer leurs déplacements en conséquence.\n\n## Propositions de sorties et d’activités\nDans le même temps, plusieurs plateformes ont publié des sélections d’activités à ne pas manquer ce dimanche. Les suggestions couvrent un large éventail d’options, allant des expositions culturelles aux balades en plein air, en passant par des marchés de Noël et des animations sportives. L’accent est mis sur des activités compatibles avec le climat hivernal, permettant aux Parisiens de profiter de la ville tout en restant protégés des intempéries éventuelles.\n\n## Conseils pratiques pour les habitants\nFace à la météo annoncée, les autorités municipales recommandent de vérifier les informations de transport en commun, notamment les éventuelles perturbations sur les lignes de métro et de bus. Les services de la ville mettent à disposition des cartes de déviation et des numéros d’urgence en cas de conditions météorologiques défavorables. Les résidents peuvent également consulter le site de la mairie de Paris pour des mises à jour en temps réel et des recommandations spécifiques.\n\n## En bref\nEn résumé, le dimanche 22 novembre s’annonce comme une journée typiquement automnale à Paris, avec des températures basses et la possibilité de pluie. Les habitants disposent dès à présent d’informations météo et d’une sélection d’activités pour organiser leur journée. Il est conseillé de rester attentif aux bulletins météo et aux avis de la mairie afin d’ajuster leurs projets et leurs déplacements en fonction des conditions réelles.",
+  "mots_cles": [
+    "météo",
+    "sorties",
+    "Paris",
+    "dimanche",
+    "hiver"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-22T07:18:58+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pro_Air_Martin_404_N255S.jpg/1280px-Pro_Air_Martin_404_N255S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Matthew T Rader",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pro_Air_Martin_404_N255S.jpg",
+    "legende": "Abandoned Pro Air Martin 404 N255S",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Pro Air Martin 404 N255S.jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "Météo. Les prévisions météorologiques du dimanche 22 novembre 2026 à Paris et ses environs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3IzNDV2OU9pSElFWkw3QnBYd0R1RDZtZDVueE83M1pUS2gtS0gxX3pKQU5vZkVIcVItUHpYaVRveTg2OFdsa1hWZ2pkdXk1WGlOZDZ4V0JzU1U5MFdzSF9wNzlsREM2WnFCWkZfNFlvclNhTl9MOVBOamRCVE9wSXdDNW5MX2U1YUFsaUFNNVNpdnFsWmtoVjE1QndjSGJDRVN3MUo2eS12b2NFaWFFV2M0T2RwOTVMNXQ4UHRR?oc=5"
+    },
+    {
+      "media": "Sortir à Paris",
+      "titre": "Que faire ce dimanche 22 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFXYlpsdFlqQnRYMXBSdHc3aTRCemRBdEZ4SUdRS1kyTkF1bUJ4eHB5b2gwRFBucmVwTVlzR2NXTjhiUmtPaWJ4ZmNhUnNCR05IMGlyR2R4enVzVXNXYlNVVkpEMTR6N2loYzVHclZZZGlhS0E4a2x1TThOaElwaHZ1cnlocXNGNGNnM2xVRUkteGtzdTl3YVJTb2VSVGx0MWd6NGhRSXVHRkM1R2tqWkNjNHk2MjZEcW44MzdzenFsblNZckxJOXRpLWl6ajc4bWZz?oc=5"
+    },
+    {
+      "media": "20 Minutes",
+      "titre": "Prévisions météo du dimanche 22 novembre 2026 à Paris",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2RzRTN1X0RHRFB4bkoyaUlOZkQ1b25TZHJqaklJcFg2Si1KOXlDa2xNRUp4MExrRUpkU0haV1VhdlF4ajBpZGU2YWViTkJQeDBibENoOEtaMnN6bEd2TFdvY1hmTEdkWGlvM3NXQVZWZEFKanowaEZYeU9FUGxTZUtGcXFZSzJ2OGxMLVNmN2s0b3p0eWxCZkFwQVROcUdRTGVhOE5oLXVuUnRrLXVwbUE5UExJdw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

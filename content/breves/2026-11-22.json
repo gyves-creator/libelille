@@ -52,5 +52,23 @@
     "titres_sources": [
       "VIDEO. \"Au début, on ne sait pas ce qu'est ce virus\" : l'affaire du sang contaminé ou la lente prise de conscience de la dangerosité du sida"
     ]
+  },
+  {
+    "titre": "Hideo Suzuki, ambassadeur du Japon en France, très suivi sur les réseaux sociaux",
+    "texte": "L'ambassadeur du Japon en France, Hideo Suzuki, serait très suivi sur les réseaux sociaux, où il exprime son émerveillement pour la France. Cette visibilité vise à renforcer le dialogue culturel entre les deux pays.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T07:19:10+00:00",
+    "titres_sources": [
+      "Hideo Suzuki, ambassadeur du Japon en France et coqueluche des réseaux sociaux"
+    ]
+  },
+  {
+    "titre": "Ariane 6 prépare son 10e vol pour lancer 36 satellites Amazon Leo",
+    "texte": "Le décollage du dixième vol d'Ariane 6, prévu au plus tôt le 23 novembre, devrait placer 36 satellites Amazon Leo en orbite. Cette mission intervient huit jours après la perte de 40 satellites d’une constellation américaine.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-22T07:19:10+00:00",
+    "titres_sources": [
+      "Suivez en direct le 10e vol de la fusée Ariane 6 dans sa version surpuissante pour lancer 36 satellites d’un coup"
+    ]
   }
 ]

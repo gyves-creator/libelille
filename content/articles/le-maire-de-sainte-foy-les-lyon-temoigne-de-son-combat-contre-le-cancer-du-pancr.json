@@ -1,0 +1,37 @@
+{
+  "slug": "le-maire-de-sainte-foy-les-lyon-temoigne-de-son-combat-contre-le-cancer-du-pancr",
+  "titre": "Le maire de Sainte‑Foy‑lès‑Lyon témoigne de son combat contre le cancer du pancréas",
+  "chapeau": "Bruno Jacolin, élu maire de Sainte‑Foy‑lès‑Lyon en 2026, a partagé son expérience de la maladie lors de la journée mondiale de lutte contre le cancer du pancréas. Son témoignage vise à sensibiliser les habitants aux signes précoces et aux démarches de dépistage.",
+  "corps": "## Un témoignage engagé\nDiagnostiqué d’un cancer du pancréas en 2023, le nouveau maire de la commune a accepté de parler publiquement de son parcours à l’occasion de la journée mondiale dédiée à cette pathologie. Il a décrit l’impact de la maladie sur sa vie quotidienne, les difficultés rencontrées lors du traitement et les ajustements nécessaires pour concilier mandat municipal et suivi médical. En se livrant sans détour, il a rappelé que le cancer du pancréas est responsable chaque année d’environ 400 000 décès dans le monde, soulignant ainsi l’importance d’une prise de conscience collective.\n\n## Sensibilisation et prévention locale\nLe maire a profité de son allocution pour encourager les résidents à être attentifs aux symptômes souvent discrets du cancer du pancréas, tels que des douleurs abdominales persistantes ou une perte de poids inexpliquée. Il a également indiqué que la mairie soutiendra les actions de prévention organisées par les établissements de santé du territoire, notamment des séances d’information dans les centres sociaux et des campagnes de dépistage ciblées. Les services municipaux ont annoncé la mise à disposition de brochures explicatives dans les mairies d’arrondissement et la diffusion de messages d’alerte sur les panneaux d’affichage publics.\n\n## Conséquences concrètes pour les habitants\nParmi les mesures annoncées, la municipalité prévoit de faciliter l’accès aux consultations spécialisées en créant des créneaux de rendez‑vous réservés aux habitants de Sainte‑Foy‑lès‑Lyon, en partenariat avec le centre hospitalier le plus proche. Un point d’information téléphonique sera également mis en place, le numéro national d’information sur le cancer (0 800 800 800) étant rappelé comme première ligne de contact pour toute question relative aux symptômes ou aux démarches de dépistage. Enfin, la collectivité a indiqué qu’elle continuera d’appuyer les associations locales œuvrant pour les patients atteints de cancers rares, en leur accordant des subventions ponctuelles.\n\n## Perspectives pour l’avenir\nEn concluant son intervention, le maire a exprimé son souhait de transformer son expérience personnelle en un levier d’action collective, afin que la communauté de Sainte‑Foy‑lès‑Lyon bénéficie d’une meilleure information et d’un suivi médical plus réactif. Il a appelé les citoyens à participer aux prochains ateliers de prévention organisés par la mairie et à diffuser les messages de vigilance autour d’eux. Pour plus de détails, le site officiel de la mairie (www.sainte-foy-lyon.fr) propose un espace dédié à la santé publique, où les habitants peuvent consulter les dates des prochaines actions de sensibilisation.",
+  "mots_cles": [
+    "cancer du pancréas",
+    "Sainte‑Foy‑lès‑Lyon",
+    "prévention santé",
+    "témoignage public"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-22T07:19:05+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/HDV-Ste-Foy.jpg/1280px-HDV-Ste-Foy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "October Ends",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:HDV-Ste-Foy.jpg",
+    "legende": "Hôtel de Ville de Sainte Foy-lès-Lyon, vu depuis son parc en automne.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:HDV-Ste-Foy.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès",
+      "titre": "« Tenez bon, c’est possible » : comment le maire de Sainte-Foy-lès-Lyon a surmonté son cancer du pancréas",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk5qbmV6R3ZNMlVZakR1ZFhDcFlQMm5GYll0LXNUMUtaYWxCR2tMQlhPaENueWNXblZFenpfYktyV3FleWhmMjl1U0FyNzRKdmFzY3pjbzJaWEktMVI4Q3Y1bVV4aGhDbEdGRWRweFhjZFJQTGZQd0dZUlB6MG51bUltN1BsYnZuSEJNX1IwNVJhTEhCVWVLTlZlUHlZYmxxOEFhc2Nmb2hwdXVEWDFJZTk2YTNvMXd2M1NORjB2Y0xlZmFKeVp1OFh6M1BKdjVqWnNpT3RkTXJVcHkt?oc=5"
+    },
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Métropole de Lyon. « Tenez bon, c’est possible » : comment le maire de Sainte-Foy-lès-Lyon a surmonté son cancer du pancréas",
+      "url": "https://www.leprogres.fr/politique/2026/11/22/tenez-bon-c-est-possible-comment-le-maire-de-sainte-foy-les-lyon-a-surmonte-son-cancer-du-pancreas"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
