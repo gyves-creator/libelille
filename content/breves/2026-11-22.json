@@ -143,5 +143,23 @@
     "titres_sources": [
       "Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France"
     ]
+  },
+  {
+    "titre": "Enquête israélienne après incendies dans quatre villages de Cisjordanie",
+    "texte": "Les autorités israéliennes ont ouvert une enquête après que des colons aient incendié et vandalisé des biens palestiniens dans quatre villages de Cisjordanie durant la nuit de samedi à dimanche. Le ministre de la Défense, Gadi Eisenkot, a qualifié ces faits de « terrorisme juif ».",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T10:29:28+00:00",
+    "titres_sources": [
+      "Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »"
+    ]
+  },
+  {
+    "titre": "Dupont-Aignan aborde guerre en Ukraine et crise sociale à Franceinfo",
+    "texte": "À 8h30, Nicolas Dupont-Aignan, candidat de Debout la France à la présidentielle, aurait parlé sur Franceinfo de la guerre en Ukraine, de la crise sociale et de la sortie éventuelle de l'Union européenne. Il aurait présenté son analyse des enjeux pour la France.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-22T10:29:28+00:00",
+    "titres_sources": [
+      "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan"
+    ]
   }
 ]
