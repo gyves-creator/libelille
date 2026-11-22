@@ -418,5 +418,23 @@
     "titres_sources": [
       "Mathématiques et IA : prenons le temps de comprendre"
     ]
+  },
+  {
+    "titre": "Paris FC s’impose face à Angers et prend la 2e place",
+    "texte": "Paris FC a battu Angers, Pagis s’est illustré et Zabi a marqué. Cette victoire hisse les Parisiens à la deuxième place, à trois points du PSG.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T17:50:08+00:00",
+    "titres_sources": [
+      "Paris FC-Angers : Pagis voit grand, Zabi saisit sa chance, les Angevins boivent la tasse… Les tops et les flops"
+    ]
+  },
+  {
+    "titre": "Barcelone renverse Villarreal 3-2 et garde son avance",
+    "texte": "Le FC Barcelone a renversé un déficit de 0-2 pour l’emporter 3-2 contre Villarreal. Le résultat maintient son avance sur le Real Madrid au classement.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T17:50:08+00:00",
+    "titres_sources": [
+      "Liga : mené 2-0, le Barça renverse Villarreal et conserve son avance sur le Real Madrid"
+    ]
   }
 ]
