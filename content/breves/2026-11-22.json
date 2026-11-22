@@ -16,5 +16,23 @@
     "titres_sources": [
       "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir"
     ]
+  },
+  {
+    "titre": "Départ du ministre sud-coréen de l'Éducation après scandale IA",
+    "texte": "Le ministre de l'Éducation a annoncé sa démission suite à la pression générée par le scandale de triche à l'IA. Quelques jours avant le Suneung, le gouvernement a lancé une vaste chasse aux fraudeurs après la révélation d'une tricherie à un concours des finances publiques.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-22T06:04:18+00:00",
+    "titres_sources": [
+      "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne"
+    ]
+  },
+  {
+    "titre": "Bilan mitigé dix ans après l'accord de paix colombien avec les FARC",
+    "texte": "Dix ans après la signature de l’accord historique de 2016, les avancées de la paix avec les FARC sont jugées décevantes. La mise en œuvre du texte, qui prévoyait réparations, redistribution des terres et réintégration des guérilleros, risque d’être compromise.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T06:04:18+00:00",
+    "titres_sources": [
+      "En Colombie, dix ans après la signature de l’accord historique, le bilan amer de la paix avec les FARC"
+    ]
   }
 ]

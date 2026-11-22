@@ -1,0 +1,33 @@
+{
+  "slug": "arabie-saoudite-peine-a-rallier-la-turquie-l-egypte-et-la-syrie-contre-les-houth",
+  "titre": "Arabie saoudite peine à rallier la Turquie, l'Égypte et la Syrie contre les Houthis au Yémen",
+  "chapeau": "Le 22 novembre 2026, la difficulté du royaume saoudien à convaincre ses partenaires régionaux de s’impliquer davantage au Yémen est mise en avant. Les revers militaires passés semblent freiner la mobilisation de la Turquie, de l’Égypte et, potentiellement, de la Syrie contre les rebelles houthis.",
+  "corps": "## Un contexte de guerre prolongée\nLe conflit yéménite, qui dure depuis plus d’une décennie, oppose le gouvernement reconnu internationalement, soutenu par l’Arabie saoudite et d’autres États du Golfe, aux rebelles houthis, soutenus par l’Iran. La coalition saoudienne, créée en 2015, a mené plusieurs offensives terrestres, aériennes et navales, mais a souvent été critiquée pour les pertes civiles et les échecs tactiques. Ces expériences, marquées par des revers notables, influencent aujourd’hui la perception des alliés potentiels.\n\n## Des alliés réticents\nLes tentatives de Riyad pour élargir son soutien militaire rencontrent une résistance croissante. La Turquie, qui a déjà déployé des troupes en Libye et en Syrie, montre peu d’enthousiasme à intervenir au Yémen, où les risques d’enlisement sont perçus comme élevés. De même, l’Égypte, engagée dans des opérations sécuritaires à sa frontière et dans la région du Sinaï, ne semble pas prête à ouvrir un nouveau front. La Syrie, dont la situation intérieure reste fragile, est mentionnée comme un possible partenaire, mais aucune décision concrète n’a été annoncée. L’ensemble de ces réserves est attribué aux défaites précédentes de la coalition, qui ont laissé une impression de coût élevé et d’efficacité limitée.\n\n## Conséquences pour la stratégie saoudienne\nFace à ces hésitations, l’Arabie saoudite doit réévaluer ses options. Le manque de nouveaux partenaires pourrait contraindre Riyad à renforcer ses propres forces ou à rechercher d’autres formes de soutien, comme l’assistance logistique ou le renseignement, plutôt que l’engagement direct de troupes étrangères. Cette situation pourrait également encourager les négociations diplomatiques, bien que les pourparlers restent complexes en raison des divergences d’intérêts entre les acteurs régionaux.\n\n## Perspectives d’évolution\nL’évolution du rôle des alliés dépendra de l’évolution du tableau militaire au Yémen et de la perception des coûts associés. Si les succès tactiques se multiplient, la réticence pourrait diminuer, ouvrant la voie à une participation plus large. En revanche, de nouveaux revers pourraient consolider la position actuelle, maintenant le royaume saoudien dans une posture de recherche de solutions alternatives.\n\nLe tableau actuel montre donc que les expériences passées de la coalition continuent de peser sur les décisions des États voisins, limitant la capacité de l’Arabie saoudite à élargir son engagement contre les houthis.",
+  "mots_cles": [
+    "Yémen",
+    "Arabie Saoudite",
+    "Houthis",
+    "coalition",
+    "alliés régionaux"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-22T06:04:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Saudi_Hawks90.jpg/1280px-Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Meshari Alawfi",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Saudi_Hawks90.jpg",
+    "legende": "Saudi Falcons participated in many events and competitions, whether in official celebrations or tourist festivals inside and outside Saudi Arabia.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Saudi Hawks90.jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "« Le poids des défaites passées dissuade les alliés de l’Arabie saoudite de s’engager au Yémen »",
+      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/22/le-poids-des-defaites-passees-dissuade-les-allies-de-l-arabie-saoudite-de-s-engager-au-yemen_6814191_6116995.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
