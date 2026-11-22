@@ -1,0 +1,33 @@
+{
+  "slug": "affaire-laetitia-perrais-rappel-d-un-meurtre-qui-a-secoue-la-loire-atlantique",
+  "titre": "Affaire Laëtitia Perrais : rappel d’un meurtre qui a secoué la Loire‑Atlantique",
+  "chapeau": "Il aurait été rapporté que la mort de Laëtitia Perrais, serveuse de 18 ans à Pornic, a profondément marqué la région en janvier 2011. L’affaire, liée à un enlèvement et un homicide, aurait ensuite suscité une forte émotion au niveau national.",
+  "corps": "## Un drame qui a traversé les frontières locales\r\nIl aurait été indiqué que Laëtitia Perrais, alors âgée de dix‑huit ans et employée dans un café de Pornic, aurait disparu lors d’une nuit de janvier 2011. Selon les informations disponibles, elle aurait été enlevée puis assassinée par Tony Meilhon. L’enquête, qui aurait rapidement pris de l’ampleur, aurait conduit les autorités à ouvrir une procédure judiciaire d’envergure, dépassant le cadre strictement local.\r\n\r\n## Répercussions sur la communauté\r\nLa mort de la jeune femme aurait généré une vague d’émotion au sein de la population de la Loire‑Atlantique. Des rassemblements spontanés et des hommages auraient été organisés dans la ville de Pornic et ses environs, témoignant du choc collectif. Le dossier aurait également attiré l’attention des instances politiques, qui auraient suivi de près les développements judiciaires, faisant de l’affaire un sujet de débat au niveau national.\r\n\r\n## Conséquences pratiques pour les habitants\r\nBien que les faits remontent à plus d’une décennie, les résidents de la région restent sensibles aux questions de sécurité publique. Les autorités locales auraient rappelé l’importance de la vigilance et de la coopération avec les services de police en cas de disparition ou d’incident suspect. Aucun changement concret dans les infrastructures ou les services de transport n’a été signalé à ce jour.\r\n\r\n## Informations complémentaires\r\nPour toute information relative à la sécurité ou à la prévention des enlèvements, les habitants peuvent contacter le numéro d’urgence national (112) ou se rendre sur le site internet de la préfecture de Loire‑Atlantique. Les services municipaux de Pornic restent disponibles pour répondre aux questions des citoyens concernant les mesures de sécurité locales.",
+  "mots_cles": [
+    "Laëtitia Perrais",
+    "Pornic",
+    "enlèvement",
+    "homicide",
+    "Loire‑Atlantique"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-22T11:51:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Pornic_-_Ch%C3%A2teau_-_01.jpg/1280px-Pornic_-_Ch%C3%A2teau_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "François de Dijon",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pornic_-_Ch%C3%A2teau_-_01.jpg",
+    "legende": "Le château de Pornic. (Loire-Atlantique, Pays de la Loire, France)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Pornic - Château - 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest France.fr - L'actualité en direct, en continu et en images",
+      "titre": "RÉCIT. Laëtitia, 18 ans, tuée une nuit de janvier : comment un fait divers a ému le pays avant de devenir affaire d’État",
+      "url": "https://www.ouest-france.fr/societe/faits-divers/recit-laetitia-18-ans-tuee-une-nuit-de-janvier-comment-un-fait-divers-a-emu-le-pays-avant-de-devenir-affaire-detat-625b688a-f227-4411-8198-78357704c67b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

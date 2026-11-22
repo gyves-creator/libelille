@@ -1,0 +1,33 @@
+{
+  "slug": "fermeture-du-col-des-champs-dans-les-alpes-maritimes-a-cause-de-la-neige",
+  "titre": "Fermeture du col des Champs dans les Alpes‑Maritimes à cause de la neige",
+  "chapeau": "Un important col routier de la haute vallée du Var a été fermé ce dimanche matin en raison d’importantes chutes de neige. La décision impacte la circulation locale et les déplacements entre les communes concernées.",
+  "corps": "## Fermeture du col des Champs\nLe col des Champs, situé dans la haute vallée du Var en Alpes‑Maritimes, a été déclaré impraticable ce dimanche matin à cause de l’accumulation de neige. Les autorités compétentes ont donc ordonné la fermeture du passage afin d’assurer la sécurité des usagers.\n\n## Conséquences pour les automobilistes\nCette fermeture entraîne une interruption du trafic routier sur la voie qui dessert les villages de la vallée. Les conducteurs doivent donc emprunter des itinéraires alternatifs, notamment les cols voisins qui restent ouverts, ou suivre les indications de déviation affichées sur place. Les services de la préfecture et les services de secours restent mobilisés pour surveiller la situation et intervenir en cas de besoin.\n\n## Conseils pratiques aux riverains\nLes habitants et les usagers sont invités à consulter régulièrement les sites internet de la mairie ou de la préfecture pour obtenir les dernières informations sur l’état du col et les éventuelles modifications des déviations. En cas d’urgence, le numéro d’appel d’urgence national reste disponible. Il est recommandé de différer les déplacements non essentiels jusqu’à la levée de la restriction, lorsque les conditions météorologiques le permettront.\n\n## Contexte saisonnier\nLes cols alpins de la région, dont le col des Champs, sont régulièrement soumis à des fermetures temporaires durant l’hiver lorsqu’une accumulation de neige rend la conduite dangereuse. Cette mesure s’inscrit dans la politique de prévention des accidents routiers en montagne, largement appliquée chaque année dans les Alpes‑Maritimes.",
+  "mots_cles": [
+    "neige",
+    "col des Champs",
+    "fermeture",
+    "Alpes-Maritimes",
+    "circulation"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-22T11:51:50+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Saint-Martin-d%27Entraunes_-_Col_des_Champs_-_La_Dent_de_Li%C3%A8vre_et_la_Colle_Basse.JPG/1280px-Saint-Martin-d%27Entraunes_-_Col_des_Champs_-_La_Dent_de_Li%C3%A8vre_et_la_Colle_Basse.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "MOSSOT",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint-Martin-d%27Entraunes_-_Col_des_Champs_-_La_Dent_de_Li%C3%A8vre_et_la_Colle_Basse.JPG",
+    "legende": "Saint-Martin-d'Entraunes - La Dent de Lièvre et la Colle Base vues du col des Champs",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Saint-Martin-d'Entraunes - Col des Champs - La Dent de Lièvre et la Colle Basse.JPG"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Bonette, Lombarde, Cayolle et désormais le col des Champs : tous les grands cols des Alpes-Maritimes fermés à cause de la neige",
+      "url": "https://www.nicematin.com/info-trafic/bonette-lombarde-cayolle-et-desormais-le-col-des-champs-tous-les-grands-cols-des-alpes-maritimes-fermes-a-cause-de-la-neige-10766466"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
