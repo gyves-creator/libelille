@@ -88,5 +88,24 @@
     "titres_sources": [
       "Le PSG gagne à Nice… mais perd Désiré Doué : même diminué, toujours aussi implacable"
     ]
+  },
+  {
+    "titre": "Victor Wembanyama inscrit 50 points, les Spurs l'emportent",
+    "texte": "Victor Wembanyama a réalisé 50 points, assurant la victoire des Spurs sur New Orleans. Tyler Herro a également totalisé 50 points, mais les 76ers, menés par Joel Embiid, sont restés dans le match.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T08:56:39+00:00",
+    "titres_sources": [
+      "Magistral, Victor Wembanyama inscrit 50 points dans le succès des Spurs et marque encore une fois l'histoire de la NBA",
+      "NBA : Wembanyama marque 50 points dans la victoire des Spurs"
+    ]
+  },
+  {
+    "titre": "Gadi Eisenkot sollicite Benyamin Netanyahou pour coalition",
+    "texte": "Le centriste Gadi Eisenkot a demandé à la formation de Benyamin Netanyahou d'entamer des négociations de coalition. Il dispose d'un mois pour constituer un gouvernement, les élections d'octobre n'ayant donné de majorité absolue à aucun camp.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T08:56:39+00:00",
+    "titres_sources": [
+      "Elections législatives en Israël : le centriste Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition"
+    ]
   }
 ]

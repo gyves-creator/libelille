@@ -1,0 +1,38 @@
+{
+  "slug": "julia-grid-costantino-candidate-lyonnaise-a-miss-france-2026",
+  "titre": "Julia Grid-Costantino, candidate lyonnaise à Miss France 2026",
+  "chapeau": "Julia Grid-Costantino, 23 ans, a été élue Miss Rhône‑Alpes 2026 et partira représenter la région au concours national du 12 décembre. Originaire de Lyon, elle a quitté la gare Part‑Dieu le 12 novembre pour rejoindre le dispositif du concours.",
+  "corps": "## Un parcours local au service de la région\r\nJulia Grid-Costantino, jeune professionnelle du marketing et danseuse, a remporté le titre de Miss Rhône‑Alpes lors du concours organisé le 19 septembre à Villefranche‑sur‑Saône. Âgée de 23 ans, elle combine plusieurs activités : elle travaille comme cheffe de projet marketing, pratique la danse et avoue une préférence pour le chocolat, tout en déclarant une phobie des araignées. Après trois années de préparation, elle estime être prête à porter les couleurs de la région lors de l’épreuve nationale.\r\n\r\n## Le départ vers le Futuroscope\r\nLe 12 novembre, la candidate a embarqué à la gare Part‑Dieu pour se rendre à Vienne, où se tiendra le concours Miss France le 12 décembre au parc du Futuroscope. Ce déplacement marque le début de la phase finale du concours, qui réunit les représentants des différentes régions françaises. La présence de Julia à cet événement permettra à la région Auvergne‑Rhône‑Alpes d’être visible sur la scène nationale.\r\n\r\n## Enjeux et visibilité pour les Lyonnais\r\nPour les habitants de Lyon, la participation de Julia représente une occasion de voir leur ville et leur région mises en avant lors d’un événement médiatisé à l’échelle du pays. La candidate a exprimé que son plus grand sentiment de fierté réside dans le fait de représenter sa ville, ce qui peut renforcer le sentiment d’appartenance locale. Aucun changement d’infrastructure ou de service public n’est annoncé à la suite de ce départ.\r\n\r\n## Informations pratiques\r\nLes personnes souhaitant suivre le parcours de la candidate peuvent consulter le site officiel du concours Miss France ou les réseaux sociaux dédiés à l’événement. Aucun dispositif particulier de transport ou de sécurité n’a été indiqué pour le trajet entre Lyon et le Futuroscope.",
+  "mots_cles": [
+    "Miss France",
+    "Lyon",
+    "Julia Grid-Costantino",
+    "Miss Rhône‑Alpes",
+    "Futuroscope"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-22T08:56:23+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Presqu%27%C3%AEle_de_Lyon_depuis_un_vol_Londres_-_Lyon.jpg/1280px-Presqu%27%C3%AEle_de_Lyon_depuis_un_vol_Londres_-_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Presqu%27%C3%AEle_de_Lyon_depuis_un_vol_Londres_-_Lyon.jpg",
+    "legende": "Presqu'île de Lyon depuis un vol Londres - Lyon.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Presqu'île de Lyon depuis un vol Londres - Lyon.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès",
+      "titre": "Lyon Julia Grid-Costantino, candidate à Miss France : « Ma plus grande fierté, c’est de représenter ma ville»",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDFXM1EyTFVCSTFNM2h1MlJhTFh0RlRYTmlkYVZpR0FodElGbkg1ZWwycm9KTGVxVC1pS2R6LXlqQldGV2d0R0FmeXJIZWtPZ1FYdloxVHF5RlZkbTNRYm1TX1BzWTc5TWd3RVVsOXRZUlB4MU9xS0JDU2ZROXpBR24wN2Q2QWYtdmhyN0ZaQ2N3SFU5Y05jYmdab2lXcFZrRVZNRkt0ZWc3Mkp5QzhEc0JndTg1ZWVtcFg3MmNXUVVsOWtyOTd2QUQwVzItQXFsSTZjWnJuaUhWdkMyYkE?oc=5"
+    },
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Lyon. Julia Grid-Costantino, candidate à Miss France : « Ma plus grande fierté, c’est de représenter ma ville»",
+      "url": "https://www.leprogres.fr/societe/2026/11/22/ma-plus-grande-fierte-c-est-de-representer-ma-ville-julia-grid-costantino-une-lyonnaise-a-miss-france"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
