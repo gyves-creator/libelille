@@ -508,5 +508,24 @@
     "titres_sources": [
       "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires"
     ]
+  },
+  {
+    "titre": "Manifestations à Istanbul contre la tutelle de médias d’opposition",
+    "texte": "Des milliers de personnes auraient défilé à Istanbul pour dénoncer la mise sous tutelle de médias d’opposition, après la perquisition de la chaîne Sözcü TV et l’arrestation de plusieurs de ses dirigeants. La mobilisation aurait été organisée à l’appel du parti Yeni Parti.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T20:28:14+00:00",
+    "titres_sources": [
+      "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+      "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat"
+    ]
+  },
+  {
+    "titre": "Des missiles de croisière russes retrouvés en Pologne",
+    "texte": "Le parquet de Lublin aurait indiqué que les objets volants tombés vendredi en Pologne étaient des missiles de croisière russes. Au moins un des impacts aurait provoqué une explosion et un incendie, sans faire de blessés.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T20:28:14+00:00",
+    "titres_sources": [
+      "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin"
+    ]
   }
 ]
