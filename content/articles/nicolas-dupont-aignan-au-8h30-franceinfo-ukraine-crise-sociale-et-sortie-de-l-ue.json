@@ -1,0 +1,33 @@
+{
+  "slug": "nicolas-dupont-aignan-au-8h30-franceinfo-ukraine-crise-sociale-et-sortie-de-l-ue",
+  "titre": "Nicolas Dupont‑Aignan au 8h30 Franceinfo : Ukraine, crise sociale et sortie de l’UE",
+  "chapeau": "Le candidat Debout la France, Nicolas Dupont‑Aignan, a été invité sur le journal télévisé 8h30 de Franceinfo. Il a abordé la guerre en Ukraine, la situation sociale en France et la question de la sortie de l’Union européenne.",
+  "corps": "## Débat sur les grands enjeux internationaux et nationaux\nLe 22 novembre 2026, le programme matinal 8h30 de Franceinfo a consacré une partie de son édition à l’intervention de Nicolas Dupont‑Aignan, porte‑parole de Debout la France à l’élection présidentielle. Au cours de cet entretien, le candidat a présenté son analyse de la guerre en Ukraine, soulignant les répercussions géopolitiques et humanitaires de ce conflit. Il a rappelé les positions traditionnelles de la France en matière de soutien à la souveraineté ukrainienne, tout en appelant à une plus grande implication diplomatique pour accélérer les négociations de paix.\n\n## La crise sociale comme priorité intérieure\nParallèlement aux questions internationales, Dupont‑Aignan a mis en avant la crise sociale qui, selon lui, touche l’ensemble du territoire français. Il a évoqué les difficultés rencontrées par les ménages face à la hausse du coût de la vie, le chômage persistant et les tensions dans le secteur de la santé. Le candidat a indiqué que son programme prévoit des mesures visant à renforcer le pouvoir d’achat, à soutenir les entreprises locales et à réformer le système de protection sociale afin de répondre aux attentes des citoyens.\n\n## Position sur la sortie de l’Union européenne\nLe troisième thème abordé a concerné la sortie de la France de l’Union européenne, sujet récurrent dans le discours de Debout la France. Dupont‑Aignan a rappelé les souverainistes qui souhaitent regagner le contrôle des politiques monétaire, migratoire et législative. Il a précisé que, selon son programme, un référendum serait organisé pour permettre aux électeurs de se prononcer sur cette question, tout en insistant sur la nécessité d’une sortie ordonnée et négociée pour éviter les perturbations économiques.\n\nCes trois axes – guerre en Ukraine, crise sociale et sortie de l’UE – ont structuré le temps d’antenne accordé à Nicolas Dupont‑Aignan, offrant ainsi aux téléspectateurs une vision synthétique des priorités du candidat pour la prochaine échéance électorale.",
+  "mots_cles": [
+    "Nicolas Dupont‑Aignan",
+    "guerre Ukraine",
+    "crise sociale",
+    "sortie UE",
+    "Débat politique"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-22T10:54:01+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Debout la France",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg",
+    "legende": "Nicolas Dupont-Aignan",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nicolas Dupont-Aignan, homme politique français.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

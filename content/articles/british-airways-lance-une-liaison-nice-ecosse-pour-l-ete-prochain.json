@@ -1,0 +1,43 @@
+{
+  "slug": "british-airways-lance-une-liaison-nice-ecosse-pour-l-ete-prochain",
+  "titre": "British Airways lance une liaison Nice‑Écosse pour l'été prochain",
+  "chapeau": "La compagnie aérienne British Airways annoncera l'ouverture d'un vol direct entre l'aéroport de Nice et l'Écosse dès l'été prochain. Cette nouvelle liaison, assurée par sa filiale BA Cityflyer, offrira aux Niçois un accès direct à une destination britannique très prisée.",
+  "corps": "## Une nouvelle liaison aérienne entre la Côte d’Azur et l’Écosse\nBritish Airways a confirmé la création d'une ligne saisonnière reliant l'aéroport Nice Côte d'Azur à l'Écosse à compter de l'été prochain. Le service sera exploité par la filiale BA Cityflyer, spécialisée dans les courtes distances. Aucun détail supplémentaire n'a été communiqué concernant les aéroports d'arrivée en Écosse, la fréquence des vols ou les tarifs.\n\n## Impacts pour les voyageurs niçois\nCette connexion directe élargit l'offre de destinations internationales depuis Nice, permettant aux habitants et aux touristes de rejoindre l'Écosse sans escale. Elle pourrait également favoriser le flux touristique réciproque, les Niçois étant susceptibles de découvrir les paysages écossais et, inversement, les visiteurs écossais d'explorer la Côte d’Azur. Les professionnels du secteur du voyage anticipent un renforcement de l'attractivité de la région pendant la haute saison estivale.\n\n## Informations pratiques pour les usagers\nLes personnes intéressées sont invitées à consulter le site officiel de British Airways ou celui de l'aéroport Nice Côte d'Azur pour connaître les dates précises de mise en service, les horaires et les modalités de réservation. En cas de questions, le service client de la compagnie aérienne reste le canal recommandé. Les usagers peuvent également se rendre sur le site de la mairie de Nice pour toute information relative aux déplacements et aux éventuelles mesures d'accompagnement liées à l'ouverture de la nouvelle liaison.",
+  "mots_cles": [
+    "Nice",
+    "British Airways",
+    "liaison aérienne",
+    "Écosse",
+    "tourisme"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-22T10:54:14+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/FlixBus_Irizar_i6_-_Nice_A%C3%A9roport.jpg/1280px-FlixBus_Irizar_i6_-_Nice_A%C3%A9roport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Florian Fèvre",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:FlixBus_Irizar_i6_-_Nice_A%C3%A9roport.jpg",
+    "legende": "Irizar i6 de la compagnie Flixbus, à l'aéroport de Nice Côte d'Azur.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:FlixBus Irizar i6 - Nice Aéroport.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Vous aimez les kilts et les cornemuses ? Cette nouvelle destination au départ de l’aéroport de Nice pour l’été prochain devrait vous ravir",
+      "url": "https://www.nicematin.com/societe/transports/vous-aimez-les-kilts-et-les-cornemuses-cette-nouvelle-destination-au-depart-de-l-aeroport-de-nice-pour-l-ete-prochain-devrait-vous-ravir-10766503"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Vous aimez les kilts et les cornemuses ? Cette nouvelle destination au départ de l’aéroport de Nice pour l’été prochain devrait vous ravir",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSmdsbmhYRUE1ZmkyUF94cHdlVUM4RHk5cnYzYVRZMGxIUmtYUUZLelNaMUpLQmxKaEJnSVQ0RGFSNnV5QWxjbzNlcGQwY0U2N200VXp4Y1RYeFBmSHNRRnhGUnVrLUdBMWR3T1dhUU9GdlZTR3l2RVhUTDItTkVUY0hCUldDQWhHUVczd3h4MlZ2WkFxVmtrSjdQbjBKakl6Ni1RbUdBMDhhMFkwX3hGNHNaTVp2c1pxajRaNmtlZDViMkVKWm5LaEpMUGFwTUs0UmFJVWFxWERMZGFDMFVMNk5QVmlTYXNlNUpEYzRISzV4Ni10c0ZSS2R2QkpiVTRvU3AySGREZG5zb0pVa05JempIWVVmQUNkdXc?oc=5"
+    },
+    {
+      "media": "Ulysse",
+      "titre": "British Airways dévoile une nouvelle liaison entre Nice et une destination prisée du Royaume-Uni",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGdkc01NOXQxclVPTWVZYVdUZkJlSkdBSmFEbXhzZ3NYbUEwSTlkbUdyQWZpbkNpWFB6N0pXVkd1cjBSX1MzcXVhS2dhWG9wdWNWd1BONWlSQTBKVWU2Z3UyQTRhNlRLRVN3dzhidUFmaXRLM2FXWUZmRDc2SHFCTE5oRWRURW9VSERHWlJfOEpCY19fbXJqVFg5QlB3bWI4OS04RFFnZzBaVVc5T1U4THFEa2JvZDRRdWpEaw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

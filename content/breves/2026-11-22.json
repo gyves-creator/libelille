@@ -161,5 +161,23 @@
     "titres_sources": [
       "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan"
     ]
+  },
+  {
+    "titre": "Anciennes guérillas colombiennes lancent un vaste reboisement",
+    "texte": "Après la clôture de la COP31, d'anciens combattants démobilisés depuis dix ans orchestrent une importante opération de reforestation. Le projet se concentre dans le sud de la Colombie.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T10:54:37+00:00",
+    "titres_sources": [
+      "Comment réparer l’Amazonie colombienne, une fois les armes déposées"
+    ]
+  },
+  {
+    "titre": "Galthié qualifie la victoire contre l'Argentine de tour de force",
+    "texte": "Le sélectionneur du XV de France, Fabien Galthié, a déclaré que la place en finale, obtenue après une victoire 45-17 face à l'Argentine, représente un exploit à ne pas minimiser. Il attend le duel contre les Springboks dimanche prochain.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T10:54:37+00:00",
+    "titres_sources": [
+      "Fabien Galthié : «Se retrouver en finale, c’est un tour de force à ne pas banaliser»"
+    ]
   }
 ]

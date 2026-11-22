@@ -1,0 +1,33 @@
+{
+  "slug": "la-regle-d-or-budgetaire-une-option-envisagee-mais-conditionnee",
+  "titre": "La règle d’or budgétaire : une option envisagée mais conditionnée",
+  "chapeau": "Le président Emmanuel Macron souhaite réunir le Congrès pour débattre d’une règle d’or budgétaire. Cette contrainte pourrait contribuer à réduire les déficits, à condition que des exigences précises soient respectées.",
+  "corps": "## Contexte de la règle d’or\nLa règle d’or budgétaire désigne généralement un dispositif qui impose à l’État de ne pas dépasser un certain niveau d’endettement ou de déficit, souvent exprimé en pourcentage du produit intérieur brut. En France, elle est fréquemment associée à la limitation du déficit public à 3 % du PIB, norme inscrite dans le Pacte de stabilité et de croissance de l’Union européenne. Depuis plusieurs années, le pays affiche des déficits structurels qui dépassent régulièrement ce seuil, ce qui alimente les discussions sur la mise en place d’un cadre plus strict.\n\n## L’initiative du président Macron\nLe chef de l’État aurait exprimé le désir de convoquer le Congrès, réunion exceptionnelle des deux assemblées, afin d’examiner la mise en œuvre d’une règle d’or. Cette démarche s’inscrit dans une volonté de renforcer la discipline budgétaire et de répondre aux exigences européennes tout en rassurant les marchés financiers. L’annonce de la convocation du Congrès indique que le gouvernement veut débattre de ce sujet en profondeur, en mobilisant les parlementaires des deux chambres.\n\n## Conditions d’efficacité évoquées\nSelon les éléments fournis, la règle d’or pourrait se révéler efficace, mais uniquement sous certaines conditions. Parmi les exigences généralement avancées, on retrouve la nécessité d’une assise juridique solide, d’une adaptation aux spécificités de la conjoncture économique et d’un suivi rigoureux des indicateurs budgétaires. Sans ces garanties, la contrainte budgétaire risquerait de se heurter à des difficultés d’application, notamment en période de ralentissement économique où les recettes fiscales diminuent.\n\n## Limites et perspectives\nLes analystes soulignent que la règle d’or ne constitue pas une solution miracle aux déficits chroniques. Elle doit être accompagnée d’autres mesures, telles que la réforme des dépenses publiques, la lutte contre la fraude fiscale ou la stimulation de la croissance. Le débat qui se prépare au Congrès devrait donc porter non seulement sur l’instauration de la règle, mais aussi sur l’articulation de l’ensemble des politiques économiques destinées à restaurer l’équilibre des comptes publics.",
+  "mots_cles": [
+    "règle d’or",
+    "déficit public",
+    "Congrès",
+    "budget français",
+    "Emmanuel Macron"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-22T10:54:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Photo Claude TRUONG-NGOC",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+    "legende": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France",
+      "url": "https://www.lefigaro.fr/conjoncture/budget-pourquoi-la-regle-d-or-n-est-pas-la-solution-miracle-aux-deficits-chroniques-de-la-france-20260804"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

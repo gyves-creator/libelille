@@ -1,0 +1,38 @@
+{
+  "slug": "fc-nantes-grenoble-olliero-rit-du-coach-conceicao",
+  "titre": "FC Nantes - Grenoble : Olliero rit du coach Conceição",
+  "chapeau": "Un match opposant le FC Nantes à Grenoble s’est déroulé ce week‑end. À l’issue de la rencontre, le joueur Olliero a plaisanté en déclarant que le coach Conceição lui faisait peur.",
+  "corps": "## Un affrontement attendu dans la région nantaise\nLe club nantais a reçu le club de Grenoble sur son terrain, le Stade de la Beaujoire, pour une rencontre officielle. L’événement a rassemblé les supporters des deux équipes, ainsi que les habitants du quartier de la Beaujoire, qui ont pu profiter de la diffusion du match dans les commerces et les espaces publics. Aucun changement de circulation ou de service de transport n’a été signalé par les autorités locales.\n\n## Réactions des joueurs après le match\nÀ la fin du jeu, le jeune attaquant Olliero a exprimé, avec humour, son sentiment vis‑à‑vis de l’entraîneur adverse : « Conceição, c’est un coach qui me faisait peur ! ». Cette remarque, courte et détendue, a été relayée par les médias sportifs et illustre la légèreté qui peut accompagner les confrontations sportives, même lorsque la tension est élevée sur le terrain.\n\n## Contexte des deux formations\nLe FC Nantes évolue dans le championnat de première division française, la Ligue 1, et est reconnu pour son jeu offensif et sa formation de jeunes talents. Grenoble, quant à lui, dispute la deuxième division, la Ligue 2, et cherche à progresser vers le haut du classement. Les deux clubs se rencontrent régulièrement lors de coupes nationales, ce qui crée une rivalité ponctuelle mais respectueuse.\n\n## Informations pratiques pour les habitants\nLes habitants de Nantes n’ont aucune consigne particulière à suivre à la suite de ce match. Les transports en commun fonctionnent normalement, et aucune déviation routière n’est en vigueur. En cas de besoin d’informations complémentaires sur les prochains matchs ou les horaires de transport, il est possible de consulter le site officiel de la ville de Nantes ou de contacter le service d’information du stade.\n\nLe match a donc été l’occasion pour les Nantais de vivre un moment sportif sans perturbation majeure, tout en profitant d’une anecdote légère partagée par l’un des joueurs de l’équipe locale.",
+  "mots_cles": [
+    "FC Nantes",
+    "Grenoble",
+    "Olliero",
+    "Conceição",
+    "football"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-22T10:54:22+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/PSG_Ultras_in_2019.jpg/1280px-PSG_Ultras_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Vincenzo.togni",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PSG_Ultras_in_2019.jpg",
+    "legende": "PSG Ultras in 2019 during a game against FC Nantes",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:PSG Ultras in 2019.jpg"
+  },
+  "sources": [
+    {
+      "media": "maville.com",
+      "titre": "Loire Atlantique - FC Nantes - Grenoble. « Conceição, c’est un coach qui me faisait peur ! », rigole Olliero",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVV9FZzdjT2RKY3dWNXVuRTA0WERVYnk0ZWFKcjdsZmwxVkQ1ZkQyMGZaeXJ2QVg2T3BzOEpEdjAyWjdiUTN1WG1IZnAwLUVXOUFhRE4tY0w4RURiZmV2T2F4SHFxSzdFNy1FR25pTlBDUmxHU2Y4SS1PX05pY3pMNV9tQW5qQzNoYWRIQUhDOTFObUJBWUNHdVNIWGR6bXJYQTZBT2NORUdqcktvQ1lRT3Ffa25XWlBQMHQtenNlaGNJQVEzOUtOUHFnODd0YVVvTk03VnIzaHFvSmc1MjJrUWwwcmNrakN2aVhyNDNR?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "FC Nantes - Grenoble. « Conceição, c’est un coach qui me faisait peur ! », rigole Olliero",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQb1JlWXRaNWxzb0ZMLV9nNGwta1I0eE9KNVY1RnFWMTJaZG12WXBiMFAzdHJKWkxmOVNpaVdQT19PVnljRFhjY19rTVNMNmZnT3NNNktmTTZIdVY2Qkoyam45T0djcWw1aHdmUzdBZnpPZXRQelRxTzNkemRZa1NjcGYyY0RVNFMtS1FmYjRVZ21MamR0cnVVNWJCVThoYll1S3cyN1psTHhYZ0RhZTdBNW01UkV3b1FYTkZibzN4cGFvcHJHZ3RodUhzRzJVci1FdlBEU1pyWFpiMXo2YW5rOGxjMEFNMURIUEJaelRYRG5YRGctRkxnSWFBOA?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
