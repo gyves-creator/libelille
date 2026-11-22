@@ -1,0 +1,38 @@
+{
+  "slug": "une-commercante-et-son-fils-blesses-par-des-crs-lors-d-une-manifestation-du-17-o",
+  "titre": "Une commerçante et son fils blessés par des CRS lors d’une manifestation du 17 octobre à Paris",
+  "chapeau": "Une commerçante et son fils ont été frappés par des CRS lors d’une manifestation qui s’est déroulée le 17 octobre à Paris. La victime a témoigné de ce qu’elle qualifie d’erreur de la part des forces de l’ordre.",
+  "corps": "## Un incident signalé pendant la manifestation du 17 octobre\nLe 17 octobre, une manifestation a eu lieu dans la capitale française. Au cours de cet événement, une commerçante et son fils se sont retrouvés au centre d’une altercation avec les Compagnies Républicaines de Sécurité (CRS), les unités spécialisées dans le maintien de l’ordre. Selon le témoignage de la commerçante, les policiers ont utilisé leurs matraques et l’ont frappée ainsi que son enfant, affirmant qu’il s’agissait d’une erreur d’identification.\n\n## Témoignage de la victime\nLa commerçante, qui a souhaité rester anonyme, a déclaré avoir reçu des coups de matraque sans justification apparente. Elle a précisé que ni elle ni son fils ne participaient aux affrontements et qu’ils se trouvaient simplement à proximité de son commerce. Le récit indique que les forces de l’ordre ont agi « par erreur », ce qui soulève des questions sur les procédures de contrôle de foule lors de manifestations.\n\n## Contexte de l’intervention des CRS\nLes CRS sont régulièrement déployés lors de rassemblements publics afin d’assurer la sécurité et de prévenir les débordements. Leur rôle comprend le contrôle des flux de manifestants, la dispersion des attroupements et, si nécessaire, l’usage de la force proportionnée. Dans le cas présent, l’usage d’une matraque contre des civils non‑participants a été perçu comme excessif par la victime, qui a choisi de rendre son expérience publique.\n\n## Conséquences et suites possibles\nAucun détail supplémentaire n’a été fourni quant aux suites médicales ou aux démarches administratives engagées par la commerçante. L’incident met en lumière les risques de confusion lors d’interventions policières dans des contextes de forte affluence. Les autorités compétentes n’ont pas encore communiqué de position officielle sur cet épisode. Les habitants de Paris sont invités à rester informés des évolutions éventuelles et à signaler tout comportement jugé inapproprié aux services de police.\n\nEn l’absence d’informations complémentaires, il est recommandé aux personnes concernées de se rapprocher des services de police ou de la mairie pour toute question relative à cet incident.",
+  "mots_cles": [
+    "manifestation",
+    "CRS",
+    "Paris",
+    "commerçante",
+    "violence policière"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-22T09:55:14+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame_--_2014_--_1458-65.jpg",
+    "legende": "Sculptures of the kings of Judea at the west front of Notre-Dame , Paris , France Notre-Dame Cathedral in Paris is one of the most important Gothic buildings and a symbol of Paris. Construction began ",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Paris, Notre Dame -- 2014 -- 1458-65.jpg"
+  },
+  "sources": [
+    {
+      "media": "Seven Radio",
+      "titre": "Paris : une commerçante et son fils roués de coups par erreur par des CRS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkZMWmljZUdFWWdpM0pHSk56MFVfSWZXbHFFZGZES1VxUlRpNHFibzlpUHNmMzBGMGQ5V3BiQV9vUmdXaGtpTjFlRUVKTExxZUxzTXVhbldPbEtlemMxaWJjZlNBWmRuaS1Cd05sd0FNN2ZTZzB4VkFJZTc3WXJRb24yTkpWOFdub2ZYLUt1S1lLblo3dXQyaXFvUF83ZWlvNW4ya3J1OEY?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "Manifestation du 17 octobre à Paris: une commerçante frappée par erreur par des CRS témoigne",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTBhUkh3bW5VNnVxOHV1b0w5UkZsSFhoVjY3Tm1qMlc2VGhsYkNkZmlmQjBpZ0xkNE1nMEMtRFJVM1d6MVp6TEIwMElCSUVGbGtfNl9xeExZRmJFTEw2V19adXkwTURhOVlJektpd1JMZzZ1aDRMV1lHQlZhVGFDbHdZTXFqQS1HS0drb2FEc2xnWjMzd1BCbno5S2wtZmdEXzhNWmx3TUpYendzNlltczlOZkFHNHhvLUN0ZGZWTGN1V1ZPVzJqVmIxc1B6RzZ3UDhEeEFWbVk3alhvVl8ySkZvMnE2ZWd4V3lv?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "retard-du-chantier-de-la-cite-de-la-natation-a-toulouse",
+  "titre": "Retard du chantier de la Cité de la natation à Toulouse",
+  "chapeau": "Le projet de la future piscine Léon Marchand, prévue sur l’île du Ramier, ne débutera pas en 2026 comme annoncé. Le permis de construire, délivré en mai, ne suffit pas à garantir le lancement des travaux dans les délais initialement fixés.",
+  "corps": "## Un projet ambitieux repoussé\nLe complexe baptisé \"Cité de la natation\" devait accueillir un bassin olympique nommé Léon Marchand, en hommage au champion français de natation. Situé sur l’île du Ramier, ce site devait devenir le nouveau pôle d’excellence pour la pratique et la formation aquatique dans la métropole toulousaine. Le permis de construire a été accordé en mai, mais les autorités ont indiqué que le démarrage du chantier ne pourra pas se tenir en 2026.\n\n## Conséquences pour les habitants\nL’absence de travaux cette année implique que les aménagements prévus, tels que les voies d’accès, les parkings temporaires et les éventuelles perturbations de la circulation, ne se matérialiseront pas dans l’immédiat. Les résidents du quartier et les usagers des transports publics n’auront donc pas à anticiper de déviations ou de restrictions liées à la construction. En revanche, le report du lancement repousse également la mise à disposition du bassin, qui devait initialement répondre à la demande croissante d’infrastructures sportives dans la région.\n\n## Pourquoi le délai ?\nAucune explication détaillée n’a été fournie quant aux raisons de ce report. Le simple fait que le permis ait été délivré ne garantit pas que les étapes suivantes – études techniques, appels d’offres, financement – soient finalisées à temps. Il est donc probable que des contraintes administratives ou budgétaires soient à l’origine de ce décalage, mais aucune information précise n’a été communiquée.\n\n## Informations pratiques\nLes habitants souhaitant suivre l’évolution du projet sont invités à consulter le site officiel de la mairie de Toulouse ou à contacter le service urbanisme de la ville. Les mises à jour seront publiées dès que de nouvelles échéances seront fixées, permettant ainsi de planifier les éventuels impacts futurs sur la mobilité et les services publics.",
+  "mots_cles": [
+    "Toulouse",
+    "piscine",
+    "Léon Marchand",
+    "chantier",
+    "retard"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-22T09:55:22+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/L%C3%A9on_Marchand%2C_2023_Pac-12_Championships%2C_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg/1280px-L%C3%A9on_Marchand%2C_2023_Pac-12_Championships%2C_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Tanis Coralee Leonhardi",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Marchand,_2023_Pac-12_Championships,_400_yard_individual_medley_preliminaries_-_3_March_2023.jpg",
+    "legende": "Léon Marchand in the preliminaries of the 400 yard individual medley (preliminary heat 4 of 4, lane 4) at the 2023 Pac-12 Men's Swimming Championships on Friday 3 March 2023 (Day 3) in the competition",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Léon Marchand, 2023 Pac-12 Championships, 400 yard individual medley preliminaries - 3 March 2023.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "DECRYPTAGE. Future piscine Léon Marchand : pourquoi la Cité de la natation à Toulouse, ne sera finalement pas prête à la date espérée",
+      "url": "https://www.ladepeche.fr/2026/11/22/decryptage-future-piscine-leon-marchand-pourquoi-la-cite-de-la-natation-a-toulouse-ne-se-fera-finalement-pas-prete-a-la-date-esperee-13661383.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "DECRYPTAGE. Future piscine Léon Marchand : pourquoi la Cité de la natation à Toulouse, ne sera finalement pas prête à la date espérée",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPS1dlOC1OeFJyWF9OME15Z1BNNHlIRF93N3RWTTJYTV8zZEtSUkl3c29FVHB4MEJoaXBKTFdRSlQxYnZIRFY1dEc4SklBZjh3eFdwT0VzcDBxZGctVXB5STlINWNzR3poRDBBaTZvLWhhRXRxYzd4Wmd6NlFFTzUycWE4eXdsUTIzVnktVkZOZFpFRVpHRUFFRXFtNXRJZ25taW1LcGJSUS1wS2dFdk1TdU15elYyMnBnd0hpTTRHVUFsTy11czFNek1MOWRDb3dDSlhwanFoR1FvYlpsU2x1MEQ5My1FVHpXekZSaUVPLVNlTzItUWVHM2JpVlgxWF8yU05JR1V4RlEwVlkyN2c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

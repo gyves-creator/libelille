@@ -125,5 +125,23 @@
     "titres_sources": [
       "Football : l'Inter Miami corrigé par Columbus au premier match des playoffs de MLS, Messi frôle l’expulsion"
     ]
+  },
+  {
+    "titre": "Arrestation au Mexique de Chapo Isidro, baron de la drogue",
+    "texte": "Le Mexique aurait annoncé l'arrestation de Chapo Isidro, baron de la drogue de 44 ans, recherché par les États‑Unis. Il fait l'objet de poursuites au Mexique et aux États‑Unis, où le FBI proposait une prime de cinq millions de dollars.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T09:55:29+00:00",
+    "titres_sources": [
+      "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis"
+    ]
+  },
+  {
+    "titre": "Macron propose la règle d’or budgétaire, sous conditions",
+    "texte": "Emmanuel Macron envisagerait de convoquer le Congrès pour débattre d’une règle d’or budgétaire. Cette contrainte pourrait s’avérer efficace, mais uniquement sous certaines conditions.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-22T09:55:29+00:00",
+    "titres_sources": [
+      "Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France"
+    ]
   }
 ]
