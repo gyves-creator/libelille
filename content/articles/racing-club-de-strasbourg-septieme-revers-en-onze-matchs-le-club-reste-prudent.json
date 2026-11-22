@@ -1,0 +1,38 @@
+{
+  "slug": "racing-club-de-strasbourg-septieme-revers-en-onze-matchs-le-club-reste-prudent",
+  "titre": "Racing Club de Strasbourg : septième revers en onze matchs, le club reste prudent",
+  "chapeau": "Le Racing Club de Strasbourg a enregistré sa septième défaite en onze rencontres de Ligue 1. Le club reconnaît l'urgence de la situation tout en refusant tout ton alarmiste.",
+  "corps": "## Une série de résultats défavorables\nLe Racing Club de Strasbourg a connu une nouvelle perte, portant à sept le nombre de revers subis sur les onze premiers matchs de la saison de Ligue 1. Cette évolution place l'équipe dans une dynamique difficile, loin des objectifs affichés en début de campagne. Le club a souligné que la situation exigeait une réaction rapide, sans toutefois céder à un discours de panique.\n\n## Le club refuse le catastrophisme\nFace à ce bilan, les dirigeants du Racing ont choisi de ne pas alimenter le climat de crainte qui pouvait émerger parmi les supporters. Ils ont déclaré que, bien que la situation soit « urgente », il était essentiel de garder une approche constructive et de travailler sur les points à corriger. Aucun commentaire n’a été fait sur les causes précises de la mauvaise passe, mais le ton général reste celui d’une volonté de redresser la barre sans dramatiser.\n\n## Contexte de la Ligue 1 et enjeux locaux\nLe Racing Club de Strasbourg évolue dans le championnat de première division française, où chaque point compte pour la lutte contre la relégation. La ville de Strasbourg suit de près les performances de son équipe, notamment en raison de l’impact économique et social que les matchs engendrent dans le quartier du Meinau. Les supporters, habitués à des saisons plus équilibrées, attendent des réponses concrètes de la direction technique et du staff d’entraîneurs.\n\n## Perspectives et suivi\nAucun calendrier précis n’a été communiqué concernant les mesures à prendre à court terme. Le club a indiqué que les prochains entraînements et la prochaine rencontre officielle seront l’occasion d’évaluer les ajustements nécessaires. Les supporters sont invités à consulter le site officiel du Racing Club de Strasbourg pour les dernières informations, les horaires des matchs et les éventuelles consignes liées à la sécurité dans le stade.\n\nEn attendant, la priorité affichée reste la stabilisation des performances sur le terrain, afin d’éviter une aggravation du classement et de préserver les espoirs de la saison.",
+  "mots_cles": [
+    "Racing Club de Strasbourg",
+    "Ligue 1",
+    "défaites",
+    "football",
+    "club"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-22T16:55:17+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Racing_Club_de_Strasbourg_Pierre_M%C3%A9n%C3%A8s.jpg/1280px-Racing_Club_de_Strasbourg_Pierre_M%C3%A9n%C3%A8s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "KOBI FRANCK",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Racing_Club_de_Strasbourg_Pierre_M%C3%A9n%C3%A8s.jpg",
+    "legende": "tifo RCSA Racing Club de Strasbourg Alsace au stade de la Meinau. photo Franck KOBI / Haguenau port 06.81.38.09.98 Pierre Menes au stade de la Meinau",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Racing Club de Strasbourg Pierre Ménès.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA.fr",
+      "titre": "« Tout n’est pas à mettre à la poubelle »... Au Racing Club de Strasbourg, pas de catastrophisme malgré la spirale négative",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbHpyZzl4bnk4SktlZURBd3VReXJzWVZ6VUJuOXhOcnNCVXhZZ1BOQVN6ODU5Mk5NMjBIOEszdHQxaGZmWXI5ajFELVBmekIxeEVESUZMQXNVSVJEQkxQcnlkRjk2bS1QSUJDZzBfYjVZQm1hWkQtRkJwTTNDV3Y3Y3d6cl90eXF1a3Y1SG1YSHcwNTJ3YmZWMV9QZE5nYzcwX0pyQ2otZHJ1cEMzRnhWcWVvd1oydWU1cWdyZU0yYVZscmw1VE5pX2xfNXBObHpwN2lQX2lLUDhnOXFFMFlpdDQtV1RodG54WjZOSWxiTUZGdw?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Ligue 1. « Tout n’est pas à mettre à la poubelle »... Au Racing Club de Strasbourg, pas de catastrophisme malgré la spirale négative",
+      "url": "https://www.dna.fr/sport/2026/11/22/tout-n-est-pas-a-mettre-a-la-poubelle-au-racing-club-de-strasbourg-pas-(encore)-de-catastrophisme-malgre-la-spirale-negative"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

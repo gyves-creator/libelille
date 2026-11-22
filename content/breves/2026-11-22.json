@@ -382,5 +382,23 @@
     "titres_sources": [
       "«Le sport est politique» : À Saint-Denis, plongée dans la course à pied militante des mélenchonistes"
     ]
+  },
+  {
+    "titre": "Romain Pilliard devance son fils à l'arrivée de la Route du Rhum",
+    "texte": "Romain Pilliard a franchi la ligne d’arrivée de la 13e Route du Rhum à bord du trimaran Use It Again, arrivant en Guadeloupe avant son fils Titouan. Titouan, engagé dans une autre catégorie, a terminé derrière son père.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T16:55:25+00:00",
+    "titres_sources": [
+      "Route du Rhum : arrivée de Romain Pilliard, qui remporte la «course dans la course» avec son fils Titouan"
+    ]
+  },
+  {
+    "titre": "La revue Hérodote explore la géopolitique des infrastructures numériques",
+    "texte": "Le numéro du trimestriel Hérodote consacre une analyse aux réseaux physiques du cyberespace, tels que câbles et serveurs, ancrés dans des territoires. Il montre comment ces infrastructures, bien que virtuelles en apparence, sont soumises aux législations locales.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T16:55:25+00:00",
+    "titres_sources": [
+      "La revue « Hérodote » cartographie la géopolitique des infrastructures numériques"
+    ]
   }
 ]

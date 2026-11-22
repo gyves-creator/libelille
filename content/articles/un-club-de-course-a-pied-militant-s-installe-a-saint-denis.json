@@ -1,0 +1,33 @@
+{
+  "slug": "un-club-de-course-a-pied-militant-s-installe-a-saint-denis",
+  "titre": "Un club de course à pied militant s'installe à Saint-Denis",
+  "chapeau": "Des militants insoumis ont lancé un groupe de coureurs qui combine entraînement sportif et distribution de tracts. La troisième séance s'est tenue dans la ville de Bally Bagayoko, maire insoumis de Saint‑Denis.",
+  "corps": "## Une initiative mêlant sport et engagement politique\nDes militants affiliés à la mouvance insoumise ont créé un club de course à pied dont l'objectif est double : pratiquer une activité physique régulière et organiser chaque semaine un \"tractage géant\". Cette formule vise à mobiliser les participants autour d'une action de terrain, en associant l'effort sportif à la diffusion de messages politiques.\n\n## La troisième session à Saint‑Denis\nLe rendez‑vous de la troisième rencontre a eu lieu dans la ville de Saint‑Denis, où le maire, Bally Bagayoko, est également identifié comme insoumis. Les participants ont parcouru les rues de la commune tout en distribuant des tracts, suivant le principe établi lors des sessions précédentes. Le dispositif a permis de combiner visibilité médiatique et présence physique sur le terrain.\n\n## Contexte et portée de l'initiative\nLe terme \"insoumis\" désigne les partisans d'un courant politique français qui se réclame d'une rupture avec les partis traditionnels, souvent associé à la figure de Jean‑Luc Mélenchon. En créant un club de course à pied, ces militants cherchent à élargir leurs modes d'action au-delà des rassemblements classiques, en intégrant une dimension sportive qui attire un public potentiellement plus large. L'association du sport et du militantisme n'est pas nouvelle, mais le format de \"tractage géant\" pendant une séance d'entraînement constitue une spécificité de ce groupe.\n\n## Perspectives\nAucune information supplémentaire n'est disponible concernant les prochaines dates ou les objectifs à plus long terme du club. Les organisateurs n'ont pas communiqué de chiffres quant au nombre de participants ou à l'impact de leurs actions de distribution. Le dispositif pourra être suivi pour évaluer son efficacité à conjuguer sport et mobilisation politique dans d'autres villes.",
+  "mots_cles": [
+    "club de course",
+    "militantisme",
+    "insoumis",
+    "Saint-Denis",
+    "tractage"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-22T16:55:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Basilica_of_Saint_Denis_Choir_Misericords%2C_Paris%2C_France_-_Diliff.jpg/1280px-Basilica_of_Saint_Denis_Choir_Misericords%2C_Paris%2C_France_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diliff",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Basilica_of_Saint_Denis_Choir_Misericords,_Paris,_France_-_Diliff.jpg",
+    "legende": "The choir stalls and mesericords of the Basilica of Saint Denis in Paris, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Basilica of Saint Denis Choir Misericords, Paris, France - Diliff.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Politique - L'actualité du gouvernement et de l'opposition",
+      "titre": "«Le sport est politique» : à Saint-Denis, plongée dans la course à pied militante des mélenchonistes",
+      "url": "https://www.lefigaro.fr/politique/le-sport-est-politique-a-saint-denis-plongee-dans-la-course-a-pied-militante-des-melenchonistes-20261122"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
