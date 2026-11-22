@@ -400,5 +400,23 @@
     "titres_sources": [
       "La revue « Hérodote » cartographie la géopolitique des infrastructures numériques"
     ]
+  },
+  {
+    "titre": "Sanction CNIL, panne Microsoft et intrusion ARTEX à la Commission",
+    "texte": "La CNIL a sanctionné une entreprise non identifiée, décision retirée en moins d’une heure. Microsoft a publié un rapport préliminaire sur la panne mondiale qui a maintenu Teams actif tandis qu’Outlook était indisponible, et la Commission européenne a subi une intrusion du groupe ARTEX.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-22T17:26:22+00:00",
+    "titres_sources": [
+      "Grok dévoile l’entreprise que la CNIL n’avait pas nommée, Microsoft détaille sa panne géante, la Commission européenne piratée avec ARTEX : on vous raconte la semaine Cyberguerre"
+    ]
+  },
+  {
+    "titre": "Etienne Ghys souligne l’accélération de l’IA en mathématiques",
+    "texte": "Dans une carte blanche au quotidien, le mathématicien Etienne Ghys constate que l’intelligence artificielle accélère les recherches en mathématiques. Il rappelle toutefois que la discipline ne se limite pas aux résultats obtenus.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-22T17:26:22+00:00",
+    "titres_sources": [
+      "Mathématiques et IA : prenons le temps de comprendre"
+    ]
   }
 ]
