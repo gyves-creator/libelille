@@ -436,5 +436,23 @@
     "titres_sources": [
       "Liga : mené 2-0, le Barça renverse Villarreal et conserve son avance sur le Real Madrid"
     ]
+  },
+  {
+    "titre": "Arrestation d'un champion russe d'Ares après son combat à Paris",
+    "texte": "Le combattant de 27 ans, vainqueur d’un combat à l’Adidas Arena, aurait été arrêté vendredi soir à Paris. Il serait soupçonné d’un viol présumé survenu à Montreuil.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T18:21:44+00:00",
+    "titres_sources": [
+      "MMA : vainqueur dans la cage, un combattant russe de l’organisation française ARES interpellé pour une affaire de viol"
+    ]
+  },
+  {
+    "titre": "Santiago Abascal, acteur majeur des législatives du 29 novembre en Espagne",
+    "texte": "Le chef de Vox serait perçu comme un faiseur de roi à l’approche des élections législatives anticipées du 29 novembre, prévues près d’un an avant la date prévue. Le parti d’extrême droite fait l’objet d’un examen renforcé.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T18:21:44+00:00",
+    "titres_sources": [
+      "À la tête de Vox, Santiago Abascal en position de faiseur de roi aux élections législatives en Espagne"
+    ]
   }
 ]
