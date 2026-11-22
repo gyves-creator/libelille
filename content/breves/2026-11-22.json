@@ -70,5 +70,23 @@
     "titres_sources": [
       "Suivez en direct le 10e vol de la fusée Ariane 6 dans sa version surpuissante pour lancer 36 satellites d’un coup"
     ]
+  },
+  {
+    "titre": "DS et Alpine confrontés aux coûts de l'autonomie",
+    "texte": "Selon la newsletter Watt Else du 19 novembre 2026, DS et Alpine verraient leurs ambitions freinées par le coût de l'autonomie. Les deux marques françaises auraient reçu une facture qui souligne les limites de leurs projets.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-22T07:54:11+00:00",
+    "titres_sources": [
+      "Les ambitions de DS et Alpine se heurtent au mur de la réalité"
+    ]
+  },
+  {
+    "titre": "PSG bat Nice mais perd Désiré Doué blessé",
+    "texte": "Selon le compte rendu, le PSG aurait remporté sa rencontre à Nice tout en voyant Désiré Doué sortir blessé. Malgré cette perte, l’équipe resterait invaincue chez elle depuis longtemps.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T07:54:11+00:00",
+    "titres_sources": [
+      "Le PSG gagne à Nice… mais perd Désiré Doué : même diminué, toujours aussi implacable"
+    ]
   }
 ]
