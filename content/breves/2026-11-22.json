@@ -364,5 +364,23 @@
     "titres_sources": [
       "Tennis : le Masters restera en Italie après 2027"
     ]
+  },
+  {
+    "titre": "Soudan accuse l’Éthiopie d’attentats de drones à Khartoum",
+    "texte": "Le Soudan accuse l’Éthiopie d’avoir mené des frappes de drones sur quartiers résidentiels et un bâtiment de l’ONU à Khartoum. Il a saisi le Conseil de sécurité de l’ONU et l’Union africaine, reprochant à l’Éthiopie soutenir les Forces de soutien rapide, contre l’armée depuis 2023.",
+    "rubrique": "international",
+    "publie_le": "2026-11-22T16:27:07+00:00",
+    "titres_sources": [
+      "Soudan : l’Ethiopie mise en cause dans des frappes de drones sur des zones résidentielles et un bâtiment de l’ONU à Khartoum"
+    ]
+  },
+  {
+    "titre": "Club de course insoumis organise un tractage géant à Saint-Denis",
+    "texte": "Des militants de La France Insoumise ont créé à Saint-Denis un club de course qui organise chaque semaine un tractage massif. La troisième séance s’est tenue dans la commune du maire insoumis Bally Bagayoko.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-22T16:27:07+00:00",
+    "titres_sources": [
+      "«Le sport est politique» : À Saint-Denis, plongée dans la course à pied militante des mélenchonistes"
+    ]
   }
 ]
