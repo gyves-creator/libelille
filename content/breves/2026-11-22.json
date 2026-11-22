@@ -307,5 +307,25 @@
     "titres_sources": [
       "Tennis: balayée en barrage par l’Australie, l’équipe de France reste en deuxième division de la Billie Jean King Cup"
     ]
+  },
+  {
+    "titre": "Marc Márquez sacré champion du monde MotoGP pour la huitième fois",
+    "texte": "Après s’être classé huitième au Grand Prix du Portugal, le pilote espagnol Marc Márquez a atteint le nombre de points requis pour remporter son huitième titre MotoGP, dépassant ainsi le record de Valentino Rossi. Ce succès s’ajoute à ses dix titres toutes catégories confondues.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T14:56:16+00:00",
+    "titres_sources": [
+      "Le pilote espagnol Marc Marquez sacré champion du monde de MotoGP pour la 8e fois de sa carrière",
+      "Moto GP : Le pilote de Ducati Marc Marquez champion du monde pour la 8e fois",
+      "Marc Marquez, un huitième titre record en MotoGP pour sortir, enfin, de l’ombre de Valentino Rossi"
+    ]
+  },
+  {
+    "titre": "Lewis Pugh nage trois jours dans le détroit d’Ormuz pour alerter",
+    "texte": "Le nageur britannique Lewis Pugh a passé trois jours à nager au milieu des pétroliers et des bombardements du détroit d’Ormuz, afin de sensibiliser aux conséquences environnementales de la guerre en Iran. Son action vise à attirer l’attention internationale sur la dégradation du milieu marin.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T14:56:16+00:00",
+    "titres_sources": [
+      "Trois jours de nage dans le détroit d'Ormuz : le Britannique Lewis Pugh dénonce les conséquences environnementales de la guerre en Iran"
+    ]
   }
 ]
