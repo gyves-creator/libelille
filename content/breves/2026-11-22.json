@@ -288,5 +288,24 @@
     "titres_sources": [
       "PSG : bricolage, mercato, collectif… Les solutions pour continuer à rêver après la grave blessure de Désiré Doué"
     ]
+  },
+  {
+    "titre": "Timon Haugan s’impose au slalom de Gurgl, 8e victoire en Coupe du monde",
+    "texte": "Le Norvégien Timon Haugan a remporté le slalom à Gurgl en Autriche, obtenant sa huitième victoire en Coupe du monde. Il était le plus rapide au premier passage, alors que le favori brésilien Lucas Pinheiro Braathen a pris le départ.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T14:30:08+00:00",
+    "titres_sources": [
+      "Ski: le Norvégien Timon Haugan remporte le slalom de Gurgl, les Bleus loin du podium",
+      "Ski: Haugan leader de la 1re manche du slalom de Gurgl, le favori Pinheiro Braathen enfourche"
+    ]
+  },
+  {
+    "titre": "France battue par l’Australie, reste en division 2 de la Billie Jean King Cup",
+    "texte": "L’équipe de France a perdu contre l’Australie lors du barrage de la Billie Jean King Cup. Cette défaite la condamne à rester pour la troisième année consécutive en division 2 de la compétition.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T14:30:08+00:00",
+    "titres_sources": [
+      "Tennis: balayée en barrage par l’Australie, l’équipe de France reste en deuxième division de la Billie Jean King Cup"
+    ]
   }
 ]
