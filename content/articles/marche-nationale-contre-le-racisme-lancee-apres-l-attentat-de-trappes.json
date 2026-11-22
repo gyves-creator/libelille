@@ -1,0 +1,33 @@
+{
+  "slug": "marche-nationale-contre-le-racisme-lancee-apres-l-attentat-de-trappes",
+  "titre": "Marche nationale contre le racisme lancée après l’attentat de Trappes",
+  "chapeau": "À la suite de l’attentat survenu à Trappes, un entrepreneur originaire de Millau a annoncé le lancement d’une marche nationale contre le racisme. Le parcours débutera le lundi 23 novembre à Marseille pour se terminer dans la ville des Yvelines, mais certains participants de la marche de 1983 restent réservés quant à son impact.",
+  "corps": "## Un itinéraire symbolique du sud vers les Yvelines\nL’initiative, portée par un chef d’entreprise de Millau, prévoit de quitter Marseille le 23 novembre pour rejoindre la commune des Yvelines où a eu lieu l’attentat. Le choix de la ville de départ, portuaire et multiculturelle, et de la destination, marquée par la tragédie, souligne la volonté d’établir un lien symbolique entre les différentes régions du pays. Aucun détail supplémentaire n’a été communiqué sur le nombre de participants attendus ni sur les étapes intermédiaires du parcours.\n\n## Héritage de la marche de 1983 et réserves exprimées\nLa marche s’inscrit dans la continuité d’une manifestation nationale lancée en 1983, qui avait rassemblé des milliers de personnes pour dénoncer le racisme et les discriminations. Cette première édition est restée dans les mémoires comme un moment fort de la société civile française. Cette fois‑ci, plusieurs des marcheurs ayant participé à l’édition de 1983 ont été sollicités pour rejoindre le nouveau cortège. Certains d’entre eux se montrent circonspects, estimant que l’impact d’une nouvelle édition pourrait être limité, sans toutefois exclure leur participation.\n\n## Objectifs et cadre institutionnel\nL’objectif affiché de la marche est de sensibiliser l’opinion publique et les autorités aux enjeux du racisme, en particulier à la lumière de l’attentat de Trappes. Aucun organisme officiel n’a encore déclaré son soutien ou son opposition à l’événement. L’entrepreneur à l’origine du projet n’a pas précisé de partenariat avec des associations ou des collectivités locales, laissant entendre que l’initiative reste principalement portée par des volontaires.\n\n## Perspectives d’évolution\nLe succès de la marche dépendra en grande partie de la mobilisation des citoyens le long du trajet et de la couverture médiatique qu’elle recevra. Si les réserves exprimées par les anciens marcheurs de 1983 se confirment, elles pourraient influencer la perception du public quant à l’efficacité d’une nouvelle mobilisation nationale. Le déroulement du parcours, ainsi que les réactions des habitants des villes traversées, seront déterminants pour mesurer l’impact réel de cette initiative.",
+  "mots_cles": [
+    "marche anti‑racisme",
+    "Trappes",
+    "Millau",
+    "Marseille",
+    "1983"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-22T15:53:42+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Trappes_Mairie.JPG/1280px-Trappes_Mairie.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ℍenry Salomé",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Trappes_Mairie.JPG",
+    "legende": "Mairie de Trappes ( Yvelines , France )",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Trappes Mairie.JPG"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Après l’attentat de Trappes, un entrepreneur de Millau lance une nouvelle marche nationale contre le racisme, au départ de Marseille",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/22/apres-l-attentat-de-trappes-un-entrepreneur-de-millau-lance-une-nouvelle-marche-nationale-contre-le-racisme-au-depart-de-marseille_6814223_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

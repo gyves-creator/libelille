@@ -1,0 +1,38 @@
+{
+  "slug": "marine-le-pen-nie-toute-reception-d-informations-confidentielles-du-prefet-hugue",
+  "titre": "Marine Le Pen nie toute réception d'informations confidentielles du préfet Hugues Moutouh",
+  "chapeau": "La candidate du Rassemblement national à l'élection présidentielle de 2027 a déclaré ne jamais avoir reçu d'informations confidentielles du préfet Hugues Moutouh. Le haut fonctionnaire, placé sous le coup d'une enquête, a demandé à être relevé de ses fonctions.",
+  "corps": "## Déclarations de la candidate du RN\nMarine Le Pen a affirmé, lors d'une interview dimanche, ne jamais avoir reçu d'informations confidentielles du préfet Hugues Moutouh. Elle a ajouté qu'elle ne pouvait pas répondre plus en détail aux questions concernant d'éventuels bénéficiaires au sein du parti ou de son entourage, l'enquête étant toujours en cours. La candidate a également précisé ne pas connaître personnellement le fonctionnaire.\n\n## Position du préfet Hugues Moutouh\nHugues Moutouh, préfet dont le nom a été cité dans le cadre d'une enquête, a annoncé samedi avoir demandé à être relevé de ses fonctions. Aucun autre détail sur les motifs de cette demande n'a été communiqué dans les informations disponibles.\n\n## Contexte électoral\nL'élection présidentielle de 2027 se prépare dans un climat de forte attention médiatique, chaque candidat devant répondre aux exigences de transparence et d'intégrité. Le rôle du préfet, représentant de l'État dans un département, implique la gestion de dossiers administratifs parfois sensibles. Toute accusation de diffusion d'informations confidentielles à un parti politique suscite un examen rigoureux des procédures internes.\n\n## Suivi de l'enquête\nL'enquête en cours reste la source principale des incertitudes. Les autorités compétentes n'ont pas encore publié de conclusions définitives. Dans ce contexte, les déclarations de Marine Le Pen et la demande de mise en disponibilité du préfet constituent les seules informations confirmées à ce jour. Les électeurs sont invités à suivre les mises à jour officielles et à consulter les sites d'information publique pour toute évolution du dossier.",
+  "mots_cles": [
+    "Marine Le Pen",
+    "Hugues Moutouh",
+    "élection présidentielle 2027",
+    "enquête",
+    "préfecture"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-22T15:53:38+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Marine_Le_Pen_-.jpg/1280px-Marine_Le_Pen_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Elekes Andor",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_-.jpg",
+    "legende": "Marine Le Pen",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marine Le Pen -.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"Je n'ai jamais reçu d'informations confidentielles\", affirme Marine Le Pen, au sujet du préfet Hugues Moutouh, soupçonné d'avoir renseigné le RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/je-n-ai-jamais-recu-d-informations-confidentielles-affirme-marine-le-pen-au-sujet-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn_8294876.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
