@@ -1,0 +1,38 @@
+{
+  "slug": "manifestation-a-montpellier-contre-la-vie-chere-13-interpellations-et-un-policie",
+  "titre": "Manifestation à Montpellier contre la vie chère : 13 interpellations et un policier blessé",
+  "chapeau": "Une mobilisation dans le centre historique de Montpellier a dégénéré en affrontements, entraînant la blessure d'un policier et d'un fonctionnaire. Treize personnes ont été interpellées, des déviations de circulation ont été mises en place dans l'Ecusson.",
+  "corps": "## Une manifestation qui tourne à l'affrontement\nLe samedi 22 novembre, des manifestants ont convergé vers le quartier de l'Ecusson, cœur historique de Montpellier, dans le cadre de l'Acte VI, une série d'actions nationales contre la hausse du coût de la vie. Selon les forces de l'ordre, le rassemblement a donné lieu à des débordements, avec des jets d'objets sur les policiers et des heurts physiques. Au cours de ces incidents, un agent de police a été blessé et un fonctionnaire présent sur le site aurait également été touché. Les deux victimes ont reçu les premiers soins sur place avant d'être évacuées vers un centre hospitalier.\n\n## Arrestations et mesures de sécurité\nTreize personnes ont été interpellées par les services de police pour participation aux violences ou pour trouble à l'ordre public. Les personnes arrêtées ont été placées en garde à vue, conformément aux procédures en vigueur. La police a indiqué que les forces de l'ordre étaient renforcées dans le secteur afin de garantir la sécurité des riverains et de prévenir toute escalade supplémentaire.\n\n## Impact sur la circulation et les riverains\nEn raison des affrontements, la municipalité a temporairement fermé plusieurs rues piétonnes de l'Ecusson et a mis en place des déviations pour les véhicules. Les transports en commun ont également été réorientés, les lignes de bus traversant le centre historique étant partiellement détournées. Les autorités ont recommandé aux automobilistes d'éviter le secteur et de consulter le site de la ville pour les informations de circulation en temps réel.\n\n## Contexte des protestations contre le coût de la vie\nLes manifestations de l'Acte VI s'inscrivent dans une série d'actions citoyennes qui se multiplient depuis plusieurs mois dans plusieurs villes françaises. Elles sont motivées par le sentiment d'une hausse persistante des prix, notamment de l'énergie, de l'alimentation et du logement, qui pèse sur le pouvoir d'achat des ménages. Les organisateurs appellent à des mesures gouvernementales plus fortes pour soutenir les foyers les plus affectés.\n\nLes services de police et la mairie de Montpellier restent mobilisés pour assurer la sécurité et la fluidité du trafic dans les prochains jours. Les habitants sont invités à signaler toute situation inhabituelle au numéro d'urgence dédié à la sécurité publique et à suivre les consignes de déviation affichées sur le site officiel de la ville.",
+  "mots_cles": [
+    "manifestation",
+    "Montpellier",
+    "coût de la vie",
+    "interpellations",
+    "Ecusson"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-22T14:04:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Montpellier_Street_01.jpg/1280px-Montpellier_Street_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Edward",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montpellier_Street_01.jpg",
+    "legende": "Montpellier Street, Cheltenham",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Montpellier Street 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "Midi Libre",
+      "titre": "Un fonctionnaire blessé et 13 interpellations après la manifestation de l’Acte VI contre la vie chère à Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEVSUTJoNlI2cXBYcnhxcV9GV1FOalB3MGdudjNQRlBYU3BnbDd4MTJ0V2R1T1YzYTRmTmNWQXZxMGc2VEdpM0FTSkQwekJCR09qZWt6NGtPbGpjVVMyeUd2RFc2eDA2bXU3NHc1M0NZU3VSc0VFcENhOUZCbmF2RDdxc3R3N0dhZVYyLVlvQmRYUmdfUk56Vzl6WlNMUFBvb3NWcUVTcUEzQlhLODBSSklLNFlLYm02TzlRSEwxV1drV1ZvN2QwMVYxUURqX1pfRGlWT0pGOWMyc0lvMG94QTVEOHNjWVpmREZDNkctUVE1b3A2WVE?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Manifestation à Montpellier : affrontements dans l'Ecusson, 13 interpellations, un policier blessé",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPazhFQVRpTy1rd0JqbjF1RDUtbFJoSUJxUVgyRU5xdldZQjR2YWdKNmJJLVhaYzJVcUFYNGtzS1FZdTV6ZjJacnVSWnEtMDFUSnZ0MXBYV2dFWkY3Z1pYNk9XbkFPTmtaWkhibVRJSDVqTGt6Z3F6VnUzckJWc21DeGlmZVdjdDRUanEtUDFPM21CNm5qTHNBeUFQMWRidE5NUTFDN1hwR19zVmhtY1B6Um9UT3JvWTFXX2FEVDFCZmVGVFVTRjZvYmZDaXM3UldXMWdKVzc5cl9QNFpiZkpjX0VRTGxQU2c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

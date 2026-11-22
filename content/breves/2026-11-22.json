@@ -270,5 +270,23 @@
     "titres_sources": [
       "Liga : l’émouvant hommage du Bernabéu à Jesús de Miguel en présence de sa famille"
     ]
+  },
+  {
+    "titre": "Paris FC accueille Angers au stade Jean-Bouin pour la 11e journée",
+    "texte": "Le Paris FC, troisième du championnat et invaincu à domicile, reçoit Angers ce samedi à 15 h au stade Jean‑Bouin. Les Angers, 16e, viennent de deux revers à l’extérieur.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T14:04:11+00:00",
+    "titres_sources": [
+      "EN DIRECT - PFC-Angers : les Parisiens veulent garder leur invincibilité à domicile"
+    ]
+  },
+  {
+    "titre": "Blessures de Doué et Kvaratskhelia compliquent la saison du PSG",
+    "texte": "L'absence prolongée de l'international français Désiré Doué, aggravée par la blessure de Khvicha Kvaratskhelia, prive le Paris Saint‑Germain de deux joueurs clés. Cette situation place l'entraîneur Luis Enrique dans une position délicate pour le reste du mercato et du collectif.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T14:04:11+00:00",
+    "titres_sources": [
+      "PSG : bricolage, mercato, collectif… Les solutions pour continuer à rêver après la grave blessure de Désiré Doué"
+    ]
   }
 ]

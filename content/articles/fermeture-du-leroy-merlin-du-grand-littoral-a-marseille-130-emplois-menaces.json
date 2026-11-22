@@ -1,0 +1,38 @@
+{
+  "slug": "fermeture-du-leroy-merlin-du-grand-littoral-a-marseille-130-emplois-menaces",
+  "titre": "Fermeture du Leroy Merlin du Grand Littoral à Marseille, 130 emplois menacés",
+  "chapeau": "Le magasin Leroy Merlin du centre commercial Grand Littoral de Marseille doit fermer, entraînant la mise à pied de 130 salariés. Cette décision affecte les habitants du quartier et les usagers du commerce de proximité.",
+  "corps": "## Fermeture du magasin Leroy Merlin\nLe magasin Leroy Merlin implanté dans le centre commercial Grand Littoral, à Marseille, est annoncé pour une fermeture prochaine. Aucun détail n’est fourni quant à la date exacte de cessation d’activité ni aux raisons de cette décision. Le commerce de bricolage et d’aménagement de la maison, présent dans la zone depuis plusieurs années, cessera donc ses activités, ce qui implique la suppression de l’ensemble des postes occupés dans cet établissement.\n\n## Conséquences pour les salariés et les habitants\nLa fermeture concerne environ 130 salariés, dont les contrats seront impactés. Aucun plan de reclassement ou de soutien n’a été communiqué dans les informations disponibles. Les habitants du quartier, qui fréquentaient le magasin pour leurs achats de matériaux, d’outils ou de mobilier, devront désormais se tourner vers d’autres points de vente de la ville ou des environs.\n\n## Contexte commercial et réponses possibles\nLeroy Merlin est une enseigne française spécialisée dans le bricolage, la décoration et l’aménagement intérieur, appartenant au groupe Adeo. Sa présence dans le Grand Littoral faisait partie d’une offre commerciale diversifiée du centre, attirant une clientèle locale et régionale. La suppression d’un tel acteur commercial peut entraîner une réduction de l’attractivité du centre et des déplacements supplémentaires pour les habitants qui devront se rendre dans d’autres magasins.\n\n## Informations pratiques pour les salariés et les usagers\nLes salariés concernés sont invités à se rapprocher des services de l’emploi de la ville de Marseille pour connaître les dispositifs d’accompagnement et les offres d’emploi disponibles. Les habitants souhaitant signaler leurs besoins ou obtenir des renseignements complémentaires peuvent contacter la mairie de Marseille ou le service client du centre commercial. Les sites internet officiels de la ville et du centre commercial restent les sources d’information les plus à jour pour toute évolution de la situation.",
+  "mots_cles": [
+    "Leroy Merlin",
+    "Grand Littoral",
+    "Marseille",
+    "fermeture",
+    "emploi"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-22T14:04:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2015_Hipermarket_Leroy_Merlin_w_K%C5%82odzku.JPG/1280px-2015_Hipermarket_Leroy_Merlin_w_K%C5%82odzku.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jacek Halicki",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2015_Hipermarket_Leroy_Merlin_w_K%C5%82odzku.JPG",
+    "legende": "Hypermarket Leroy Merlin in Kłodzko",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:2015 Hipermarket Leroy Merlin w Kłodzku.JPG"
+  },
+  "sources": [
+    {
+      "media": "MyPetition.org",
+      "titre": "Aidez-moi à faire avancer ce combat : Non à la fermeture du Leroy Merlin de Marseille Grand Littoral",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHFicm5pS201bk12X0hpZDBMRkMwckFtSEM5bU9lelBVZkdMTnBCU3RYdUdXS2JPVnd4Ui1tUkZrV29McVh6Z2EtWDdSd2pZRTAtWFZCV1BpQ3dFZkVPZXB0TENLYS13czJta1RsV05FdGE5a3VIUWRRcFg5RkJnY3ZFTXBuejJ6anFnRjN3REdXOXR2?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Leroy Merlin va fermer dans ce grand centre commercial de Marseille, 130 salariés concernés",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOblNNS0RSUWVOYXd5OElqNnprNUs3OTRGSFE1dGM2XzVUb3FvSXJEem5zbEl5WUxlX3EwZUwwNFlaNE5Rc3NaNFhNNnVvLWR0eWhQV3FtR1B2RzJwbmUwNFlpdG45YVlRZUQ1MXhSLWNWeE1wV2F6QXFpQ0JTX2pJLXBlZ0h6SHBzN1RYNEk2bDcxNXhEb2NESkI3QnlPa0Z6OHo0d0E5RHVjakJjcDR3aGxUYkZtdlhFYnp3Wmx6VmtDLWxjSkxEZUpQTmJLR3FfUGdLRWxla0JNaG5aZXR4bGhndl9LMjU5Z2dlQ3hsdDFhUEtqSlE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
