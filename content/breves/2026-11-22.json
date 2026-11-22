@@ -234,5 +234,23 @@
     "titres_sources": [
       "Tennis de table : les frères Lebrun surpris par l’annulation de leur «TSHOW !»"
     ]
+  },
+  {
+    "titre": "Leandro Paredes s'évanouit lors d'une interview post‑victoire",
+    "texte": "Le milieu de terrain argentin Leandro Paredes aurait perdu connaissance devant les caméras lors d’une interview, juste après la victoire de Boca Juniors en Copa Sudamericana. Aucun incident médical grave n’a été signalé.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T13:02:36+00:00",
+    "titres_sources": [
+      "Foot : en vidéo, l’ancien milieu du PSG Leandro Paredes s’évanouit en pleine interview après le sacre de Boca Juniors"
+    ]
+  },
+  {
+    "titre": "Agrégateur de sondages montre les tendances pour la présidentielle 2027",
+    "texte": "Un nouvel agrégateur compile les résultats des enquêtes d’opinion menées en vue des premier et second tours de l’élection présidentielle de 2027. Il permet d’explorer les principales tendances dégagées par les différents sondages.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-22T13:02:36+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur"
+    ]
   }
 ]

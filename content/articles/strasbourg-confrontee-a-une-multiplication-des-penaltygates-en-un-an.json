@@ -1,0 +1,37 @@
+{
+  "slug": "strasbourg-confrontee-a-une-multiplication-des-penaltygates-en-un-an",
+  "titre": "Strasbourg confrontée à une multiplication des penaltygates en un an",
+  "chapeau": "Quatre dispositifs de contrôle de vitesse ont été installés dans la métropole au cours des douze derniers mois, suscitant le mécontentement des usagers. Plusieurs de ces installations auraient été contournées ou mal fonctionnées, accentuant le débat local sur l’efficacité de ces mesures.",
+  "corps": "## Une prolifération rapide des contrôles automatiques\nDans la capitale alsacienne, quatre « penaltygates » ont vu le jour en l’espace d’une année, selon les informations disponibles. Ces équipements, destinés à sanctionner les excès de vitesse en déclenchant automatiquement des amendes, sont implantés à différents points névralgiques du réseau routier. Leur nombre, jugé élevé par une partie des automobilistes, représente une hausse notable par rapport aux années précédentes.\n\n## Des dysfonctionnements et des contournements signalés\nParallèlement à leur déploiement, plusieurs usagers ont signalé des difficultés à franchir ces postes de contrôle. Certains ont indiqué que les dispositifs n’ont pas toujours détecté les infractions, alors que d’autres ont évoqué des tentatives de contournement. Ces retours d’expérience alimentent le sentiment d’insatisfaction exprimé par les riverains, qui décrivent la situation comme une succession de « ratés » de la part des autorités responsables.\n\n## Réactions et mesures envisagées\nFace à ces critiques, les services municipaux n’ont pas encore communiqué de réponse officielle détaillée. Il apparaît toutefois que la question de l’optimisation du dispositif et de la communication auprès du public fait l’objet de discussions internes. En l’absence d’annonce précise, les conducteurs sont invités à respecter les limitations affichées et à rester vigilants aux panneaux de signalisation temporaire qui peuvent accompagner l’installation de ces contrôles.\n\n## Conséquences pour les usagers\nPour les habitants de Strasbourg, la présence accrue de ces contrôles automatiques implique une attention renforcée lors des déplacements, notamment sur les axes les plus fréquentés. Les automobilistes sont encouragés à consulter les sites d’information routière de la ville ou à appeler le numéro d’assistance dédié aux questions de circulation pour connaître les emplacements exacts des penaltygates et les éventuelles déviations temporaires.\n\nEn résumé, la multiplication des dispositifs de contrôle de vitesse à Strasbourg, associée à des retours d’expérience mitigés, crée un climat de mécontentement parmi les usagers. La situation reste à suivre, dans l’attente d’éventuelles précisions de la part des autorités locales.",
+  "mots_cles": [
+    "Strasbourg",
+    "penaltygate",
+    "contrôle de vitesse",
+    "trafic"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-22T13:02:29+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Strasbourg_seen_from_Esca_Tower_in_2014.jpg/1280px-Strasbourg_seen_from_Esca_Tower_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Dominique Philbert",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Strasbourg_seen_from_Esca_Tower_in_2014.jpg",
+    "legende": "Vue panoramique sur Strasbourg depuis la 2ème terrasse de la Tour Esca",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Strasbourg seen from Esca Tower in 2014.jpg"
+  },
+  "sources": [
+    {
+      "media": "Foot Mercato",
+      "titre": "Strasbourg en a ras-le-bol des penaltygates",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEpaeWdKd0k4dU1yZGIwYzhGQmtRd1lzSzV0QXlpT0YtYUlYZ2dBY1lGX1lKbkZlRTluRThQbVRuTUdiMVJzeW5UUTd6MXoyU2Q4ZFpRSTd6RlowYnlCb3c0RlRNbmdoQkVtZG0xc0hKb0tRN2ljU3pINnBHenZOVDh5ZlNvZGNVSnRVdEpoVjd3R0xhREg4?oc=5"
+    },
+    {
+      "media": "L'Équipe",
+      "titre": "Quatre « penaltygates » en un an et plusieurs ratés : c'est quoi le problème entre Strasbourg et les penalties ?",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMEpBTWZ3b2t4UWYyNk1DUVdQWWhPeHJMMkszdEd4cFZBZGhpUHVZbmFBWXNfelB6Ym1sWWd0Zjk0RW94QnV1YmpLUTJ5bWRPRk9EVm9xMG0zTkoyc1NOd09fWEtJZEhTQjhpWkxienF3XzZrbWJQV2ZwRmJiSWtoWlVJMnhMZlpSVmQ1UVRPQ3JFdWw3Q1l2LXRBNk1JcEVyZHFRV0JCMEVueUw3N2I1QWVUVG92ZjlKRmFNN3F2WUpJeHo5czI2MTNXOVphTS1SZWpoNjEwRHBzNTNwMXZYc2FzTkx2Q3Y0N2dR?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

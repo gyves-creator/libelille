@@ -1,0 +1,43 @@
+{
+  "slug": "premiere-francaise-de-l-opera-coreen-hwajeonga-a-montpellier",
+  "titre": "Première française de l’opéra coréen Hwajeonga à Montpellier",
+  "chapeau": "L’Opéra-orchestre national de Montpellier a présenté la première en France de Hwajeonga – L’opéra des fleurs, œuvre du compositeur sud‑coréen Uzong Choe. Ce spectacle, qualifié d’exceptionnel, ouvre une nouvelle page du dialogue culturel entre la France et la Corée.",
+  "corps": "## Une première française sur les planches montpelliéraines\nL’Opéra-orchestre national de Montpellier a accueilli, pour la première fois sur le territoire français, le spectacle *Hwajeonga – L’opéra des fleurs*. Il s’agit d’une création musicale signée par le compositeur sud‑coréen Uzong Choe, qui mêle chant, orchestre et traditions coréennes. La représentation a eu lieu dans le cadre habituel de la saison de l’institution, sans indication d’une date précise au‑delà de la diffusion de l’information.\n\n## Un pont culturel entre la France et la Corée\nCe lancement constitue un événement notable du point de vue de la programmation artistique, en introduisant au public français une œuvre originaire de Corée du Sud rarement entendue en Europe. La mise en scène d’un opéra coréen, avec ses spécificités musicales et visuelles, offre aux spectateurs de Montpellier une expérience inédite, renforçant la visibilité de la création contemporaine asiatique sur le territoire national.\n\n## Réactions et perspectives\nLes premiers retours décrivent le spectacle comme « exceptionnel à bien des égards », soulignant l’originalité du mélange entre les sonorités coréennes et l’interprétation de l’orchestre national. Cette première pourrait encourager d’autres institutions à programmer des œuvres similaires, contribuant ainsi à diversifier l’offre culturelle régionale. Aucun détail supplémentaire n’a été communiqué sur d’éventuelles représentations futures ou sur la réception du public au-delà de ces premières impressions.\n\n## Informations pratiques\nLes habitants de Montpellier souhaitant assister à des représentations similaires sont invités à consulter le site officiel de l’Opéra-orchestre national de Montpellier pour connaître les prochaines programmations. En cas de besoin d’informations complémentaires, le service de billetterie de l’établissement reste le point de contact privilégié.",
+  "mots_cles": [
+    "opéra",
+    "Montpellier",
+    "Corée",
+    "première",
+    "musique"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-22T13:02:22+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/OrchMontpellier.jpg/1280px-OrchMontpellier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Peter from Salisbury, UK",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:OrchMontpellier.jpg",
+    "legende": "Special concert of Opéra Orchestre national Montpellier, with the audience amidst the orchestra (Sept. 2018)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:OrchMontpellier.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "“Hwajeonga – L’opéra des fleurs” donné pour la première fois en France à Montpellier : un spectacle coréen comme on n’en avait jamais vu",
+      "url": "https://www.midilibre.fr/2026/11/22/hwajeonga-lopera-des-fleurs-donne-pour-la-premiere-fois-en-france-a-montpellier-un-spectacle-coreen-comme-on-nen-avait-jamais-vu-13664892.php"
+    },
+    {
+      "media": "Midi Libre",
+      "titre": "“Hwajeonga – L’opéra des fleurs” donné pour la première fois en France à Montpellier : un spectacle coréen comme on n’en avait jamais vu",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWjI1aWZveGlwcVFXMVNMakhOaUJKemtSWFNldmw0WWNHd3VPWkRkcjVCeHlfcEN1V3VrUDRwSmFqc2trVzc4dGliOHVrTGltbHZud0kxU1VJOTBJd1RPTXlwY2daVXdwNXU4bFZQWnZtX1M2QnY1M1dGdFlhMTFmbFRGelBFTmJTMk5jaDdfWmVLRmhMRVNRVDl3dTh2TmpWMXBzc09RRTNfRkh6bl9JaHhfZHdQR29ISmJxN3FVWWR4UFVaajUyUEltMG14d0NaZW5XcEdVQ28tMVJQWUdXQkNVMmZpUTNHeE9ldHZiWDMxMGRaTF9fZjYwSjNKdkEydUE2ak9BQnk?oc=5"
+    },
+    {
+      "media": "Première Loge",
+      "titre": "L’Opéra des fleurs à Montpellier : une mémoire coréenne en musique",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb090RnM5cFM0NGJfSVM5UzZRTU9USmRrejNNTGVOTmRlY08ybmluaVgyUXBERmY4SHFlWEwxbnZaY24wS0hqbUdCR2M3aXhabjgwY0F5UVNudF91LWJYVnRIUXhnTllaVUo3NnZON1BWc20tbWJ2MjR1eDlsQUdzM3VJSFhsd0RRVUtnaHYyNWttbXc1aHllby01ellCWWpMVFBrNDRibE5ubVBJZmpINERtQ0t5T1pMTGtoVW10Qm5IcGRWUXNwNEcyNWZSdWJjTTh1MGRhbUt5WWhlOHY4aXVZajl5SkRtRmc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
