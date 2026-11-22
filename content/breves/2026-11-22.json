@@ -34,5 +34,23 @@
     "titres_sources": [
       "En Colombie, dix ans après la signature de l’accord historique, le bilan amer de la paix avec les FARC"
     ]
+  },
+  {
+    "titre": "Noël s'installe plus tôt dans les commerces français",
+    "texte": "Face aux contraintes budgétaires, les commerçants prolongent la période festive, poussant les Français à anticiper Noël dès novembre, phénomène qui reflète l'évolution des pratiques de consommation.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-22T06:38:00+00:00",
+    "titres_sources": [
+      "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt"
+    ]
+  },
+  {
+    "titre": "Documentaire sur le sang contaminé diffusé sur France 5",
+    "texte": "Une série en trois volets a été diffusée dimanche soir, rappelant l'affaire du sang contaminé qui a infecté des milliers de personnes au VIH dans les années 1980.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-22T06:38:00+00:00",
+    "titres_sources": [
+      "VIDEO. \"Au début, on ne sait pas ce qu'est ce virus\" : l'affaire du sang contaminé ou la lente prise de conscience de la dangerosité du sida"
+    ]
   }
 ]
