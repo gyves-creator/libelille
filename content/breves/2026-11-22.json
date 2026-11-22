@@ -545,5 +545,23 @@
     "titres_sources": [
       "Ligue 1 : en vidéo, les deux buts qui lancent parfaitement Marseille contre Le Mans"
     ]
+  },
+  {
+    "titre": "Alcaraz remporte le Masters à Turin et évoque son année atypique",
+    "texte": "Carlos Alcaraz a remporté le Masters ATP à Turin dimanche. Il aurait ajouté que 2026, première saison sans son entraîneur Juan Carlos Ferrero, était atypique mais très belle et qu’il avait beaucoup appris.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T21:25:42+00:00",
+    "titres_sources": [
+      "Tennis : «Cette année a été atypique mais très belle», confie Alcaraz après son sacre au Masters"
+    ]
+  },
+  {
+    "titre": "Bourg-en-Bresse bat l'Asvel, le Paris Basketball garde la tête",
+    "texte": "Bourg-en-Bresse aurait infligé une lourde défaite à l'Asvel, tandis que le Paris Basketball aurait poursuivi sa série victorieuse. Les Villeurbannais, battus pour la deuxième fois consécutive en championnat, seraient restés trois victoires derrière les Parisiens.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T21:25:42+00:00",
+    "titres_sources": [
+      "Basket : Bourg-en-Bresse enfonce l'Asvel, qui voit le Paris Basketball s’envoler"
+    ]
   }
 ]
