@@ -563,5 +563,24 @@
     "titres_sources": [
       "Basket : Bourg-en-Bresse enfonce l'Asvel, qui voit le Paris Basketball s’envoler"
     ]
+  },
+  {
+    "titre": "Carlos Alcaraz remporte son premier Masters à Turin",
+    "texte": "L'Espagnol a battu le numéro un mondial Alexander Zverev en finale des ATP Finals, à Turin, avec un score de 6-2, 7-6 (9-7). Cette victoire constitue son premier titre Masters, s’ajoutant aux quatre titres du Grand Chelem déjà obtenus.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-22T21:52:47+00:00",
+    "titres_sources": [
+      "Carlos Alcaraz, sacré pour la première fois aux Finales ATP, complète sa collection",
+      "Carlos Alcaraz éteint le n°1 mondial Alexander Zverev pour décrocher le premier Masters de sa carrière"
+    ]
+  },
+  {
+    "titre": "Projet de loi vise 700 000 logements locatifs d’ici 2028",
+    "texte": "Le gouvernement présentera mardi 24 novembre un projet de loi destiné à remettre sur le marché 700 000 logements pour les mettre en location d’ici 2028. L’initiative vise à relancer la construction et à faciliter l’accès au logement dans un contexte de crise du pouvoir d’achat.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-22T21:52:47+00:00",
+    "titres_sources": [
+      "\"Aujourd'hui, des personnes sans logement, on en voit tous les jours\" : quand trouver une location devient un parcours du combattant"
+    ]
   }
 ]
