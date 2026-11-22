@@ -1,0 +1,38 @@
+{
+  "slug": "sommet-choose-france-273-projets-presentes-et-pres-de-15-milliards-d-investissem",
+  "titre": "Sommet Choose France : 273 projets présentés et près de 15 milliards d’investissements nouveaux",
+  "chapeau": "Le sommet Choose France, lancé lundi, réunit 273 projets industriels sélectionnés. Les nouvelles initiatives représentent environ 15 milliards d’euros d’investissements inédits, dont 81 projets totalement nouveaux.",
+  "corps": "## Un programme ambitieux pour l’industrie française\nLe sommet Choose France, première édition de l’« édition France », a dévoilé un portefeuille de 273 projets industriels. Parmi eux, 81 initiatives sont présentées comme inédites, couvrant des secteurs variés tels que la santé, la cosmétique et les biocarburants. Le montant total des investissements nouveaux annoncés avoisine les 15 milliards d’euros, soit une hausse significative par rapport aux précédentes valorisations.\n\n## Un bilan comparatif avec la première édition\nLors de la première édition du même dispositif, le gouvernement avait indiqué que les projets présentés totalisaient 151 dossiers, pour un volume d’investissements de 30,4 milliards d’euros. La comparaison montre une multiplication du nombre de projets, passant de 151 à 273, tout en concentrant les nouveaux engagements financiers sur des projets qui n’avaient pas encore été financés auparavant. Cette évolution reflète une stratégie visant à diversifier les sources de financement et à renforcer la présence des entreprises françaises sur leur propre territoire.\n\n## Des secteurs ciblés pour dynamiser l’économie\nLes projets mis en avant lors du sommet s’inscrivent dans des filières jugées stratégiques. Le secteur de la santé, notamment la recherche et la production de dispositifs médicaux, bénéficie d’une attention particulière. La cosmétique, forte de son rayonnement international, voit également de nouveaux investissements. Enfin, les biocarburants, en phase de développement, sont soutenus afin de répondre aux enjeux de transition énergétique. Ces orientations témoignent d’une volonté de soutenir des activités à forte valeur ajoutée et à potentiel d’exportation.\n\n## Perspectives pour les entreprises françaises\nEn réunissant un nombre record de projets et en mobilisant près de 15 milliards d’euros d’investissements nouveaux, le sommet Choose France ambitionne de créer un cadre propice à la croissance des entreprises nationales. La présence d’un grand nombre de projets inédits indique une dynamique d’innovation et de diversification des activités industrielles. Les observateurs attendent désormais la concrétisation de ces engagements, qui pourrait renforcer la compétitivité de l’économie française sur le long terme.",
+  "mots_cles": [
+    "Choose France",
+    "investissements industriels",
+    "santé",
+    "cosmétique",
+    "biocarburants"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-22T19:55:47+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1896_-_Cochinchine_-_Sa%C3%AFgon_-_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg/1280px-1896_-_Cochinchine_-_Sa%C3%AFgon_-_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Salles, André (1860-1929)",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:1896_-_Cochinchine_-_Sa%C3%AFgon_-_Palais_du_Gouvernement_G%C3%A9n%C3%A9ral.jpg",
+    "legende": "Palais du Gouvernement Général en Cochinchine",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:1896 - Cochinchine - Saïgon - Palais du Gouvernement Général.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux",
+      "url": "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores",
+      "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
