@@ -297,5 +297,25 @@
       "Ski : deux ans après sa terrible chute, Cyprien Sarrazin sélectionné pour le super-G de Copper Mountain",
       "Près de deux ans après sa grave chute à Bormio, le skieur français Cyprien Sarrazin annoncé sur le super-G de la prochaine étape de Coupe du monde"
     ]
+  },
+  {
+    "titre": "État approuve reprise du 60 millions par Xavier Niel",
+    "texte": "Le ministère de l'Économie a annoncé que l'État a validé la cession du mensuel 60 millions de consommateurs à Xavier Niel, après la liquidation de l'Institut national de la consommation fin mars 2026. Des responsables avaient déjà averti d'un risque pour l'indépendance éditoriale.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T18:08:30+00:00",
+    "titres_sources": [
+      "L’offre de reprise du magazine 60 millions de consommateurs par Xavier Niel acceptée par l’État",
+      "Un accord de reprise du magazine \"60 millions de consommateurs\" conclu avec Xavier Niel a été accepté par l'Etat, annonce le ministère de l'Economie"
+    ]
+  },
+  {
+    "titre": "UE propose d'interdire la participation des athlètes russes",
+    "texte": "La Commission européenne a présenté lundi une proposition visant à interdire aux athlètes russes de concourir sur le territoire de l'Union. Plusieurs États membres, dont la Finlande, ont déjà limité l’accès aux compétitions aux sportifs russes et biélorusses.",
+    "rubrique": "international",
+    "publie_le": "2026-11-23T18:08:30+00:00",
+    "titres_sources": [
+      "L’UE propose d’interdire aux athlètes russes de pouvoir participer aux compétitions sur son territoire",
+      "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire"
+    ]
   }
 ]

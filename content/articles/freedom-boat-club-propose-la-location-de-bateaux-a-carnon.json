@@ -1,0 +1,37 @@
+{
+  "slug": "freedom-boat-club-propose-la-location-de-bateaux-a-carnon",
+  "titre": "Freedom Boat Club propose la location de bateaux à Carnon",
+  "chapeau": "L’ingénieure Chloé Galmes, 39 ans, a ouvert une franchise Freedom Boat Club sur le port de Carnon, près de Montpellier. Le dispositif, présenté comme une « mer à la carte », permet aux usagers de profiter d’un bateau sans en devenir propriétaire.",
+  "corps": "## Un concept de « mer à la carte »\n\nFreedom Boat Club, réseau américain spécialisé dans le partage de bateaux, a été implanté sur le port de Carnon. Le principe repose sur une adhésion qui donne accès à une flotte de bateaux disponibles à la demande, sans frais d’achat ni d’entretien. Les membres réservent le bateau souhaité via une plateforme en ligne et le récupèrent directement au quai. Cette formule s’inscrit dans la logique de l’économie collaborative, en offrant une alternative flexible aux pratiques traditionnelles de navigation de plaisance.\n\n## Impacts pour les habitants et les visiteurs\n\nL’ouverture de la franchise crée une nouvelle offre de loisirs nautiques dans la zone du littoral héraultais. Les résidents du quartier de Carnon ainsi que les touristes séjournant à Montpellier disposent désormais d’une option supplémentaire pour accéder à la mer, sans les contraintes liées à la possession d’un bateau. Le service peut également contribuer à dynamiser l’activité économique locale, en attirant des usagers qui fréquentent les commerces du port.\n\nPour obtenir davantage d’informations sur les modalités d’inscription, les tarifs ou les horaires d’ouverture, il est recommandé de consulter le site internet du Freedom Boat Club ou de contacter directement le point de service de Carnon. Les autorités locales n’ont pas signalé de restrictions particulières liées à cette activité.\n\n## Informations pratiques\n\n- Adresse du site d’accueil : port de Carnon, Hérault\n- Service accessible sur réservation en ligne\n- Aucun achat de bateau requis, paiement à l’usage\n- Pour toute question, se référer au site officiel du Freedom Boat Club\n\nCe nouveau service s’ajoute aux activités de loisirs déjà proposées dans la région, offrant ainsi aux habitants une façon simple et modulable de profiter du littoral méditerranéen.",
+  "mots_cles": [
+    "Freedom Boat Club",
+    "Carnon",
+    "location de bateaux",
+    "mer à la carte"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-23T18:08:15+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Freedom-Boat-Club.jpg/1280px-Freedom-Boat-Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Chris Evans",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Freedom-Boat-Club.jpg",
+    "legende": "Boats at Fort Myers, FL, Freedom Boat Club",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Freedom-Boat-Club.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "\"On s’occupe de tous les tracas\" : l’ingénieure Chloé Galmes, 39 ans, propose de prendre la mer en bateau sans en acheter, près de Montpellier",
+      "url": "https://www.midilibre.fr/2026/11/23/on-soccupe-de-tous-les-tracas-lingenieure-chloe-galmes-39-ans-propose-de-prendre-la-mer-en-bateau-sans-en-acheter-pres-de-montpellier-13605530.php"
+    },
+    {
+      "media": "Midi Libre",
+      "titre": "\"On s’occupe de tous les tracas\" : l’ingénieure Chloé Galmes, 39 ans, propose de prendre la mer en bateau sans en acheter, près de Montpellier",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMm1UT0xpNzNrTkFRVS1nQkwyMnN1SFlsTmtaVGczMVQ1Y3h1THZtMUEtZUVLV28zM1UxbDdKcXFmX3cyTThsRHhXY204Q0QxMWNNUDNwQVRXTjBaOThUblppYmxESmhMNFlXUFhTS2U2NlRWclJQbzE4SUZsc3NVUlVXbG4yNUQ1S3BRTnlwVklrVll4YVRMX0MxY3QzV0VSeUQyQWFpLVhVa1ZXb1E0dHgwMF9GOWptTEZPd1RxeHRrOEFSVXpBZU9pOUFOUGk5bzI1Z0FZdXVyandTRlkxZG5mLUJfUmxreWNiajg5bXpmcTljMHpEMDI1STV2Ql96QmNZaERwOFZVa2luRlNn?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
