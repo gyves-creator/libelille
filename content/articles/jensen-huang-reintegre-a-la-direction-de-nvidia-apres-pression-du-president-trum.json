@@ -1,0 +1,33 @@
+{
+  "slug": "jensen-huang-reintegre-a-la-direction-de-nvidia-apres-pression-du-president-trum",
+  "titre": "Jensen Huang réintégré à la direction de Nvidia après pression du président Trump",
+  "chapeau": "Le conseil d’administration de Nvidia a annoncé la remise immédiate de Jensen Huang à la présidence et à la direction générale de l’entreprise. Cette décision intervient après plusieurs appels du président américain Donald Trump, qui aurait parlé directement avec le board.",
+  "corps": "## Retour de Jensen Huang à la tête de Nvidia\nLe conseil d’administration du groupe américain spécialisé dans les processeurs graphiques a déclaré lundi la réintégration de Jensen Huang comme directeur général et président. La mesure a été prise dix jours après la démission de Huang, survenue à la suite d’un scandale mêlant adultère, espionnage et contrebande, puis confirmée comme étant liée à des soupçons d’espionnage au profit de la Chine. Le communiqué du board précise que la réintégration est effective immédiatement, sans indication de conditions particulières.\n\n## Implication du président Donald Trump\nLe président des États‑Unis, Donald Trump, aurait contacté à plusieurs reprises les administrateurs de Nvidia pour les inciter à rétablir Huang à son poste. Selon les informations disponibles, le chef de l’État aurait affirmé avoir parlé « directement » avec le conseil d’administration, soulignant son attachement personnel à la figure emblématique de la société. Aucun autre acteur n’est mentionné comme intervenant dans ce processus décisionnel.\n\n## Contexte et enjeux\nJensen Huang, cofondateur de Nvidia, est reconnu comme le principal artisan de la transformation de l’entreprise, d’un fabricant de cartes graphiques à un acteur majeur de l’intelligence artificielle et du calcul haute performance. Sa démission avait suscité des interrogations sur la gouvernance de la société et sur les risques de sécurité associés aux accusations d’espionnage. Le retour de Huang pourrait être perçu comme une tentative de stabiliser la direction et de rassurer les investisseurs, bien que la proximité affichée entre le président américain et le dirigeant suscite des questionnements quant à l’influence politique sur les décisions d’entreprise.\n\n## Perspectives\nLe conseil d’administration n’a pas communiqué de détails supplémentaires sur les investigations en cours concernant les allégations d’espionnage ou sur les mesures prises pour prévenir de futurs incidents. La réintégration de Jensen Huang se fait donc dans un climat d’incertitude, où la visibilité du leadership de Nvidia sera scrutée de près par les marchés financiers et les autorités de régulation. La situation reste à suivre, notamment en ce qui concerne les éventuelles répercussions sur les relations commerciales de Nvidia avec la Chine et d’autres partenaires internationaux.",
+  "mots_cles": [
+    "Nvidia",
+    "Jensen Huang",
+    "Donald Trump",
+    "réintégration",
+    "espionnage"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-23T16:20:43+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jen-Hsun_Huang_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "The White House",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Jen-Hsun_Huang_2025.jpg",
+    "legende": "Huang arrives for a dinner for Crown Prince and Prime Minister Mohammed bin Salman Al Saud of Saudi Arabia, Tuesday, November 18, 2025, at the White House. (Official White House Photo by Daniel Torok)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Jen-Hsun Huang 2025.jpg"
+  },
+  "sources": [
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, Jensen Huang réintégré chez Nvidia : Donald Trump affirme avoir parlé « directement » avec le conseil d’administration",
+      "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-donald-trump-affirme-avoir-parle-directement-avec-le-conseil-d-administration_6814407_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
