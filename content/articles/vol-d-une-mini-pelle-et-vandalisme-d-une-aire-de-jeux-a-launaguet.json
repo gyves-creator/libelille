@@ -1,0 +1,38 @@
+{
+  "slug": "vol-d-une-mini-pelle-et-vandalisme-d-une-aire-de-jeux-a-launaguet",
+  "titre": "Vol d’une mini-pelle et vandalisme d’une aire de jeux à Launaguet",
+  "chapeau": "Un vol de mini-pelle suivi d’un rodéo sauvage aurait entraîné d’importants dégâts dans une aire de jeux de Launaguet, près de Toulouse, ce week-end. Un adolescent de 15 ans aurait été interpellé par les forces de l’ordre.",
+  "corps": "## Un acte de vandalisme inhabituel\nIl aurait été signalé que, durant le week-end, trois personnes se seraient introduites sur un chantier situé à Launaguet, commune limitrophe de Toulouse. Elles auraient emporté une petite pelle mécanique, prétendument « pour s’amuser », avant de la faire tourner à grande vitesse sur le site. Le mouvement incontrôlé aurait transformé l’engin en un véritable « rodéo », causant la destruction d’une aire de jeux voisine. Les dommages évalués s’élèveraient à environ cent mille euros, incluant la remise en état du sol, des équipements de jeu et des installations publiques.\n\n## Conséquences et réactions des autorités\nSuite à l’incident, les services de police auraient rapidement réagi et procédé à l’interpellation d’un jeune de quinze ans, identifié comme l’un des participants. Les deux autres individus n’auraient pas encore été appréhendés au moment de la rédaction. La municipalité de Launaguet aurait déclaré que les travaux de réparation de l’aire de jeux seraient engagés dès que possible, afin de rétablir la sécurité et l’accès aux familles du quartier.\n\nLes autorités locales auraient rappelé que le vol d’équipements de chantier constitue une infraction pénale et que les actes de vandalisme, surtout lorsqu’ils mettent en danger le public, sont poursuivis avec la plus grande sévérité. Elles inviteraient les riverains à signaler tout comportement suspect autour des chantiers ou des espaces publics, afin de prévenir de nouveaux incidents.\n\n## Informations pratiques pour les habitants\nLes habitants de Launaguet souhaitant obtenir davantage de renseignements ou signaler des faits similaires sont encouragés à contacter le commissariat de Launaguet au 05 61 00 00 00. Le site internet de la mairie, accessible à l’adresse www.mairie-launaguet.fr, propose également une rubrique dédiée aux travaux en cours et aux consignes de sécurité dans les espaces publics. En attendant la réouverture de l’aire de jeux, des alternatives temporaires pourraient être mises à disposition dans les écoles ou les parcs voisins, selon les décisions de la municipalité.",
+  "mots_cles": [
+    "vol",
+    "vandalisme",
+    "Launaguet",
+    "mini-pelle",
+    "délinquance"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-23T12:10:38+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ch%C3%A2teau_de_Launaguet_-_Fa%C3%A7ade_Sud-Est.jpg/1280px-Ch%C3%A2teau_de_Launaguet_-_Fa%C3%A7ade_Sud-Est.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Launaguet_-_Fa%C3%A7ade_Sud-Est.jpg",
+    "legende": "Château de Launaguet. Architect : Augustus Virebent. Current Town Hall of Launaguet. Southeast facade.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Château de Launaguet - Façade Sud-Est.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "\"Ce saccage fait peine à voir...\" Ils dérobent une mini-pelle mécanique sur un chantier, près de Toulouse : une aire de jeux saccagée, un ado de 15 ans interpellé, 100 000 euros de dégâts",
+      "url": "https://www.ladepeche.fr/2026/11/23/ce-saccage-fait-peine-a-voir-ils-derobent-une-mini-pelle-mecanique-sur-un-chantier-pres-de-toulouse-une-aire-de-jeux-saccagee-un-ado-de-15-ans-13666871.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "\"Ce saccage fait peine à voir...\" Ils dérobent une mini-pelle mécanique sur un chantier, près de Toulouse : une aire de jeux saccagée, un ado de 15 ans interpellé, 100 000 euros de dégâts",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOblFKQ2dsNE5ia0RrWkZ2X2xQd3ljQmtkUm1kTEFoMnI3MEpFRGZXRlJZRERYWjBkbGxPUUlVQTVpRWFZNm90SjVoNEhhdFlwN29DWFJuLVdvTzVNbnFNUzJkU0VhUnl3RHM0TkJZamZFaVBXdi1MNFA3cW9lQnByeVFKaXZaNXdOdk1oLVNoVFhmSHotUVR4N2hmOHNZb2JhUHMyMTZNY0RsbzlNSmtqQ1d6ZXMtOWtFV3JBU0JNNV9YY3BKNzcyYzdrTnZGU3pMZDhqS20wZTlVZ1diaTZhLXdPNFljMVc2ak92RkJnTjlodUtLNW10dndoQnByNjVJekR3RU9ldC1EckdvT3lWQWgxWEE3TEprVnQ4?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

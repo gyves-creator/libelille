@@ -1,0 +1,37 @@
+{
+  "slug": "fete-des-lumieres-a-lyon-contrat-prolonge-pour-l-agence-du-bruit-au-balcon-et-in",
+  "titre": "Fête des Lumières à Lyon : contrat prolongé pour l'agence Du bruit au balcon et incertitudes sur les transports",
+  "chapeau": "L'agence culturelle lyonnaise Du bruit au balcon voit son mandat renouvelé pour trois années supplémentaires, alors que des rumeurs évoquent une éventuelle grève des TCL pendant la Fête des Lumières. Les habitants sont invités à suivre les informations officielles concernant les déplacements.",
+  "corps": "## Un mandat prolongé pour l'agence culturelle\nL'organisme local Du bruit au balcon, chargé de la programmation artistique et sonore pendant la célèbre Fête des Lumières, a vu son contrat reconduit pour une période de trois ans. Cette décision assure la continuité de la coordination des installations sonores qui accompagnent les illuminations chaque décembre. Aucun détail supplémentaire n'a été communiqué sur les projets spécifiques qui seront mis en place durant cette nouvelle échéance.\n\n## Des incertitudes sur les services de transport\nParallèlement, des interrogations circulent quant à une possible grève des transports en commun lyonnais (TCL) à l'approche de l'événement. Aucun communiqué officiel n'a confirmé la tenue d'une mobilisation, la question restant pour l'instant non tranchée. Si une grève venait à se déclarer, elle pourrait impacter les lignes de métro, de bus et de tramway desservant les principaux sites de la fête, notamment le quartier de la Presqu'île et le parc de la Tête d'Or.\n\n## Conseils pratiques pour les festivaliers\nDans l'attente d'éventuelles annonces, il est recommandé aux habitants et aux visiteurs de vérifier régulièrement les informations diffusées par la métropole et la société TCL, notamment via les sites internet et les applications mobiles dédiées. En cas de perturbation, des itinéraires alternatifs, tels que les parkings relais ou les services de vélos en libre-service, peuvent être mobilisés. Les services de secours et de sécurité restent assurés pour garantir le bon déroulement de la manifestation.\n\n## Contexte de la Fête des Lumières\nLa Fête des Lumières, qui se tient chaque année du 7 au 9 décembre, attire des millions de personnes grâce à ses installations lumineuses et son ambiance festive. Elle constitue un moment fort pour l'économie locale, notamment le commerce de proximité et le secteur de l'hôtellerie. La participation d'agences spécialisées comme Du bruit au balcon contribue à enrichir l'expérience sensorielle du public, en associant sonorités et jeux de lumière.\n\nEn l'absence de confirmation officielle concernant une grève, les autorités invitent les usagers à rester attentifs aux communications à venir et à privilégier les modes de déplacement alternatifs si nécessaire.",
+  "mots_cles": [
+    "Fête des Lumières",
+    "Lyon",
+    "transport",
+    "agence culturelle"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-23T12:10:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Frontispice_de_l%27Entr%C3%A9e_royale_d%27Henri_II_dans_la_ville_de_Lyon_par_Maurice_Sc%C3%A8ve.jpg/1280px-Frontispice_de_l%27Entr%C3%A9e_royale_d%27Henri_II_dans_la_ville_de_Lyon_par_Maurice_Sc%C3%A8ve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Maurice Scève",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Frontispice_de_l%27Entr%C3%A9e_royale_d%27Henri_II_dans_la_ville_de_Lyon_par_Maurice_Sc%C3%A8ve.jpg",
+    "legende": "Frontispice en noir et blanc",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Frontispice de l'Entrée royale d'Henri II dans la ville de Lyon par Maurice Scève.jpg"
+  },
+  "sources": [
+    {
+      "media": "Lyon Capitale",
+      "titre": "Fête des Lumières : l'agence lyonnaise Du bruit au balcon rempile pour trois ans",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80bzBrQVRJTUdLbVRRalRfRXIzSFp3U195Yms1eFJCcHl4X1R2MHBJclJidWVtN1p6NDl6QjN6LTdqbWVsYl9wdUV4c1lIcjhkbHFnV1pyZi1MU0gxN1NsN3ZyNjluWUVpUkt4Yg?oc=5"
+    },
+    {
+      "media": "BFM",
+      "titre": "Fête des Lumières : grève des TCL ?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDdWcUpXT0oxMlB1akt3OV9rRXNMSnZ1cTNfZWNBdWJoWWw0Xy1qNl9zTkdoNGdMWFJPR2J6VXpSTHBZcFEtaThma2REYWNhT0U3YzJweUNIX1Z1UWVwRGlqSzVMWXRTMmgtTnJiOXlHV1lFNDRjZWQtamo5eEJ4UmhPcEliWmZYY3RWRXpNQU5OY0YtbENfNGR3cWpCdjNmTXNmdXFMeVQ1WnVkZ1lLamNVMjhBQQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

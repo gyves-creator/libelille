@@ -1,0 +1,33 @@
+{
+  "slug": "paris-fc-presse-de-viser-le-podium-de-ligue-1-cette-saison",
+  "titre": "Paris FC pressé de viser le podium de Ligue 1 cette saison",
+  "chapeau": "Le Paris FC, souvent présenté comme le dauphin solide du PSG, se positionne comme un candidat sérieux au podium de la Ligue 1. Un collectif bien rodé, un recrutement ambitieux et un projet en consolidation sont mis en avant comme leviers de cette ambition.",
+  "corps": "## Un collectif qui se consolide\nLe Paris FC bénéficie d’une dynamique d’équipe qualifiée de « bien huilée ». Cette cohésion interne est présentée comme l’un des piliers de la progression du club au cours de la saison en cours, permettant d’affronter les défis du championnat avec une stabilité tactique et morale.\n\n## Un recrutement ambitieux au service du projet\nLes récents mouvements sur le marché des transferts ont été décrits comme ambitieux, visant à renforcer les postes clés et à apporter de la profondeur à l’effectif. Cette politique de recrutement s’inscrit dans un projet plus large, jugé de plus en plus crédible, qui vise à asseoir le club parmi les forces montantes du football français.\n\n## Vers le podium ?\nLes performances récentes placent le Paris FC à la deuxième place du classement, alimentant les spéculations quant à sa capacité à terminer la saison sur le podium. Aucun chiffre précis n’est fourni, mais l’idée d’un Paris FC capable de rivaliser avec les clubs traditionnellement en tête du championnat est largement évoquée. Cette perspective repose sur la continuité du collectif, la réussite du recrutement et la solidité du projet porté par le club.\n\n## Un avenir qui se dessine\nSi la trajectoire actuelle se maintient, le Paris FC pourrait devenir un acteur incontournable de la lutte pour les places européennes. Le club mise sur la pérennité de son modèle, qui combine une organisation interne efficace, des investissements ciblés et une vision claire du développement à moyen terme. Les observateurs restent attentifs à la façon dont ces éléments se traduiront sur le terrain d’ici la fin de la campagne.",
+  "mots_cles": [
+    "Paris FC",
+    "Ligue 1",
+    "podium",
+    "recrutement",
+    "collectif"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-23T12:10:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Paris_FC_Stade_Charl%C3%A9ty_z_01.jpg/1280px-Paris_FC_Stade_Charl%C3%A9ty_z_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Zakarie Faibis",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_FC_Stade_Charl%C3%A9ty_z_01.jpg",
+    "legende": "Paris FC Stade Charléty",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Paris FC Stade Charléty z 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Pourquoi le Paris FC, solide dauphin du PSG, doit (vraiment) rêver au podium de Ligue 1",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-1/collectif-seduisant-concurrence-irreguliere-famille-arnault-pourquoi-le-paris-fc-doit-vraiment-rever-au-podium-de-ligue-1-20261123"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
