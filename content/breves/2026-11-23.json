@@ -391,5 +391,23 @@
     "titres_sources": [
       "L'encaissement de plus d'un million de chèques bloqué à cause d'une grève d'agents des finances publiques à Rennes"
     ]
+  },
+  {
+    "titre": "La France crée des stocks stratégiques de terres rares",
+    "texte": "Le gouvernement a annoncé la création de stocks stratégiques de terres rares et de métaux prioritaires, pilotés par la Caisse des dépôts. Celle‑ci devra désormais consulter les industriels des secteurs stratégiques concernés.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T20:30:45+00:00",
+    "titres_sources": [
+      "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée"
+    ]
+  },
+  {
+    "titre": "Les caisses de retraite débordées par l'accumulation de dossiers",
+    "texte": "Avec la suspension de la réforme, les caisses de retraite seraient débordées, ajoutant plus de 100 000 dossiers en un an. Les délais pour obtenir un rendez‑vous se seraient allongés.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T20:30:45+00:00",
+    "titres_sources": [
+      "Les dossiers de départs à la retraite s'accumulent"
+    ]
   }
 ]
