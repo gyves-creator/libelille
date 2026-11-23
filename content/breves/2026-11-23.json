@@ -73,5 +73,23 @@
       "Golf: record pour la Thaïlandaise Jeeno Thitikul qui empoche… 22 millions d’euros",
       "Golf : Jeeno Thitikul établit un record de gains en empochant 22 millions d'euros"
     ]
+  },
+  {
+    "titre": "Bourses asiatiques en forte chute, autorités intervenantes",
+    "texte": "Selon les autorités financières, la Bourse de Corée du Sud aurait perdu près de 50 % depuis juin, tandis que celle de Taïwan aurait reculé d’environ 30 %. Elles seraient intervenues samedi et dimanche pour freiner la baisse, après la chute de Wall Street vendredi.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T09:33:08+00:00",
+    "titres_sources": [
+      "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »"
+    ]
+  },
+  {
+    "titre": "Bouchons persistants en Île-de-France après fermeture du tunnel",
+    "texte": "Les autorités auraient signalé plus de 400 km de bouchons ce lundi matin, une semaine après la fermeture du tunnel de Saint‑Cloud. Deux accidents auraient aggravé les embouteillages déjà importants sur le réseau francilien.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T09:33:08+00:00",
+    "titres_sources": [
+      "Fermeture du tunnel de Saint-Cloud, accidents : plus de 400 km de bouchons en Île-de-France ce lundi matin"
+    ]
   }
 ]
