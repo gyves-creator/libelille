@@ -317,5 +317,23 @@
       "L’UE propose d’interdire aux athlètes russes de pouvoir participer aux compétitions sur son territoire",
       "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire"
     ]
+  },
+  {
+    "titre": "Drone frappe bâtiment de l'ONU au Soudan, tensions accrues",
+    "texte": "Un drone a touché un bâtiment de l'ONU à Khartoum, intensifiant les tensions internationales. L'armée khartoumite accuse les Forces de soutien rapide d'avoir mené l'attaque depuis le territoire éthiopien.",
+    "rubrique": "international",
+    "publie_le": "2026-11-23T18:34:57+00:00",
+    "titres_sources": [
+      "Au Soudan, tensions internationales accrues après une frappe de drone contre un bâtiment de l’ONU"
+    ]
+  },
+  {
+    "titre": "ICJ qualifie génocide au Myanmar, impact sur Gaza selon juristes",
+    "texte": "La Cour internationale de justice a déclaré le 19 novembre que le Myanmar a commis un génocide contre les Rohingyas en 2017. Selon les professeurs Olivier Corten et Farah Safi, cette jurisprudence affaiblit la position d'Israël concernant la qualification de génocide à Gaza.",
+    "rubrique": "international",
+    "publie_le": "2026-11-23T18:34:57+00:00",
+    "titres_sources": [
+      "« Après le jugement de la Cour internationale de justice sur le Myanmar, la qualification de génocide à Gaza peut désormais s’appuyer sur sa jurisprudence »"
+    ]
   }
 ]
