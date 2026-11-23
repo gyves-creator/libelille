@@ -1,0 +1,38 @@
+{
+  "slug": "controverse-a-l-opera-de-paris-berenice-presentee-comme-princesse-africaine",
+  "titre": "Controverse à l'Opéra de Paris : Bérénice présentée comme princesse africaine",
+  "chapeau": "La dernière mise en scène de Bérénice à l'Opéra de Paris a suscité un débat public. Le personnage, traditionnellement identifié comme une reine juive, est représenté comme une princesse d'origine africaine.",
+  "corps": "## Une mise en scène qui bouscule les repères historiques\nL'opéra Bérénice, inspiré du personnage biblique mentionné dans les Actes des Apôtres, a été présenté récemment sur la scène de l'Opéra de Paris. Dans cette version, la mise en scène a choisi d'interpréter la souveraine comme une princesse africaine, une décision qui a immédiatement attiré l'attention des spectateurs et des observateurs du monde culturel. Cette orientation artistique diffère des représentations habituelles où Bérénice est décrite comme une reine juive de la Judée antique.\n\n## Réactions et enjeux de la représentation\nLe choix de revisiter le costume et l'origine ethnique du personnage a engendré une polémique au sein du public parisien. Certains commentateurs y voient une volonté de diversifier les figures historiques et de refléter la pluralité culturelle contemporaine, tandis que d'autres s'interrogent sur la pertinence d'une telle modification au regard du texte original et du contexte historique du personnage. Aucun porte-parole officiel n'a encore publié de déclaration détaillée, mais les informations disponibles indiquent que la décision a été prise par la direction artistique de l'Opéra.\n\n## Contexte de la création et pratiques de mise en scène\nL'Opéra de Paris, institution majeure du spectacle lyrique en France, a régulièrement proposé des réinterprétations contemporaines d'œuvres classiques, parfois en modifiant les décors, les costumes ou les scénographies afin d'apporter une nouvelle lecture au public. La représentation de Bérénice s'inscrit dans cette lignée d'approches novatrices, où la mise en scène cherche à établir un dialogue entre le passé et les préoccupations actuelles. Le personnage de Bérénice, figure historique et littéraire, a déjà fait l'objet de nombreuses adaptations, tant théâtrales que musicales, depuis le XVIIe siècle.\n\n## Informations pratiques\nPour les habitants de Paris souhaitant assister à la représentation ou obtenir davantage de précisions, le site officiel de l'Opéra de Paris propose les programmes détaillés, les horaires de représentation et les modalités de réservation. En cas de questions relatives à l'accès ou aux mesures sanitaires en vigueur, il est recommandé de consulter la rubrique d'information du même site ou de contacter le standard de l'Opéra.",
+  "mots_cles": [
+    "Opéra de Paris",
+    "Bérénice",
+    "controverse",
+    "représentation",
+    "théâtre"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-23T07:45:21+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Op%C3%A9ra_national_de_Paris.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Opéra national de Paris",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Op%C3%A9ra_national_de_Paris.png",
+    "legende": "Logo Opéra national de Paris",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Opéra national de Paris.png"
+  },
+  "sources": [
+    {
+      "media": "i24NEWS",
+      "titre": "Polémique à l'Opéra de Paris : la reine juive Bérénice représentée comme une princesse africaine",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObzFYU2M3TmdNYktBSkd0SHhDRUxjWTVPT0VkYUNhMDVZX2lHNDZROEpmTE9LbFQyQUE4dHdLWUpGYjZ4OWVwYmdzRkVtR3otR2FpWktIUFozOXJlNGhmc1pDWTBoUllfSXJUeVhDczlWbXc0eW55d1ZfY0N3a3JEY05RNFF6clZnd2ZST2lpWnl6Q0JBeFNUdlIxYi1nbXFZMnoyWjBYR1VtRWtXdnNKYlVMd0xwQ0pZXzZXdi1LM2ZPNEVMSW9nVC04OVZVakgyTEIw?oc=5"
+    },
+    {
+      "media": "Tribune Chrétienne",
+      "titre": "Pourquoi l’Opéra de Paris revisite-t-il la Bible ? Bérénice, reine juive présente dans les Actes des Apôtres, devient une princesse africaine",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTldYa2tqbzljOV9TM0xFQ05qT21iZVI0VTlfLWxEaDR2OER6N2pjbUs0bG5vX0duU1k3WFVkOVlEdHpYNTg5QVBHXzFHWWYyQ2JCaHVaZXhFeEpudEdXdFNQYXhrdVRIM3ZxVnRMQlBjMzM2d1NBdk9HRW1JcUY0M3VaUGVfRXRhSmt0LUZNTnoxdVU2WnRaLTl5MFNmZXNua1FfSUNZazk1ZFQ4RVNnRW1ETFpXc2c3bUlrNVZ1UDREMmRETlNDellsaXh0R1prQ1dWenZ2ejgyclQ5RHJLRm1pa1g4UTNGX0FOSzhFZm5QckxTOHZORVVTYw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

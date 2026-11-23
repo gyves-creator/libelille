@@ -1,0 +1,38 @@
+{
+  "slug": "macron-envisage-une-regle-d-or-budgetaire-pour-contenir-la-dette",
+  "titre": "Macron envisage une règle d’or budgétaire pour contenir la dette",
+  "chapeau": "Le président Emmanuel Macron étudie la mise en place d’une règle d’or budgétaire, visant à limiter le déficit public. Cette mesure serait envisagée pour réduire le risque d’une crise financière alors que la dette française s’élève à 3 600 milliards d’euros et que les taux d’intérêt augmentent.",
+  "corps": "## Contexte de la proposition\nLe gouvernement français fait face à une dette publique qui a atteint 3 600 milliards d’euros, un niveau qui suscite des inquiétudes quant à la soutenabilité budgétaire. Dans ce contexte, le président Emmanuel Macron examine la possibilité d’instaurer une « règle d’or » budgétaire, un dispositif qui contraint les finances publiques à ne pas dépasser un certain plafond de déficit structurel. L’objectif affiché est de prévenir une éventuelle crise financière en imposant une discipline budgétaire plus stricte.\n\n## Conditions d’application et perspectives\nLors d’une entrevue, le chef de l’État a indiqué que la mise en œuvre de ce dispositif dépendrait de l’évolution de la situation budgétaire et de la volonté des partis politiques. Il a rappelé qu’une révision constitutionnelle amorcée en 2011, mais jamais finalisée, pourrait être reprise pour intégrer la règle d’or. « La règle d’or budgétaire peut être une idée à explorer », a-t-il déclaré, soulignant ainsi le caractère encore hypothétique de la proposition.\n\n## Implications pour la politique économique\nL’adoption d’une règle d’or aurait pour effet de contraindre les gouvernements successifs à équilibrer leurs comptes sur le long terme, en limitant les déficits et en maîtrisant la dette. Une telle mesure pourrait également influencer les anticipations des marchés financiers, qui surveillent de près les indicateurs de solvabilité d’un pays. Toutefois, la mise en place dépendra de l’accord des forces parlementaires et de l’évolution des taux d’intérêt, qui, selon les observations, sont en hausse.\n\n## Prochaines étapes\nAucun calendrier précis n’a été communiqué. Le gouvernement semble attendre l’évolution des indicateurs macroéconomiques avant d’engager une procédure de révision constitutionnelle. En attendant, la proposition reste à l’état de projet, soumise à l’examen des acteurs politiques et à la conjoncture économique.",
+  "mots_cles": [
+    "règle d’or",
+    "déficit",
+    "dette publique",
+    "Macron",
+    "politique budgétaire"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-23T07:45:16+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Emmanuel_Macron_August_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Simon Dawson",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_August_2024.jpg",
+    "legende": "Macron in August 2024.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Emmanuel Macron August 2024.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/emmanuel-macron-reflechit-a-instaurer-une-regle-d-or-budgetaire_8273864.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Emmanuel Macron au Figaro : «La règle d’or budgétaire peut être une idée à explorer»",
+      "url": "https://www.lefigaro.fr/politique/emmanuel-macron-au-figaro-la-regle-d-or-budgetaire-peut-etre-une-idee-a-explorer-20261123"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

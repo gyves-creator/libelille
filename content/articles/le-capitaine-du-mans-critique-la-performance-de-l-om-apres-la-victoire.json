@@ -1,0 +1,38 @@
+{
+  "slug": "le-capitaine-du-mans-critique-la-performance-de-l-om-apres-la-victoire",
+  "titre": "Le capitaine du Mans critique la performance de l'OM après la victoire",
+  "chapeau": "Le Mans a remporté la rencontre contre l'Olympique de Marseille. Le capitaine de l'équipe a souligné que les Marseillais obtiennent très peu de xG et semblent surperformer.",
+  "corps": "## Déclaration du capitaine de Le Mans\nAprès le succès de son équipe face à l'Olympique de Marseille, le capitaine de Le Mans a exprimé son point de vue sur la façon dont les Marseillais gèrent leurs occasions de but. Il a affirmé que \"Marseille est une équipe qui se procure très peu de xG\" et a ajouté que \"l'OM est une équipe qui surperforme\". Ces remarques mettent en avant une perception selon laquelle les joueurs de l'OM tirent davantage de profit de leurs rares occasions.\n\n## Le concept de xG dans le football\nLe terme xG, ou \"expected goals\" (buts attendus), mesure la probabilité qu’une frappe aboutisse à un but en fonction de plusieurs critères (position, type de tir, situation de jeu, etc.). Un faible nombre de xG indique que l’équipe crée peu d’occasions de qualité, tandis qu’une surperformance signifie que le nombre de buts marqués dépasse les prévisions statistiques. Le capitaine de Le Mans utilise ces repères pour souligner ce qu’il perçoit comme une efficacité anormale de l’OM lorsqu’elle convertit ses rares chances.\n\n## Contexte de la rencontre\nL’affrontement entre Le Mans et l’Olympique de Marseille a eu lieu récemment, sans que les dépêches ne précisent la date exacte, le lieu du match ou le score final. Aucun autre détail n’a été fourni concernant les circonstances du jeu, les compositions d’équipes ou les réactions d’autres acteurs. L’accent a donc été mis uniquement sur le commentaire du capitaine, qui reflète l’appréciation de son équipe vis‑à‑vis de la performance de l’adversaire.\n\n## Absence d’informations complémentaires\nAucun chiffre, nom de joueur, ou citation supplémentaire n’a été communiqué dans les sources disponibles. En l’absence de données supplémentaires, il n’est pas possible de préciser l’impact de cette victoire sur le classement ou les prochaines échéances sportives. Les observations du capitaine restent donc limitées à une analyse qualitative de la production d’occasions de l’OM.\n\n## Perspectives pour les supporters\nLes supporters de Le Mans peuvent interpréter ces propos comme un signe de confiance dans les capacités de leur équipe à exploiter les faiblesses de l’adversaire. Pour les fans de l’OM, la remarque pourrait susciter une réflexion sur la manière dont les performances sont évaluées au regard des indicateurs statistiques. Aucun suivi officiel n’a été annoncé à ce jour, et aucune information supplémentaire n’est disponible pour le moment.",
+  "mots_cles": [
+    "Olympique de Marseille",
+    "Le Mans",
+    "football",
+    "performance",
+    "xG"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-23T07:45:28+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gerson-olympique-de-marseille-2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Soccer.ru",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerson-olympique-de-marseille-2021.png",
+    "legende": "Gerson playing for Olympique de Marseille in 2021",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Gerson-olympique-de-marseille-2021.png"
+  },
+  "sources": [
+    {
+      "media": "MadeInFoot",
+      "titre": "Le Mans - Le capitaine du Mans se paie l'OM après la victoire : \"Marseille est une équipe qui se procure très peu de xG\"",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUUNLRWpQeUVhMlgwQ2VqdmxNeURIZ0pSa2s4ajVyVTk5bWNmYXJ3ZThsY2xpeGFxUzJyU1VZYjlNZHBVLXdNb1pOVjhnMW9DZnpMZkRGR2l4QjBSdlJSSks4OE1xelAyclJSd01ubVFxYnJUVjl2REtZRnBuNzA0Q1RkbzR5Z1JpLXBVem5RZWZrUlhOa3BQdTZNbzVWcFhiVWRndmRPSHUtaHNDVjU4RTBuZ1N3TEd0djNva2xzQThqMi16Mk1OTDd2Sm9aNFlaWGlhamZyNFpGTi05cXozZzRraGpFMHF1aE8tb0xvOUs1bkFiNllwRXNZb29tR0dsZXF6b3dB?oc=5"
+    },
+    {
+      "media": "RMC Sport",
+      "titre": "\"L'OM est une équipe qui surperforme\", le constat cinglant du Mans qui a coulé Marseille",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQm1MdFU2VHVSX1VQX2tlZ3pDeTRacGNGMkhHTTJFRTRZRjl4c2hubU0xV29QRDNtU1IyVkg4ZGl3M3h4ajFGMnd4akx0cFhBVG5wNl9ORnU2OGh3ZWpRV085S1JUX3J0eFZaOVk1ZFBneXdkTllndlhNel95RVVDQVNwcnhULUVUMmxKMjNmOVczN3VILXlDRDROQ1ctWmVIa2VlaGRZZk8xcS12S1dfeXhoZWVQUWNSTHhQTTg3bjFmYWRSRmdVZVhFZWJYaUYtU0p6d2tmRHQzNmJoSF9HblRWbGY0eWh0T3JINzN2LTU5MElidWtyUkl1M1Q?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

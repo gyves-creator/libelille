@@ -35,5 +35,23 @@
     "titres_sources": [
       "Championnat des nations : douze équipes, six matchs en trois jours, une pelouse de rechange… Le défi fou de Twickenham"
     ]
+  },
+  {
+    "titre": "CNRS : dérogation pour OpenAI et Anthropic, plateforme mutualisée",
+    "texte": "Des chercheurs du CNRS ont reçu une dérogation leur permettant d’utiliser les services d’OpenAI et d’Anthropic. Une plateforme mutualisée regroupe les ressources d’une vingtaine d’établissements universitaires pour faciliter l’accès à l’IA.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-23T07:45:33+00:00",
+    "titres_sources": [
+      "Comment les laboratoires français organisent l’accès de leurs chercheurs à l’IA"
+    ]
+  },
+  {
+    "titre": "Rockstar explique l'absence des mini‑jeux fléchettes et bowling dans GTA 6",
+    "texte": "Le 19 novembre, Rockstar Games a indiqué que les mini‑jeux de fléchettes et de bowling, présents dans les précédents titres, ne figurent pas dans GTA 6. La société a justifié la décision comme un recentrage sur l’expérience principale du jeu.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-23T07:45:33+00:00",
+    "titres_sources": [
+      "Pourquoi des mini-jeux comme les fléchettes ont disparu de GTA 6 ?"
+    ]
   }
 ]
