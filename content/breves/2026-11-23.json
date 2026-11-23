@@ -259,5 +259,23 @@
     "titres_sources": [
       "REPORTAGE. \"Ça ressemble vraiment à une petite montagne\" : au Portugal, ces champions de surf attendent la plus grosse vague du monde"
     ]
+  },
+  {
+    "titre": "GTA 6 reçoit sa première mise à jour, corrections de bugs",
+    "texte": "Moins d'une semaine après sa sortie, la mise à jour de GTA 6 a été diffusée sur PS5, Xbox Series S et Xbox Series X. Aucune nouveauté n'est annoncée, seuls des correctifs de bugs sont inclus.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-23T16:37:43+00:00",
+    "titres_sources": [
+      "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?"
+    ]
+  },
+  {
+    "titre": "Essonne : familles sous pression, recours au Point Conseil Budget",
+    "texte": "Des familles de l’Essonne, confrontées à la hausse du coût de la vie et à l’endettement, se rendent au Point Conseil Budget pour obtenir une assistance. Selon le reportage, elles décrivent des restrictions budgétaires sévères et cherchent des solutions pour éviter la surendettement.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-23T16:37:43+00:00",
+    "titres_sources": [
+      "« Quand on a acheté à manger, on n’a plus rien » : étranglées par les crédits, ces familles prises dans la spirale de la vie chère"
+    ]
   }
 ]
