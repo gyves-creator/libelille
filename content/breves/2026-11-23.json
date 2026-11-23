@@ -373,5 +373,23 @@
     "titres_sources": [
       "Défense : un Rafale français effectue une manœuvre périlleuse sur une autoroute finlandaise"
     ]
+  },
+  {
+    "titre": "L'ONU pressée d'établir un cadre de gestion des risques IA",
+    "texte": "Le secrétaire général de l'ONU aurait appelé les États membres à créer, d'ici un an, un mécanisme multilatéral limitant les risques de l'IA. Il quittera ses fonctions à la fin de l'année, ce qui rend sa proposition d'autant plus pressante.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T20:11:45+00:00",
+    "titres_sources": [
+      "Le chef de l'ONU Antonio Guterres appelle à établir d'ici un an un mécanisme limitant les risques posés par l'IA"
+    ]
+  },
+  {
+    "titre": "Grève à Rennes bloque plus d'un million de chèques",
+    "texte": "Plus d'un million de chèques seraient bloqués à cause d'une grève des agents des finances publiques à Rennes. Ces agents, qui assurent l'encaissement des paiements d'amendes et de factures hospitalières, prévoient la fermeture prochaine du centre.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T20:11:45+00:00",
+    "titres_sources": [
+      "L'encaissement de plus d'un million de chèques bloqué à cause d'une grève d'agents des finances publiques à Rennes"
+    ]
   }
 ]
