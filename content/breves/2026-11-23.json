@@ -91,5 +91,23 @@
     "titres_sources": [
       "Fermeture du tunnel de Saint-Cloud, accidents : plus de 400 km de bouchons en Île-de-France ce lundi matin"
     ]
+  },
+  {
+    "titre": "Macron annonce zones industrielles à fort potentiel",
+    "texte": "Le président Emmanuel Macron a présenté, lors du sommet Choose France, la création de zones industrielles à fort potentiel où les procédures d'installation seront simplifiées. L'objectif affiché est de faire de la France le pays le plus rapide d'Europe pour créer des sites industriels.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T10:44:36+00:00",
+    "titres_sources": [
+      "DIRECT. Sommet Choose France : Emmanuel Macron annonce la création de \"zones industrielles à fort potentiel\" où les procédures d'installation seront simplifiées"
+    ]
+  },
+  {
+    "titre": "Le dirigeant IA de Meta avertit de l'arrivée de la superintelligence",
+    "texte": "Alexandr Wang, responsable IA chez Meta, a indiqué que la preuve de l'hypothèse de Riemann obtenue avec Claude signale l'arrivée de la superintelligence. Il a ajouté que l'année prochaine sera décisive et a refusé toute passation du contrôle de l'entreprise à l'IA.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-23T10:44:36+00:00",
+    "titres_sources": [
+      "« La superintelligence est en train d’arriver » : après Riemann, le patron de l’IA chez Meta appelle à ne pas lui céder les commandes"
+    ]
   }
 ]
