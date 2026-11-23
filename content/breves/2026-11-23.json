@@ -145,5 +145,24 @@
     "titres_sources": [
       "Rugby : Bielle-Biarrey élu meilleur joueur du monde ? Réponse ce week-end"
     ]
+  },
+  {
+    "titre": "Pedro Sánchez propose une taxe sur les fortunes de plus de 100 M€",
+    "texte": "Le Premier‑ministre espagnol a annoncé un projet de taxe sur les patrimoines dépassant 100 millions d’euros, destiné à financer l’éducation, le logement et les services publics. Cette initiative intervient alors que le parti socialiste cherche à se distinguer du Parti populaire avant les prochaines élections législatives.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T12:43:41+00:00",
+    "titres_sources": [
+      "En Espagne, Pedro Sánchez propose de taxer les patrimoines supérieurs à 100 millions d'euros",
+      "Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros"
+    ]
+  },
+  {
+    "titre": "Le parquet national financier clôture les enquêtes sur les déplacements d'Anne Hidalgo",
+    "texte": "Le parquet national financier a classé sans suite les deux enquêtes ouvertes sur les déplacements de l'ancienne maire de Paris en Nouvelle‑Calédonie et en Polynésie française. Ces investigations avaient été déclenchées suite à des signalements et à une plainte de l'association AC !! Anti‑corruption.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-23T12:43:41+00:00",
+    "titres_sources": [
+      "Les enquêtes sur les déplacements d’Anne Hidalgo en Nouvelle-Calédonie et en Polynésie classées sans suite par le PNF"
+    ]
   }
 ]
