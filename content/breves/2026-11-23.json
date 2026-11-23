@@ -427,5 +427,23 @@
     "titres_sources": [
       "Ligue des champions : «Un tournant important» pour le RC Lens à Leipzig, reconnaît Didier Digard"
     ]
+  },
+  {
+    "titre": "Macron songe à inscrire une règle d’or constitutionnelle",
+    "texte": "Le président Emmanuel Macron envisagerait d’inscrire dans la Constitution une règle d’or destinée à contraindre la réduction des déficits publics. Cette proposition, évoquée à l’approche de l’élection présidentielle, viserait à rétablir l’équilibre budgétaire.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T21:32:47+00:00",
+    "titres_sources": [
+      "Budget : à quoi sert la règle d'or et peut-elle être adoptée ?"
+    ]
+  },
+  {
+    "titre": "Bunkers de luxe : les ultra-riches américains se les construisent",
+    "texte": "De nombreux Américains fortunés font ériger d’immenses bunkers dans leurs résidences de luxe pour se prémunir contre intrusions, catastrophes naturelles ou attaques chimiques et nucléaires. Ce secteur, qui dépasse le simple mouvement survivaliste, connaît une forte expansion.",
+    "rubrique": "international",
+    "publie_le": "2026-11-23T21:32:47+00:00",
+    "titres_sources": [
+      "Dans les bunkers des ultra-riches aux États-Unis"
+    ]
   }
 ]
