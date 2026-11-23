@@ -1,0 +1,38 @@
+{
+  "slug": "attaque-russe-a-dymer-au-moins-14-morts-et-des-secouristes-extraits-d-un-immeubl",
+  "titre": "Attaque russe à Dymer : au moins 14 morts et des secouristes extraits d'un immeuble effondré",
+  "chapeau": "Une frappe aérienne russe a touché un immeuble résidentiel à Dymer, à 40 km au nord de Kyiv, faisant au moins quatorze victimes. Les secours ont pu sauver un enfant et une femme de 79 ans parmi les décombres.",
+  "corps": "## Une frappe qui fait des dizaines de victimes\nDans la nuit du 22 au 23 novembre, un bombardement russe a touché un bâtiment d'habitation à Dymer, localité située à une quarantaine de kilomètres au nord de la capitale ukrainienne. Un bilan provisoire indique que quatorze personnes ont perdu la vie, dont dix dans l'effondrement partiel de l'immeuble. Les autorités locales ont précisé que les secours ont réussi à extraire vivants un enfant et une femme de 79 ans.\n\n## Les opérations de secours sur le terrain\nLes équipes d'intervention, composées de pompiers et de secouristes, ont rapidement été dépêchées sur le site. Elles ont d'abord sécurisé la zone afin d'éviter d'autres effondrements, puis ont entamé les travaux de recherche et de sauvetage. Le sauvetage de l'enfant et de la senior, réalisé dans des conditions difficiles, a été signalé comme une première réussite parmi les opérations de la nuit.\n\n## Contexte du conflit dans la région de Kyiv\nDepuis le déclenchement de l'invasion russe en février 2022, la région de Kyiv a régulièrement été la cible d'attaques aériennes. Les frappes visent souvent des infrastructures civiles, entraînant des pertes humaines importantes et des déplacements de population. Cette nouvelle attaque s'inscrit dans une série d'actions militaires qui ont intensifié les combats autour de la capitale, malgré les tentatives diplomatiques de désescalade.\n\n## Répercussions et réponses officielles\nLes autorités locales ont appelé à la vigilance et à l'évacuation des zones les plus exposées aux frappes. Aucun responsable direct de l'attaque n'a été identifié à ce stade, et les investigations restent en cours. Le nombre de morts pourrait évoluer si d'autres victimes sont découvertes dans les décombres ou si des blessés succombent à leurs blessures.\n\nCette tragédie souligne la vulnérabilité des civils dans les zones frontalières du conflit et rappelle la nécessité d'une protection accrue des populations civiles en temps de guerre.",
+  "mots_cles": [
+    "Ukraine",
+    "Dymer",
+    "attaque russe",
+    "civils",
+    "secours"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-23T05:28:11+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dymer_gerb.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Dymer_gerb.png",
+    "legende": "Coat of arms of the village, Dymer",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Dymer gerb.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Guerre en Ukraine : des frappes russes font au moins 14 morts dans la région de Kiev",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : des frappes russes dans la région de Kiev font au moins 14 morts ; deux navires, dont au moins un russe, attaqués en Libye",
+      "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-des-frappes-russes-dans-la-region-de-kiev-font-au-moins-14-morts-deux-navires-dont-au-moins-un-russe-attaques-en-lybie_6814183_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

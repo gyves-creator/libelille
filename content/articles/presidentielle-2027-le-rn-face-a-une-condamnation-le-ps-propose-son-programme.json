@@ -1,0 +1,38 @@
+{
+  "slug": "presidentielle-2027-le-rn-face-a-une-condamnation-le-ps-propose-son-programme",
+  "titre": "Présidentielle 2027 : Le RN face à une condamnation, le PS propose son programme",
+  "chapeau": "Marine Le Pen a été désignée candidate du Rassemblement national le soir même d’une condamnation pour détournement de fonds publics. Raphaël Glucksmann, porte‑parole du Parti socialiste et de Place publique, a présenté ses priorités écologiques, économiques et sociales tout en évoquant des soupçons de fuite d’informations.",
+  "corps": "## Une candidature controversée\nMarine Le Pen, porte‑drapeau du Rassemblement national, a été officiellement présentée comme candidate à l’élection présidentielle 2027 le 23 novembre 2026. Cette désignation intervient le même soir qu’une décision de justice la condamne pour détournement de fonds publics. Malgré ces accusations, la candidate ne commente pas les affaires judiciaires qui pèsent sur son parti, estimant que les électeurs resteront indifférents aux dossiers en cours. Aucun autre détail n’a été fourni quant aux éventuelles conséquences de cette condamnation sur la campagne.\n\n## Le PS avance son programme et soulève des suspicions de fuite\nLe 22 novembre 2026, Raphaël Glucksmann, désigné candidat du Parti socialiste et de Place publique, a participé à l’émission « Grand enjeu ». Au cours de son intervention, il a exposé les grandes lignes de son projet : une transition écologique renforcée, des mesures destinées à soutenir le pouvoir d’achat et une réforme du système de retraite. Il a également abordé les accusations portées contre le préfet du Loiret, Hugues Moutouh, suspecté d’avoir transmis des informations au Rassemblement national. Glucksmann a indiqué que ces faits, s’ils étaient avérés, constitueraient une atteinte à la loyauté de la fonction publique, sans toutefois fournir de précisions supplémentaires.\n\nCes deux interventions illustrent la diversité des enjeux qui traversent la campagne présidentielle de 2027. D’une part, la candidature de Marine Le Pen se trouve marquée par un contexte judiciaire qui pourrait influencer la perception du public. D’autre part, le Parti socialiste mise sur un programme axé sur l’écologie, le pouvoir d’achat et les retraites, tout en soulevant des questions de transparence au sein de l’administration.\n\n## Le cadre institutionnel de la prochaine élection\nEn France, la présidentielle se déroule tous les cinq ans, le premier tour étant suivi d’un second si aucun candidat n’obtient la majorité absolue. Les modalités d’inscription sur les listes électorales, les conditions de vote et les dates précises sont détaillées sur le site officiel du service public. Les candidats doivent recueillir les parrainages requis et respecter les règles de financement de campagne. Les débats télévisés, comme celui du 22 novembre, offrent aux électeurs l’occasion de comparer les programmes et les positions des différents prétendants avant le scrutin.\n\nLe déroulement de la campagne restera sous l’attention des observateurs, tant les questions de probité que les propositions politiques seront scrutées par l’électorat. Les prochains mois permettront d’évaluer l’impact de ces éléments sur les intentions de vote, dans un contexte où chaque candidat doit concilier exigences légales et attentes citoyennes.",
+  "mots_cles": [
+    "Présidentielle 2027",
+    "Marine Le Pen",
+    "Raphaël Glucksmann",
+    "Rassemblement national",
+    "Parti socialiste"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-23T05:28:08+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Marine_Le_Pen_VIVA_24_%282%29_%28cropped%29.jpg/1280px-Marine_Le_Pen_VIVA_24_%282%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Vox España",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_VIVA_24_(2)_(cropped).jpg",
+    "legende": "VIVAEUROPA 19-05-2024",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marine Le Pen VIVA 24 (2) (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", assure Raphaël Glucksman, candidat PS et Place publique",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
