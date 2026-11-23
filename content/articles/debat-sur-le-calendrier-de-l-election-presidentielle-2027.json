@@ -1,0 +1,38 @@
+{
+  "slug": "debat-sur-le-calendrier-de-l-election-presidentielle-2027",
+  "titre": "Débat sur le calendrier de l’élection présidentielle 2027",
+  "chapeau": "Le premier tour de l’élection présidentielle 2027 est prévu le 18 avril, suivi du second le 2 mai. La proximité du second tour avec le 1er mai suscite des discussions parmi les acteurs politiques, syndicaux et médiatiques.",
+  "corps": "## Calendrier fixé par l’exécutif\nLe dispositif actuel prévoit un premier tour le 18 avril 2027, puis un second tour le 2 mai, soit le lendemain de la fête du Travail. Ces dates ont été établies par les autorités exécutives et constituent le cadre officiel du scrutin présidentiel.\n\n## Enjeux soulevés par la proximité du 1er mai\nLe positionnement du second tour, à un jour du 1er mai, soulève plusieurs interrogations. Les syndicats, qui organisent traditionnellement des manifestations à cette date, craignent un chevauchement logistique et sécuritaire. La classe politique exprime également des réserves quant à la capacité des médias à couvrir simultanément les mobilisations syndicales et le déroulement du second tour. Le débat porte ainsi sur la possible nécessité d’ajuster le calendrier pour éviter des conflits d’organisation.\n\n## Possibilité d’intervention gouvernementale\nDes appels à réviser les dates du scrutin se multiplient. Selon les informations disponibles, le gouvernement conserve une marge de manœuvre pour modifier le calendrier, à condition que les changements restent dans les limites fixées par la législation. Cette flexibilité, bien que restreinte, laisse entrevoir la possibilité d’un report ou d’un avancement des votes afin de répondre aux préoccupations soulevées.\n\n## Perspectives et suite du débat\nLe sujet continue d’alimenter les discussions au sein des différents acteurs concernés. Aucun ajustement officiel n’a encore été annoncé, et le calendrier demeure tel qu’il a été initialement publié. Les parties prenantes attendent d’éventuelles précisions de la part du gouvernement, qui devra concilier exigences de sécurité, couverture médiatique et respect du cadre légal.\n\nEn attendant une décision éventuelle, le calendrier actuel reste en vigueur, et les préparatifs pour les deux tours de l’élection présidentielle 2027 se poursuivent conformément aux échéances annoncées.",
+  "mots_cles": [
+    "élection présidentielle",
+    "dates du scrutin",
+    "débat politique",
+    "premier tour",
+    "second tour"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-23T19:10:50+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo_Asselineau2027.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Logo_Asselineau2027.png",
+    "legende": "Logo de la campagne présidentielle de François Asselineau pour l'élection présidentielle française de 2027.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Logo Asselineau2027.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Faut-il changer les dates de l'élection présidentielle ? On fait le point sur ce débat qui agite la classe politique",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/faut-il-changer-les-dates-de-l-election-presidentielle-on-fait-le-point-sur-le-debat-politique-sur-cette-question_8296431.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Le Figaro - Politique - L'actualité du gouvernement et de l'opposition",
+      "titre": "Le gouvernement peut-il encore changer la date de l’élection présidentielle ?",
+      "url": "https://www.lefigaro.fr/politique/le-gouvernement-peut-il-encore-changer-la-date-de-l-election-presidentielle-20261123"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
