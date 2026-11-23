@@ -1,0 +1,38 @@
+{
+  "slug": "le-parquet-national-financier-cloture-sans-suite-les-enquetes-sur-les-voyages-d",
+  "titre": "Le parquet national financier clôture sans suite les enquêtes sur les voyages d'Anne Hidalgo",
+  "chapeau": "Le Parquet national financier a classé sans suite deux enquêtes ouvertes sur les déplacements de l'ancienne maire de Paris, Anne Hidalgo, en Nouvelle-Calédonie, en Polynésie française et dans d’autres pays. L’institution précise que ces déplacements étaient conformes aux intérêts et compétences de la Ville de Paris.",
+  "corps": "## Des investigations ouvertes suite à une plainte\nLe Parquet national financier (PNF) avait lancé deux procédures d’enquête après avoir reçu des signalements et une plainte déposée par l’association AC!! Anticorruption. Ces investigations portaient sur plusieurs voyages effectués par Anne Hidalgo, ancienne maire de Paris affiliée au Parti socialiste, dans des territoires d’outre‑mer tels que la Nouvelle‑Calédonie et la Polynésie française, ainsi que dans d’autres pays. L’objet de la plainte était de vérifier la conformité de ces déplacements avec les règles de gestion des fonds publics et les compétences de la collectivité parisienne.\n\n## Décision de classer les dossiers sans suite\nAprès examen, le PNF a conclu que les déplacements en question avaient été réalisés « conformément aux intérêts et compétences » de la Ville de Paris. Cette appréciation a conduit à la clôture des deux enquêtes, sans poursuites ni sanctions. Aucun élément probant n’a été retenu pour justifier une éventuelle mauvaise utilisation des deniers publics.\n\n## Contexte institutionnel et juridique\nLe Parquet national financier est chargé de la lutte contre la corruption et la fraude financière au sein des institutions publiques. Son rôle consiste à vérifier que les dépenses engagées par les collectivités locales respectent les exigences légales et budgétaires. Dans le cas présent, les voyages de l’ancienne élue ont été jugés compatibles avec les missions de la capitale, notamment en matière de coopération territoriale et de représentation internationale.\n\n## Réactions et suite du débat public\nL’affaire a suscité un intérêt médiatique, notamment en raison de la notoriété d’Anne Hidalgo et de la sensibilité du public aux questions de transparence financière. L’association AC!! Anticorruption, qui a initié la plainte, n’a pas publié de commentaire supplémentaire après la décision du parquet. Aucun autre organisme n’a indiqué l’ouverture de nouvelles investigations liées à ces déplacements.\n\nCette clôture illustre la procédure de contrôle exercée par les autorités judiciaires françaises lorsqu’elles sont alertées sur des pratiques potentielles de mauvaise gestion. Elle rappelle également que les voyages officiels des élus locaux peuvent être soumis à un examen rigoureux, même en l’absence d’infraction avérée.",
+  "mots_cles": [
+    "Anne Hidalgo",
+    "Parquet national financier",
+    "déplacements officiels",
+    "Nouvelle-Calédonie",
+    "Polynésie française"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-23T15:14:53+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hidalgo2020crop.jpg/1280px-Hidalgo2020crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jacques Paquier",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hidalgo2020crop.jpg",
+    "legende": "Pécresse - Ollier - Hidalgo",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Hidalgo2020crop.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les enquêtes sur les déplacements d’Anne Hidalgo en Nouvelle-Calédonie et en Polynésie classées sans suite par le PNF",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/23/les-enquetes-sur-les-deplacements-d-anne-hidalgo-en-nouvelle-caledonie-et-en-polynesie-classees-sans-suite-par-le-pnf_6814384_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "Les enquêtes sur les déplacements de l'ex-maire PS de Paris Anne Hidalgo, dont un en Polynésie, classées sans suite",
+      "url": "https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "ligne-18-du-grand-paris-express-lancement-tres-compromis",
+  "titre": "Ligne 18 du Grand Paris Express : lancement très compromis",
+  "chapeau": "La mise en service du premier tronçon de la ligne 18, prévue en décembre, est qualifiée de « très compromise » par Valérie Pécresse, présidente d'Île-de-France Mobilités. Le report serait dû à des difficultés d'exploitation, de sécurité et à l'absence de la période de marche à blanc requise.",
+  "corps": "## Un lancement incertain\nValérie Pécresse, à la tête d'Île-de-France Mobilités, a indiqué que le lancement de la ligne 18 du Grand Paris Express, initialement programmé avant la fin de l'année, était fortement compromis. Cette affirmation intervient alors que le premier tronçon du supermétro, qui doit relier la banlieue sud‑ouest à la périphérie nord‑est de Paris, n’a pas encore entamé les deux mois de tests opérationnels, appelés « marche à blanc », indispensables avant la mise en service définitive.\n\n## Les causes évoquées\nLes raisons avancées regroupent des problèmes d’exploitation et de sécurité. La présidente a notamment pointé du doigt le fournisseur Alstom et le logiciel d’automatisation qui, selon elle, ne répondent pas aux exigences requises. L’absence de la phase de test, prévue pour vérifier le bon fonctionnement du système automatisé, empêche de garantir la sécurité des usagers et la fiabilité du service.\n\n## Un calendrier déjà repoussé\nLe lancement du tronçon a déjà été reporté à plusieurs reprises depuis le lancement du projet du Grand Paris Express. Malgré les engagements officiels visant une ouverture avant la fin de l'année, le fait que la marche à blanc n’ait pas encore commencé rend cette échéance difficile à tenir. Aucun nouveau délai précis n’a été communiqué, la situation restant donc incertaine.\n\n## Conséquences pour le réseau francilien\nSi la ligne 18 n’est pas opérationnelle en décembre, le réseau de transport en commun de la région Île-de-France devra se contenter de ses lignes existantes pour absorber la demande prévue sur ce corridor. Le retard pourrait également impacter la planification d’autres projets du Grand Paris Express, dont la mise en service progressive des autres lignes est prévue dans les années à venir.\n\nEn attendant, les autorités restent vigilantes quant à la résolution des problèmes techniques et à la mise en place de la période de tests, condition sine qua non pour garantir la sécurité et la performance du nouveau service.",
+  "mots_cles": [
+    "Grand Paris Express",
+    "ligne 18",
+    "Valérie Pécresse",
+    "Alstom",
+    "marche à blanc"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-23T15:14:50+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Construction_Work_on_%22The_Grand_Paris_Express%22_in_Le_Bourget.jpg/1280px-Construction_Work_on_%22The_Grand_Paris_Express%22_in_Le_Bourget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "DiscoA340",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Construction_Work_on_%22The_Grand_Paris_Express%22_in_Le_Bourget.jpg",
+    "legende": "Construction Work on the future Line 17, which is part of the megaproject called \"The Grand Paris Express,\" near Paris Airport-Le Bourget in Le Bourget, France.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Construction Work on \"The Grand Paris Express\" in Le Bourget.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "La mise en service de la ligne 18 du Grand Paris Express en décembre est \"très compromise\", selon Valérie Pécresse",
+      "url": "https://www.franceinfo.fr/economie/transports/la-mise-en-service-de-la-ligne-18-du-grand-paris-express-en-decembre-est-tres-compromise-selon-valerie-pecresse_8296103.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Grand Paris Express : Valérie Pécresse juge « très compromise » la mise en service de la ligne 18 avant la fin de l’année",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-valerie-pecresse-juge-tres-compromise-la-mise-en-service-de-la-ligne-18-avant-la-fin-de-l-annee_6814396_3234.html"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Grand Paris Express : la mise en service de la ligne 18 en décembre «très compromise», reconnaît Valérie Pécresse",
+      "url": "https://www.lefigaro.fr/conjoncture/grand-paris-express-la-mise-en-service-de-la-ligne-18-en-decembre-tres-compromise-reconnait-valerie-pecresse-20261123"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

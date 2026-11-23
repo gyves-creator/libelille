@@ -1,0 +1,37 @@
+{
+  "slug": "saisie-de-deux-armes-a-feu-lors-d-un-controle-routier-a-nantes",
+  "titre": "Saisie de deux armes à feu lors d’un contrôle routier à Nantes",
+  "chapeau": "Deux pistolets ont été confisqués par les forces de l’ordre lors d’un contrôle routier dans un quartier nantais. L’intervention, qualifiée de banale, n’a entraîné aucune perturbation signalée du trafic.",
+  "corps": "## Un contrôle routier habituel\nLe 23 novembre 2026, les services de police de Nantes ont procédé à un contrôle routier classique dans un quartier de la ville. Au cours de cette vérification, les agents ont découvert deux armes de poing, lesquelles ont été immédiatement saisies. Aucun détail supplémentaire n’a été communiqué sur les circonstances exactes de la découverte ni sur l’identité des personnes concernées.\n\n## Conséquences pour les riverains\nAucun arrêt de circulation ni détournement de voies n’a été annoncé à la suite de l’opération. Les habitants du secteur n’ont donc pas signalé de gêne particulière dans leurs déplacements quotidiens. Les autorités n’ont pas indiqué de mesures de sécurité additionnelles ou de restrictions temporaires liées à cet incident.\n\n## Contexte sécuritaire à Nantes\nLes contrôles routiers constituent une pratique courante des forces de l’ordre françaises, visant à vérifier la conformité des véhicules et à prévenir la détention illégale d’objets dangereux. La saisie d’armes à feu lors de ces contrôles, bien que rare, s’inscrit dans le cadre des missions de lutte contre la criminalité et de protection du public. Nantes, métropole de l’ouest de la France, dispose d’une police municipale et d’une police nationale qui collaborent régulièrement pour assurer la sécurité des habitants.\n\n## Informations pratiques\nPour toute question relative à cet événement ou pour obtenir des précisions sur d’éventuelles consignes de sécurité, les riverains sont invités à consulter le site officiel de la mairie de Nantes ou à contacter le service de police via les numéros habituels d’urgence. Aucun autre dispositif de déviation ou d’avertissement n’a été mentionné à ce jour.",
+  "mots_cles": [
+    "Nantes",
+    "contrôle routier",
+    "armes à feu",
+    "sécurité"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-23T15:15:06+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Nantes_-_Graslin_int_11.jpg/1280px-Nantes_-_Graslin_int_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Selbymay",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_-_Graslin_int_11.jpg",
+    "legende": "Painting by Hippolyte Berteaux, Théâtre Graslin ceiling - Nantes",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes - Graslin int 11.jpg"
+  },
+  "sources": [
+    {
+      "media": "maville.com",
+      "titre": "Deux armes de poing saisies lors d’un banal contrôle routier dans un quartier de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0M4akhFNmxhbmw3dDF2bVpGTlVWUzF4M1A5YnlrZHNfZU5fUWtpM3lkZmdGUDk2SFF0ei1NZVhoUTdQQjMxTjA2VzJxX0w3Rks3UFA1emo2ekwyLUd1Vm5lXzh6dFRkQ3ZsOGI2a1ZZZ0s3QkxEdEhMT2NoNkVlWjlOZ0VJVGNRWXh3allFT2U2Rkx1NVRzV0lHdzhuVU1TM3l3SEN3OTlCbE1IZGZZRUE4VDZkTi1LTEpzVFRaTGF5YWxadjItY1MzbEYwRC1uSjV6RXN0SzYxUXFBaEJqYUNadmZhQ2tFMDR3Wg?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "Deux armes de poing saisies lors d’un banal contrôle routier dans un quartier de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNOGxWeGloeGdvVDQzbEstUEp6VnlaU0JEWnduVDNCcHBPbFQyVV9tUmY5bUlrZ2l3UzdadXdfTDRGbFIxRzZxclYyMERMUDI4cVZ3OEJ0U3lIX04tUmJoSVlUb3dBd3c0aDZwanJQZzFpeGkzRm5mSmtiWnpEa1BRU1dwTnMzQ1pQU3Z2TnJOUmljSlhEQlZXT0pqdWUzTHhDeENiTFZsbUxCTHNreFdnc1UtQzRNcUpWZkFncnJBNTNhTUNRMENBRTQyNDREMnlUei1KcVNMSldYVlNHMkhjQkpiRzNuUzhxb05Mc2xFSjlBU2d0NU44VW9YbVVaell3LWc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

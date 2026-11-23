@@ -200,5 +200,26 @@
     "titres_sources": [
       "AirPods Pro 3 : Amazon brade les meilleurs écouteurs d’Apple pour le Black Friday"
     ]
+  },
+  {
+    "titre": "Jensen Huang réintégré à la tête de Nvidia, action en hausse de 30%",
+    "texte": "Le conseil d'administration de Nvidia a réinstallé Jensen Huang à son poste de dirigeant, deux semaines après sa démission. L'action du groupe a bondi d'environ 30 % à la Bourse de New York.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T15:15:13+00:00",
+    "titres_sources": [
+      "Jensen Huang fait son retour à la tête de Nvidia deux semaines après avoir démissionné pour ses frasques extraconjugales",
+      "Retour de Jensen Huang à la tête de Nvidia : l’action du géant américain s’envole de près de 30% à Wall Street",
+      "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois"
+    ]
+  },
+  {
+    "titre": "Tyson Fury annonce un diagnostic de schizophrénie dans un documentaire Netflix",
+    "texte": "Le champion anglais a déclaré souffrir de schizophrénie et de trouble bipolaire, diagnostiqués en 2016 après une hospitalisation. Le film, diffusé dès vendredi sur Netflix, revient sur cette période de détresse.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-23T15:15:13+00:00",
+    "titres_sources": [
+      "«J’entendais des voix dans ma tête», Tyson Fury révèle être atteint de schizophrénie et de trouble bipolaire",
+      "Le boxeur anglais Tyson Fury révèle souffrir de schizophrénie"
+    ]
   }
 ]
