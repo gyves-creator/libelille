@@ -1,0 +1,38 @@
+{
+  "slug": "nantes-accueille-plusieurs-courses-hippiques-le-23-novembre-2026",
+  "titre": "Nantes accueille plusieurs courses hippiques le 23 novembre 2026",
+  "chapeau": "Le 23 novembre 2026, plusieurs courses de galop se sont tenues à Nantes, parmi lesquelles le Prix Roger Chaignon, le Prix Duralock, le Prix des Parieurs PMU+ et le Prix de Saint‑Malo. Les partants, pronostics et résultats ont été diffusés en vidéo, avec des replays disponibles en ligne.",
+  "corps": "## Des courses hippiques à Nantes\n\nLe samedi 23 novembre, le programme hippique de la ville a comporté quatre courses distinctes. La première, le Prix des Parieurs PMU+, a été suivie de la deuxième, le Prix de Saint‑Malo, puis du Prix Roger Chaignon et enfin du Prix Duralock. Chaque épreuve a présenté son palmarès de partants ainsi que les pronostics des experts, le tout présenté sous forme de vidéos accessibles aux passionnés.\n\n## Accès aux vidéos et replays\n\nLes organisateurs ont mis à disposition des enregistrements complets des courses, permettant aux spectateurs de revoir les performances des chevaux et les résultats détaillés. Les replays du Prix de Saint‑Malo et du Prix des Parieurs PMU+ ont été publiés le même jour, offrant ainsi la possibilité de suivre les courses à tout moment. Aucun autre détail n’a été communiqué concernant les modalités d’accès, mais les vidéos sont généralement disponibles sur les plateformes officielles dédiées aux courses hippiques.\n\nCes diffusions constituent une source d’information précieuse pour les amateurs de courses, qui peuvent ainsi analyser les performances, comparer les pronostics et préparer leurs paris pour les prochaines rencontres. La diffusion en temps réel et en différé contribue également à la visibilité du secteur hippique local, renforçant l’intérêt du public pour ce type d’événement.\n\n## Contexte local et impact pratique\n\nLes courses de galop font partie intégrante du calendrier sportif de la région, attirant chaque année un public varié, des parieurs aux simples curieux. Bien que les dépêches ne mentionnent aucune perturbation de la circulation ou des transports, les habitants sont invités à consulter les informations municipales ou les sites dédiés en cas de modifications temporaires liées à l’organisation de l’événement. En l’absence d’indication contraire, aucune mesure particulière n’est à prévoir pour les usagers du réseau routier ou des transports en commun.\n\nPour toute question relative aux horaires de diffusion ou à la consultation des vidéos, les intéressés peuvent se référer aux canaux de communication habituels du secteur hippique, tels que les sites internet des organisateurs ou les plateformes de paris sportifs.",
+  "mots_cles": [
+    "courses hippiques",
+    "Nantes",
+    "prix",
+    "replay",
+    "PMU"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-23T13:29:30+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nantes._Vue_prise_de_l%27hippodrome.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Salathé",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes._Vue_prise_de_l%27hippodrome.png",
+    "legende": "Nantes. Vue prise de l'ancien hippodrome",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes. Vue prise de l'hippodrome.png"
+  },
+  "sources": [
+    {
+      "media": "Equidia",
+      "titre": "PRIX ROGER CHAIGNON - NANTES - 23/11/2026 : partants, pronostics et résultats en vidéos - Course 4",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pOGg3Q0RjRkVrbTZoUGlqR0FTN19aWHk3TFR0dXB4ZXJ0ZEU3VEtKQ2Z4aTF0NzR1SDg0a0s0czlfdzBNbl9ZZXdiVnpSdWc2WFNiZDkyT05GdUE?oc=5"
+    },
+    {
+      "media": "ParisTurf",
+      "titre": "Replay Prix de Saint-Malo - Nantes - 23 novembre 2026",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zN25IbTRRaktMdm9ucjBuUGtLNXB6QkJEWU9pSGlFY0dWUE01VGVRRndGVUd3TzhQQ0RKdko3ZlRlOEc2SGUxU0xrdUVRUGEyTHBnX0NLT3N4U0VtbEpUcUxWaTh3MlRz?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

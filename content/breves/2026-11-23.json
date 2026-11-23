@@ -164,5 +164,23 @@
     "titres_sources": [
       "Les enquêtes sur les déplacements d’Anne Hidalgo en Nouvelle-Calédonie et en Polynésie classées sans suite par le PNF"
     ]
+  },
+  {
+    "titre": "Prolongation du prime carburant jusqu’en 2027 au Sénat",
+    "texte": "Le gouvernement aurait fait adopter au Sénat une prolongation du prime carburant jusqu’en 2027, permettant aux employeurs volontaires de continuer à verser une aide défiscalisée pouvant atteindre mille euros. Cette mesure viserait à atténuer la hausse des prix du carburant liée au conflit au Moyen‑Orient.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-23T13:29:38+00:00",
+    "titres_sources": [
+      "Prime carburant : le gouvernement fait adopter au Sénat une prolongation en 2027"
+    ]
+  },
+  {
+    "titre": "Macron plaide pour une Europe forte à Toulouse",
+    "texte": "Le président aurait rencontré dimanche des dirigeants industriels à Toulouse, où il aurait réaffirmé l’importance d’une Europe forte et appelé à plus de prudence vis‑à‑vis de la Chine. Il aurait également mis en garde contre une éventuelle accession au pouvoir de Marine Le Pen.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-23T13:29:38+00:00",
+    "titres_sources": [
+      "«Je ne suis pas autorisé à faire campagne, autrement je peux vous dire que j’irais» : les confidences d’Emmanuel Macron à des grands patrons européens"
+    ]
   }
 ]
