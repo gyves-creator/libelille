@@ -1,0 +1,38 @@
+{
+  "slug": "les-democrates-obtiennent-la-plus-large-majorite-a-la-chambre-depuis-1992",
+  "titre": "Les démocrates obtiennent la plus large majorité à la Chambre depuis 1992",
+  "chapeau": "Les élections de mi-mandat aux États‑Unis ont conduit le parti démocrate à remporter 258 sièges sur 435 à la Chambre des représentants. Cette configuration représente la plus forte emprise démocrate depuis la victoire de 1992.",
+  "corps": "## Un résultat historique pour le parti démocrate\nLes scrutins de mi-mandat, qui ont eu lieu récemment, ont abouti à une configuration inédite pour le Congrès américain. Le parti démocrate détient désormais 258 des 435 sièges de la Chambre des représentants, un nombre qui n’avait pas été atteint depuis la victoire de 1992. Aucun des deux grands partis n’avait, jusqu’à présent, atteint une telle ampleur de majorité au cours des trois dernières décennies.\n\n## Le rôle décisif d’une circonscription nord‑carolinaise\nLe gain du siège supplémentaire provient de la victoire du candidat démocrate Chuck Hubbard dans une circonscription de Caroline du Nord. Cette réussite a permis de porter le total démocrate à 258, consolidant ainsi la marge de manœuvre du parti au sein de la Chambre. Le résultat de cette course locale a donc eu un impact direct sur la composition nationale du corps législatif.\n\n## Conséquences pour le législatif américain\nUne majorité de cette envergure donne aux démocrates la capacité de faire avancer plus aisément leur programme législatif, notamment en matière de politique économique, de santé et d’environnement. La Chambre, qui joue un rôle clé dans l’adoption des projets de loi et le contrôle du pouvoir exécutif, pourra ainsi voir ses travaux influencés par une orientation politique plus homogène.\n\n## Contexte électoral et perspectives\nLes élections de mi-mandat sont traditionnellement perçues comme un baromètre de l’opinion publique à mi-parcours du mandat présidentiel. Le résultat actuel, qui renforce la présence démocrate, contraste avec les précédents scrutins où les majorités étaient plus étroites. Les observateurs notent que cette configuration pourrait influencer les négociations avec le Sénat et le président en place, en fonction de la répartition des sièges dans les deux chambres.\n\nEn résumé, la Chambre des représentants des États‑Unis entre dans une nouvelle législature avec une majorité démocrate record depuis plus de trente ans, un tournant qui pourrait façonner le débat politique national pendant les années à venir.",
+  "mots_cles": [
+    "États-Unis",
+    "Chambre des représentants",
+    "élections de mi-mandat",
+    "majorité démocrate",
+    "Chuck Hubbard"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-23T11:15:48+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/United_States_House_of_Representatives_chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "United States House of Representatives or Office of the Speaker of the House",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:United_States_House_of_Representatives_chamber.jpg",
+    "legende": "United States House of Representatives chamber at the United States Capitol in Washington, D.C.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:United States House of Representatives chamber.jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Aux Etats-Unis, les démocrates obtiennent la plus large majorité depuis 1992 à la Chambre des représentants",
+      "url": "https://www.lemonde.fr/international/article/2026/11/23/avec-258-sieges-remportes-les-democrates-decrochent-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_6814364_3210.html"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Après les élections de mi-mandat aux Etats-Unis, les démocrates auront la plus large majorité depuis 1992 à la Chambre des représentants",
+      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/apres-les-elections-de-mi-mandat-aux-etats-unis-les-democrates-auront-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_8295608.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

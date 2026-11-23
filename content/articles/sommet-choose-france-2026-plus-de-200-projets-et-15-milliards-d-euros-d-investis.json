@@ -1,0 +1,32 @@
+{
+  "slug": "sommet-choose-france-2026-plus-de-200-projets-et-15-milliards-d-euros-d-investis",
+  "titre": "Sommet Choose France 2026 : plus de 200 projets et 15 milliards d’euros d’investissements",
+  "chapeau": "Le sommet Choose France 2026 a démarré le 23 novembre, présentant plus de deux cents projets industriels soutenus par près de 15 milliards d’euros. Cette deuxième édition, annoncée par le ministre de l’Économie Roland Lescure, met en avant des initiatives déjà connues et des annonces inédites.",
+  "corps": "## Un programme ambitieux\nLe rassemblement, qui se tient chaque année, a réuni un large éventail d’acteurs du secteur industriel français. Plus de 200 projets ont été mis à l’honneur, couvrant des domaines variés tels que l’énergie, la mobilité, la santé et les technologies avancées. Le total des investissements annoncés s’élève à près de 15 milliards d’euros, un montant qui regroupe à la fois des engagements déjà confirmés et des nouvelles promesses faites lors du sommet.\n\n## Le rôle du gouvernement\nLe ministre de l’Économie, Roland Lescure, a souligné l’importance du dispositif en déclarant : \"On a à la fois plus de projets et plus de montants investis\". Cette phrase résume la volonté du gouvernement de renforcer l’attractivité de la France pour les capitaux privés et publics. Le choix de placer le sommet au cœur de la première semaine de novembre vise à coïncider avec les calendriers de décision des investisseurs internationaux, afin de maximiser les opportunités de financement.\n\n## Un cadre de coopération internationale\nChoisir France sert de plateforme de dialogue entre les entreprises françaises, les multinationales et les institutions financières. Bien que les détails spécifiques des projets restent confidentiels, les organisateurs ont indiqué que le sommet favorise les partenariats public‑privé et encourage la mise en place de filières d’innovation. Les annonces inédites attendues lors de cette édition devraient renforcer la capacité de la France à répondre aux enjeux de transition énergétique et de compétitivité industrielle.\n\n## Perspectives pour l’économie française\nEn rassemblant plus de deux cents projets, le sommet confirme la dynamique d’investissement qui s’est amorcée lors de la première édition. Le volume de 15 milliards d’euros, bien que présenté comme un agrégat de projets déjà connus et de nouvelles annonces, illustre la confiance des acteurs économiques dans le cadre réglementaire et fiscal français. Si les engagements se traduisent en réalisations concrètes, ils pourraient contribuer à la création d’emplois et à la modernisation des filières industrielles, deux objectifs majeurs de la politique économique actuelle.",
+  "mots_cles": [
+    "Choose France",
+    "investissements",
+    "projets industriels",
+    "Roland Lescure"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-23T11:15:54+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Choose_France_Summit.jpg/1280px-Choose_France_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "PMarcantoni",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Choose_France_Summit.jpg",
+    "legende": "Pascal Cagni au sommet de Versailles Choose France (Juin 2021)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Choose France Summit.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Sommet Choose France 2026 : \"On a à la fois plus de projets et plus de montants investis\", souligne le ministre de l'Économie, Roland Lescure",
+      "url": "https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
