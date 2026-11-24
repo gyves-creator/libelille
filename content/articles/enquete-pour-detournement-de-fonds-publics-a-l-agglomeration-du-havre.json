@@ -1,0 +1,42 @@
+{
+  "slug": "enquete-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre",
+  "titre": "Enquête pour détournement de fonds publics à l'agglomération du Havre",
+  "chapeau": "Une plainte déposée par une ancienne directrice générale adjointe a conduit à l'ouverture d'une enquête préliminaire sur des soupçons de détournement de fonds publics au sein de la communauté urbaine du Havre. La procédure, confiée au Parquet national financier, place le président de la collectivité, Édouard Philippe, en qualité de témoin assisté.",
+  "corps": "## Ouverture de l'enquête\nLa procureure de la République a indiqué qu'une plainte, transmise via le Parquet national financier, avait été reçue et renvoyée au commissariat du Havre pour enquête. Le signalement, déposé en mai par l'ancienne directrice générale adjointe de la communauté urbaine, porte sur des allégations de détournement de fonds publics au sein de l'agglomération.\n\n## Implications pour le président de la collectivité\nÉdouard Philippe, qui dirige la communauté urbaine du Havre et se présente à l'élection présidentielle, est désigné comme témoin assisté dans le cadre de cette investigation et d'une autre procédure engagée par le même parquet. Dans le cadre de la seconde affaire, il a qualifié les poursuites de « vendetta judiciaire », dénonçant ce qu'il perçoit comme une pression judiciaire à son encontre.\n\n## Contexte de la procédure\nLe Parquet national financier, compétent pour les affaires de fraude et de mauvaise gestion des deniers publics, supervise les deux dossiers. L'ouverture d'une enquête préliminaire signifie que les autorités recueillent des éléments de preuve avant de décider d'une éventuelle mise en examen. Aucun élément supplémentaire n'a été rendu public quant à l'ampleur ou à la nature précise des faits reprochés.\n\n## Répercussions politiques\nL'affaire intervient à un moment où le candidat à la présidence se trouve sous les feux des projecteurs. Bien que la procédure soit en cours et que le statut de témoin assisté n'implique pas de mise en cause directe, la situation suscite un intérêt médiatique accru et pourrait influencer la perception du public à l'approche du scrutin.",
+  "mots_cles": [
+    "Le Havre",
+    "détournement de fonds",
+    "Enquête judiciaire",
+    "Édouard Philippe"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-24T16:21:39+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cath%C3%A9drale_Notre-Dame_du_Havre%2C_10_August_2021.jpg/1280px-Cath%C3%A9drale_Notre-Dame_du_Havre%2C_10_August_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Alexandre Prevot from Nancy, France",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_du_Havre,_10_August_2021.jpg",
+    "legende": "Cathédrale Notre-Dame du Havre",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Cathédrale Notre-Dame du Havre, 10 August 2021.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Détournement de fonds de publics : une enquête vise l'agglomération du Havre d'Édouard Philippe",
+      "url": "https://www.france24.com/fr/france/20261124-edouard-philippe-vis%C3%A9-par-une-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-au-havre"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Métropole du Havre : une enquête préliminaire ouverte par le parquet après un signalement pour « détournement de fonds publics »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/metropole-du-havre-une-enquete-preliminaire-ouverte-par-le-parquet-apres-un-signalement-pour-detournement-de-fonds-publics_6814732_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

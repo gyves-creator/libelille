@@ -1,0 +1,43 @@
+{
+  "slug": "exposition-pro-avortement-et-protestations-au-parlement-europeen-de-strasbourg",
+  "titre": "Exposition pro‑avortement et protestations au Parlement européen de Strasbourg",
+  "chapeau": "Le Parlement européen de Strasbourg a accueilli cette semaine une exposition de photos défendant le droit à l’avortement, organisée par l’eurodéputée Manon Aubry. Le même lieu a été éclairé avant le Mercredi rouge et le vote d’un texte omnibus a été reporté à 2027, suscitant des manifestations d’ONG.",
+  "corps": "## Une réponse visuelle à une exposition polémique\nAprès qu’une exposition jugée anti‑IVG, initiée par des membres de l’extrême droite, a été présentée en septembre au Parlement européen, l’eurodéputée française Manon Aubry a proposé une contre‑exposition. Cette série de photographies, installée au sein même du bâtiment à Strasbourg, vise à affirmer le droit des femmes à disposer de leur corps. Aucun détail supplémentaire sur le contenu des images n’a été communiqué, mais l’objectif déclaré est de soutenir le droit à l’avortement dans le débat public.\n\n## Le Parlement s’illumine avant le Mercredi rouge\nDans le même temps, le bâtiment du Parlement européen a été décoré de lumières avant le « Mercredi rouge », une journée habituellement marquée par des actions de sensibilisation et de mobilisation. Les éclairages, visibles depuis le centre-ville, ont attiré l’attention des riverains et des visiteurs, sans indication d’incidence sur la circulation ou les services publics.\n\n## Report du vote omnibus et mobilisation des ONG\nPar ailleurs, le Parlement européen a annoncé le report du vote prévu sur un texte omnibus, désormais reporté à l’année 2027. Cette décision a été accompagnée de manifestations d’organisations non gouvernementales à Strasbourg, qui ont exprimé leurs réserves quant à la procédure et aux contenus du projet de loi. Aucun incident majeur n’a été signalé, et les autorités n’ont pas indiqué de perturbations spécifiques dans la ville.\n\n## Conséquences pour les habitants de Strasbourg\nPour les habitants, ces événements se traduisent principalement par une visibilité accrue du Parlement européen, tant par l’exposition artistique que par les éclairages nocturnes. Aucun changement de trafic, de transports en commun ou de consignes de sécurité n’a été annoncé. Les personnes souhaitant plus d’informations peuvent consulter le site officiel du Parlement européen ou contacter le service d’accueil du bâtiment.\n\nEn l’absence de restrictions ou d’interruptions, la vie quotidienne à Strasbourg demeure inchangée, tandis que le débat autour du droit à l’avortement et les discussions législatives continuent de se jouer dans les couloirs du Parlement européen.",
+  "mots_cles": [
+    "Strasbourg",
+    "Parlement européen",
+    "Manon Aubry",
+    "exposition",
+    "manifestations"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-24T16:21:57+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Manon_Aubry-2.jpg/1280px-Manon_Aubry-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "MacFlory",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Manon_Aubry-2.jpg",
+    "legende": "Discours de Manon Aubry lors de la Convention nationale de la France insoumise, le 9 décembre 2018 à Bordeaux.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Manon Aubry-2.jpg"
+  },
+  "sources": [
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Une exposition pro-avortement au Parlement européen en riposte à l’extrême droite",
+      "url": "https://www.dna.fr/politique/2026/11/24/une-exposition-pro-avortement-au-parlement-europeen-en-riposte-a-l-extreme-droite"
+    },
+    {
+      "media": "StrasInfo.fr",
+      "titre": "Le Parlement européen de Strasbourg s’illumine avant le Mercredi rouge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmNKUE9LVTVnb1hwSlVFOVc5VG1Lc290Qlg5SGd0NnEwbTc5cThLbGxxQXNNVnN0SjIwUzBCZjg3bEszSm9RM3Q0NWVSQmJ3b1J6WGpHc0dHR0w3eG9JbjMzNElJYTNoOEdUNGIzZFB5M2IwaUhyV2trWHBSc0FrZGlsLUNxQmdPVkF6Q09LcUl2RDhUcGlNQW1zMjdKSmlMMFZ6ZA?oc=5"
+    },
+    {
+      "media": "L'Humanité",
+      "titre": "« Tout le monde déteste l’Omnibus » : le Parlement européen reporte le vote à 2027 alors que les ONG manifestent à Strasbourg",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLUdhV1p2R2JfTnhWTVFTbnRwNnd3SnMxelFFMWdFVnJhemdLUS1MT2pFZjREdUZKd3ZJOGY2VXBEc2FrM1FtYTZaeXR4WS1PY1FZYnlDTFFLX3lzSGpSLUg5Q2sxWFJ5SU1aemwyYy0zNjFTYkU3dDA1eGVFS1dvS3h0bWNUZjRaek9jakdhNzktUm0ycG9JS1hHMjY5VlBtUEdnbERpSkJ3Qm1hMzRzSHlSMmpfQ3NCS0lOLVppNWNDcFFCWDdzSENOYm9DS0hpRm9ldmdEOUM3d2VsNHVyUml2NlZ2Sm5ObTZ4bmZObGE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
