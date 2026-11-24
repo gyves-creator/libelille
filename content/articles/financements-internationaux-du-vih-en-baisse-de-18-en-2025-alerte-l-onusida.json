@@ -1,0 +1,38 @@
+{
+  "slug": "financements-internationaux-du-vih-en-baisse-de-18-en-2025-alerte-l-onusida",
+  "titre": "Financements internationaux du VIH en baisse de 18 % en 2025, alerte l’Onusida",
+  "chapeau": "L’Onusida signale une réduction de 18 % des ressources allouées aux programmes de lutte contre le VIH en 2025, surtout en Afrique. Malgré cette contraction budgétaire, le nombre de décès liés au sida atteint son plus bas niveau depuis plus de vingt ans.",
+  "corps": "## Baisse des financements internationaux\nLe Programme commun des Nations unies sur le VIH/sida (Onusida) a indiqué que les contributions financières internationales aux actions de prévention, de traitement et de recherche ont reculé de 18 % au cours de l’année 2025. Cette diminution concerne principalement les programmes implantés en Afrique, continent qui demeure le plus affecté par la pandémie. Les coupes budgétaires touchent à la fois les fonds destinés aux campagnes de sensibilisation, aux achats de médicaments antirétroviraux et aux projets de recherche visant à améliorer les traitements existants.\n\n## Situation épidémiologique contrastée\nParallèlement à la réduction des ressources, les statistiques mondiales montrent que le nombre de décès attribués au sida a chuté à son niveau le plus bas depuis plus de deux décennies. Cette évolution positive reflète les avancées réalisées grâce aux traitements antirétroviraux, à la prévention accrue et aux programmes de dépistage élargis, même si la contraction des financements pourrait compromettre la poursuite de ces progrès.\n\n## Risques pour la lutte future\nL’Onusida a mis en garde contre les conséquences potentielles de cette contraction budgétaire. Un financement insuffisant pourrait ralentir l’accès aux traitements dans les zones les plus vulnérables, réduire la capacité des systèmes de santé à dépister de nouveaux cas et freiner les recherches visant à développer de nouveaux médicaments ou un vaccin. Les acteurs du secteur, y compris les gouvernements, les organisations non gouvernementales et le secteur privé, sont appelés à combler le déficit afin de garantir la continuité des avancées observées.\n\n## Contexte et perspectives\nDepuis les années 2000, la communauté internationale a considérablement augmenté les investissements dans la lutte contre le VIH/sida, permettant de réduire le nombre de nouvelles infections et de décès. Cependant, la dépendance aux contributions extérieures rend les programmes vulnérables aux fluctuations économiques et aux priorités politiques des donateurs. Le maintien d’un financement stable est considéré comme essentiel pour atteindre les objectifs de l’Agenda 2030 en matière de santé et pour éviter un possible rebond de l’épidémie, notamment en Afrique où la prévalence reste la plus élevée.",
+  "mots_cles": [
+    "VIH",
+    "financement international",
+    "Onusida",
+    "Afrique",
+    "décès sida"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-24T19:08:39+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Organisation_mondiale_de_la_sant%C3%A9e_1_Geneve.JPG/1280px-Organisation_mondiale_de_la_sant%C3%A9e_1_Geneve.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gfuerst",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Organisation_mondiale_de_la_sant%C3%A9e_1_Geneve.JPG",
+    "legende": "Organisation mondiale de la santé (Genève, Suisse)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Organisation mondiale de la santée 1 Geneve.JPG"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
+      "url": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "VIH/sida : la chute des financements internationaux fragilise la lutte contre l’épidémie, pointe l’Onusida",
+      "url": "https://www.lemonde.fr/international/article/2026/11/24/vih-sida-la-chute-des-financements-internationaux-fragilise-la-lutte-contre-l-epidemie-pointe-l-onusida_6814760_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

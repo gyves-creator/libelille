@@ -342,5 +342,23 @@
     "titres_sources": [
       "Free lance la traduction en temps réel des appels téléphoniques grâce à l’IA, une première en France"
     ]
+  },
+  {
+    "titre": "BYD envisage l’achat de l’ancienne usine Smart en Moselle",
+    "texte": "Le constructeur chinois BYD prévoit d’acquérir l’ancienne usine Smart en Moselle pour y lancer la production en France. Cette opération intervient alors que le groupe enregistre une forte baisse de ses ventes en Chine et renforce ses investissements en Europe.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T19:08:46+00:00",
+    "titres_sources": [
+      "Le constructeur chinois BYD sur le point de racheter une usine en Moselle pour produire en France"
+    ]
+  },
+  {
+    "titre": "Lecornu rencontrera les présidents de groupes parlementaires pour le budget 2027",
+    "texte": "Le ministre de l’Intérieur, Sébastien Lecornu, doit recevoir la semaine prochaine les présidents des groupes parlementaires afin de prolonger les discussions sur le budget 2027. Le Premier ministre s’est félicité de l’adoption du projet de loi de finances de fin de gestion pour 2026.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-24T19:08:46+00:00",
+    "titres_sources": [
+      "Sébastien Lecornu recevra les présidents des groupes parlementaires \"la semaine prochaine\" pour prolonger les discussions sur le budget 2027"
+    ]
   }
 ]
