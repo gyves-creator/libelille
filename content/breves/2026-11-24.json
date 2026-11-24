@@ -35,5 +35,23 @@
     "titres_sources": [
       "REPORTAGE. \"Maître, ce que vous avez fait, ChatGPT me l'a fait en cinq minutes\" : comment l'intelligence artificielle bouscule la profession d'avocat"
     ]
+  },
+  {
+    "titre": "Militants LFI filmés dans l'hémicycle, condamnation de la présidente",
+    "texte": "Des militants de La France Insoumise ont filmé une vidéo dans l'hémicycle de l'Assemblée nationale, où ils critiquent la loi présumant légalité de l'usage des armes par les forces de l'ordre. La présidente Yaël Braun‑Pivet a condamné cet enregistrement, rappelant le respect du règlement.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-24T07:29:33+00:00",
+    "titres_sources": [
+      "Assemblée nationale : de jeunes militants LFI filmés dans l'hémicycle"
+    ]
+  },
+  {
+    "titre": "Maire du Cher place un ruban noir, proteste contre futures restrictions budgétaires",
+    "texte": "Dans une commune du Cher, la maire doit arbitrer entre rénover l'école, refaire la chaussée ou augmenter la fiscalité face aux nouvelles contraintes budgétaires. Elle a symboliquement posé un ruban noir sur le panneau de la commune pour marquer son opposition.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T07:29:33+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Nous sommes à l'os\" : dans les communes, les maires confrontés à des choix difficiles en prévision de nouvelles restrictions budgétaires"
+    ]
   }
 ]

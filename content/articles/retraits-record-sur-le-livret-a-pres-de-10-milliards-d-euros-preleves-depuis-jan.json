@@ -1,0 +1,38 @@
+{
+  "slug": "retraits-record-sur-le-livret-a-pres-de-10-milliards-d-euros-preleves-depuis-jan",
+  "titre": "Retraits record sur le Livret A : près de 10 milliards d’euros prélevés depuis janvier",
+  "chapeau": "Les Français ont retiré près de 10 milliards d’euros de leur Livret A depuis le début de l’année, marquant la plus forte baisse depuis 2008. Le gouvernement examine une hausse du plafond du livret et une révision de son taux d’intérêt prévue pour février.",
+  "corps": "## Un exode d’épargne face à la hausse des dépenses\nDepuis le 1er janvier, les ménages français ont vidé leur Livret A d’un montant avoisinant les 10 milliards d’euros, selon les données communiquées par le Cercle de l’Épargne. Cette fuite d’épargne s’inscrit dans un contexte de perte de pouvoir d’achat, aggravé par la hausse du coût de l’énergie, qui pousse les foyers à mobiliser leurs réserves de liquidités pour faire face à leurs dépenses courantes.\n\n## Débats autour du plafond et du taux du livret\nLe gouvernement poursuit les discussions relatives à l’augmentation du plafond du Livret A, mesure jugée nécessaire pour offrir davantage de capacité d’épargne aux épargnants. Parallèlement, le taux d’intérêt du livret, fixé à 1,7 % actuellement, pourrait être revu à la hausse et atteindre 2,8 % dès le mois de février, selon les informations disponibles. Cette éventuelle revalorisation viserait à rendre le produit plus attractif et à compenser partiellement la perte de pouvoir d’achat constatée.\n\n## Implications pour les épargnants\nLe retrait massif d’épargne du Livret A reflète la sensibilité des ménages aux variations des coûts de la vie, notamment énergétiques. Une hausse du plafond offrirait une marge de manœuvre supplémentaire, tandis qu’un taux plus élevé pourrait encourager le maintien des fonds sur ce produit d’épargne réglementée. Toutefois, la décision finale dépendra de l’évolution de la conjoncture économique et des priorités budgétaires du gouvernement.\n\n## Perspectives à moyen terme\nSi les réformes envisagées sont adoptées, elles pourraient contribuer à stabiliser les flux d’épargne vers le Livret A et à restaurer la confiance des épargnants. Dans le cas contraire, la tendance actuelle de retrait pourrait se poursuivre, accentuant la pression sur les ménages déjà confrontés à une inflation persistante. Les prochains mois seront déterminants pour observer l’impact des mesures envisagées sur le comportement d’épargne des Français.",
+  "mots_cles": [
+    "Livret A",
+    "épargne",
+    "plafond",
+    "taux d'intérêt",
+    "pouvoir d'achat"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-24T07:29:15+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Livret_A.png/1280px-Livret_A.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Prométhée",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Livret_A.png",
+    "legende": "Aperçu d'un ancien livret A (papier) de fr:La Poste (entreprise française)",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Livret A.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leur livret A, qui connaît sa pire année depuis 2008",
+      "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/depuis-janvier-les-francais-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livrets-a-qui-connait-sa-pire-annee-depuis-2008_8297058.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/24/les-epargnants-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livret-a-depuis-janvier-un-record-depuis-dix-ans_6814708_1657007.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
