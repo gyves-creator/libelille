@@ -1,0 +1,38 @@
+{
+  "slug": "nantes-agenda-culturel-de-decembre-2026-avec-cinema-concerts-et-ateliers",
+  "titre": "Nantes : agenda culturel de décembre 2026 avec cinéma, concerts et ateliers",
+  "chapeau": "Plusieurs manifestations culturelles sont programmées à Nantes au mois de décembre 2026, réparties dans différents lieux de la ville. Elles offrent aux habitants une palette d’activités allant du cinéma à la création artistique en passant par le jeu d’échecs.",
+  "corps": "## Programmations cinématographiques et musicales\nLe Cinéma Pathé Nantes accueillera le 13 décembre une avant‑première du film *Méli‑Mélo*. Le même jour, le Lieu Unique proposera un atelier de création d’une marionnette, ouvert à tous les publics intéressés par les arts du spectacle. Deux jours plus tôt, le 11 décembre, le Lieu Unique sera également le théâtre d’un concert intitulé *Surboum Jim Queen*, qui réunira les amateurs de musique live.\n\n## Rencontres ludiques et ateliers créatifs\nLe 3 décembre, le Maximo Club ouvrira ses portes à une rencontre d’échecs, invitant les joueurs de tout niveau à se mesurer dans une ambiance conviviale. Le 10 décembre, le Lieu Unique présentera la première de la saison 3 de la pièce *Page*, sous le titre *Colette*, offrant aux spectateurs une nouvelle proposition théâtrale. Enfin, le 29 décembre, le collectif Bonus organisera à son espace un atelier nommé « Villes imaginaires », animé par l’artiste Joel Janse van Vuuren, destiné à explorer la création d’espaces urbains fictifs.\n\n## Informations pratiques pour les habitants\nTous les événements se déroulent dans des établissements habituellement accessibles en transports en commun, notamment les lignes de bus et le tramway qui desservent le centre-ville et les quartiers voisins. Les places peuvent être limitées, il est donc recommandé de consulter les sites internet ou les points de vente des lieux concernés pour connaître les modalités de réservation ou d’achat de billets. En cas de besoin d’assistance, les services d’information de chaque établissement sont joignables par téléphone ou via leurs pages de contact en ligne. Les habitants souhaitant se déplacer en voiture peuvent se référer aux parkings publics situés à proximité des salles.\n\nCes diverses propositions culturelles enrichissent le calendrier de la ville et offrent aux Nantais de multiples occasions de profiter d’activités artistiques et ludiques pendant le mois de décembre.",
+  "mots_cles": [
+    "agenda culturel",
+    "Nantes",
+    "décembre 2026",
+    "événements",
+    "ateliers"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-24T13:27:03+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Nantes_lieu_unique_tour.JPG/1280px-Nantes_lieu_unique_tour.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Velvet",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_lieu_unique_tour.JPG",
+    "legende": "La tour du Lieu Unique à Nantes.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes lieu unique tour.JPG"
+  },
+  "sources": [
+    {
+      "media": "Unidivers",
+      "titre": "Avant-Première Méli-Mélo, Cinéma Pathé Nantes, Nantes – 13 décembre 2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjh3RndQNU5Dd3IxSUJZYzVsLVlkWEp6UG02bVdtNW5HbHA0cHh1UDJpdGJZUXU1bHRmZ0tVRVo0amh0SHJKLVE0dEU5ZmRHdkhaeVZjV1RsVm1tb2haVnpnQlcwVGxFbGVmTmJfaHZJb2dLR054eHN5M3U1SVE4X09JRGJYcWJJdVAyZVNDVlpVVWhCMzFOMTY1VWxxYWduang4?oc=5"
+    },
+    {
+      "media": "Ouest-France",
+      "titre": "« On s’entraîne pour pouvoir improviser en direct » : la troupe de théâtre d’improvisation de Nantes fête ses 40 ans",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeGFRaC1ST3NwYXpWc1A3VGZqOXB5bm9PUXJ3YTNlWEx6Mm43RHVNUmFOQy1vX093T3IxS1pxS1FPVndXbWttRWlHdzMyU2dFMFZKRExwcFAyS0VDNnAxbE9OTUVTRXF2cHVFcnYzSGI5NzhaYXlZb0dxVVVUc21KN2pXWnpmQmNzOUxHYS1FTlNsVE1TTHp3SkZ1enU0SlNiZWFLdGdqWG5DX2VuQTNsajh4dHlabF93aVFiRGVWdENOTzZfamRrdDNqcUp0enZGeGJLLTdsZVZwb3RrQmNPUzVVNGUyMUoxT3B1bTBTRXV0RXBtZk4xblNWX2Rsd2g3cTA4WVFFOG9uVldGR0tWRGktNC04ZHhQZUZFMXc2MA?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

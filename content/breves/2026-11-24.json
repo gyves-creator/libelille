@@ -169,5 +169,25 @@
     "titres_sources": [
       "Jean-Luc Mélenchon tiendra un meeting le samedi 9 janvier à Montpellier"
     ]
+  },
+  {
+    "titre": "Sarkozy, Bruni et Marchand renvoyés en justice pour fausse rétractation",
+    "texte": "L'ancien président, son épouse et Mimi Marchand sont renvoyés devant le tribunal pour participation à une association de malfaiteurs et recel de subornation de témoin dans l'affaire de la fausse rétractation de Ziad Takieddine. Le procès de Nicolas Sarkozy est prévu pour la fin 2027.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-24T13:27:12+00:00",
+    "titres_sources": [
+      "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l’affaire de la fausse rétractation de l’homme d’affaires Ziad Takieddine",
+      "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs"
+    ]
+  },
+  {
+    "titre": "Onusida signale une baisse de 18 % des financements VIH en 2025",
+    "texte": "L'Onusida signale qu'en 2025 les financements internationaux des programmes VIH ont chuté de 18 % malgré la baisse des cas de sida. Les réductions, concentrées en Afrique, menacent la prévention et la recherche dans la région la plus touchée.",
+    "rubrique": "international",
+    "publie_le": "2026-11-24T13:27:12+00:00",
+    "titres_sources": [
+      "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
+      "VIH/sida : la chute des financements internationaux fragilise la lutte contre l’épidémie, pointe l’Onusida"
+    ]
   }
 ]
