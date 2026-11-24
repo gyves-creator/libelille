@@ -1,0 +1,38 @@
+{
+  "slug": "2025-47-000-femmes-tuees-par-des-proches-un-chiffre-stable-selon-l-onu",
+  "titre": "2025 : 47 000 femmes tuées par des proches, un chiffre stable selon l'ONU",
+  "chapeau": "Un rapport de l'Organisation des Nations unies indique que 47 000 femmes et filles ont été assassinées par des membres de leur entourage en 2025, soit 19 % des homicides mondiaux. Parmi ces victimes, 60 % ont perdu la vie dans la sphère privée, un taux largement supérieur à celui des hommes victimes de violences domestiques.",
+  "corps": "## Statistiques mondiales\nLe dernier rapport publié par l'Organisation des Nations unies recense 47 000 femmes et filles victimes de féminicide par des proches en 2025. Ce nombre représente 19 % de l’ensemble des homicides enregistrés dans le monde cette année. La proportion de femmes tuées dans le cadre privé s’élève à 60 %, alors que seulement 11 % des homicides masculins se sont produits dans les mêmes conditions. Le document souligne que le total de 47 000 victimes ne montre aucune évolution par rapport à l’année précédente, indiquant une stagnation inquiétante des violences domestiques à l’échelle planétaire.\n\n## Répartition et contexte\nLes données précisent que la majorité des assassinats de femmes ont eu lieu au sein du cercle familial ou relationnel, incluant conjoints, partenaires, parents et enfants. Cette concentration dans la sphère intime contraste fortement avec les homicides masculins, où la plupart des faits sont commis dans des contextes publics ou professionnels. Le rapport ne détaille pas les régions géographiques les plus touchées, mais il rappelle que les violences faites aux femmes restent un problème structurel, souvent sous‑déclaré et difficile à éradiquer.\n\n## Implications pour les politiques publiques\nFace à la persistance de ces chiffres, les instances internationales et les gouvernements nationaux sont appelés à renforcer les mesures de prévention, de protection et de soutien aux victimes. Le rapport de l'ONU recommande notamment d’améliorer l’accès aux services d’aide juridique, de santé et d’hébergement, ainsi que de promouvoir des campagnes de sensibilisation visant à changer les mentalités et à identifier précocement les situations à risque. Aucun chiffre supplémentaire n’est fourni quant aux ressources allouées ou aux progrès réalisés depuis le rapport précédent.\n\n## Perspectives d’avenir\nL’absence de variation du nombre de féminicides entre 2024 et 2025 suggère que les stratégies actuelles n’ont pas suffi à réduire la mortalité féminine liée aux violences domestiques. Les décideurs sont incités à réévaluer leurs approches, à soutenir la recherche et à mettre en place des mécanismes de suivi plus rigoureux. Le rapport laisse entendre que de nouvelles initiatives pourraient être envisagées, sans toutefois préciser lesquelles ni leurs échéances.",
+  "mots_cles": [
+    "féminicide",
+    "ONU",
+    "homicide",
+    "violences domestiques",
+    "statistiques mondiales"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-24T10:24:27+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/General_Assembly_of_the_United_Nations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "azugaldia",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:General_Assembly_of_the_United_Nations.jpg",
+    "legende": "Discurso del Presidente Zapatero ante la Asamblea General. nokia035",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:General Assembly of the United Nations.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Féminicides : 47 000 femmes ont été tuées par des proches dans le monde en 2025, un nombre qui n’évolue pas",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/feminicides-47-000-femmes-ont-ete-tuees-par-des-proches-dans-le-monde-en-2025-un-nombre-qui-n-evolue-pas_6814722_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "Toujours autant de femmes ont été tuées par des proches dans le monde en 2025, dénonce l'ONU",
+      "url": "https://www.franceinfo.fr/societe/feminicides/toujours-autant-de-femmes-sont-tuees-par-des-proches-dans-le-monde-en-2025-denonce-l-onu_8297208.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

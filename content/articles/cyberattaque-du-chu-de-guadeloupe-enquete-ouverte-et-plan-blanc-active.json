@@ -1,0 +1,38 @@
+{
+  "slug": "cyberattaque-du-chu-de-guadeloupe-enquete-ouverte-et-plan-blanc-active",
+  "titre": "Cyberattaque du CHU de Guadeloupe : enquête ouverte et plan blanc activé",
+  "chapeau": "Une cyberattaque de grande ampleur a paralysé le Centre Hospitalier Universitaire de Guadeloupe samedi soir, contraignant le personnel à reprendre le travail avec stylo et papier. Le parquet de Paris a lancé une enquête et le plan blanc a été activé, limitant les soins aux seules urgences.",
+  "corps": "## Une attaque qui perturbe le fonctionnement hospitalier\nLe Centre Hospitalier Universitaire (CHU) de Guadeloupe a été la cible d’une cyberattaque massive samedi soir, selon les déclarations de sa direction. L’incident a entraîné la mise hors service des systèmes informatiques, obligeant les équipes médicales et administratives à revenir aux supports papier pour assurer la continuité des services. Le dispositif de secours, appelé « plan blanc », a été déclenché dès le dimanche matin afin de garantir la prise en charge des patients en situation critique.\n\n## Enquête judiciaire et mesures d’urgence\nLa section de lutte contre la cybercriminalité du parquet de Paris a ouvert une enquête pour identifier les auteurs et les modalités de l’intrusion. Cette investigation s’inscrit dans le cadre des procédures habituelles lorsqu’une infrastructure publique est touchée par une cybermenace. En attendant les résultats de l’enquête, le CHU ne traite que les urgences, les autres consultations étant suspendues jusqu’à la restauration des systèmes informatiques.\n\n## Conséquences pour le personnel et les patients\nLe retour au stylo et au papier impose une charge supplémentaire aux équipes soignantes, qui doivent gérer les dossiers patients sans l’appui des outils numériques habituels. Cette situation complique la coordination des soins, la traçabilité des traitements et la gestion des stocks de médicaments. Les patients non urgents sont invités à reporter leurs consultations, tandis que les services d’urgence continuent de fonctionner sous les protocoles du plan blanc.\n\n## Contexte et enjeux de la cybersécurité hospitalière\nLes établissements de santé sont des cibles privilégiées pour les cybercriminels en raison de la valeur des données médicales et de l’impact potentiel sur la vie des patients. En France, les hôpitaux ont renforcé leurs dispositifs de sécurité après plusieurs incidents similaires ces dernières années. L’activation du plan blanc témoigne de la capacité de réponse des structures publiques face à de telles crises, mais souligne également la nécessité d’investir davantage dans la résilience numérique du secteur sanitaire.",
+  "mots_cles": [
+    "cyberattaque",
+    "CHU Guadeloupe",
+    "plan blanc",
+    "enquête",
+    "cybersécurité"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-24T10:24:21+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Centre_hospitalier_universitaire_de_Pointe-%C3%A0-Pitre.jpg/1280px-Centre_hospitalier_universitaire_de_Pointe-%C3%A0-Pitre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Enrevseluj",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Centre_hospitalier_universitaire_de_Pointe-%C3%A0-Pitre.jpg",
+    "legende": "Centre hospitalier universitaire de Pointe-à-Pitre",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Centre hospitalier universitaire de Pointe-à-Pitre.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Tech / Web",
+      "titre": "Cyberattaque au CHU de Guadeloupe : le personnel de retour au stylo et au papier pour faire tourner l'établissement",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-au-chu-de-guadeloupe-le-personnel-de-retour-au-stylo-et-au-papier-pour-faire-tourner-l-etablissement_8297442.html#xtor=RSS-3-%5Binternet%5D"
+    },
+    {
+      "media": "Pixels : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Guadeloupe : le parquet de Paris ouvre une enquête à la suite de la cyberattaque contre le CHU",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/24/guadeloupe-le-parquet-de-paris-ouvre-une-enquete-a-la-suite-de-la-cyberattaque-contre-le-chu_6814735_4408996.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

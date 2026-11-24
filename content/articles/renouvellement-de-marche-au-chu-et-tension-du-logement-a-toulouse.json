@@ -1,0 +1,43 @@
+{
+  "slug": "renouvellement-de-marche-au-chu-et-tension-du-logement-a-toulouse",
+  "titre": "Renouvellement de marché au CHU et tension du logement à Toulouse",
+  "chapeau": "Un nouveau contrat est en cours de renouvellement au Centre Hospitalier Universitaire de Toulouse, tandis que la ville voit son marché locatif sous tension face à une croissance démographique rapide. Les habitants doivent anticiper d’éventuels impacts sur les services hospitaliers et la disponibilité de logements.",
+  "corps": "## Renouvellement d’un marché public au CHU de Toulouse\nLe Centre Hospitalier Universitaire de Toulouse lance le processus de renouvellement d’un marché public. Il s’agit d’une procédure courante qui permet à l’établissement de sélectionner de nouveau les fournisseurs pour les biens ou services concernés, en conformité avec le code des marchés publics. Aucun détail n’est fourni sur la nature exacte du marché, son montant ou les entreprises en lice. La décision de renouveler le contrat intervient dans le cadre de la gestion quotidienne de l’établissement, afin d’assurer la continuité des approvisionnements et des prestations essentielles aux patients.\n\n## Pression croissante sur le parc locatif\nParallèlement, la ville de Toulouse connaît une hausse de sa population qui dépasse le rythme de construction de nouveaux logements. Cette dynamique crée une tension sur le marché locatif, avec une offre qui peine à répondre à la demande. Les ménages recherchant un logement rencontrent des difficultés à trouver des locations disponibles à des prix raisonnables, ce qui accentue le recours aux dispositifs d’aide au logement et aux programmes de construction de logements sociaux. Aucun chiffre précis n’est communiqué, mais la situation reflète une tendance observée dans plusieurs métropoles françaises où la croissance démographique exerce une pression sur l’offre immobilière.\n\n## Conséquences pour les habitants\nPour les résidents de Toulouse, ces deux évolutions peuvent se traduire par des ajustements concrets. Le renouvellement du marché au CHU pourrait entraîner, à moyen terme, des changements dans la chaîne d’approvisionnement, sans impact immédiat sur les soins. En revanche, la tension du marché locatif incite les autorités locales à renforcer les mesures d’accompagnement, telles que les aides au logement ou les projets de construction de nouvelles résidences. Les habitants sont invités à se tenir informés via les sites institutionnels de la ville ou du CHU, et à consulter les services d’information pour connaître les éventuelles dérogations ou procédures à suivre.\n\n## Informations pratiques\nEn cas de besoin d’informations complémentaires sur le processus de marché public du CHU, il est possible de contacter le service des achats de l’établissement. Pour les recherches de logement ou les démarches d’aide, le service logement de la mairie de Toulouse reste le point de référence. Les numéros d’accueil et les sites internet officiels sont disponibles sur les pages dédiées des deux institutions.",
+  "mots_cles": [
+    "CHU Toulouse",
+    "marché locatif",
+    "croissance démographique",
+    "logement",
+    "marché public"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-24T10:24:41+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/CHU_de_Rangueil.jpg/1280px-CHU_de_Rangueil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CHU_de_Rangueil.jpg",
+    "legende": "Aerial view of the University Hospital of Toulouse Rangueil",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:CHU de Rangueil.jpg"
+  },
+  "sources": [
+    {
+      "media": "Bâtiment Entretien",
+      "titre": "Renouvellement de marché au CHU de Toulouse",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0FzSXI0Zl9DTUNjN2dtbmhmU2NobjJTZGlvV2dwYzhzakw5bmZIejRZQUtRekVuMEF0enNXN0ZsRVpURG9nYWtIbUJXbi1GN3JVQ2dRRXA5VldqOXhzNUhRdDZYd0dtUDRCN0pkODd5VEJud1VCM0UzblpiVmhYUnpOaTRwa0NQb1NrcExidVJaRHFCUklMVXJVendkOXRJMERDNDRWYmQwSy1wTWdTUg?oc=5"
+    },
+    {
+      "media": "jds.fr",
+      "titre": "Toulouse grandit plus vite qu’elle ne se loge : un marché locatif sous pression",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUZvcHJCaUI2WTNtWm9BZGdIUWpXOHM5VkR0UWo1VGtOWVlKbGdSbVlmVkNHczd6NHdZM0pqb29kalJLY1pTQVhyQXBhbGQ2TEhRcHQ1c0JCQ0RVWTVhVG9kX1JqZXZfVy1DZGwycmZzWFQzM3UwX0l6TjhXZzV5bEtjanBsejZnRUtEYUZXUS1vdjhyc2dsRUVpR0dHT3ExeGIydTZQMGFZTUNuUHI2Rw?oc=5"
+    },
+    {
+      "media": "CANAL+",
+      "titre": "Lyon / Toulouse",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94U192UG5wQkxfNldVSno1aVNleXFYRE5Ca1ZvYzNoa25IMXYyYmVjQ1FZQ3M2SWU3M2xBQW5reUZxZGRiYlItLU50REFSbTNKZG9FTm95eS1KMWg3Qko0OHZkaHI0NEJuem55cl9XY0pQdw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
