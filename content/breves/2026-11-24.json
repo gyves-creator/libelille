@@ -266,5 +266,24 @@
       "VIDEO. Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuité des informations au RN",
       "Fuites du ministère de l’intérieur vers le RN : Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh"
     ]
+  },
+  {
+    "titre": "Office Depot France ferme ses 27 magasins et son site internet",
+    "texte": "Le tribunal de commerce de Bobigny a placé la société Ankaa, exploitante d’Office Depot, en liquidation judiciaire le 7 octobre, avec poursuite d’activité pour rechercher un repreneur. La fermeture définitive des 27 points de vente et du site web prend effet vendredi.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T16:46:26+00:00",
+    "titres_sources": [
+      "Office Depot France ferme définitivement ses 27 magasins et son site internet",
+      "Le distributeur de fournitures de bureau Office Depot cesse son activité, 27 magasins fermés"
+    ]
+  },
+  {
+    "titre": "David Lisnard, candidat surprise de la droite à l'élection présidentielle",
+    "texte": "Le président de l'Association des maires de France, David Lisnard, se présente comme candidat inattendu de la droite à l’élection présidentielle, issu des Républicains. Il a lancé sa campagne au printemps, malgré la désignation de Bruno Retailleau par les adhérents du parti.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-24T16:46:26+00:00",
+    "titres_sources": [
+      "David Lisnard, le candidat ultralibéral qui chamboule la campagne à droite"
+    ]
   }
 ]
