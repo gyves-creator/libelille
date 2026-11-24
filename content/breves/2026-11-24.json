@@ -16,5 +16,24 @@
     "titres_sources": [
       "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans"
     ]
+  },
+  {
+    "titre": "Dominique de Villepin veut combattre la société d'héritiers, vise 2027",
+    "texte": "Dominique de Villepin aurait déclaré vouloir lutter contre la société d'héritiers lors d'une interview diffusée au 20 heures, précisant son ambition pour l'élection présidentielle de 2027. L'émission 'À suivre Loïc de la Mornais' a analysé ces propos avec éditorialistes Sophie de Ravinel et Gilles Bornstein.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-24T06:38:07+00:00",
+    "titres_sources": [
+      "À suivre Loïc de la Mornais : Dominique de Villepin entend \"lutter contre la société d'héritiers\"",
+      "À suivre Loïc de la Mornais : Dominique de Villepin invité exceptionnel de franceinfo"
+    ]
+  },
+  {
+    "titre": "L'Ordre des avocats lance formation sur IA, face à la montée des usages",
+    "texte": "L'Ordre des avocats aurait organisé une première formation clé en main sur l'IA pour les juristes. Cette mesure vise à répondre à la hausse des demandes d'IA, jugée à la fois risque et opportunité par les avocats.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T06:38:07+00:00",
+    "titres_sources": [
+      "REPORTAGE. \"Maître, ce que vous avez fait, ChatGPT me l'a fait en cinq minutes\" : comment l'intelligence artificielle bouscule la profession d'avocat"
+    ]
   }
 ]
