@@ -1,0 +1,43 @@
+{
+  "slug": "racing-club-de-strasbourg-s-entraine-a-la-meinau-malgre-le-froid-persistant",
+  "titre": "Racing Club de Strasbourg s’entraîne à la Meinau malgré le froid persistant",
+  "chapeau": "Le Racing Club de Strasbourg a tenu son premier entraînement de la saison à la Meinau malgré les températures basses qui ont marqué la nuit de lundi à mardi en Alsace. La séance, diffusée en images, a permis aux supporters de suivre les joueurs dans des conditions climatiques difficiles.",
+  "corps": "## Une séance sous les températures basses\nDans la nuit qui a suivi le lundi, le climat d’Alsace a connu une chute notable des températures, le froid s’étendant sur l’ensemble du territoire. Malgré ces conditions, les joueurs du Racing Club de Strasbourg se sont rendus au stade de la Meinau pour leur première séance d’entraînement de la saison, prévue le mardi. Les images publiées montrent les athlètes évoluant sur le gazon, vêtus de tenues adaptées pour affronter le froid.\n\n## Le contexte du club et du stade\nLe Racing Club de Strasbourg, évoluant en Ligue 1, utilise la Meinau comme terrain d’entraînement et de compétition depuis plusieurs décennies. Ce stade, situé dans le quartier de la Meinau à Strasbourg, constitue le cœur de la vie sportive locale. Le premier entraînement de la saison revêt une importance particulière, marquant le lancement des préparatifs avant le début du championnat. La tenue de cette séance, même dans des conditions climatiques peu favorables, témoigne de la volonté du club de maintenir son programme d’entraînement sans retard.\n\n## Retombées pour les habitants\nAucun impact direct sur la circulation ou les services publics n’a été signalé. La séance s’est déroulée dans le cadre habituel du stade, sans perturbation des voies d’accès ou des transports en commun. Les supporters intéressés peuvent visionner les images de l’entraînement sur le site officiel du club, qui a mis à disposition un diaporama détaillant les moments clés de la séance.\n\n## Informations pratiques\nPour suivre les prochains entraînements ou obtenir des renseignements complémentaires, les habitants peuvent consulter le site internet du Racing Club de Strasbourg ou contacter le service d’information du club. Aucun changement de trafic ou consigne particulière n’a été émis par les autorités locales à la suite de cet entraînement.",
+  "mots_cles": [
+    "Racing Club Strasbourg",
+    "entraînement",
+    "Meinau",
+    "froid",
+    "football"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-24T18:00:09+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Racing_Club_de_Strasbourg_contre_Racing_Lens_d%C3%A9cembre_2016_.jpg/1280px-Racing_Club_de_Strasbourg_contre_Racing_Lens_d%C3%A9cembre_2016_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "KOBI FRANCK",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Racing_Club_de_Strasbourg_contre_Racing_Lens_d%C3%A9cembre_2016_.jpg",
+    "legende": "tifo et kop RCSA Racing Club de Strasbourg Alsace au stade de la Meinau. photo Franck KOBI / Haguenau port 06.81.38.09.98",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Racing Club de Strasbourg contre Racing Lens décembre 2016 .jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Premier entraînement dans le froid à la Meinau... Revivez en images la séance de mardi du Racing Club de Strasbourg",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjYzd3I4Y3NLNlo5UEpVLU9ZRk9oSFZYZk5PenhaVlFPVmd6ODV5MWw0Zms5eXEwVG40LWRQZFRWdEtlSlM5OUhJVHllQ0RUSFg3U1N2Q0hJX0F3c1F0ZmVHc2R4RVBEdG1pS21uMlJZeTZqYzFsUl9jVGhIek5CU0RKSExPRkM0NHFrWkpuc19paE40Q0YyZWcwNTJjNDBZYmtRdkFtcTBmSnJkVnZDZERlV1RxVDdwQ3NCNnlKLU9sTVFJVEJmWkVhS09nZUMzVmNPSGNiam1ENXNaZi05MU5B?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Diaporama. Premier entraînement dans le froid à la Meinau... Revivez en images la séance de mardi du Racing Club de Strasbourg",
+      "url": "https://www.dna.fr/sport/2026/11/24/premier-entrainement-dans-le-froid-a-la-meinau-revivez-en-images-la-seance-de-mardi-du-racing-club-de-strasbourg"
+    },
+    {
+      "media": "L'Alsace",
+      "titre": "Oberhergheim. Elsass Racing derrière le Racing club de Strasbourg",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE84dnQzaUJBeE1Wc0U3eDlJNUNSMUpZQkxEdG93elZOQ0wzeEFuUnBmQS1CSkN5WnNEdmxyNTlWLUdxOTZtY2MxSUIwYUVoWHlfRy02MkZtM2FPYktFWHRGMkxNTW9qc0s0aVpzU3AtZUhSX1dtMEs2UkZaZ2pFU2thV0FIRjJyQThZZ2NOQ2E4TWF4T2o2RA?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

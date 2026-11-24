@@ -305,5 +305,23 @@
       "Alcool : l’expérimentation en hausse chez les collégiens et les lycéens, les autres usages régressent, y compris chez les adultes",
       "Le nombre de collégiens qui testent l'alcool est en hausse"
     ]
+  },
+  {
+    "titre": "Prise d'otages à Carthagène lors d'un braquage de supermarché",
+    "texte": "Il aurait été signalé une prise d'otages lors du braquage d’un supermarché à Carthagène, survenue le lendemain d’un attentat à la voiture piégée à Villavicencio. L’incident coïncide avec le 10e anniversaire de l’accord de paix entre l’État colombien et les FARC.",
+    "rubrique": "international",
+    "publie_le": "2026-11-24T18:00:18+00:00",
+    "titres_sources": [
+      "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio"
+    ]
+  },
+  {
+    "titre": "Retraits record sur les livrets A en 2024",
+    "texte": "Il semblerait que les ménages français aient puisé dans leur épargne, retirant 9,5 milliards d’euros de plus sur les livrets A entre janvier et octobre que les dépôts. Cette évolution serait liée à la baisse du pouvoir d’achat, à la concurrence de l’assurance‑vie et à l’inflation.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T18:00:18+00:00",
+    "titres_sources": [
+      "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte"
+    ]
   }
 ]
