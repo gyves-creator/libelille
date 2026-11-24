@@ -360,5 +360,23 @@
     "titres_sources": [
       "Sébastien Lecornu recevra les présidents des groupes parlementaires \"la semaine prochaine\" pour prolonger les discussions sur le budget 2027"
     ]
+  },
+  {
+    "titre": "Le ministre ukrainien invite Poutine à mettre fin à la guerre",
+    "texte": "Le ministre ukrainien des Affaires étrangères, Andrii Sybiha, a déclaré que si le président russe s’oppose aux frappes ukrainiennes sur ses raffineries de pétrole et ses navires militaires, il pourrait mettre fin à la guerre. Il a appelé Poutine à cesser le conflit immédiatement.",
+    "rubrique": "international",
+    "publie_le": "2026-11-24T19:44:41+00:00",
+    "titres_sources": [
+      "EN DIRECT, guerre en Ukraine : Kiev répond aux menaces de Poutine sur les raffineries : « Mettez fin à la guerre »"
+    ]
+  },
+  {
+    "titre": "Le ministre israélien alerte sur le développement d'armes chimiques en Iran",
+    "texte": "Le ministre de la Défense d’Israël a affirmé que l’Iran progresse dans la mise au point d’armes chimiques. Le chef d’état-major Gadi Eisenkot estime toutefois qu’aucune opération militaire contre Téhéran n’est justifiée à court terme.",
+    "rubrique": "international",
+    "publie_le": "2026-11-24T19:44:41+00:00",
+    "titres_sources": [
+      "Le ministre de la Défense israélien affirme que l'Iran développe \"des armes chimiques\""
+    ]
   }
 ]
