@@ -285,5 +285,25 @@
     "titres_sources": [
       "David Lisnard, le candidat ultralibéral qui chamboule la campagne à droite"
     ]
+  },
+  {
+    "titre": "Stellantis suspend la production de nuit à Sochaux dès 2027",
+    "texte": "Stellantis a annoncé la suppression de l’équipe de nuit à son usine de Sochaux à compter de janvier 2027, touchant 500 salariés. La direction prévoit de rencontrer chaque travailleur concerné d’ici fin novembre, tandis que les syndicats dénoncent un sacrifice des intérimaires.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T17:35:42+00:00",
+    "titres_sources": [
+      "L'usine Stellantis de Sochaux arrête l'activité de son équipe de nuit à partir de janvier 2027, 500 emplois sont concernés",
+      "L’usine Stellantis de Sochaux va arrêter l’activité de son équipe de nuit"
+    ]
+  },
+  {
+    "titre": "Consommation d'alcool en hausse chez les collégiens et lycéens",
+    "texte": "L'Observatoire français des drogues et des tendances addictives signale une remontée de l'expérimentation d'alcool chez les élèves de collège et lycée, interrompant une décennie de baisse. Les autres formes de consommation, y compris chez les adultes, continuent de reculer.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-24T17:35:42+00:00",
+    "titres_sources": [
+      "Alcool : l’expérimentation en hausse chez les collégiens et les lycéens, les autres usages régressent, y compris chez les adultes",
+      "Le nombre de collégiens qui testent l'alcool est en hausse"
+    ]
   }
 ]
