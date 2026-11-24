@@ -110,5 +110,26 @@
     "titres_sources": [
       "Le Skoda Elroq détrône le Tesla Model Y en Europe, mais le répit sera de courte durée"
     ]
+  },
+  {
+    "titre": "FIFA abandonne projet de privatisation des droits Mondial",
+    "texte": "Des documents internes ont révélé que la FIFA envisageait de vendre partiellement les droits audiovisuels de la Coupe du monde sur 96 ans, pour 20 milliards de dollars. Le projet a été finalement abandonné, tandis que le président de la CAF soutient la réélection de Gianni Infantino.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-24T11:37:33+00:00",
+    "titres_sources": [
+      "FIFA : 20 milliards de dollars, 96 ans d’exploitation des droits du Mondial… Les dessous du projet avorté d’Infantino",
+      "Le projet avorté de Gianni Infantino à la FIFA dévoilé",
+      "Football: le président de la CAF se prononce en faveur de la réélection de Gianni Infantino à la tête de la Fifa"
+    ]
+  },
+  {
+    "titre": "Service DNS Quad9 indisponible en France depuis le 24 novembre",
+    "texte": "Depuis 9 h le 24 novembre 2026, le résolveur DNS gratuit Quad9 ne répond plus aux requêtes des internautes français, selon un communiqué de la fondation suisse qui gère le service. La panne pourrait également toucher des utilisateurs hors de France.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-24T11:37:33+00:00",
+    "titres_sources": [
+      "Quad9 ne fonctionne plus en France : voici comment vérifier si vous l’utilisez et le remplacer",
+      "C’est fait : depuis 9 heures ce mardi, le service Quad9 ne fonctionne plus en France et des dommages collatéraux sont à prévoir"
+    ]
   }
 ]
