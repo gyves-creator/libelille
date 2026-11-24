@@ -72,5 +72,25 @@
     "titres_sources": [
       "Toujours autant de femmes ont été tuées par des proches dans le monde en 2025, dénonce l'ONU"
     ]
+  },
+  {
+    "titre": "Ventes de voitures neuves en UE en hausse, les EV représentent un quart",
+    "texte": "Les immatriculations de voitures neuves dans l’Union européenne ont progressé de 5,4 % sur les dix premiers mois, atteignant 9,46 millions d’unité. Les véhicules électriques, dont les ventes ont bondi de 50 % en Europe, constituent près d’un quart du parc, tandis que les modèles essence‑diesel reculent.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T09:16:57+00:00",
+    "titres_sources": [
+      "Automobile : les ventes de voitures neuves dans l’UE augmentent, tirées par les véhicules électriques",
+      "Les ventes de voitures électriques bondissent de 50 % en Europe, de près de 80 % en France"
+    ]
+  },
+  {
+    "titre": "Luis de la Fuente annonce la rencontre Espagne-France en quart de Ligue des Nations",
+    "texte": "Le sélectionneur espagnol, Luis de la Fuente, a confirmé que son équipe affrontera la France en quart de finale de la Ligue des Nations en mars. Il a souligné la confiance de la Roja, la qualifiant de meilleure équipe du monde.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-24T09:16:57+00:00",
+    "titres_sources": [
+      "«Ils vont affronter la meilleure équipe du monde» : l’Espagne lance (déjà) son match contre la France de Zidane",
+      "Luis de la Fuente lance déjà le choc France-Espagne"
+    ]
   }
 ]

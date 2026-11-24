@@ -1,0 +1,33 @@
+{
+  "slug": "chamonix-prepare-son-affrontement-contre-marseille-malgre-des-blessures-et-un-st",
+  "titre": "Chamonix prépare son affrontement contre Marseille malgré des blessures et un stage à Toulon",
+  "chapeau": "Le club de Chamonix a organisé un stage d’entraînement à Toulon avant le match prévu contre Marseille. Des joueurs sont blessés, ce qui pourrait influencer la composition de l’équipe.",
+  "corps": "## Un stage à Toulon pour peaufiner la préparation\nLe collectif de Chamonix a choisi la ville de Toulon comme lieu d’entraînement pré‑match. Cette séance de travail, organisée dans le cadre d’une préparation spécifique, a permis aux joueurs de bénéficier de conditions climatiques et d’infrastructures différentes de celles de leur base habituelle. Le déplacement a été présenté comme une opportunité de renforcer la cohésion du groupe avant le choc avec Marseille.\n\n## Des blessures dans l’effectif\nParmi les membres du groupe, plusieurs athlètes sont actuellement indisponibles pour cause de blessure. Aucun détail n’a été fourni quant à la nature ou au nombre exact de ces blessures, mais la direction du club a indiqué que les absences pourraient impacter les choix tactiques pour le prochain affrontement. Les responsables médicaux continuent d’évaluer la situation afin de déterminer les joueurs aptes à disputer le match.\n\n## Conséquences attendues pour le duel contre Marseille\nLe match opposant Chamonix à Marseille représente un moment clé de la saison pour les deux équipes. L’absence de certains joueurs de Chamonix pourrait obliger l’entraîneur à ajuster son onze de départ, tandis que le stage à Toulon a été mis en avant comme un moyen de compenser ces manques par un travail intensif et ciblé. Aucun communiqué officiel n’a précisé les ajustements envisagés, et les informations restent donc à confirmer.\n\n## Informations pratiques pour les supporters\nLes supporters de Chamonix et de Marseille sont invités à suivre les canaux habituels du club pour connaître les horaires exacts du match, les modalités d’accès au stade et les éventuelles mesures de sécurité. En cas de besoin, le service d’information du club reste disponible via son site internet et ses réseaux sociaux.",
+  "mots_cles": [
+    "Chamonix",
+    "Marseille",
+    "stage",
+    "blessures",
+    "match"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-24T09:16:50+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chamonix_008_%2B_noms.jpg/1280px-Chamonix_008_%2B_noms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Arnaud 25",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chamonix_008_%2B_noms.jpg",
+    "legende": "https://commons.wikimedia.org/wiki/File:Chamonix 008.jpg + noms",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Chamonix 008 + noms.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Dauphiné Libéré",
+      "titre": "Des blessés, un stage à Toulon... comment Chamonix a préparé le choc contre Marseille",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2h6ME84bFdGLWgxRmxsWHFzRkhCWTk1VFFTTFhaMVU1MnlOd0VOdjZhV21JR0E5YkpZUjVNWS1EYmNDYWtxWGZ4OFZ5Ym5CZk9zOC04U2dxSnc3YWNnQzZPTUNVNmtiSWFJcGtrSkw5V1ZCSWNBbmtjY08wSlNNNXJNaVFPX19faURCdXVCRWx5NVlJLWl6WmdBdnhhZmFMSnZGQlFuVUlSb3JpNXZ1WVUwU29Wb0VFbmRBOEtIX0ZzMWc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
