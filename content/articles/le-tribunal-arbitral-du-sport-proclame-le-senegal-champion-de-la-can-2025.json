@@ -1,0 +1,43 @@
+{
+  "slug": "le-tribunal-arbitral-du-sport-proclame-le-senegal-champion-de-la-can-2025",
+  "titre": "Le Tribunal arbitral du sport proclame le Sénégal champion de la CAN 2025",
+  "chapeau": "Le Tribunal arbitral du sport a rendu sa décision le 24 novembre 2026, confirmant le Sénégal comme vainqueur de la Coupe d'Afrique des Nations 2025. Cette résolution met fin à près d’un an de contentieux suite à la finale chaotique opposant le Sénégal au Maroc.",
+  "corps": "## Décision du Tribunal arbitral du sport\nLe 24 novembre 2026, le Tribunal arbitral du sport (TAS) a statué en faveur du Sénégal, le déclarant officiellement champion de la CAN 2025. Cette décision annule la précédente attribution du titre au Maroc, intervenue après une finale marquée par des débordements et une forte tension.\n\n## Contexte de la finale 2025\nLa finale de la CAN 2025, jouée le 18 janvier 2026, opposait le Sénégal au Maroc. Le match s’est terminé dans le chaos, avec des incidents qui ont conduit les instances du football africain à retirer le titre au Sénégal quelques semaines après la rencontre. Cette revocation a déclenché une série de procédures juridiques qui se sont prolongées pendant près d’un an, aboutissant finalement à l’intervention du TAS.\n\n## Conséquences de la décision\nLa reconnaissance officielle du Sénégal comme champion rétablit le résultat sportif de la finale, où les Sénégalais avaient initialement remporté le match. Le verdict du TAS met fin aux différends juridiques entre les deux fédérations et réaffirme le rôle du tribunal comme instance ultime de règlement des litiges sportifs en Afrique.\n\n## Perspectives pour le football africain\nCette affaire souligne les enjeux liés à la gouvernance et à la gestion des compétitions continentales. Le retour à la normale pour les deux équipes nationales devrait permettre de recentrer les attentions sur les prochaines échéances sportives, notamment les qualifications pour la Coupe du monde et la prochaine édition de la CAN.",
+  "mots_cles": [
+    "Sénégal",
+    "Coupe d'Afrique des Nations",
+    "Tribunal arbitral du sport",
+    "Maroc",
+    "football africain"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-24T15:12:31+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Senegal_team_France_v_Senegal_16_June_2026-304.jpg/1280px-Senegal_team_France_v_Senegal_16_June_2026-304.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Bryan Berlin",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Senegal_team_France_v_Senegal_16_June_2026-304.jpg",
+    "legende": "Senegal team during France v Senegal on 16 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Senegal team France v Senegal 16 June 2026-304.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "CAN : le Sénégal récupère son titre de 2025, le Maroc déchu",
+      "url": "https://www.lefigaro.fr/sports/football/can-le-senegal-recupere-son-titre-de-2025-le-maroc-dechu-20261124"
+    },
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "CAN 2025 : le Tribunal arbitral du sport déclare le Sénégal champion d’Afrique de football, au détriment du Maroc",
+      "url": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Le Tribunal arbitral du sport rend la victoire de la Coupe d'Afrique des nations au Sénégal, au détriment du Maroc",
+      "url": "https://www.franceinfo.fr/sports/foot/can/le-tribunal-arbitral-du-sport-rend-la-victoire-de-la-coupe-d-afrique-des-nations-au-senegal-au-detriment-du-maroc_8297460.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

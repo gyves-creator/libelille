@@ -1,0 +1,38 @@
+{
+  "slug": "tempete-charles-cannes-enregistre-126-4-mm-de-pluie-le-12-novembre",
+  "titre": "Tempête Charles : Cannes enregistre 126,4 mm de pluie le 12 novembre",
+  "chapeau": "Le 12 novembre, la station de Cannes a enregistré 126,4 mm de précipitations, plaçant la journée au neuvième rang des plus arrosées depuis 1950. La même dépression, nommée Charles, pourrait affecter la région niçoise et inciter les habitants à rester vigilants.",
+  "corps": "## Une journée exceptionnelle à Cannes\nLe 12 novembre 2026, la station météorologique de Cannes a mesuré 126,4 millimètres de pluie en 24 heures, selon les relevés de Météo France. Ce total classe la journée au neuvième rang des précipitations les plus importantes enregistrées depuis le début des observations en 1950. La mesure place cet épisode parmi les dix journées les plus pluvieuses de l’histoire de la station.\n\n## Impacts potentiels pour les Niçois\nLa tempête, baptisée Charles, a touché la Côte d’Azur. Bien que les données disponibles concernent uniquement Cannes, la proximité géographique suggère que les communes voisines, dont Nice, ont pu connaître des conditions similaires. Les autorités locales invitent les résidents à rester informés via les canaux officiels, à vérifier l’état des routes et à prendre les précautions d’usage en cas de fortes averses.\n\n## Suivi météorologique et consignes de sécurité\nMétéo France continue de suivre l’évolution de la dépression Charles et publie régulièrement des bulletins d’alerte. Les services de la préfecture et la mairie de Nice recommandent de consulter le site internet de la préfecture ou le numéro d’urgence 112 en cas de besoin. Les habitants sont encouragés à sécuriser les biens susceptibles d’être affectés par l’eau et à éviter les déplacements non indispensables si les conditions se détériorent.\n\n## Contexte historique des pluies sur la Côte d’Azur\nLes records de précipitations sur la Riviera sont rares, la plupart des épisodes majeurs étant associés à des dépressions méditerranéennes. Le classement de Cannes parmi les dix journées les plus arrosées depuis 1950 souligne la sévérité de la tempête Charles, qui se distingue par son intensité et sa durée. Ce type d’événement rappelle l’importance d’une vigilance accrue lors des épisodes de forte instabilité atmosphérique dans la région.",
+  "mots_cles": [
+    "tempête Charles",
+    "pluie record",
+    "Cannes",
+    "Nice",
+    "Météo France"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-24T15:12:44+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Agay_vu_du_Dramont.JPG/1280px-Agay_vu_du_Dramont.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Frédéric Ducarme",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Agay_vu_du_Dramont.JPG",
+    "legende": "Agay from the Dramont (France, Var).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Agay vu du Dramont.JPG"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Tempête Charles : le 12 novembre parmi les 10 journées les plus pluvieuses depuis 1950 à Cannes",
+      "url": "https://www.nicematin.com/meteo/alerte-meteo/tempete-charles-le-12-novembre-parmi-les-10-journees-les-plus-pluvieuses-depuis-1950-a-cannes-10768213"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Tempête Charles : le 12 novembre parmi les 10 journées les plus pluvieuses depuis 1950 à Cannes",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRlVCVzZpdUVhdWJQdklhRDZFaHIyVUlzRHFxX2YxcV9WT1RQU3prOV94VjRsbkNJQ0NWcFl6V184WUplUzE4eEZsSXhfcVpMY2kwVDd0enZ6djFGWWRrTU10YjNxUDJKVXBKelZaUm5ZV215UnMzUFlhV3lQbWxXVGNJUk84V3lPRjFNSE5KcExNMm1WQ2lwSXM5dnd3QmxZXzNqdXFJY2RiTEJ4OUh3TWhqWW5Bd1NlZkFnRElsRVp6OU9qSkJZTU5yT1NzQVA1aVAxUmE1QVBZeUdsTHlRcg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
