@@ -53,5 +53,24 @@
     "titres_sources": [
       "REPORTAGE. \"Nous sommes à l'os\" : dans les communes, les maires confrontés à des choix difficiles en prévision de nouvelles restrictions budgétaires"
     ]
+  },
+  {
+    "titre": "Double candidature de David Lisnard à l'AMF et à la présidentielle",
+    "texte": "David Lisnard aurait souhaité conserver la présidence de l'AMF et se serait lancé dans la campagne présidentielle, où il gagnerait des points dans les sondages. Le congrès des maires de France, ouvert à Paris, serait marqué par des protestations contre cette double candidature.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-24T08:06:11+00:00",
+    "titres_sources": [
+      "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents",
+      "Le congrès des maires de France s’ouvre sur fond de course à la présidentielle et de protestations autour de la double candidature de David Lisnard"
+    ]
+  },
+  {
+    "titre": "47 000 femmes et filles tuées par proches en 2025, selon l'ONU",
+    "texte": "Un rapport des Nations unies indique que 47 000 femmes et filles auraient été tuées par des membres de leur entourage en 2025. Cette statistique souligne la persistance de violences domestiques à l’échelle mondiale.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-24T08:06:11+00:00",
+    "titres_sources": [
+      "Toujours autant de femmes ont été tuées par des proches dans le monde en 2025, dénonce l'ONU"
+    ]
   }
 ]
