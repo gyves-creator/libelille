@@ -432,5 +432,23 @@
     "titres_sources": [
       "Rugby : Philippe Sella lauréat du prix Jauréguy-Dominici 2026"
     ]
+  },
+  {
+    "titre": "Risque neurologique lié aux manèges à sensations évoqué",
+    "texte": "Des spécialistes suggèrent que les attractions à forte accélération, comme les roller coasters, pourraient entraîner des lésions cérébrales similaires au syndrome du bébé secoué chez l'adulte. Cette hypothèse alimente le débat sur la sécurité de ces manèges.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-24T21:37:58+00:00",
+    "titres_sources": [
+      "\"C'est un peu comme le syndrome du bébé secoué chez l'adulte\" : les manèges à sensations, un danger pour le cerveau ?"
+    ]
+  },
+  {
+    "titre": "Le Grand Rex diffusera la finale du Championnat des nations",
+    "texte": "Le Grand Rex ouvrira ses portes ce dimanche pour projeter en direct la finale du Championnat des nations opposant la France aux Springboks. La diffusion permettra aux spectateurs de suivre le match dans un cadre cinématographique.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-24T21:37:58+00:00",
+    "titres_sources": [
+      "Rugby, Championnat des nations : la grande finale entre la France et les Springboks sera diffusée… au Grand Rex"
+    ]
   }
 ]
