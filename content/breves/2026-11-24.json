@@ -131,5 +131,24 @@
       "Quad9 ne fonctionne plus en France : voici comment vérifier si vous l’utilisez et le remplacer",
       "C’est fait : depuis 9 heures ce mardi, le service Quad9 ne fonctionne plus en France et des dommages collatéraux sont à prévoir"
     ]
+  },
+  {
+    "titre": "Pogacar affirme que le dopage disparaît du peloton",
+    "texte": "Le vainqueur du Tour de France, Tadej Pogacar, aurait déclaré que le dopage n’existe plus pour la majorité des coureurs, estimant que les mentalités ont changé. Il estime ainsi que les cyclistes ne prennent plus de risques pour leur santé.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-24T12:06:55+00:00",
+    "titres_sources": [
+      "«Le dopage n’existe plus pour la majorité du peloton»: Pogacar défend le cyclisme face aux soupçons",
+      "Tadej Pogacar défend les cycliste face aux soupçons de dopage"
+    ]
+  },
+  {
+    "titre": "Renfort de forces de l'ordre prévu à Mayotte",
+    "texte": "Les autorités de Mayotte annoncent l'arrivée d'un escadron supplémentaire composé de 80 gendarmes et 20 policiers dans les prochains jours, en réponse à la recrudescence des violences. Ce renfort vise à contenir les tensions croissantes dans le département.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-24T12:06:55+00:00",
+    "titres_sources": [
+      "Mayotte : 80 gendarmes et 20 policiers supplémentaires face à la recrudescence des violences"
+    ]
   }
 ]

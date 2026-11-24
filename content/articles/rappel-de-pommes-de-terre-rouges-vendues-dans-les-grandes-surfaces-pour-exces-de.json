@@ -1,0 +1,38 @@
+{
+  "slug": "rappel-de-pommes-de-terre-rouges-vendues-dans-les-grandes-surfaces-pour-exces-de",
+  "titre": "Rappel de pommes de terre rouges vendues dans les grandes surfaces pour excès de glycoalcaloïdes",
+  "chapeau": "Des sachets de pommes de terre rouges commercialisés chez plusieurs enseignes de grande distribution ont été retirés du marché national. La teneur élevée en glycoalcaloïdes, composés naturellement présents dans la tubercule, a conduit les autorités à lancer un rappel afin d’éviter des troubles digestifs.",
+  "corps": "## Risque sanitaire identifié\nDes analyses ont mis en évidence que certains lots de pommes de terre rouges commercialisés dans les rayons de trois réseaux de distribution présentaient des concentrations de glycoalcaloïdes supérieures aux seuils considérés comme sûrs. Ces composés, bien que naturellement présents dans la plante, peuvent entraîner des nausées, des douleurs abdominales et des vomissements lorsqu’ils sont ingérés en grande quantité. Le risque d’intoxication a donc conduit les autorités sanitaires à recommander le retrait immédiat de ces produits.\n\n## Étendue du rappel\nLe rappel concerne les sachets de pommes de terre rouges disponibles dans l’ensemble du territoire français et vendus par les enseignes concernées. Les consommateurs sont invités à ne plus consommer les produits concernés et à les rapporter aux points de vente pour un remboursement ou un échange. Les enseignes concernées ont été informées du problème et ont commencé à retirer les lots incriminés de leurs rayons.\n\n## Mesures de prévention et informations aux consommateurs\nLes services de santé publique rappellent que la présence de glycoalcaloïdes dans les pommes de terre varie selon les variétés, les conditions de culture et le degré de maturité. Une cuisson prolongée ou le rejet des parties vertes et germées réduit généralement la concentration de ces substances. Les autorités conseillent aux consommateurs de vérifier l’étiquetage, de conserver les produits dans de bonnes conditions et de signaler tout symptôme suspect après consommation.\n\n## Contexte réglementaire\nEn France, la législation alimentaire impose des limites maximales de résidus de substances potentiellement toxiques dans les denrées alimentaires. Lorsqu’un produit dépasse ces seuils, les autorités peuvent ordonner un rappel afin de protéger la santé publique. Ce mécanisme a été appliqué dans le cas présent, montrant la réactivité du dispositif de contrôle sanitaire face à un risque identifié.\n\nLes consommateurs sont invités à rester vigilants et à suivre les consignes de rappel diffusées par les points de vente et les services de santé. Le suivi de la situation se poursuivra afin de s’assurer que les produits retirés ne représentent plus aucun danger pour le public.",
+  "mots_cles": [
+    "pommes de terre",
+    "rappel",
+    "glycoalcaloïdes",
+    "intoxication",
+    "distribution"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-24T12:06:34+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Somain_-_Lidl_%2801%29.JPG/1280px-Somain_-_Lidl_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jérémy-Günther-Heinz Jähnick",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Somain_-_Lidl_(01).JPG",
+    "legende": "Depicted place: Lidl Somain",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Somain - Lidl (01).JPG"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "«Nausées, maux de ventre, vomissements» : des pommes de terre vendues chez Lidl, E.Leclerc et Auchan rappelées",
+      "url": "https://www.lefigaro.fr/conso/nausees-maux-de-ventre-vomissements-des-pommes-de-terre-vendues-chez-lidl-et-e-leclerc-rappelees-20261123"
+    },
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Des pommes de terre vendues chez Auchan, E.Leclerc et Lidl rappelées dans toute la France en raison d'un risque d'intoxication",
+      "url": "https://www.franceinfo.fr/sante/alimentation/des-pommes-de-terre-vendues-chez-auchan-e-leclerc-et-lidl-rappelees-dans-toute-la-france-en-raison-d-un-risque-d-intoxication_8297298.html#xtor=RSS-3-%5Beconomie%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
