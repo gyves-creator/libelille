@@ -228,5 +228,23 @@
     "titres_sources": [
       "L’action d’Anthropic tombe sous son prix d’introduction en Bourse, Wall Street dans le rouge"
     ]
+  },
+  {
+    "titre": "Le tube de Sylvie Vartan renflué par GTA 6",
+    "texte": "La bande-son de GTA 6, via la radio de Vice City, intègre « Danse ta vie » de Sylvie Vartan, sortie il y a plus de quarante ans. Depuis son inclusion, les écoutes du titre sur Spotify ont bondi de 2 500 %.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-24T15:44:16+00:00",
+    "titres_sources": [
+      "GTA 6 : grâce à la radio de Vice City, Sylvie Vartan voit ses écoutes Spotify exploser de 2 500 %"
+    ]
+  },
+  {
+    "titre": "L’Allemagne renforce sa présence militaire en Lituanie",
+    "texte": "La Bundeswehr envisagerait de stationner 5 000 soldats en Lituanie d’ici la fin 2027 pour contrer la menace russe. Des experts estiment que la souveraineté du pays pourrait être remise en cause dès 2029.",
+    "rubrique": "international",
+    "publie_le": "2026-11-24T15:44:16+00:00",
+    "titres_sources": [
+      "«Défendre chaque pouce du territoire de l’Otan» : en Lituanie, l’armée allemande monte en puissance face à la menace russe"
+    ]
   }
 ]
