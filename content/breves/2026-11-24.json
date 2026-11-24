@@ -323,5 +323,24 @@
     "titres_sources": [
       "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte"
     ]
+  },
+  {
+    "titre": "Assemblée nationale adopte première lecture du projet de loi logement",
+    "texte": "L'Assemblée nationale aurait adopté le projet de loi logement, les députés divisés sur la suppression de l’interdiction progressive de louer les habitations les plus énergivores. Si les chambres s’accordent sur un texte commun en commission mixte, le vote final est fixé au 15 décembre.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T18:34:32+00:00",
+    "titres_sources": [
+      "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
+      "L'Assemblée nationale adopte en première lecture le projet de loi logement"
+    ]
+  },
+  {
+    "titre": "Free lance la traduction téléphonique en temps réel grâce à l’IA",
+    "texte": "Free proposerait une traduction instantanée des appels téléphoniques grâce à l’IA, première en France. La version synthétique pourrait être personnalisée en clonant la voix de l’abonné, de façon que l’interlocuteur entende la traduction avec cette voix reproduite.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-24T18:34:32+00:00",
+    "titres_sources": [
+      "Free lance la traduction en temps réel des appels téléphoniques grâce à l’IA, une première en France"
+    ]
   }
 ]
