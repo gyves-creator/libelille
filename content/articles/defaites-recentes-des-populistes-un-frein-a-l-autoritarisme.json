@@ -1,0 +1,33 @@
+{
+  "slug": "defaites-recentes-des-populistes-un-frein-a-l-autoritarisme",
+  "titre": "Défaites récentes des populistes : un frein à l'autoritarisme",
+  "chapeau": "Des candidats populistes ou illibéraux ont été battus lors de scrutins récents aux États‑Unis, au Brésil et en Serbie. Larry Diamond, politologue spécialisé dans la démocratie, y voit un signe que la montée de l’autoritarisme n’est pas inéluctable.",
+  "corps": "## Des revers électoraux à l’international\n\nDans plusieurs démocraties, les électeurs ont choisi de rejeter des figures qualifiées de populistes ou d’autoritaristes. Aux États‑Unis, le résultat des dernières élections a confirmé la victoire de candidats opposés aux discours nationalistes. Au Brésil, le scrutin a également conduit à la défaite d’un candidat présenté comme illibéral, tandis qu’en Serbie, le vote a confirmé la préférence pour des options jugées plus compatibles avec les principes démocratiques. Ces résultats, observés dans des contextes géographiques et politiques différents, illustrent une dynamique où les projets autoritaires ne remportent pas systématiquement le soutien populaire.\n\n## Analyse de Larry Diamond\n\nLarry Diamond, professeur à l’Université de Stanford et spécialiste reconnu de la démocratie à l’échelle mondiale, a commenté ces évolutions lors d’un entretien. Il a souligné que la succession de défaites infligees aux candidats populistes indique que l’autoritarisme ne progresse pas de façon linéaire. Selon lui, le fait que des électorats variés aient préféré des alternatives démocratiques montre que la résistance aux tendances autoritaires demeure présente et peut s’exprimer de façon décisive lors des scrutins. Diamond précise que ces observations ne constituent pas une garantie permanente, mais elles offrent une perspective contrastée face aux discours qui annoncent une expansion inévitable de l’autoritarisme.\n\n## Implications pour la présidentielle française de 2027\n\nÀ l’approche de l’élection présidentielle française prévue en 2027, ces exemples internationaux sont souvent cités dans les débats sur la santé de la démocratie en Europe. Bien que les contextes nationaux diffèrent, les analystes rappellent que les choix électoraux peuvent influencer la trajectoire politique d’un pays. Le constat de Diamond incite à considérer que les électeurs français disposent, comme leurs homologues étrangers, d’une capacité à influer sur la direction idéologique du pouvoir exécutif. Les observateurs invitent ainsi à suivre de près les dynamiques de campagne, tout en rappelant que chaque scrutin reste une photographie ponctuelle de l’opinion publique.\n\n## Une perspective nuancée\n\nIl convient de préciser que les observations de Diamond se fondent sur des cas spécifiques et ne prétendent pas couvrir l’ensemble des évolutions politiques mondiales. D’autres analystes soulignent que des mouvements autoritaires continuent de se manifester dans certains pays, même si les résultats électoraux récents peuvent atténuer l’idée d’une progression ininterrompue. Ainsi, le débat reste ouvert quant à la manière dont les sociétés démocratiques réagiront aux défis posés par les discours populistes et illibéraux à l’avenir.",
+  "mots_cles": [
+    "populisme",
+    "autoritarisme",
+    "élections",
+    "Larry Diamond",
+    "démocratie"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-24T05:17:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Visit_of_Christophe_Hansen%2C_European_Commissioner%2C_to_France_%28P-070397-00-08%29.jpg/1280px-Visit_of_Christophe_Hansen%2C_European_Commissioner%2C_to_France_%28P-070397-00-08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Auteur inconnu",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Christophe_Hansen,_European_Commissioner,_to_France_(P-070397-00-08).jpg",
+    "legende": "Gabriel Attal, a Renaissance candidate for the 2027 French presidential election, second from left, meets Christophe Hansen, on the right, during a visit to the \"Terres de Jim\" agricultural fair.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Visit of Christophe Hansen, European Commissioner, to France (P-070397-00-08).jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Larry Diamond, politiste américain : « En plusieurs endroits du monde, nous assistons à un rejet croissant des projets autoritaires »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/24/larry-diamond-politiste-americain-en-plusieurs-endroits-du-monde-nous-assistons-a-un-rejet-croissant-des-projets-autoritaires_6814707_3232.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

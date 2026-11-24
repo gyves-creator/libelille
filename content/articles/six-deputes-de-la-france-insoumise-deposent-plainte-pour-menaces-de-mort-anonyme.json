@@ -1,0 +1,38 @@
+{
+  "slug": "six-deputes-de-la-france-insoumise-deposent-plainte-pour-menaces-de-mort-anonyme",
+  "titre": "Six députés de la France Insoumise déposent plainte pour menaces de mort anonymes",
+  "chapeau": "Six parlementaires de La France Insoumise ont annoncé leur intention de porter plainte pour des menaces de mort reçues par courrier. Les lettres, jugées haineuses, comportaient notamment des croix gammées.",
+  "corps": "## Une plainte collective au commissariat\nLes six députés d'« La France Insoumise », à savoir Eric Coquerel, Antoine Léaument, Sarah Legrain, Marie Mesmeur, Thomas Portes et Carlos Martens Bilongo, se sont rendus mardi au commissariat pour déposer une plainte commune. Cette démarche intervient après la réception de courriers anonyme contenant des menaces de mort et des symboles d'extrême droite, dont la croix gammée, que les élus ont qualifiés d'« haineux ». Le groupe de parlementaires a indiqué que ces messages visaient à les intimider et à les décourager dans leurs fonctions.\n\n## Contexte politique et sécuritaire\nLa France Insoumise, formation de gauche radicale, compte plusieurs représentants à l'Assemblée nationale. Les menaces adressées à ses membres s'inscrivent dans un climat de tension politique où les discours polarisés peuvent parfois déboucher sur des actes de harcèlement. Les autorités compétentes, à savoir la police, sont chargées d’enquêter sur l'origine de ces courriers, mais aucune information supplémentaire n’a été communiquée quant à l’avancement de l’enquête.\n\n## Réaction des élus et appel à la vigilance\nLes députés concernés ont souligné la gravité de la situation, rappelant que la liberté d’expression ne doit pas servir de prétexte à des menaces violentes. Ils ont appelé les services de l’État à renforcer la protection des élus et à assurer une réponse rapide aux actes de haine. Aucun autre député n’a été mentionné comme ayant reçu des messages similaires, et aucune incitation à la violence n’a été rapportée dans les faits présentés.\n\n## Perspectives et suivi judiciaire\nLa plainte déposée ouvre la voie à une enquête officielle. Si les investigations permettent d’identifier les auteurs, des poursuites pourraient être engagées en vertu de la législation française contre les menaces de mort et les incitations à la haine. En attendant les résultats, les six parlementaires restent vigilants et ont indiqué qu'ils continueront à exercer leurs fonctions malgré les intimidations subies.",
+  "mots_cles": [
+    "menaces de mort",
+    "La France Insoumise",
+    "députés",
+    "plaintes",
+    "harcèlement"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-24T05:17:35+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LOGO-LFI-2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:LOGO-LFI-2026.png",
+    "legende": "LOGO-LFI-2026",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:LOGO-LFI-2026.png"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes",
+      "url": "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
