@@ -150,5 +150,24 @@
     "titres_sources": [
       "Mayotte : 80 gendarmes et 20 policiers supplémentaires face à la recrudescence des violences"
     ]
+  },
+  {
+    "titre": "Enquête préliminaire pour détournement de fonds à la métropole du Havre",
+    "texte": "Le parquet national financier a ouvert une enquête préliminaire après un signalement reçu en mai de l'ancienne directrice générale adjointe de la communauté urbaine du Havre concernant un détournement de fonds publics. La procureure du Havre a confirmé le transfert du dossier au commissariat local.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-24T12:45:05+00:00",
+    "titres_sources": [
+      "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
+      "Métropole du Havre : une enquête préliminaire ouverte par le parquet après un signalement pour « détournement de fonds publics »"
+    ]
+  },
+  {
+    "titre": "Jean-Luc Mélenchon programme deux meetings avant Noël",
+    "texte": "Le candidat à l’élection présidentielle prévoit un meeting à Montpellier le samedi 9 janvier. Il se rendra ensuite au Havre le 5 décembre, avant de passer une semaine aux Antilles avant Noël.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-24T12:45:05+00:00",
+    "titres_sources": [
+      "Jean-Luc Mélenchon tiendra un meeting le samedi 9 janvier à Montpellier"
+    ]
   }
 ]
