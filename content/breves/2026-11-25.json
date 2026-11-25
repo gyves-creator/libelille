@@ -382,5 +382,23 @@
     "titres_sources": [
       "Saluts nazis, propos racistes... Les révélations de Mediapart sur la brigade des douanes de Chaumont"
     ]
+  },
+  {
+    "titre": "Marco Tsaradia devient président de l’Assemblée à Madagascar",
+    "texte": "Il semblerait que Marco Tsaradia ait été élu président de l’Assemblée nationale de Madagascar après la destitution de Siteny Randrianasoloniaiko pour abus de pouvoir. Ce dernier était perçu comme l’un des artisans du rapprochement avec la Russie depuis l’arrivée du colonel Michaël Randrianirina en octobre 2025.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T19:38:51+00:00",
+    "titres_sources": [
+      "Madagascar : Marco Tsaradia élu président de l’Assemblée nationale, après la destitution de Siteny Randrianasoloniaiko, accusé d’abus de pouvoir"
+    ]
+  },
+  {
+    "titre": "Technip Energies France jugée pour homicide involontaire",
+    "texte": "Il semblerait que le groupe Technip Energies France soit jugé pour homicide involontaire à la suite de trois suicides de salariés survenus entre 2015 et 2017. La procureure et les parties civiles ont dénoncé son absence d’action face aux risques psychosociaux.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-25T19:38:51+00:00",
+    "titres_sources": [
+      "Technip Energies France jugée pour homicide involontaire après trois suicides de salariés"
+    ]
   }
 ]
