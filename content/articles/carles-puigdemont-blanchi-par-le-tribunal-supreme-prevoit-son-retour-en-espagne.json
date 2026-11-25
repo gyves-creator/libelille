@@ -1,0 +1,43 @@
+{
+  "slug": "carles-puigdemont-blanchi-par-le-tribunal-supreme-prevoit-son-retour-en-espagne",
+  "titre": "Carles Puigdemont, blanchi par le Tribunal suprême, prévoit son retour en Espagne le 12 décembre",
+  "chapeau": "Après neuf ans d'exil en Belgique, l'homme politique catalan Carles Puigdemont a annoncé son retour en Espagne prévu le 12 décembre. Cette décision fait suite à son acquittement définitif par le Tribunal suprême espagnol concernant la tentative de sécession de 2017.",
+  "corps": "## Un acquittement définitif par la justice espagnole\nLe Tribunal suprême a prononcé, ce lundi, le blanchiment complet de Carles Puigdemont, l'ex‑député et figure de proue du mouvement indépendantiste catalan. Cette décision met un terme aux procédures judiciaires qui le poursuivaient depuis la tentative d'organisation d'un référendum d'autodétermination en 2017, événement largement considéré comme illégal par les autorités de Madrid. L'annulation des charges ouvre la voie à la réintégration du politicien dans le cadre juridique national.\n\n## Un retour programmé le 12 décembre\nProfitant de cet acquittement, Puigdemont a déclaré son intention de franchir à nouveau la frontière espagnole le 12 décembre, soit environ deux semaines après les élections législatives. Exilé depuis neuf ans en Belgique, il avait jusqu'alors refusé tout retour, invoquant des risques d'arrestation. Son annonce marque la première fois depuis 2017 qu'il envisage de revenir sur le territoire espagnol, sans préciser les conditions de son accueil ni les projets politiques qui pourraient en découler.\n\n## Contexte du conflit catalan\nLe mouvement indépendantiste de Catalogne, animé depuis plusieurs années par des revendications d'autonomie voire de sécession, a culminé en 2017 avec la tenue d'un référendum non autorisé et la proclamation d'une république unilatérale. La réaction du gouvernement central a entraîné l'arrestation de plusieurs dirigeants et l'exil de figures comme Puigdemont. Depuis, la question de l'autodétermination reste un sujet sensible, alimentant des débats au sein du Parlement espagnol et au niveau européen.\n\n## Perspectives et incertitudes\nSi le retour de Puigdemont se concrétise, il devra naviguer dans un paysage politique transformé par les dernières élections législatives. Les autorités n'ont pas encore communiqué de mesures spécifiques concernant son accueil ou d'éventuelles restrictions. Le politicien, quant à lui, n'a pas détaillé les objectifs de son retour, laissant le public et les observateurs spéculer sur les implications pour le dialogue entre Madrid et la Catalogne.",
+  "mots_cles": [
+    "Carles Puigdemont",
+    "Catalogne",
+    "exil",
+    "Tribunal suprême",
+    "retour"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-25T12:11:57+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Signatura_de_Carles_Puigdemont_%E2%80%93_transparent_background.png/1280px-Signatura_de_Carles_Puigdemont_%E2%80%93_transparent_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jordi Roca",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Signatura_de_Carles_Puigdemont_%E2%80%93_transparent_background.png",
+    "legende": "Singatura de Carles Puigdemont i Casamajó, President de la Generalitat de Catalunya",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Signatura de Carles Puigdemont – transparent background.png"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "L’indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre",
+      "url": "https://www.lemonde.fr/international/article/2026/11/25/l-independantiste-catalan-carles-puigdemont-rentrera-en-espagne-le-12-decembre_6815086_3210.html"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "L'indépendantiste catalan Carles Puigdemont annonce son retour en Espagne, après neuf ans d'exil",
+      "url": "https://www.france24.com/fr/europe/20261125-l-ind%C3%A9pendantiste-catalan-carles-puigdemont-annonce-son-retour-en-espagne-apr%C3%A8s-neuf-ans-d-exil"
+    },
+    {
+      "media": "franceinfo- Monde",
+      "titre": "L'indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre après neuf ans d'exil",
+      "url": "https://www.franceinfo.fr/monde/espagne/l-independantiste-catalan-carles-puigdemont-rentrera-en-espagne-le-12decembre-apres-neuf-ans-d-exil_8299407.html#xtor=RSS-3-%5Bmonde%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

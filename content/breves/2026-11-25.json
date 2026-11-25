@@ -154,5 +154,23 @@
     "titres_sources": [
       "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a été démis de ses fonctions en conseil des ministres"
     ]
+  },
+  {
+    "titre": "Compromission du système OSINT de la CIA, deux agences affectées",
+    "texte": "Des pirates informatiques ont infiltré le système OSINT de la CIA, probablement avec le même outil d'IA que celui utilisé contre la Commission européenne. Deux autres services de renseignement américains auraient également été touchés, élargissant la portée de la cyberattaque.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-25T12:12:18+00:00",
+    "titres_sources": [
+      "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne"
+    ]
+  },
+  {
+    "titre": "L'ONU alerte sur risque de nouveaux crimes atroces d'Israël en Palestine",
+    "texte": "Le Haut-Commissariat des Nations unies aux droits de l'homme signale une escalade du caractère généralisé et systématique des violations commises par Israël à Gaza et en Cisjordanie. Il met en garde contre de nouveaux crimes qualifiés d'atrocieux.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T12:12:18+00:00",
+    "titres_sources": [
+      "L'ONU alerte sur le risque de nouveaux \"crimes atroces\" d'Israël contre les Palestiniens à Gaza et en Cisjordanie"
+    ]
   }
 ]

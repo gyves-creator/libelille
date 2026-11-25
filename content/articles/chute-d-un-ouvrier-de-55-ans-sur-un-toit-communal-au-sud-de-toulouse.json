@@ -1,0 +1,37 @@
+{
+  "slug": "chute-d-un-ouvrier-de-55-ans-sur-un-toit-communal-au-sud-de-toulouse",
+  "titre": "Chute d'un ouvrier de 55 ans sur un toit communal au sud de Toulouse",
+  "chapeau": "Un ouvrier de 55 ans est tombé de cinq mètres après la rupture du filet de protection installé sur le toit d’un bâtiment communal situé au sud de Toulouse, mardi 24 novembre. L’incident a mobilisé les secours et a déclenché une enquête sur les conditions de sécurité du chantier.",
+  "corps": "## Déroulement de l'accident\nDans l’après‑midi du mardi 24 novembre, un ouvrier de 55 ans travaillait sur la toiture d’un édifice appartenant à la collectivité locale, dans le secteur sud de la métropole toulousaine. Un filet de protection, destiné à empêcher toute chute, a cédé sous le poids de l’intervenant. L’homme a alors chuté d’une hauteur d’environ cinq mètres, se retrouvant dans le vide au‑dessus du chantier. Les services de secours, alertés immédiatement, sont intervenus sur place pour prendre en charge la victime et l’emmener vers un établissement de santé.\n\n## Réactions des autorités et enquête\nLes services d’urgence ont confirmé la prise en charge médicale de l’ouvrier, sans toutefois divulguer d’informations sur son état de santé. Une enquête a été ouverte afin de déterminer les circonstances exactes de la rupture du dispositif de protection. Les inspecteurs du service de santé au travail et les représentants de la mairie sont susceptibles d’être associés à cette investigation, conformément aux procédures prévues par le Code du travail pour les accidents du travail. L’objectif est d’établir si les normes de sécurité applicables aux travaux en hauteur ont été respectées et d’identifier d’éventuelles défaillances techniques ou organisationnelles.\n\n## Contexte de la prévention des chutes en hauteur\nEn France, les travaux en hauteur sont soumis à des exigences strictes en matière de protection collective, notamment l’utilisation de filets, d’échafaudages ou de systèmes d’ancrage. Le port de l’équipement de protection individuelle (harnais, casque) est également obligatoire lorsque les mesures collectives ne permettent pas d’éliminer le risque. Les employeurs doivent procéder à une évaluation des risques avant le démarrage des travaux et mettre en place un suivi régulier des installations de sécurité. En cas de manquement, la responsabilité de l’employeur peut être engagée, et des sanctions administratives ou pénales peuvent être prononcées.\n\n## Conséquences pour les riverains et mesures pratiques\nAucun impact direct sur la circulation routière ou les transports publics n’a été signalé dans les informations disponibles. Les riverains du quartier concerné sont invités à rester vigilants et à suivre les consignes éventuelles qui pourraient être diffusées par la mairie ou les services de secours. Pour toute information complémentaire, il est recommandé de consulter le site officiel de la ville de Toulouse ou de contacter le centre d’appel d’urgence au 112 en cas de besoin.",
+  "mots_cles": [
+    "accident du travail",
+    "chute en hauteur",
+    "sécurité chantier",
+    "Toulouse sud"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-25T12:12:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%28Toulouse%29_Enyo_gorgon_MHNT_CUT_2010_0_527_-_Maripasoula%2C_Guyane_France_-_female_dorsal.jpg/1280px-%28Toulouse%29_Enyo_gorgon_MHNT_CUT_2010_0_527_-_Maripasoula%2C_Guyane_France_-_female_dorsal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:(Toulouse)_Enyo_gorgon_MHNT_CUT_2010_0_527_-_Maripasoula,_Guyane_France_-_female_dorsal.jpg",
+    "legende": "Enyo gorgon - Dorsal side Collection of the Mathematician Laurent Schwartz",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:(Toulouse) Enyo gorgon MHNT CUT 2010 0 527 - Maripasoula, Guyane France - female dorsal.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Accident du travail : le filet de protection cède, un ouvrier de 55 ans chute de 5 mètres dans le vide au sud de Toulouse",
+      "url": "https://www.ladepeche.fr/2026/11/25/accident-du-travail-au-sud-de-toulouse-le-filet-de-protection-cede-un-ouvrier-de-55-ans-chute-de-5-metres-dans-le-vide-13670589.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Accident du travail, au sud de Toulouse : le filet de protection cède, un ouvrier de 55 ans chute de 5 mètres dans le vide",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdm43aVR0OWZoa0ZtbzVISTlBSHdqWW9hYlo3T3JfUlQ5M3VOUllETFU0enhpRWxjckQxTDBYRGtuMGVkRHhsVFRaeU1BMHZveHlscmhGMUlvR3Q2V3p0Ny1BUTZibzQ5aWZlblpUdUFfU1JRTE1qLVRiOXFFSmp1ejJGdXpJZmtsb2xaYlY4UFNzVy15RE1SaC11Z0tYNVh1cjFHVU96NzFsblhyeExENnBpdVQxUjNxZ0MyXzVhZXZCT3BBd015MDhkUXdvMkJ3aGI1VmNPU3ZCODVVU0NJQkY4WmREQTdfeklxZ21qNzh5ZVhUMFhYand0OA?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
