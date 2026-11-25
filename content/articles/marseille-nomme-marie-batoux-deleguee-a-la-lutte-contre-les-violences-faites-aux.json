@@ -1,0 +1,38 @@
+{
+  "slug": "marseille-nomme-marie-batoux-deleguee-a-la-lutte-contre-les-violences-faites-aux",
+  "titre": "Marseille nomme Marie Batoux déléguée à la lutte contre les violences faites aux femmes",
+  "chapeau": "La mairie de Marseille a annoncé la création d’un poste dédié à la lutte contre les violences faites aux femmes. Marie Batoux, adjointe au maire, a été désignée pour piloter cette action au niveau communal.",
+  "corps": "## Nomination d’une adjointe dédiée\nLe 25 novembre 2026, la municipalité marseillaise a communiqué la mise en place d’une délégation spécifique à la prévention et à la prise en charge des violences faites aux femmes. Cette responsabilité a été confiée à Marie Batoux, adjointe au maire, qui porte désormais le titre de déléguée à la lutte contre ces violences. L’annonce s’inscrit dans le cadre des priorités affichées par la ville pour renforcer la protection des victimes et améliorer la coordination des acteurs locaux.\n\n## Enjeux pour les habitants\nCette décision vise à donner une visibilité accrue aux dispositifs existants et à faciliter l’accès des habitants aux services d’accompagnement. La mise en place d’un interlocuteur municipal dédié devrait permettre aux associations, aux services de santé et aux forces de l’ordre de travailler de façon plus cohérente. Pour les citoyennes, cela signifie la possibilité de se rapprocher d’un point de contact unique pour toute demande d’information, de soutien ou de signalement.\n\n## Contexte et perspectives\nLes violences faites aux femmes constituent un problème de santé publique et de droits humains reconnu à l’échelle nationale. Les collectivités locales jouent un rôle clé dans la mise en œuvre des politiques de prévention, de sensibilisation et d’accompagnement. En créant ce poste, Marseille rejoint un nombre croissant de villes françaises qui dotent leur administration d’un responsable dédié, afin d’harmoniser les actions de terrain avec les orientations nationales.\n\n## Informations pratiques\nLes habitants souhaitant obtenir davantage de renseignements ou être orientés vers les structures d’aide sont invités à consulter le site officiel de la ville de Marseille, où une rubrique spécifique sera prochainement disponible. Un formulaire de contact en ligne et les coordonnées du service municipal dédié seront accessibles, permettant ainsi de centraliser les demandes et de garantir une réponse rapide.",
+  "mots_cles": [
+    "Marseille",
+    "violences faites aux femmes",
+    "Marie Batoux",
+    "municipalité",
+    "délegation"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-25T09:21:03+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Quais_de_la_gare_Saint-Charles_%C3%A0_Marseille_-_novembre_2026_01.jpg/1280px-Quais_de_la_gare_Saint-Charles_%C3%A0_Marseille_-_novembre_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gabriel from92",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Quais_de_la_gare_Saint-Charles_%C3%A0_Marseille_-_novembre_2026_01.jpg",
+    "legende": "Saint-Charles station platform in Marseille (France).",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Quais de la gare Saint-Charles à Marseille - novembre 2026 01.jpg"
+  },
+  "sources": [
+    {
+      "media": "BFM",
+      "titre": "Marseille : la mairie face aux violences faites aux femmes",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVVZqaVI0d1lsaFIyWk85dkJhcktuMFU3MGdKMmozV0xBTzBTRzNqWkNiaThjYWlzRWpyWFZnTVBLOTNIUFhUOWhUc2VjNGZxYkJQZjFHVHQzcXU1blJaUzRvb21yRlVGd2xmS2NkVGtrMzhtZEltclU0TXdoRDlndF8yM2R4T0pBTzlfTmk2WFlPU0dhRWxaWElEU2Q2dTNQTXhKUXpWY2g0eHpmVGJDaFcwMDExMUlzQWVoVUQzSWZtdlN0bG1ldTRFV19DamR3Mi1ET3ZkQVAxaVpTb2M0R1hYWnc?oc=5"
+    },
+    {
+      "media": "ici.fr",
+      "titre": "Marie Batoux, adjointe au maire de Marseille, déléguée à la lutte contre les violences faites aux femmes",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdkk5dDkzb3dCQ1dsVE13b2IteTNXWlJIZzZacGhLNUdWMHVBUDZsaWdnXzRiSnVQMlpqb19XVGhUQ29hQkxlcFVTMUZtclF6YXZwcVdtZ0Q3cC00NXA4aWNQODh1VWVvMmRsT0phRWlCNWpOVzZ0VjlWb2E0SHBPUGlJR1hRNnpYOEFKSlNBU2FSX1JCS0tqY3dUSHZlRHNrM29idG5VOS1sbE5QYkRfUmQxNUhJZXFyV3FDekc0WFVtX1VOZEs1WXhkMV9leFU3dHpEeWpPZkpWQzU1ZTlJNzBiWk52Ujh3QzdmallJR0NFQ2Y2NGZRWW9iMnYtTWVhYmVZ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
