@@ -346,5 +346,23 @@
     "titres_sources": [
       "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?"
     ]
+  },
+  {
+    "titre": "Plus de 400 lycéens exclus définitivement sur 3 000 procédures",
+    "texte": "Plus de 400 élèves ont été exclus définitivement dans le cadre de 3 000 procédures disciplinaires. Le ministre a souligné que la plupart des élèves n’ont commis aucun acte répréhensible.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-25T18:30:16+00:00",
+    "titres_sources": [
+      "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées"
+    ]
+  },
+  {
+    "titre": "Le Sénat lance une commission d’enquête sur les cyberattaques",
+    "texte": "Une commission d’enquête sur les cyberattaques et les fuites de données sera créée au Sénat et pourra commencer avant la fin de l’année, pour une durée de six mois. Le rapport final est prévu pour avril ou mai 2027.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-25T18:30:16+00:00",
+    "titres_sources": [
+      "Une commission d'enquête sur les cyberattaques et les fuites de données va être lancée au Sénat"
+    ]
   }
 ]
