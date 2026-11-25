@@ -1,0 +1,37 @@
+{
+  "slug": "plus-de-400-exclusions-definitives-dans-le-cadre-du-mouvement-lyceen",
+  "titre": "Plus de 400 exclusions définitives dans le cadre du mouvement lycéen",
+  "chapeau": "Plus de 400 élèves ont été exclus de façon définitive depuis le début du mouvement lycéen. Le ministre de l'Éducation a rappelé que la grande majorité des 3 000 procédures engagées ne concernait pas d’actes répréhensibles.",
+  "corps": "## Statistiques des procédures disciplinaires\nEntre septembre et le 1er novembre, les autorités éducatives ont enregistré environ 3 000 dossiers disciplinaires liés aux manifestations des lycéens. Parmi ceux‑ci, un peu plus de 400 ont débouché sur des exclusions définitives, les élèves concernés étant réinscrits dans un autre établissement. Aucun autre chiffre n’a été communiqué sur le nombre de sanctions moins sévères.\n\n## Contexte du mouvement lycéen\nLe mouvement lycéen, déclenché à la rentrée de septembre, regroupe des élèves qui contestent plusieurs mesures de l’Éducation nationale, notamment la réforme du baccalauréat et les conditions d’apprentissage. Les revendications ont donné lieu à des rassemblements dans les établissements, parfois accompagnés de blocages d’accès et de grèves. Les autorités ont indiqué que les procédures disciplinaires visaient à garantir la sécurité et le bon déroulement des cours, sans préciser le nombre exact de cas de perturbation avérés.\n\n## Réaction du ministre\nLe ministre de l'Éducation, Edouard Geffray, a appelé à ne pas se focaliser sur « l’arbre qui cache la forêt » et à reconnaître que la grande majorité des élèves n’a commis aucun acte répréhensible. Il a souligné que les exclusions restent une mesure exceptionnelle, assortie d’une prise en charge pour assurer la poursuite de la scolarité dans un autre établissement.\n\n## Conséquences et suivi\nLes élèves exclus sont orientés vers d’autres établissements, afin de garantir la continuité de leur parcours scolaire. Aucun détail n’a été fourni sur les critères de reclassement ni sur le suivi pédagogique prévu. Le ministre a indiqué que les autorités continueraient à surveiller l’évolution du mouvement et à adapter les réponses disciplinaires en fonction des faits constatés.",
+  "mots_cles": [
+    "exclusions",
+    "mouvement lycéen",
+    "procédures disciplinaires",
+    "Éducation nationale"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-25T19:01:48+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/F%C3%A9d%C3%A9ration_Nationale_des_Ecoles_de_Production_Logo_BaselineNoire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "FNEP",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:F%C3%A9d%C3%A9ration_Nationale_des_Ecoles_de_Production_Logo_BaselineNoire.jpg",
+    "legende": "Logo de la Fédération Nationale des Ecoles de Production, modèle déposé",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Fédération Nationale des Ecoles de Production Logo BaselineNoire.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html#xtor=RSS-3-%5Bsociete%5D"
+    },
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

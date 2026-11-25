@@ -364,5 +364,23 @@
     "titres_sources": [
       "Une commission d'enquête sur les cyberattaques et les fuites de données va être lancée au Sénat"
     ]
+  },
+  {
+    "titre": "Une enquête sur Robert Surcouf et le naufrage de l'Aurore",
+    "texte": "Selon la journaliste descendante de Robert Surcouf, une enquête aurait mis en lumière le rôle du navigateur dans le trafic d’esclaves. Le navire « Aurore » se serait coulé au large du Mozambique, entraînant la mort de plus de 300 Africains.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T19:01:55+00:00",
+    "titres_sources": [
+      "Sur la piste de Robert Surcouf et de son implication dans l’esclavage, une histoire française passée sous silence"
+    ]
+  },
+  {
+    "titre": "Des dérives racistes au sein de la brigade des douanes de Chaumont",
+    "texte": "Mediapart aurait dévoilé que des membres de la brigade des douanes de Chaumont proféraient des salutations nazies et tenaient des propos racistes. L’enquête de Maël Galisson indiquerait que ces faits ne constituent pas un incident isolé.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-25T19:01:55+00:00",
+    "titres_sources": [
+      "Saluts nazis, propos racistes... Les révélations de Mediapart sur la brigade des douanes de Chaumont"
+    ]
   }
 ]
