@@ -113,5 +113,27 @@
     "titres_sources": [
       "Vous allez pouvoir reproduire l’éclairage de Vice City chez vous avec ce pack Philips Hue à prix cassé pour le Black Friday"
     ]
+  },
+  {
+    "titre": "Carles Puigdemont rentre en Espagne le 12 décembre après exonération",
+    "texte": "L'ancien président de la Catalogne, blanchi définitivement par le Tribunal suprême, a annoncé son retour le 12 décembre, mettant fin à neuf ans d'exil en Belgique. Cette décision clôture la procédure judiciaire liée à la tentative de sécession de 2017.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T11:06:48+00:00",
+    "titres_sources": [
+      "L'indépendantiste catalan Carles Puigdemont annonce son retour en Espagne, après neuf ans d'exil",
+      "L'indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre après neuf ans d'exil"
+    ]
+  },
+  {
+    "titre": "Congrès des maires : quinze élus débattent de fiscalité et sécurité",
+    "texte": "Lors du Congrès des maires, quinze élus ont débattu en direct de la protection contre incendies et inondations, de l'attractivité rurale, de la fiscalité locale et du port d'armes par les polices municipales. L'objectif est d'identifier des solutions pour renforcer la résilience des communes.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-25T11:06:48+00:00",
+    "titres_sources": [
+      "franceinfo au Congrès des maires : après les incendies et les inondations, comment mieux protéger les communes ?",
+      "franceinfo au Congrès des maires : comment rendre attractives les communes rurales ?",
+      "franceinfo au Congrès des maires : les équations difficiles de la fiscalité locale",
+      "franceinfo au Congrès des maires : faut-il armer les polices municipales ?"
+    ]
   }
 ]

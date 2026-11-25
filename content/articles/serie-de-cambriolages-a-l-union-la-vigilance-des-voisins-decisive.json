@@ -1,0 +1,38 @@
+{
+  "slug": "serie-de-cambriolages-a-l-union-la-vigilance-des-voisins-decisive",
+  "titre": "Série de cambriolages à L'Union, la vigilance des voisins décisive",
+  "chapeau": "Plusieurs habitations de la commune de L'Union, proche de Toulouse, ont été cambriolées durant le week‑end du 14 novembre. L’intervention d’un voisin vigilant a permis d’interrompre l’effraction et d’alerter les autorités.",
+  "corps": "## Une série de cambriolages dans la nuit du 14 novembre\nDes maisons situées dans le quartier résidentiel de L'Union, en Haute‑Garonne, ont été la cible d’une même équipe de malfaiteurs au cours du week‑end du 14 novembre. Les faits se seraient déroulés successivement, les cambrioleurs passant d’une habitation à l’autre en peu de temps, comme le décrit une résidente retraitée qui a été victime d’une intrusion. Aucun détail sur le nombre exact de foyers touchés n’a été communiqué, mais le terme « plusieurs » indique que les actes ont concerné plusieurs foyers de la même zone.\n\n## Le rôle décisif du voisinage\nDans le cas de la retraitée, un voisin aurait remarqué des mouvements inhabituels et, grâce à sa réactivité, a signalé l’incident aux forces de l’ordre. Cette alerte a permis d’interrompre le passage éclair des cambrioleurs, limitant ainsi les dégâts matériels. Les autorités ont confirmé que la vigilance des riverains constitue un élément clé dans la prévention et la détection rapide de ce type d’infraction.\n\n## Consignes de sécurité et suivi de l’enquête\nLa police locale a ouvert une enquête afin d’identifier les auteurs et de déterminer le mode opératoire employé. Les services de police incitent les habitants de L'Union à rester vigilants, à signaler toute activité suspecte et à sécuriser leurs résidences, notamment en verrouillant portes et fenêtres et en installant, si possible, des systèmes d’alarme. En cas de doute, le numéro d’urgence 17 reste disponible, et la mairie de L'Union propose également une ligne d’assistance pour les victimes de cambriolage.\n\n## Impact sur la vie quotidienne\nAucun service public n’a été interrompu à la suite de ces faits, mais la situation a naturellement suscité des inquiétudes parmi les riverains. Les habitants sont invités à rester attentifs aux consignes de la police et à participer aux initiatives locales de surveillance de quartier, qui peuvent contribuer à renforcer la sécurité collective.\n\nPour toute information complémentaire, les résidents peuvent consulter le site internet de la mairie de L'Union ou contacter le poste de police le plus proche.",
+  "mots_cles": [
+    "cambriolage",
+    "L'Union",
+    "Toulouse",
+    "sécurité",
+    "voisinage"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-25T11:06:40+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/L%27Union_-_Ancienne_Mairie.jpg/1280px-L%27Union_-_Ancienne_Mairie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:L%27Union_-_Ancienne_Mairie.jpg",
+    "legende": "L’Union , former town hall.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:L'Union - Ancienne Mairie.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "TÉMOIGNAGES. \"Ils sont passés par un soupirail\" : victime d'un cambriolage près de Toulouse, cette retraitée raconte le passage éclair des voleurs, la vigilance du voisin a été décisive",
+      "url": "https://www.ladepeche.fr/2026/11/25/temoignages-ils-sont-passes-par-un-soupirail-victime-dun-cambriolage-pres-de-toulouse-cette-retraitee-raconte-le-passage-eclair-des-voleurs-la-13667650.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "TÉMOIGNAGES. \"Ils sont passés par un soupirail\" : victime d'un cambriolage près de Toulouse, cette retraitée raconte le passage éclair des voleurs, la vigilance du voisin a été décisive",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcUdZdlg2UTNsLWhMNVpobjF3LWNZTDN5TTg2Mjd4WDRzQUg4WEdOM0R3Mkh6QklyWmwtbTJfV0FtS3lLRHh1X0lZcldYR2J6bU44ZlVpRl9WbF9sSmwxcXp1ZUo5aF9uZjVCSGJoeGI4aWhMYTRfSHB5cU4xTlprN2MzcXNZSGd3VFdMSGRKWWhFUS1WcVhHU2hNNklGa1FGNTBmWDFQR1B4d24wRkdwMG9KWERGVzkwS2kwbzVZYkNMVFJmMFA2TGZxcXdlcXllT2p2M0R4WmxXdFJDdXlwT041eDFOZHVJUVBNeXRFTllESWtGNERBZHZyRzdzMldvYUlxVmdla3BRU0tMV2tVZlQtZXVXdjJaVkpN?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

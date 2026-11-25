@@ -1,0 +1,38 @@
+{
+  "slug": "le-ministre-saisit-l-igj-apres-la-presence-d-un-procureur-au-rn",
+  "titre": "Le ministre saisit l’IGJ après la présence d’un procureur au RN",
+  "chapeau": "Le garde des Sceaux Gérald Darmanin a indiqué qu’il allait saisir l’Inspection générale de la justice à la suite de la présence d’un procureur adjoint du parquet de Paris, Christian de Rocquigny, dans les locaux du Rassemblement national lors d’une perquisition le 9 novembre. Le député RN Jean‑Philippe Tanguy a qualifié cet incident d’insignifiant.",
+  "corps": "## Contexte de la perquisition au siège du RN\nLe 9 novembre, les services de police ont mené une perquisition dans les locaux du Rassemblement national à Paris. Au cours de cette opération, Christian de Rocquigny, procureur adjoint du parquet de Paris, a été aperçu dans le bâtiment alors qu’il rendait visite à un eurodéputé du parti. Cette présence a été relevée comme inhabituelle, le magistrat n’ayant pas demandé de jour de congé et n’ayant pas informé sa hiérarchie de son déplacement.\n\n## Réaction du garde des Sceaux\nInterrogé sur France Inter, le ministre de la Justice, Gérald Darmanin, a déclaré saisir l’Inspection générale de la justice (IGJ) afin d’éclaircir les faits et de vérifier un possible « défaut de loyauté » du haut magistrat. Il a souligné que la procédure visait à faire « toute la lumière » sur la situation et à garantir le respect des règles de déontologie applicables aux magistrats.\n\n## Position du Rassemblement national\nLe député Jean‑Philippe Tanguy, président délégué du groupe RN à l’Assemblée nationale, a exprimé son point de vue lors de l’émission « 8h30 franceinfo » du même jour, estimant que l’affaire était « totalement insignifiante ». Aucun autre commentaire officiel du parti n’a été communiqué à ce stade.\n\n## Suite de l’enquête\nLa saisine de l’IGJ implique le lancement d’une enquête interne qui pourra aboutir à des recommandations ou à des sanctions disciplinaires, selon les conclusions. Le déroulement de la procédure reste à suivre, aucune décision finale n’ayant encore été rendue publique.",
+  "mots_cles": [
+    "procureur",
+    "Inspection générale de la justice",
+    "Rassemblement national",
+    "Gérald Darmanin",
+    "Jean-Philippe Tanguy"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-25T11:06:23+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/French_Justice_Minister_G%C3%A9rald_Darmanin_in_2025_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "UK Home Office",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:French_Justice_Minister_G%C3%A9rald_Darmanin_in_2025_(cropped_2).jpg",
+    "legende": "27/03/25 Home Secretary Yvette Cooper, alongside colleagues from the Ministry of Justice, welcomed French Justice Minister Gérald Darmanin to strengthen our joint efforts in tackling organised crime a",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:French Justice Minister Gérald Darmanin in 2025 (cropped 2).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Présence d'un procureur au siège du RN : le député RN Jean-Philippe Tanguy juge l'affaire \"totalement insignifiante\"",
+      "url": "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-le-depute-rn-jean-philippe-tanguy-juge-l-affaire-totalement-insignifiante_8298999.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Procureur présent au siège du RN lors d’une perquisition : Gérald Darmanin annonce saisir l’inspection générale de la justice « pour faire toute la lumière »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/25/procureur-present-lors-d-une-perquisition-au-rn-gerald-darmanin-annonce-saisir-l-inspection-generale-de-la-justice-pour-faire-toute-la-lumiere_6815060_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

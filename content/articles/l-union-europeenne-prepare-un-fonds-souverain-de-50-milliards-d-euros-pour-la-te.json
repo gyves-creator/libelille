@@ -1,0 +1,38 @@
+{
+  "slug": "l-union-europeenne-prepare-un-fonds-souverain-de-50-milliards-d-euros-pour-la-te",
+  "titre": "L’Union européenne prépare un fonds souverain de 50 milliards d’euros pour la technologie quantique",
+  "chapeau": "Bruxelles projette de créer un fonds souverain de 50 milliards d’euros, mêlant capitaux publics et privés, afin de renforcer son autonomie technologique. Parallèlement, la Commission a présenté le Quantum Act, un plan destiné à accélérer l’industrialisation de l’informatique quantique.",
+  "corps": "## Un fonds souverain pour sécuriser l’indépendance technologique\nL’initiative annoncée prévoit la mise en place d’un fonds souverain d’une enveloppe de 50 milliards d’euros. Ce dispositif doit rassembler des ressources publiques et privées afin de soutenir le développement de technologies stratégiques, dont l’informatique quantique, et de consolider la sécurité économique du continent. L’objectif affiché est de réduire la dépendance vis‑à‑vis de fournisseurs extérieurs et de créer un écosystème capable de rivaliser à l’échelle mondiale.\n\n## Le Quantum Act : une feuille de route industrielle\nLe même jour, la Commission européenne a dévoilé le Quantum Act, un plan qui vise à transformer la recherche en applications industrielles concrètes. Cette législation ambitionne de faciliter le passage de la phase expérimentale de l’informatique quantique à son exploitation dans les secteurs manufacturier, pharmaceutique, financier et énergétique. En promettant des financements, des cadres réglementaires adaptés et un soutien à la formation, le texte cherche à accélérer le traitement de volumes de données supérieurs à ceux permis par l’informatique classique.\n\n## Contexte et enjeux européens\nL’Europe a déjà engagé plusieurs programmes pour soutenir l’innovation technologique, notamment via Horizon Europe et le European Chips Act, qui visent à renforcer la souveraineté dans les semi‑conducteurs. Le nouveau fonds souverain s’inscrit dans cette continuité, en ciblant spécifiquement les technologies de rupture comme le calcul quantique. La capacité de ces systèmes à résoudre des problèmes complexes, tels que la modélisation moléculaire ou l’optimisation logistique, est perçue comme un levier de compétitivité économique et de sécurité nationale.\n\n## Perspectives et prochaines étapes\nLe financement prévu devra encore être détaillé, notamment la part exacte attribuée aux capitaux publics et privés ainsi que les critères de sélection des projets bénéficiaires. La mise en œuvre du Quantum Act dépendra également de la capacité des États membres à harmoniser leurs législations et à mobiliser les acteurs industriels. Si ces conditions sont réunies, l’Union européenne pourrait ainsi disposer d’un cadre cohérent pour développer une industrie quantique souveraine, tout en consolidant son rôle sur la scène technologique internationale.",
+  "mots_cles": [
+    "fonds souverain",
+    "Union européenne",
+    "informatique quantique",
+    "Quantum Act",
+    "technologie"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-25T11:06:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Reuni%C3%B3n_con_Vicepresidenta_de_la_Comisi%C3%B3n_Europea_y_Alta_Representante_para_la_Pol%C3%ADtica_Exterior_y_de_Seguridad_de_la_UE_%286856953422%29.jpg/1280px-Reuni%C3%B3n_con_Vicepresidenta_de_la_Comisi%C3%B3n_Europea_y_Alta_Representante_para_la_Pol%C3%ADtica_Exterior_y_de_Seguridad_de_la_UE_%286856953422%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Cancillería Ecuador",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Reuni%C3%B3n_con_Vicepresidenta_de_la_Comisi%C3%B3n_Europea_y_Alta_Representante_para_la_Pol%C3%ADtica_Exterior_y_de_Seguridad_de_la_UE_(6856953422).jpg",
+    "legende": "Bruselas (Bélgica), 19 de Marzo 2012. En el Edificio Berlamont, de la Comisión Europea, el Canciller Ricardo Patiño se reunión con la Vicepresidenta de la Comisión Europea y Alta Representante para la",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Reunión con Vicepresidenta de la Comisión Europea y Alta Representante para la Política Exterior y de Seguridad de la UE (6856953422).jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "IA, informatique quantique… L’Union européenne veut lancer un fonds souverain de 50 milliards d’euros",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/ia-informatique-quantique-l-union-europeenne-veut-lancer-un-fonds-souverain-de-50-milliards-d-euros-20261125"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/25/l-union-europeenne-veut-se-doter-d-une-strategie-industrielle-sur-l-informatique-quantique_6815075_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
