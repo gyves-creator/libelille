@@ -327,5 +327,24 @@
     "titres_sources": [
       "Géorgie : pourquoi la France ne sanctionne pas l’oligarque Bidzina Ivanichvili"
     ]
+  },
+  {
+    "titre": "Violences contre élus en hausse de 25 % en 2026",
+    "texte": "Le ministère de l’Intérieur a indiqué que plus de 3 100 actes de violence contre des élus ont été recensés depuis le début de 2026, soit +25 %. L’agression du maire et de son fils dans la Vienne a relancé le débat sur durcissement des sanctions",
+    "rubrique": "politique",
+    "publie_le": "2026-11-25T17:57:05+00:00",
+    "titres_sources": [
+      "Violences sur des élus : plus de 3 100 faits comptabilisés depuis le début 2026, en hausse de 25 % par rapport à 2025, annonce Laurent Nuñez",
+      "Plus de 3 100 faits de violences sur des élus ont été recensés en 2026, un chiffre en hausse de 25% par rapport à 2025"
+    ]
+  },
+  {
+    "titre": "L'armée américaine prévoit de faire exploser 5 tonnes d'explosifs en Iowa",
+    "texte": "L'armée américaine envisagerait de faire exploser cinq tonnes d'explosifs instables dans l'Iowa à la veille de Thanksgiving, malgré des recours en justice et la crainte d'un nuage toxique de plomb. Cette opération à haut risque aurait suscité la panique dans l'État et les États voisins",
+    "rubrique": "tech",
+    "publie_le": "2026-11-25T17:57:05+00:00",
+    "titres_sources": [
+      "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?"
+    ]
   }
 ]
