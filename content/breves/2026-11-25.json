@@ -94,5 +94,24 @@
     "titres_sources": [
       "Elise Prodhomme et Lauriane Dolt, deux pionnières dans le basket masculin français"
     ]
+  },
+  {
+    "titre": "PSG vs AS Roma : Donyell Malen, atout majeur pour les Romains",
+    "texte": "Le Paris Saint-Germain accueille l'AS Rome au Parc des Princes le mercredi 25 novembre. L'attaquant de 27 ans, meilleur buteur des cinq grands championnats en 2026, pourrait menacer les Parisiens après son quadruple contre Parme.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-25T09:52:18+00:00",
+    "titres_sources": [
+      "PSG-AS Rome : Donyell Malen, le phénomène romain qui veut réduire au silence le Parc des Princes",
+      "Foot : Donyell Malen, le phénomène qui peut faire mal au PSG"
+    ]
+  },
+  {
+    "titre": "Boulanger propose le pack Philips Hue Entertainment 2027 à 169,99 €",
+    "texte": "Pendant le Black Friday, Boulanger propose le pack Philips Hue Entertainment 2027 à 169,99 euros, contre 299,99 euros habituellement. Ce kit synchronise les lampes connectées Hue avec le contenu affiché à l'écran.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-25T09:52:18+00:00",
+    "titres_sources": [
+      "Vous allez pouvoir reproduire l’éclairage de Vice City chez vous avec ce pack Philips Hue à prix cassé pour le Black Friday"
+    ]
   }
 ]
