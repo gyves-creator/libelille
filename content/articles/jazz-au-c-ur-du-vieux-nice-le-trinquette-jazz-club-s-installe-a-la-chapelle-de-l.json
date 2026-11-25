@@ -1,0 +1,38 @@
+{
+  "slug": "jazz-au-c-ur-du-vieux-nice-le-trinquette-jazz-club-s-installe-a-la-chapelle-de-l",
+  "titre": "Jazz au cœur du Vieux‑Nice : le Trinquette Jazz Club s’installe à la chapelle de la Providence le 5 décembre",
+  "chapeau": "Le Trinquette Jazz Club, en partenariat avec la Fondation de Cessole, transforme la chapelle de la Providence en scène de jazz pour une soirée exceptionnelle. Le concert, prévu le samedi 5 décembre, met à l’honneur la chanteuse niçoise Cathy Palvair et son quartet.",
+  "corps": "## Une soirée jazz dans un lieu historique\nLe samedi 5 décembre, la chapelle de la Providence, située dans le Vieux‑Nice, ouvrira ses portes à un public amateur de musique. L’événement, organisé conjointement par le Trinquette Jazz Club et la Fondation de Cessole, propose de faire revivre cet édifice religieux en le convertissant temporairement en salle de concert. L’initiative s’inscrit dans une démarche de valorisation du patrimoine local en y associant une programmation musicale de qualité.\n\n## Un programme dédié aux standards revisités\nAu programme, la chanteuse niçoise Cathy Palvair animera la soirée, accompagnée de son quartet. Le répertoire sera centré sur des standards du jazz, réinterprétés selon une approche contemporaine. Cette orientation artistique vise à offrir aux spectateurs une expérience à la fois familière et renouvelée, tout en mettant en lumière le talent des musiciens locaux.\n\n## Impacts pour les habitants et informations pratiques\nAucun changement majeur de circulation ou de transports en commun n’est annoncé pour la soirée. Les habitants du quartier peuvent donc profiter de l’événement sans contrainte particulière. Pour ceux qui souhaitent se renseigner davantage sur les modalités d’accès ou les éventuelles réservations, les informations complémentaires sont disponibles sur le site officiel de la mairie de Nice.\n\nCette initiative culturelle illustre la volonté des acteurs locaux de dynamiser le Vieux‑Nice en proposant des activités artistiques accessibles à tous. Elle offre également aux résidents une occasion de découvrir ou redécouvrir un lieu historique sous un éclairage inédit, renforçant ainsi le lien entre patrimoine et vie contemporaine.",
+  "mots_cles": [
+    "Nice",
+    "jazz",
+    "chapelle de la Providence",
+    "Cathy Palvair",
+    "Trinquette Jazz Club"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-25T15:17:37+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Nizza-Chapelle-de-la-Visitation-de-Nice-4081258.jpg/1280px-Nizza-Chapelle-de-la-Visitation-de-Nice-4081258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ermell",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nizza-Chapelle-de-la-Visitation-de-Nice-4081258.jpg",
+    "legende": "Rue de la Providence in Nice",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nizza-Chapelle-de-la-Visitation-de-Nice-4081258.jpg"
+  },
+  "sources": [
+    {
+      "media": "Derniers articles",
+      "titre": "Le Trinquette jazz club s’installe dans la chapelle de la Providence, dans le Vieux-Nice, le temps d’une soirée",
+      "url": "https://www.nicematin.com/culture/concerts/le-trinquette-jazz-club-s-installe-dans-la-chapelle-de-la-providence-dans-le-vieux-nice-le-temps-d-une-soiree-10758647"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Le Trinquette jazz club s’installe dans la chapelle de la Providence, dans le Vieux-Nice, le temps d’une soirée",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTWd5SjBNTlExaHFycmdBV1A2YXRGMURfdDFxVFZYWnFsTm55VFE3RmNrczNKTXpKT2dGWXU1ajBNUEtiMzFxVzQ4eVpDSTJqRWNiZDlsWkNaRUJEcWVSdTdxZVdpSm82MEpZOEhBM21DbmQ2QmIzVFZFc2lXcEtuOW11eTBzd2NSSVBEZmV0alhLc0dNcGZHSHFxcWo0cFpOVXBjMVE3TU1aUFcwWlc4QjYxZG50YnNWLUQ0elhnLVpLR21DNnZveDI4bDNILXgzcF9aaUhBbmpPRG41TmJXUkFVR1NESl91VjhEMGtRd2NCV2c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

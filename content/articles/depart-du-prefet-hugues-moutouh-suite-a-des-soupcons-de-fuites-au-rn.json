@@ -1,0 +1,43 @@
+{
+  "slug": "depart-du-prefet-hugues-moutouh-suite-a-des-soupcons-de-fuites-au-rn",
+  "titre": "Départ du préfet Hugues Moutouh suite à des soupçons de fuites au RN",
+  "chapeau": "Le préfet de la région Centre-Val de Loire et du Loiret, Hugues Moutouh, a été démis de ses fonctions après l’ouverture d’une enquête sur des fuites d’informations confidentielles. Il est remplacé par le préfet Pierre Ory, actuel préfet de Seine-et-Marne.",
+  "corps": "## Démission et remplacement\nLe haut fonctionnaire Hugues Moutouh, à la tête du secrétariat général du ministère de l’Intérieur à l’époque des faits, a demandé à être relevé de ses fonctions dès l’ouverture d’une enquête portant sur d’éventuelles fuites d’éléments judiciaires concernant le Rassemblement national. Le Conseil des ministres a acté sa destitution mercredi, et le préfet de Seine-et-Marne, Pierre Ory, a été nommé à sa place.\n\n## Contexte de l’enquête\nLes investigations portent sur la possible transmission d’informations confidentielles provenant du ministère de l’Intérieur vers le parti d’extrême droite. Les faits reprochés à Moutouh concernent des éléments judiciaires liés à des enquêtes en cours, dont la diffusion aurait pu compromettre les procédures. Aucun détail supplémentaire n’a été communiqué sur la nature exacte des documents ou sur les personnes impliquées.\n\n## Réactions du préfet démis\nDans une déclaration, le préfet Moutouh a indiqué porter plainte « contre X pour violation et recel du secret de l’enquête et pour complicité ». Il a également qualifié les faits de « une opération de nature politique », laissant entendre que des motivations partisanes auraient pu être à l’œuvre. Aucun élément supplémentaire n’a été fourni quant à l’identité de la personne visée ou aux suites de la plainte.\n\n## Suivi de la procédure\nL’enquête, initiée par le ministère de l’Intérieur, reste en cours et les autorités n’ont pas encore indiqué si d’autres hauts fonctionnaires pourraient être concernés. Le remplacement de Moutouh par Pierre Ory vise à assurer la continuité de l’administration préfectorale dans la région Centre-Val de Loire et le Loiret. Le gouvernement n’a pas commenté davantage les implications politiques de l’affaire.",
+  "mots_cles": [
+    "préfecture",
+    "fuites d'informations",
+    "Rassemblement national",
+    "enquête judiciaire",
+    "départ du préfet"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-25T15:17:31+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Plaque_banc_h%C3%A9micycle_Assembl%C3%A9e_nationale_Rachel_Lempereur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Chris93",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Plaque_banc_h%C3%A9micycle_Assembl%C3%A9e_nationale_Rachel_Lempereur.jpg",
+    "legende": "Plaque commémorative apposée sur le banc autrefois occupé par Rachel Lempereur dans l'hémicycle de l'Assemblée nationale.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Plaque banc hémicycle Assemblée nationale Rachel Lempereur.jpg"
+  },
+  "sources": [
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Suspicion de fuites vers le RN : le prefet Hugues Moutouh démis de ses fonctions",
+      "url": "https://www.france24.com/fr/france/20261125-suspicion-de-fuites-vers-le-rn-le-prefet-hugues-moutouh-d%C3%A9mis-de-ses-fonctions"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "Enquête sur des soupçons de fuites vers le RN : Hugues Moutouh a été officiellement démis de ses fonctions et remplacé par le préfet Pierre Ory",
+      "url": "https://www.franceinfo.fr/politique/front-national/enquete-sur-des-soupcons-de-fuites-vers-le-rn-hugues-moutouh-a-ete-officiellement-demis-de-ses-fonctions-remplace-par-le-prefet-pierre-ory_8299428.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a été démis de ses fonctions en conseil des ministres",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-ete-demis-de-ses-fonctions-en-conseil-des-ministres_6815089_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

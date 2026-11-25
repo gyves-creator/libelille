@@ -1,0 +1,42 @@
+{
+  "slug": "david-lisnard-reelu-a-la-tete-de-l-association-des-maires-de-france",
+  "titre": "David Lisnard réélu à la tête de l'Association des maires de France",
+  "chapeau": "Le maire de Cannes, candidat à l’élection présidentielle de 2027, a été réélu président de l’Association des maires de France avec une large majorité. Cette victoire suscite des débats sur la compatibilité entre une campagne nationale et la direction d’une organisation représentant l’ensemble des collectivités locales.",
+  "corps": "## Une victoire écrasante à l'AMF\nLe maire de Cannes a annoncé sa réélection sur le réseau social X, qualifiant le résultat de « magnifique résultat ». Selon les chiffres communiqués, il aurait recueilli 72 % des suffrages exprimés, ce qui lui assure un troisième mandat à la tête de l’Association des maires de France (AMF). Il a notamment battu Philippe Laurent, maire de Sceaux, qui se présentait comme candidat du centre. Le scrutin, qui a eu lieu ce mercredi, a été présenté comme un « record de participation depuis 1989 » par les observateurs de l’élection.\n\n## Débats sur la double fonction\nLe fait que le même homme soit à la fois candidat à la présidence et président d’une organisation nationale de collectivités locales soulève des interrogations. Le politologue Olivier Rouquan, intervenant dans « La Matinale », a rappelé que « c’est peut-être problématique d’avoir le président d’une association de tous les maires de France qui est candidat très marqué dans une présidentielle ». Il a ajouté qu’une éventuelle défaite pourrait être perçue comme un signal de défiance de la part des maires, tandis qu’une victoire représenterait « un revers de la médaille ».\n\n## Positionnements politiques\nDavid Lisnard se présente comme le candidat du parti libéral Nouvelle Energie. Certaines analyses mentionnent qu’il serait rapproché d’Édouard Philippe, leader du parti Horizons, favori du bloc central, et qu’il serait soupçonné de se rapprocher de l’extrême droite. Ces informations proviennent des précisions de Flore Simon, chroniqueuse internationale, et de Karim Yahiaoui, journaliste, qui soulignent les jeux d’alliance au sein du paysage politique.\n\n## Contexte institutionnel\nL’Association des maires de France regroupe les élus locaux et joue un rôle de porte‑voix des collectivités territoriales. La réélection d’un candidat à la présidence de la République à la tête de cette association est inhabituelle et pourrait influencer la perception de l’indépendance de l’organe vis‑à‑vis des projets de campagne. Les observateurs attendent de voir comment les deux mandats seront conciliés dans les mois à venir, notamment en ce qui concerne les priorités locales et les programmes nationaux.",
+  "mots_cles": [
+    "David Lisnard",
+    "Association des maires de France",
+    "présidentielle 2027",
+    "élection AMF"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-25T15:17:25+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/David_Lisnard_-_2013.jpg/1280px-David_Lisnard_-_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Frantogian",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Lisnard_-_2013.jpg",
+    "legende": "David Lisnard at the commemoration of Lycée Carnot's centenary, in Cannes.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:David Lisnard - 2013.jpg"
+  },
+  "sources": [
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "David Lisnard à la tête des Maires de France : \"un record de participation depuis 1989\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261125-david-lisnard-%C3%A0-la-t%C3%AAte-des-maires-de-france-un-record-de-participation-depuis-1989"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"C'est le fruit de la mobilisation d'une France de terrain\" : David Lisnard, candidat à la présidentielle, est réélu à la tête de l'Association des maires de France",
+      "url": "https://www.franceinfo.fr/politique/david-lisnard/c-est-le-fruit-de-la-mobilisation-d-une-france-de-terrain-david-lisnard-candidat-a-la-presidentielle-est-reelu-a-la-tete-de-l-association-des-maires-de-france_8299698.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "David Lisnard, candidat à l’élection présidentielle, réélu à la tête de l’Association des maires de France",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/david-lisnard-candidat-a-l-election-presidentielle-reelu-a-la-tete-de-l-association-des-maires-de-france_6815094_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -230,5 +230,25 @@
       "Patrick Bruel visé par une nouvelle plainte pour viol",
       "Patrick Bruel visé par une nouvelle plainte pour un viol remontant à 2006, en marge d'un concert des Enfoirés"
     ]
+  },
+  {
+    "titre": "Coût de 16 800 € pour quitter un conjoint violent",
+    "texte": "Une étude de la Fondation des Femmes, publiée le 24 novembre, estime que les frais de logement, de soins et d’avocat peuvent atteindre 16 800 € trois mois. En 2025, 111 femmes ont été tuées par leur conjoint, dont 41 avaient signalé des violences aux forces de l’ordre.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-25T15:17:54+00:00",
+    "titres_sources": [
+      "Violences conjugales : quitter son conjoint coûterait jusqu'à 16 800 €",
+      "Violences conjugales : l'extrême difficulté de quitter un proche violent"
+    ]
+  },
+  {
+    "titre": "BYD négocie l’achat d’une usine à Hambach pour produire des VE",
+    "texte": "Le constructeur chinois BYD négocie l’achat du site d’Ineos à Hambach, Moselle, pour y installer sa première usine de voitures électriques en Europe de l’Ouest. Le ministre délégué à l’industrie, Sébastien Martin, juge l’opération bénéfique pour l’emploi, tandis que des constructeurs français expriment des réserves.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-25T15:17:54+00:00",
+    "titres_sources": [
+      "L'arrivée d'une usine BYD en France \"va dans le bon sens\", juge Sébastien Martin",
+      "La marque de voitures chinoises BYD veut produire en France"
+    ]
   }
 ]
