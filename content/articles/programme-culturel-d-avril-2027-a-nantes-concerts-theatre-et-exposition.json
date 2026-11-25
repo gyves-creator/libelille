@@ -1,0 +1,33 @@
+{
+  "slug": "programme-culturel-d-avril-2027-a-nantes-concerts-theatre-et-exposition",
+  "titre": "Programme culturel d’avril 2027 à Nantes : concerts, théâtre et exposition",
+  "chapeau": "Une série d'événements culturels est prévue à Nantes au début du mois d'avril 2027. Concerts, pièces de théâtre et exposition seront proposés dans plusieurs lieux emblématiques de la ville.",
+  "corps": "## Scènes musicales et théâtrales\nNantes accueillera plusieurs représentations au cours des premiers jours d’avril. Le Conservatoire de Nantes ouvrira ses portes le 3 avril avec la programmation « Carte blanche danse », tandis que l’Auditorium du même établissement proposera le 1er avril le *Stabat Mater* de Pergolèse. Ces deux manifestations s’inscrivent dans la dynamique artistique du conservatoire, qui propose régulièrement des concerts et des spectacles de danse au public local.\n\nParallèlement, le Théâtre de Jeanne présentera le 1er avril la comédie intitulée *« La maîtresse de mon fils »*. Le même jour, le Théâtre 100 Noms accueillera la représentation du *LE ROI BORGNE « La vie ou la mort ? »*. Enfin, le 29 mars, le Théâtre 100 Noms diffusera le spectacle *WALY DIA*. Ces productions offrent aux habitants un accès à des pièces contemporaines et à des créations originales, dans des salles de taille moyenne situées en centre-ville.\n\n## Exposition pour les jeunes\nLe Musée d’arts de Nantes ouvrira le 4 avril une exposition intitulée *« En mode paysage (5/7 ans) »*, destinée aux enfants de cinq à sept ans. Cette initiative vise à familiariser les plus jeunes avec les pratiques artistiques contemporaines, en proposant des installations interactives et des ateliers adaptés à leur âge.\n\n## Informations pratiques\nTous les événements cités se déroulent dans des établissements culturels situés au cœur de Nantes, accessibles en transports en commun et à pied depuis le centre. Les horaires détaillés, les tarifs d’entrée et les éventuelles réservations sont disponibles sur le site officiel de la ville de Nantes, dans la rubrique « agenda culturel ». Les habitants souhaitant se renseigner davantage peuvent également consulter la plateforme en ligne du ministère de la Culture ou contacter directement les lieux concernés via leurs sites internet respectifs.",
+  "mots_cles": [
+    "Nantes",
+    "culture",
+    "avril 2027",
+    "spectacles",
+    "exposition"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-25T13:31:59+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Nantes_Conservatory.jpg/1280px-Nantes_Conservatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kalepom",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_Conservatory.jpg",
+    "legende": "Nantes Conservatory",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes Conservatory.jpg"
+  },
+  "sources": [
+    {
+      "media": "Unidivers",
+      "titre": "Carte blanche danse, Conservatoire de Nantes, Nantes – 3 avril 2027",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzhmdWRxU1Fha2JDd3lXTXpsSTNhbFowZG5oUmZocVdUWGowc21USEY0WFVLakFlV1BlR1FNVFZEVnhoeGpCbGtyODBfY0dFdlE4SUl3YUdPUnFDVjZIUHZaYmVBMndzOUtiWnVpelRMYTN3LUhoSkZVVXRtdkJsclREeVNveWxfbTI5dU5QdXlIVnFJbmc0eGNYRV9qeUdYSGc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

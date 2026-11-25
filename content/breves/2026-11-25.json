@@ -191,5 +191,24 @@
     "titres_sources": [
       "REPORTAGE. Les calendriers de matchs surchargés sont de plus en plus critiqués par les footballeurs dont les blessures se multiplient"
     ]
+  },
+  {
+    "titre": "Rémy Cointreau prévoit de réduire ses effectifs de 12 à 15 %",
+    "texte": "Le groupe Rémy Cointreau annonce une réduction de ses effectifs de 12 à 15 %, soit jusqu’à 14 % en France et 16 % à l’international, afin d’ajuster les frais généraux à la taille de l’entreprise. Cette mesure sera mise en œuvre selon les documents publiés.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-25T13:32:09+00:00",
+    "titres_sources": [
+      "Le groupe de spiritueux Rémy Cointreau veut réduire ses effectifs de 12% à 15%",
+      "Le géant des spiritueux Rémy Cointreau souhaite réduire de 12% à 15% ses effectifs"
+    ]
+  },
+  {
+    "titre": "Près d’un salarié sur deux travaille malgré la maladie",
+    "texte": "Une étude révèle que près d’un salarié sur deux continue à travailler malgré un problème de santé, redoutant une perte de salaire, une surcharge de travail ou de pénaliser ses collègues. Ces craintes freinent l’arrêt maladie.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-25T13:32:09+00:00",
+    "titres_sources": [
+      "Arrêts maladie : près d’un salarié sur deux préfère continuer à travailler malgré son état de santé, selon une étude"
+    ]
   }
 ]
