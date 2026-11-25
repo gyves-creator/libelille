@@ -1,0 +1,21 @@
+[
+  {
+    "titre": "Deux ouvrages nominés au prix Penser le travail 2026",
+    "texte": "Le journaliste Clément Pouré et la sociologue Marion Flécher ont vu leurs ouvrages respectifs, consacrés à la surveillance technologique et aux contradictions des start‑up, nommés au prix Penser le travail 2026. La sélection, organisée par Sciences Po, souligne l’intérêt porté aux transformations du travail.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-25T05:19:49+00:00",
+    "titres_sources": [
+      "« Les Nouveaux Contremaîtres » : quand la surveillance dégrade le travail",
+      "« Le Monde des start-up » : plongée dans les contradictions des jeunes pousses"
+    ]
+  },
+  {
+    "titre": "Nouvelle‑Zélande mise sur la recherche pour réduire le méthane bovin",
+    "texte": "Les autorités néo‑zélandaises, après avoir renoncé à une taxe, misent sur la technologie pour réduire le méthane du bétail. Dans un pays où 53 % des émissions de gaz à effet de serre proviennent de l’agriculture, la recherche cible des animaux à faible émission de méthane.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T05:19:49+00:00",
+    "titres_sources": [
+      "Pour réduire les émissions de méthane de son bétail, la Nouvelle-Zélande s’en remet entièrement à la technologie"
+    ]
+  }
+]

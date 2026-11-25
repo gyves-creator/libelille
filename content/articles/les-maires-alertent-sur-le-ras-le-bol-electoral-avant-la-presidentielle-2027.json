@@ -1,0 +1,33 @@
+{
+  "slug": "les-maires-alertent-sur-le-ras-le-bol-electoral-avant-la-presidentielle-2027",
+  "titre": "Les maires alertent sur le ras‑le‑bol électoral avant la présidentielle 2027",
+  "chapeau": "Lors du congrès de l’Association des maires de France, ouvert à Paris le 24 novembre 2026, de nombreux élus locaux ont exprimé leur inquiétude face à la désaffection générale des électeurs. Ils ont mis en garde contre le risque que la détresse sociale profite au Rassemblement national lors de la campagne présidentielle de 2027.",
+  "corps": "## Inquiétudes exprimées par les élus locaux\nLe congrès de l’Association des maires de France s’est tenu à Paris le mardi 24 novembre 2026. Au cours des débats, plusieurs maires ont fait part de leur émotion face à la situation sociale actuelle, décrivant un \"ras‑le‑bol général\" parmi les habitants de leurs communes. Selon le compte‑ rendu du congrès, les élus craignent que la précarité et le sentiment d’abandon se traduisent par un appui accru aux formations politiques proposant des réponses simplistes aux problèmes économiques et sécuritaires.\n\n## Implications pour la campagne présidentielle de 2027\nCes déclarations interviennent alors que la prochaine élection présidentielle, prévue en 2027, approche. Les partis en lice devront prendre en compte le climat de mécontentement signalé par les maires, qui constituent une couche importante de la représentation territoriale et sont en contact direct avec les citoyens. Le Rassemblement national, mentionné comme susceptible de tirer profit de la détresse évoquée, devra quant à lui justifier ses positions face à un électorat potentiellement plus sensible aux promesses de changement.\n\n## Le rôle des collectivités locales dans le débat national\nL’Association des maires de France regroupe les élus de milliers de communes, ce qui confère à ses prises de parole une portée nationale. Les préoccupations exprimées lors de ce congrès soulignent l’importance pour les candidats de proposer des mesures concrètes en matière de cohésion sociale, d’emploi et de services publics. Le dialogue entre les acteurs locaux et les forces politiques nationales reste un élément clé pour répondre aux attentes d’une population qui, selon les maires, manifeste un ras‑le‑bol généralisé.\n\nLes observateurs rappellent que les modalités d’inscription sur les listes électorales et les conditions de vote sont détaillées sur le site officiel du service public.",
+  "mots_cles": [
+    "présidentielle 2027",
+    "maires",
+    "Rassemblement national",
+    "désaffection électorale",
+    "Association des maires de France"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-25T05:19:39+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo-amf-bas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Association des maires de France et des présidents d'intercommunalité",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Logo-amf-bas.png",
+    "legende": "logo de l'AMF",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Logo-amf-bas.png"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

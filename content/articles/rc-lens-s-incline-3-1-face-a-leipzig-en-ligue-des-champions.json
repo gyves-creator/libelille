@@ -1,0 +1,38 @@
+{
+  "slug": "rc-lens-s-incline-3-1-face-a-leipzig-en-ligue-des-champions",
+  "titre": "RC Lens s’incline 3-1 face à Leipzig en Ligue des champions",
+  "chapeau": "Le RC Lens a subi une nouvelle défaite 3-1 face au RB Leipzig lors de la cinquième journée de la Ligue des champions. La rencontre, qui s’est déroulée mardi soir en Allemagne, a confirmé la quatrième perte du club français dans la compétition.",
+  "corps": "## Une soirée difficile à Leipzig\n\nLors de la cinquième journée du groupe, le RC Lens a été battu 3-1 par le RB Leipzig sur la pelouse allemande. Le résultat vient s’ajouter aux trois revers déjà enregistrés par les Sang et Or dans la phase de groupes, portant ainsi leur total à quatre défaites consécutives. Malgré un début de match jugé « raté », les Artésiens ont montré des signes d’amélioration au cours de la rencontre, sans toutefois parvenir à obtenir le point recherché.\n\n## Les réactions des joueurs\n\nAprès le coup de sifflet final, l’attaquant Florian Thauvin a été aperçu très fermé devant les caméras de Canal+. Dans une courte séquence vidéo, il a déclaré être fatigué, répondant par un « oui » lorsqu’on lui a demandé s’il ressentait la même chose que le reste de l’équipe. De son côté, le défenseur Matthieu Udol a souligné que le groupe allait retenir le caractère affiché durant le match, insistant sur la volonté de rebondir après la défaite.\n\n## Analyse du déroulement du match\n\nLe score de 3-1 reflète une domination partielle de Leipzig, qui a su concrétiser davantage d’occasions que les Lensois. Les Artésiens, pourtant plus organisés dans la seconde période, n’ont pas réussi à transformer leurs efforts en buts décisifs. La combinaison d’une entame difficile et d’une défense allemande solide a limité les possibilités de Lens, qui a quitté le terrain sans point.\n\n## Perspectives pour la suite du groupe\n\nCette quatrième défaite place le RC Lens dans une position délicate pour la suite de la phase de groupes. Le club devra compter sur les prochains matchs pour espérer renverser la tendance et récupérer des points afin de rester compétitif. Les propos d’Udol, qui évoquent le caractère de l’équipe, suggèrent une volonté de corriger les faiblesses observées à Leipzig et de tirer les leçons de cette soirée difficile.",
+  "mots_cles": [
+    "Ligue des champions",
+    "RC Lens",
+    "RB Leipzig",
+    "défaite",
+    "football"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-25T05:19:44+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/RC_Lens_-_AS_B%C3%A9ziers_%2804-01-2019%29_16.jpg/1280px-RC_Lens_-_AS_B%C3%A9ziers_%2804-01-2019%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Supporterhéninois",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:RC_Lens_-_AS_B%C3%A9ziers_(04-01-2019)_16.jpg",
+    "legende": "Simon Gbegnon avant le match RC Lens / AS Béziers, comptant pour la 23ème journée du championnat de France de football de Ligue 2 2018-2019, le 4 février 2019, au Stade Bollaert-Delelis.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:RC Lens - AS Béziers (04-01-2019) 16.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Ligue des champions : «Je suis fatigué», «oui»… En vidéo, l’attitude invraisemblable de Florian Thauvin après la défaite à Leipzig",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-je-suis-fatigue-oui-en-video-l-attitude-invraisemblable-de-florian-thauvin-apres-la-defaite-a-leipzig-20261124"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Plombé par une entame ratée, Lens s'incline à Leipzig et enchaîne une quatrième défaite en Ligue des champions",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/plombe-par-une-entame-ratee-lens-s-incline-a-leipzig-et-enchaine-une-quatrieme-defaite-en-ligue-des-champions_8298393.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
