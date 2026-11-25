@@ -270,5 +270,25 @@
       "Rugby : couronné en France mais absent de la scène internationale, Jack Willis élu meilleur joueur du monde par un magazine de référence",
       "L'officieux classement d'un magazine de rugby de référence choisit Jack Willis comme meilleur joueur du monde"
     ]
+  },
+  {
+    "titre": "500 000 à 700 000 pertes russes en Ukraine, Kremlin muet",
+    "texte": "Des groupes de hackers, à partir de données piratées de statistiques de début novembre, estiment les pertes russes entre 500 000 et 700 000 soldats. Le porte‑parole du Kremlin, Dmitri Peskov, précise que seul le ministère de la Défense peut publier ces données et refuse tout commentaire.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T16:28:21+00:00",
+    "titres_sources": [
+      "Guerre en Ukraine : le nombre de pertes russes estimé à 700 000, le Kremlin refuse de commenter",
+      "EN DIRECT, guerre en Ukraine : le Kremlin refuse de commenter le bilan estimé de 500 000 à 700 000 soldats russes tués en Ukraine"
+    ]
+  },
+  {
+    "titre": "Lecornu prône compromis budgétaire, vise déficit 5 % pour 2027",
+    "texte": "Le ministre de l'Économie exclut toute volonté de passage en force et demande un compromis pour l'adoption du budget 2027. Il vise un déficit de 5 % au lieu de 5,4 % en 2026 et pourrait recourir à l'article 49.3 plutôt qu'aux ordonnances.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-25T16:28:21+00:00",
+    "titres_sources": [
+      "Budget : Sébastien Lecornu assure qu’il n’a pas de « volonté de passage en force », et appelle au « compromis »",
+      "Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027"
+    ]
   }
 ]

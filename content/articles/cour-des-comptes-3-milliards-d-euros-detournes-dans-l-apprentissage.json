@@ -1,0 +1,38 @@
+{
+  "slug": "cour-des-comptes-3-milliards-d-euros-detournes-dans-l-apprentissage",
+  "titre": "Cour des comptes : 3 milliards d’euros détournés dans l’apprentissage",
+  "chapeau": "Le rapport de la Cour des comptes révèle que les fraudes et abus liés aux aides à l’apprentissage pourraient atteindre trois milliards d’euros. Il souligne notamment des dérives comme les apprentis fictifs, les employeurs douteux et la création d’entreprises factices.",
+  "corps": "## Un montant estimé à plusieurs milliards\nLe dernier rapport de la Cour des comptes indique que les irrégularités dans le dispositif d’apprentissage pourraient représenter jusqu’à trois milliards d’euros de fonds publics détournés. Cette somme englobe les subventions versées à des structures qui n’ont pas réellement employé d’apprentis, ainsi que les aides perçues par des entreprises inexistantes créées dans le but de profiter du dispositif.\n\n## Des pratiques variées et des contrôles insuffisants\nParmi les mécanismes identifiés, on retrouve la mise en place d’apprentis fictifs, des contrats signés sans qu’un véritable maître d’apprentissage ne soit présent, ainsi que le dépassement du nombre d’apprentis qu’un même maître peut encadrer. La Cour qualifie la situation de « faille systémique » dans les procédures de contrôle, soulignant l’absence de vérifications suffisantes au moment de l’attribution des aides.\n\n## Une proportion importante du budget en jeu\nLe rapport estime que la part du budget national consacré à la formation en apprentissage exposée à ces risques se situe entre 10 % et 20 % du total des dépenses publiques affectées à ce secteur. Cette fourchette, bien que indicative, montre l’ampleur potentielle des pertes pour l’État.\n\n## Réactions institutionnelles et perspectives\nLes magistrats de la Cour des comptes, réunis à la rue Cambon, ont rappelé que le financement de l’apprentissage a connu une hausse significative ces dernières années, ce qui aurait pu accentuer les vulnérabilités du système. Aucun dispositif correctif concret n’est détaillé dans le texte, mais le rapport appelle à un renforcement des contrôles et à une meilleure traçabilité des contrats afin de limiter les dérives futures.",
+  "mots_cles": [
+    "apprentissage",
+    "fraude",
+    "Cour des comptes",
+    "subventions",
+    "abus"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-25T16:27:53+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cour_des_Comptes_0301.jpg/1280px-Cour_des_Comptes_0301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "William Jexpire",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cour_des_Comptes_0301.jpg",
+    "legende": "Panneau Histoire de Paris",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Cour des Comptes 0301.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Éco / Conso",
+      "titre": "Fraude à l'apprentissage : jusqu’à 3 milliards d'euros détournés selon la Cour des comptes",
+      "url": "https://www.franceinfo.fr/societe/education/fraude-a-l-apprentissage-jusqu-a-3-milliards-d-euros-detournes-selon-la-cour-des-comptes_8299800.html#xtor=RSS-3-%5Beconomie%5D"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Les aides à l’apprentissage font l’objet de nombreux abus et fraudes, selon la Cour des comptes",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/les-aides-a-l-apprentissage-font-l-objet-de-nombreux-abus-et-fraudes-selon-la-cour-des-comptes_6815092_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
