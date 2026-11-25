@@ -250,5 +250,25 @@
       "L'arrivée d'une usine BYD en France \"va dans le bon sens\", juge Sébastien Martin",
       "La marque de voitures chinoises BYD veut produire en France"
     ]
+  },
+  {
+    "titre": "Présidentielle 2027 : 38 candidats recensés, conditions d’accès au scrutin",
+    "texte": "Selon le site officiel du gouvernement, 38 candidats seraient recensés à la mi-novembre. Ils devraient réunir cinq cents parrainages d’élus pour pouvoir se présenter au premier tour.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-25T15:40:46+00:00",
+    "titres_sources": [
+      "Présidentielle 2027 : près de 40 candidats au départ, combien au premier tour ?",
+      "Présidentielle 2027 : quelles sont les prochaines étapes pour les 38 candidats à l'Élysée ?"
+    ]
+  },
+  {
+    "titre": "Jack Willis élu meilleur joueur du monde",
+    "texte": "Une revue spécialisée aurait désigné Jack Willis, troisième ligne du Stade Toulousain, comme meilleur joueur mondial. Il devance le Sud-Africain Malcolm Marx et le Néo-Zélandais Ardie Savea dans ce classement.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-25T15:40:46+00:00",
+    "titres_sources": [
+      "Rugby : couronné en France mais absent de la scène internationale, Jack Willis élu meilleur joueur du monde par un magazine de référence",
+      "L'officieux classement d'un magazine de rugby de référence choisit Jack Willis comme meilleur joueur du monde"
+    ]
   }
 ]
