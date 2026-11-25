@@ -17,5 +17,25 @@
     "titres_sources": [
       "Pour réduire les émissions de méthane de son bétail, la Nouvelle-Zélande s’en remet entièrement à la technologie"
     ]
+  },
+  {
+    "titre": "Deux militaires libyens meurent après des frappes ukrainiennes à Benghazi",
+    "texte": "Deux soldats libyens sont décédés des suites de leurs blessures après que des navires russes aient été attaqués près de la base navale de Benghazi, opération revendiquée par le président ukrainien. Le commandant adjoint Saddam Haftar a qualifié l’action d’« attaque criminelle ».",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T06:39:27+00:00",
+    "titres_sources": [
+      "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye",
+      "EN DIRECT, guerre en Ukraine : deux militaires libyens succombent à leurs blessures après les frappes revendiquées par Kiev contre des navires russes à Benghazi",
+      "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi"
+    ]
+  },
+  {
+    "titre": "Sanofi prépare son plus grand rachat, une biotech américaine pour 41 milliards $",
+    "texte": "Le groupe pharmaceutique français Sanofi prévoit d’acquérir une société de biotechnologie basée aux États-Unis pour environ 41 milliards de dollars, marquant ainsi l’opération la plus importante de son histoire. Cette transaction renforcera sa présence internationale.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-25T06:39:27+00:00",
+    "titres_sources": [
+      "Le groupe pharmaceutique Sanofi s'apprête à réaliser la plus grosse acquisition de son histoire"
+    ]
   }
 ]
