@@ -438,5 +438,24 @@
     "titres_sources": [
       "Des espions chinois se sont-ils fait passer pour des touristes dans un village de Gironde ?"
     ]
+  },
+  {
+    "titre": "Assises de Chambéry : l'ex-mari de Karen Baldi jugé pour meurtre",
+    "texte": "L'ex-mari de Karen Baldi, Georges Damiano, comparaît aux assises de Chambéry pour le meurtre de la policière de 42 ans, tuée à coups de machette sous les yeux de son fils de trois ans. Il a reconnu l'acte mais nie toute intention de tuer.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-25T21:04:44+00:00",
+    "titres_sources": [
+      "Féminicide de Karen Baldi : les proches attendent des réponses de son ex-mari",
+      "Assassinée à coup de machette devant son fils"
+    ]
+  },
+  {
+    "titre": "Galthié insiste sur l'unité avant la finale du Nations",
+    "texte": "Le sélectionneur français Fabien Galthié a déclaré que les idées existent, mais que la victoire dépendra d'une mobilisation totale de l'équipe. Il se dit prêt à affronter les douze meilleures nations lors de la finale à Londres.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-25T21:04:44+00:00",
+    "titres_sources": [
+      "France-Afrique du Sud : «On a des idées mais pour gagner, il faut qu’on mette tout», prévient Fabien Galthié"
+    ]
   }
 ]
