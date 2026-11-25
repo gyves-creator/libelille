@@ -135,5 +135,24 @@
       "franceinfo au Congrès des maires : les équations difficiles de la fiscalité locale",
       "franceinfo au Congrès des maires : faut-il armer les polices municipales ?"
     ]
+  },
+  {
+    "titre": "Saisie de plus de 3 tonnes de méthamphétamine par la Marine française",
+    "texte": "La marine nationale a intercepté un navire sans pavillon dans l'océan Pacifique et a saisi plus de trois tonnes de méthamphétamine. Cette opération porte à plus de 15 tonnes le total des stupéfiants confisqués par les forces armées depuis le début de l'année.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-25T11:39:01+00:00",
+    "titres_sources": [
+      "La Marine française saisit plus de 3 tonnes de méthamphétamine dans le Pacifique",
+      "Plus de trois tonnes de méthamphétamine : l'impressionnante saisie de l'armée française au large du Pacifique"
+    ]
+  },
+  {
+    "titre": "Le préfet Hugues Moutouh démis de ses fonctions",
+    "texte": "Le conseil des ministres a démis Hugues Moutouh de ses fonctions de préfet, suite aux soupçons de fuites d’informations confidentielles vers le Rassemblement national. Pierre Ory, préfet de Seine-et-Marne, le remplace à ce poste.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-25T11:39:01+00:00",
+    "titres_sources": [
+      "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a été démis de ses fonctions en conseil des ministres"
+    ]
   }
 ]
