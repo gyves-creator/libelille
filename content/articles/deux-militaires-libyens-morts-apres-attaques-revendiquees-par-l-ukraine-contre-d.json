@@ -1,0 +1,43 @@
+{
+  "slug": "deux-militaires-libyens-morts-apres-attaques-revendiquees-par-l-ukraine-contre-d",
+  "titre": "Deux militaires libyens morts après attaques revendiquées par l'Ukraine contre des navires russes à Benghazi",
+  "chapeau": "Deux soldats libyens ont succombé à leurs blessures suite aux frappes qui ont visé des navires russes près de Benghazi. Les attaques, revendiquées par le président ukrainien Volodymyr Zelensky, ont été qualifiées d'« attaque criminelle » par le commandant adjoint des Forces armées arabes libyennes.",
+  "corps": "## Décès de deux militaires libyens\nLes autorités de l'Est libyen ont annoncé que deux membres des forces armées ont perdu la vie à la suite des blessures subies lors d'une opération maritime survenue le 22 novembre près de la base navale de Benghazi. Les responsables militaires ont indiqué que les victimes étaient en service actif au moment de l'incident.\n\n## Une opération revendiquée par l'Ukraine\nLe président ukrainien, Volodymyr Zelensky, a publiquement affirmé que l'attaque avait été menée par les forces ukrainiennes contre des cibles russes situées dans le port de Benghazi. Selon les déclarations officielles, une corvette russe aurait été coulée et un cargo aurait été touché lors de l'action. Aucun chiffre supplémentaire n’a été confirmé concernant les dommages matériels.\n\n## Réactions des responsables libyens\nSaddam Haftar, commandant en chef adjoint des Forces armées arabes libyennes, a dénoncé l'opération comme une « attaque criminelle » visant la base navale de la ville. Il a souligné que l’incident mettait en danger la souveraineté du pays et a appelé à une enquête approfondie. Les autorités de l'Est libyen ont, quant à elles, limité leurs commentaires aux faits constatés, sans apporter de précisions sur d’éventuelles représailles.\n\n## Contexte géopolitique\nLe conflit entre l’Ukraine et la Russie s’est étendu à des zones hors d’Europe, notamment en Libye où la présence de forces russes et de mercenaires est bien documentée. La région orientale du pays, contrôlée par le Gouvernement d’accord national (GNA) soutenu par la Russie, accueille plusieurs navires russes engagés dans des opérations logistiques. Cette présence a régulièrement alimenté les tensions avec l’Ukraine, qui accuse Moscou d’utiliser la Libye comme plateforme de soutien à son effort de guerre.\n\nL’incident de Benghazi illustre la complexité du théâtre libyen, où des acteurs locaux et étrangers se croisent. Les deux décès de militaires libyens constituent la première perte humaine signalée en lien direct avec une action militaire ukrainienne sur le territoire libyen, et ils pourraient influencer les dynamiques de sécurité dans la région.",
+  "mots_cles": [
+    "Libye",
+    "Benghazi",
+    "Ukraine",
+    "Russie",
+    "militaires libyens"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-25T07:32:20+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Benghazi_maisons_italiennes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Gabrielle22fkflmd",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Benghazi_maisons_italiennes.jpg",
+    "legende": "benghazi italian mansions.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Benghazi maisons italiennes.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye",
+      "url": "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : deux militaires libyens succombent à leurs blessures après les frappes revendiquées par Kiev contre des navires russes à Benghazi",
+      "url": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-deux-militaires-libyens-succombent-a-leurs-blessures-apres-les-frappes-revendiquees-par-kiev-contre-des-navires-russes-a-benghazi_6814183_3210.html"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
+      "url": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "reprise-des-traversees-corsica-linea-a-marseille-apres-greve",
+  "titre": "Reprise des traversées Corsica Linea à Marseille après grève",
+  "chapeau": "Les services de ferry de Corsica Linea, interrompus pendant une semaine par une grève, ont repris à Marseille. Le nouveau navire Capu Rossu a également été accueilli dans le port.",
+  "corps": "## Fin de la grève et reprise du trafic\nAprès une interruption d’une semaine due à un mouvement de grève, les traversées assurées par Corsica Linea depuis le port de Marseille sont de nouveau en service. La reprise concerne les liaisons habituelles vers la Corse, permettant aux voyageurs, aux usagers de fret et aux professionnels du tourisme de retrouver leurs déplacements habituels. Aucun détail n’a été communiqué sur d’éventuels ajustements d’horaires, les usagers sont invités à vérifier les informations de la compagnie pour leurs prochains trajets.\n\n## Arrivée du nouveau ferry Capu Rossu\nParallèlement à la remise en marche du trafic, le port de Marseille a accueilli le nouveau ferry de la flotte, nommé Capu Rossu. Ce navire, présenté comme un renfort de capacité, a été mis à l’eau dans le cadre des activités du port. Aucun renseignement supplémentaire n’a été fourni sur les caractéristiques du bateau ou sur la date de mise en service pour les traversées.\n\n## Contexte et impact local\nCorsica Linea assure la liaison maritime entre le continent et la Corse depuis plusieurs décennies, jouant un rôle clé dans le transport de passagers et de marchandises. La suspension du service pendant une semaine a pu entraîner des désagréments pour les habitants de la région, notamment en termes de déplacements professionnels et de tourisme. La reprise du trafic, combinée à l’arrivée d’un nouveau ferry, devrait contribuer à rétablir la fluidité des échanges entre Marseille et les îles corses.\n\nLes usagers souhaitant obtenir des informations pratiques sur les horaires, les éventuelles modifications ou les procédures de réservation peuvent consulter le site internet de la compagnie ou contacter le service client. En cas de besoin, le numéro d’information de la mairie de Marseille reste disponible pour orienter les riverains vers les services appropriés.",
+  "mots_cles": [
+    "Corsica Linea",
+    "grève",
+    "ferry",
+    "Marseille",
+    "Capu Rossu"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-25T07:32:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lounge_bar_du_Capu_Rossu.jpg/1280px-Lounge_bar_du_Capu_Rossu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Tom Dufloux",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lounge_bar_du_Capu_Rossu.jpg",
+    "legende": "Lounge bar du navire.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Lounge bar du Capu Rossu.jpg"
+  },
+  "sources": [
+    {
+      "media": "horticulture-abadie-pyrenees.com",
+      "titre": "Corsica Linea Marseille : les traversées reprennent-elles après la grève ?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFJpWXoyUFRUNjNlSEVMdWliS3pPRl9qZmVTckw3TkZXWmRqd0dmbWJJam1vR0dodHhTeDZGblpncmRib3o3clduZGlHekhUZGpFQk9WRnU3YS1OM0t2YVZCYjlJMlN3SHBGUDIwTEhMdENhWEUzZWZ5Z1g5bTctN2EtVnVRZTh3TDMwYnNzRQ?oc=5"
+    },
+    {
+      "media": "https://horticulture-abadie-pyrenees.com/",
+      "titre": "Corsica Linea accueille son nouveau ferry « Capu Rossu » dans le port de Marseille",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GdzZ0SzZEaUpsSlNOMWxaMGQwYWpOOHpMZFFXY0RxdE04cklVeGhodF9XX0RRRGZYSlJTWlUzS1lTNVZJalhvcmhwVGVBOENrT0JCSWFfXzBJV2M1bGpTMk9mbFNwcklNZkxsV0R6a18?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

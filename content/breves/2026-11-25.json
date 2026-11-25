@@ -37,5 +37,23 @@
     "titres_sources": [
       "Le groupe pharmaceutique Sanofi s'apprête à réaliser la plus grosse acquisition de son histoire"
     ]
+  },
+  {
+    "titre": "Bataille d'Aden imminente au Yémen, enjeu stratégique sur la mer Rouge",
+    "texte": "La bataille d'Aden s'apprête à éclater au Yémen, les rebelles houthis visant la ville stratégique près du détroit de Bab-el-Mandeb après avoir déjà pris Sanaa et l'ouest du pays. Ce combat pourrait déterminer le contrôle du détroit et de la mer Rouge.",
+    "rubrique": "international",
+    "publie_le": "2026-11-25T07:32:39+00:00",
+    "titres_sources": [
+      "Au Yémen, la bataille d'Aden va commencer : en jeu le contrôle du pays et de la mer Rouge"
+    ]
+  },
+  {
+    "titre": "Russie envisagerait de lancer un satellite nucléaire, selon l'Allemagne",
+    "texte": "Des services secrets allemands auraient indiqué, d'après des informations relayées dans la presse, que la Russie préparerait le lancement d'un satellite équipé d'une bombe atomique. Un tel déploiement, s'il se concrétise, bouleverserait les règles du conflit spatial.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-25T07:32:39+00:00",
+    "titres_sources": [
+      "À suivre Loïc de la Mornais : la guerre nucléaire aura-t-elle lieu dans l'espace ?"
+    ]
   }
 ]
