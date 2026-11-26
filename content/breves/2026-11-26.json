@@ -186,5 +186,23 @@
     "titres_sources": [
       "Cybersécurité : “On se prépare potentiellement à des chocs”, déclare le directeur de l’Anssi qui évoque un “niveau de menace sans précédent”"
     ]
+  },
+  {
+    "titre": "Élections législatives anticipées en Espagne, le logement au centre",
+    "texte": "Les Espagnols se rendront aux urnes dimanche pour des législatives anticipées, le logement étant le principal sujet de campagne. Cette échéance fait suite à l’expulsion d’une retraitée de 87 ans et au rejet de deux décrets, qui ont alimenté la colère.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T13:30:42+00:00",
+    "titres_sources": [
+      "Législatives anticipées en Espagne : le logement au cœur du scrutin"
+    ]
+  },
+  {
+    "titre": "Sergio Jaramillo revient sur la négociation du désarmement des FARC",
+    "texte": "À dix ans de l’accord de paix avec les FARC, l’ancien haut‑commissaire à la paix Sergio Jaramillo estime que négocier la paix en démocratie est difficile, car elle devient instrument politique. Il revient dans entretien au Monde pour détailler le désarmement négocié entre 2012 et 2016.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T13:30:42+00:00",
+    "titres_sources": [
+      "Dix ans après l’accord avec les FARC en Colombie : « Négocier la paix dans une démocratie est très difficile car elle devient alors un moyen de faire de la politique »"
+    ]
   }
 ]

@@ -1,0 +1,43 @@
+{
+  "slug": "solucop-celebre-ses-30-ans-a-nice-entre-initiatives-collectives-et-projets-photo",
+  "titre": "Solucop célèbre ses 30 ans à Nice, entre initiatives collectives et projets photographiques",
+  "chapeau": "Solucop marque son trente‑ième anniversaire dans la ville de Nice. Des actions culturelles, dont un collectif et une série de correspondances photographiques, sont également évoquées.",
+  "corps": "## Un anniversaire d’entreprise au cœur de Nice\nSolucop, acteur présent sur le territoire niçois depuis trois décennies, organise des célébrations pour ses 30 ans. Aucun détail précis n’est fourni sur le programme ou les lieux exacts, mais l’événement vient souligner la longévité de l’entreprise dans la région.\n\n## Un collectif en action\nLe titre « Nice au collectif » indique la mise en place ou le renforcement d’une dynamique collective au sein de la ville. Aucun élément supplémentaire n’est précisé quant aux participants, aux objectifs ou aux dates de mise en œuvre. Il s’agit simplement d’une mention d’une initiative collective liée à Nice.\n\n## Correspondances photographiques\nUne autre mention, « Nice. Correspondances... photographiques », laisse entendre l’existence d’un projet ou d’une exposition photographique portant sur la ville. Les informations disponibles ne détaillent pas le format, les auteurs ou les lieux d’exposition. Le terme « correspondances » suggère un échange ou une série d’images, mais le contenu exact reste à préciser.\n\n## Impact pour les habitants\nEn l’absence de précisions sur les modalités pratiques, il n’est pas possible d’indiquer d’éventuelles perturbations de la circulation, de transports ou de services publics. Les habitants peuvent toutefois s’attendre à des manifestations culturelles liées aux trois annonces, sans que des consignes spécifiques n’aient été communiquées. Pour toute information supplémentaire, il est recommandé de consulter les sites officiels de la mairie de Nice ou de l’entreprise concernée.\n\nEn résumé, trois faits sont annoncés : le trente‑ième anniversaire de Solucop à Nice, le lancement d’un collectif local, et la mise en avant d’un projet photographique intitulé « Correspondances... photographiques ». Aucun détail supplémentaire n’est disponible pour le moment, et les habitants restent invités à suivre les canaux d’information habituels pour connaître les développements futurs.",
+  "mots_cles": [
+    "Solucop",
+    "Nice",
+    "anniversaire",
+    "collectif",
+    "photographie"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-26T13:30:31+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2024-09-21_View_of_Nice_2.jpg/1280px-2024-09-21_View_of_Nice_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Alexkom000",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2024-09-21_View_of_Nice_2.jpg",
+    "legende": "View of Nice",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:2024-09-21 View of Nice 2.jpg"
+  },
+  "sources": [
+    {
+      "media": "Tribuca.net",
+      "titre": "Solucop fête ses 30 ans à Nice",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85VTFSWUZ2bjJBTHRBNHUyUFdoY2NocWk1UmZFTXY5dnoyaUJjX2M1NGhDY3hUY1JRSnU4WnZwWC1obElGZHNtcllHZ3Q3QU1ndmVNR0dueEd5MUZaazNnbA?oc=5"
+    },
+    {
+      "media": "OGC Nice",
+      "titre": "Nice au collectif",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YNmVLWUxwbTVwak5vaDFzcUdjRGw0QlpaS2tXN0lVOElnZUxzMHI2bXdhWWFNT2U2dDROSmVJY2VLNnpXWXpsazNEYzVJbTFlOVdVVTluY080Nkp4SHA1Q19YejVJMGd4X2dmODdxdUdVUQ?oc=5"
+    },
+    {
+      "media": "Paris Côte d'Azur",
+      "titre": "Nice. Correspondances... photographiques.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa0V6dVIzRXRYU2JHUDdBX3dIbHUtZzlMZEk2RHpELUxyM1hPSzJKRkJ2QWNHRXZKbWJVaVpNTERLX2NDMEx3VmFMaHJaQjhldWxpLTJya0ltNXJTNVE1MUV2dThzaTBrR1lvanp6elZaX3NFbXFUNHFnbnh5LTMyeVJtQW8zV01BUXc?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

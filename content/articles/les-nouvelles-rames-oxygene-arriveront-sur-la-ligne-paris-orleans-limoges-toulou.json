@@ -1,0 +1,38 @@
+{
+  "slug": "les-nouvelles-rames-oxygene-arriveront-sur-la-ligne-paris-orleans-limoges-toulou",
+  "titre": "Les nouvelles rames Oxygène arriveront sur la ligne Paris‑Orléans‑Limoges‑Toulouse en été 2027",
+  "chapeau": "Les voyageurs de la ligne POLT verront leurs trains remplacés par les rames Oxygène dès l’été 2027. Cette modernisation vise à améliorer le confort et les équipements à bord pour les 2,8 millions d’usagers annuels.",
+  "corps": "## Un renouvellement attendu depuis longtemps\nAprès plusieurs années de difficultés signalées par les usagers, la SNCF a prévu le déploiement de nouvelles rames, baptisées « Oxygène », sur la ligne Paris‑Orléans‑Limoges‑Toulouse. Le remplacement est programmé pour le premier semestre 2027 et concernera l’ensemble du trafic interrégional qui relie la capitale à la ville rose via Orléans et Limoges.\n\n## Caractéristiques des rames Oxygène\nCes nouveaux trains sont conçus pour offrir davantage d’espace et un niveau de confort supérieur. Parmi les améliorations annoncées figurent des sièges ergonomiques, un meilleur éclairage, des prises électriques à chaque place et un système de climatisation plus performant. Le matériel intègre également des espaces dédiés aux personnes à mobilité réduite ainsi que des zones réservées aux bagages et aux vélos, répondant ainsi aux attentes des voyageurs fréquents.\n\n## Impact pour les usagers toulousains\nPour les habitants de la métropole toulousaine, la mise en service des rames Oxygène signifie une expérience de voyage plus agréable, tant en direction de Paris que pour les liaisons vers Orléans et Limoges. Aucun changement immédiat n’est prévu sur les horaires ou les tarifs ; les améliorations concerneront uniquement le matériel roulant. Les usagers devront toutefois s’attendre à une période de transition pendant laquelle les anciennes rames seront retirées progressivement.\n\n## Informations pratiques\nLes travaux de renouvellement du parc de trains s’effectueront dans les ateliers de la SNCF, sans impact direct sur les voies ni sur la circulation ferroviaire actuelle. En cas de question, les voyageurs peuvent consulter le site officiel de la SNCF ou contacter le service clientèle au numéro indiqué sur les billets. Aucun détournement de trafic n’est annoncé pour le moment, et les services de transport urbain de Toulouse restent inchangés.\n\nLes nouvelles rames Oxygène représentent ainsi une évolution majeure pour la ligne POLT, promettant une meilleure qualité de service aux millions de passagers qui empruntent quotidiennement ce corridor ferroviaire.",
+  "mots_cles": [
+    "SNCF",
+    "rames Oxygène",
+    "ligne POLT",
+    "Toulouse",
+    "transport ferroviaire"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-26T13:30:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Soci%C3%A9t%C3%A9_nationale_des_chemins_de_fer_fran%C3%A7ais_-_Pyr%C3%A9n%C3%A9es_-_Monet%2C_G%C3%A9rard_-_btv1b105684507.jpg/1280px-Soci%C3%A9t%C3%A9_nationale_des_chemins_de_fer_fran%C3%A7ais_-_Pyr%C3%A9n%C3%A9es_-_Monet%2C_G%C3%A9rard_-_btv1b105684507.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Monet, Gérard. Fonction indéterminée",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Soci%C3%A9t%C3%A9_nationale_des_chemins_de_fer_fran%C3%A7ais_-_Pyr%C3%A9n%C3%A9es_-_Monet,_G%C3%A9rard_-_btv1b105684507.jpg",
+    "legende": "Sujet : Affiches touristiques -- Pyrénées (France) -- 20e siècle Compagnies de chemin de fer -- Publicité -- 20e siècle -- Affiches Appartient à l’ensemble documentaire : PrnS001 Langue : sans contenu",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Société nationale des chemins de fer français - Pyrénées - Monet, Gérard - btv1b105684507.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Ligne SNCF Paris-Orléans-Limoges-Toulouse : enfin de l’Oxygène pour les voyageurs !",
+      "url": "https://www.ladepeche.fr/2026/11/26/ligne-sncf-paris-orleans-limoges-toulouse-enfin-de-loxygene-pour-les-voyageurs-13671087.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Ligne SNCF Paris-Orléans-Limoges-Toulouse : enfin de l’Oxygène pour les voyageurs !",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVkNTX0p0ZUVnQkU1bzNISmVZSTBWUXNpUEFSNnFnZWREMXVPVDdTcGktN2hVMlh2NEl0YjBSWVBDejVhQTVqY3J3bmwtVVF6a2wyOUJnbFlQUXE3dkxWTC1oZVgwbkdtNFhKRkQ1MnNrZ2RIQTg0elFMSm9za1dkZHZRTzBrN1dDY0ZfelRNdGdmUFpSMkVxWTQxTnlDN0xFd3hsMjlKM3JGWTdUek9tYUxKRXNNSmdTZHZMWm1lRGk4V1cxY0E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
