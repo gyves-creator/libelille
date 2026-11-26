@@ -358,5 +358,24 @@
     "titres_sources": [
       "Bardella, Lavalette… la dédiabolisation du RN à l’épreuve des affaires d’antisémitisme"
     ]
+  },
+  {
+    "titre": "Attaque ukrainienne de drones contre deux navires russes en Libye",
+    "texte": "Le président ukrainien a affirmé que deux navires russes ont été touchés au large de la Libye par des drones navals, employés à plusieurs reprises. Les autorités libyennes de l’est ont dénoncé une violation de souveraineté et annoncé riposte après la mort de deux soldats.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T19:08:50+00:00",
+    "titres_sources": [
+      "Navires russes ciblés en Libye : que sait-on des drones navals utilisés par l'armée ukrainienne ?",
+      "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ?"
+    ]
+  },
+  {
+    "titre": "Zoé Carle défend la liberté d’expression des slogans politiques",
+    "texte": "Zoé Carle, analyste, a indiqué dans une tribune que les slogans comme « ACAB » ou « Tout le monde déteste la police » ne sont pas à prendre littéralement. Elle estime que criminaliser ces slogans, que les pancartes et effigies lors des cortèges, porte atteinte à la liberté.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-26T19:08:50+00:00",
+    "titres_sources": [
+      "Zoé Carle, spécialiste de l’analyse du discours : « Les slogans politiques ont parfaitement le droit d’être outranciers »"
+    ]
   }
 ]

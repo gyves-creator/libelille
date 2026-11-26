@@ -1,0 +1,33 @@
+{
+  "slug": "benjamin-visite-une-association-d-insertion-a-amiens",
+  "titre": "Benjamin visite une association d’insertion à Amiens",
+  "chapeau": "Le candidat Benjamin, engagé dans la campagne présidentielle 2027, s’est rendu à Amiens, en Picardie. Il a rencontré les responsables d’une association locale qui accompagne jeunes et adultes en insertion professionnelle.",
+  "corps": "## Une escale dans le Nord de la France\nDans le cadre de son tour de campagne national, le candidat Benjamin parcourt le pays pour dialoguer avec les Français avant le second tour de la présidentielle prévue en 2027. Ces déplacements, qui s’inscrivent dans la tradition des candidatures à la présidence de la République, visent à présenter les programmes des candidats et à recueillir les attentes des électeurs dans les différentes régions.\n\n## L’association d’insertion d’Amiens\nÀ Amiens, ville située dans la région Hauts‑de‑France, Benjamin a poussé la porte d’une structure associative implantée dans un quartier populaire. L’organisme, dont la mission est de proposer une seconde chance aux jeunes et aux adultes en situation d’insertion professionnelle, propose des ateliers de formation, un accompagnement personnalisé et des stages en entreprise. Les responsables de l’association ont présenté les actions menées, notamment les programmes d’apprentissage et les partenariats avec les entreprises locales, ainsi que les résultats obtenus en termes de réinsertion sur le marché du travail.\n\n## Le rôle des rencontres locales dans la campagne\nCes visites permettent aux candidats de se confronter directement aux réalités du terrain et d’ajuster leurs propositions en fonction des besoins exprimés. Elles offrent également aux structures locales une visibilité accrue auprès du public et des décideurs. La présence du candidat à Amiens illustre ainsi l’importance accordée aux territoires en dehors des grandes métropoles dans le débat électoral.\n\n## Contexte de la présidentielle 2027\nLe scrutin présidentiel français se déroule en deux tours, le premier permettant de sélectionner les deux candidats arrivés en tête, suivis d’un second tour décisif. Les candidats doivent recueillir les soutiens de 500 élus pour être officiellement inscrits, puis mener une campagne intensive durant plusieurs mois. Les modalités de vote, les inscriptions sur les listes électorales et les procédures de dépouillement sont détaillées sur le site officiel du service public.\n\nCette visite à Amiens s’inscrit donc dans une dynamique de proximité et d’écoute, caractéristique des campagnes présidentielles où chaque région peut jouer un rôle déterminant dans la formation de l’opinion électorale.",
+  "mots_cles": [
+    "Benjamin",
+    "Présidentielle 2027",
+    "Amiens",
+    "insertion professionnelle",
+    "association"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-26T19:08:40+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Amiens_France_Quai-Belu-03.jpg/1280px-Amiens_France_Quai-Belu-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amiens_France_Quai-Belu-03.jpg",
+    "legende": "Amiens, France: Quai Belu",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Amiens France Quai-Belu-03.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "C’est Benjamin... à Amiens, avec une asso de quartier",
+      "url": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-une-asso-de-quartier_8301828.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
