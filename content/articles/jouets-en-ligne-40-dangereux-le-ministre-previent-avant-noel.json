@@ -1,0 +1,38 @@
+{
+  "slug": "jouets-en-ligne-40-dangereux-le-ministre-previent-avant-noel",
+  "titre": "Jouets en ligne : 40 % dangereux, le ministre prévient avant Noël",
+  "chapeau": "Des contrôles de la répression des fraudes ont révélé que près d’un tiers des jouets vendus sur les plateformes numériques présente un danger. Le ministre du Commerce, Serge Papin, invite les consommateurs à rester vigilants et à privilégier les magasins physiques pour les achats de fin d’année.",
+  "corps": "## Un risque majeur identifié par la répression des fraudes\nLes investigations menées en 2025 par la répression des fraudes ont mis en évidence que 40 % des jouets commercialisés sur les sites de commerce en ligne sont qualifiés « dangereux ». Parmi ces produits, 77 % ne respectent pas les exigences légales en vigueur, ce qui les classe comme « non conformes » aux normes de sécurité applicables aux jouets.\n\n## Un appel à la vigilance du gouvernement\nFace à ces constats, le ministre du Commerce, Serge Papin, a lancé un message d’avertissement aux ménages. Il recommande de faire preuve de prudence lors des achats de Noël et suggère de se tourner préférentiellement vers les commerces physiques, où les contrôles de conformité sont plus aisés à vérifier. Cette recommandation vise à réduire le nombre d’incidents liés à des jouets défectueux ou non sécurisés.\n\n## Conséquences pour les acteurs du e‑commerce\nLes plateformes de vente en ligne sont désormais sous le feu des projecteurs. Bien que les données ne précisent pas de mesures immédiates imposées aux sites, la mise en lumière de ce taux élevé de dangerosité pourrait entraîner un renforcement des contrôles et des sanctions en cas de non‑respect des obligations légales. Les opérateurs devront ainsi s’assurer que leurs catalogues respectent les critères de sécurité avant la période de forte affluence des achats de fin d’année.\n\n## Que peuvent faire les consommateurs ?\nPour limiter les risques, il est conseillé de vérifier la présence du marquage CE, de consulter les avis d’achat et, le cas échéant, de privilégier les enseignes reconnues pour leur suivi des normes. En cas de doute, le signalement aux services de la répression des fraudes demeure une démarche utile pour contribuer à la protection des enfants et à la conformité du marché.",
+  "mots_cles": [
+    "jouets",
+    "commerce en ligne",
+    "sécurité",
+    "DGCCRF",
+    "consommateurs"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-26T15:12:45+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Visit_of_Serge_Papin%2C_French_Minister_for_Small_and_Medium-sized_Enterprises%2C_to_the_EC_-_2025_%28cropped%29.jpg/1280px-Visit_of_Serge_Papin%2C_French_Minister_for_Small_and_Medium-sized_Enterprises%2C_to_the_EC_-_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_to_the_EC_-_2025_(cropped).jpg",
+    "legende": "Michael McGrath , European Commissioner for Democracy, Justice the Rule of Law, and Consumer Protection, receives Serge Papin , French Minister for Small and Medium-sized Enterprises, Trade, Crafts, T",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Visit of Serge Papin, French Minister for Small and Medium-sized Enterprises, to the EC - 2025 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Un jouet sur trois qui est vendu en ligne est « dangereux », alertent Serge Papin et la DGCCRF avant les fêtes de fin d’année",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/un-jouet-sur-trois-qui-est-vendu-en-ligne-est-dangereux-alertent-serge-papin-et-la-dgccrf-avant-les-fetes-de-fin-d-annee_6815540_3234.html"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Les jouets vendus en ligne «trop souvent dangereux», alerte le gouvernement avant les fêtes de fin d’année",
+      "url": "https://www.lefigaro.fr/conso/les-jouets-vendus-en-ligne-trop-souvent-dangereux-alerte-le-gouvernement-avant-les-fetes-de-fin-d-annee-20261126"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
