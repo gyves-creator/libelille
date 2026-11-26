@@ -1,0 +1,38 @@
+{
+  "slug": "naufrage-d-un-navire-charge-de-diesel-au-large-d-ibiza-un-mort",
+  "titre": "Naufrage d'un navire chargé de diesel au large d'Ibiza, un mort",
+  "chapeau": "Un navire transportant jusqu'à 7 000 tonnes de diesel a sombré au large de l'île d'Ibiza, entraînant le décès d'un membre d'équipage. Les autorités évaluent les conséquences environnementales, aucune trace de pollution n'ayant été détectée à ce jour.",
+  "corps": "## Un incident maritime au cœur des Baléares\nLe naufrage s'est produit dans les eaux qui entourent l'île espagnole d'Ibiza, située dans l'archipel des Baléares, zone très fréquentée par le trafic maritime et touristique. Le bateau, chargé d'une cargaison de diesel estimée à 7 000 tonnes, a coulé après un incident dont les causes restent à préciser. L'équipage, composé de 17 marins, a été évacué par les secours de l'archipel des Baléares. L'un d'eux a ensuite été transporté à Ibiza où il a été déclaré mort à l'hôpital.\n\n## Conséquences humaines et opérationnelles\nTous les membres de l'équipage ont été mis en sécurité, ce qui limite le nombre de victimes humaines à un seul décès. Les secours ont indiqué que le corps avait été rapatrié vers l'hôpital d'Ibiza, où le personnel médical a confirmé le décès. Aucun autre blessé n'a été signalé. La perte du navire a entraîné la mobilisation de plusieurs équipes de récupération afin de sécuriser la zone et d'empêcher d'éventuelles fuites de carburant.\n\n## Évaluation de l'impact environnemental\nLes autorités locales ont immédiatement lancé une enquête pour mesurer les dommages potentiels sur le milieu marin. À ce stade, les premiers constats ne montrent aucun indice de pollution visible, notamment aucune trace de fuite de diesel à la surface. Les experts en environnement continuent de prélever des échantillons d'eau et de sédiments pour détecter d'éventuelles contaminations invisibles à l'œil nu. La surveillance s'étendra sur plusieurs jours afin d'assurer que la biodiversité marine, notamment les espèces protégées fréquentant les côtes ibicencas, ne subisse pas d'effets néfastes.\n\n## Contexte et enjeux\nLe transport maritime de carburants représente un maillon essentiel de l'approvisionnement énergétique, mais il comporte des risques élevés en cas d'accident. Un déversement de diesel pourrait menacer les écosystèmes côtiers, affecter le tourisme et compromettre la pêche locale, activités économiques majeures des Baléares. Le fait qu'aucune pollution n'ait encore été détectée atténue temporairement les inquiétudes, mais les autorités restent vigilantes. La situation souligne l'importance de procédures de sécurité strictes et d'une réponse rapide en cas de sinistre en mer.",
+  "mots_cles": [
+    "Ibiza",
+    "naufrage",
+    "diesel",
+    "environnement",
+    "équipage"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-26T12:10:28+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ibiza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Auteur inconnu",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Ibiza.jpg",
+    "legende": "",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Ibiza.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Un navire transportant jusqu'à 7 000 tonnes de diesel coule au large de l'île espagnole d'Ibiza, faisant un mort parmi les membres de l'équipage",
+      "url": "https://www.franceinfo.fr/monde/espagne/un-navire-transportant-jusqu-a-7-000-tonnes-de-diesel-coule-au-large-de-l-ile-espagnole-d-ibiza-faisant-un-mort-parmi-les-membres-de-l-equipage_8300973.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
+      "url": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

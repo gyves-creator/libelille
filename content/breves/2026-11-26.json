@@ -149,5 +149,23 @@
     "titres_sources": [
       "Ligue des champions : en vidéo, le but de Bruno Fernandes qui rappelle le «caillou de Bollaert» en 1983"
     ]
+  },
+  {
+    "titre": "Alerte du gouvernement sur la dangerosité des jouets en ligne",
+    "texte": "Le gouvernement aurait signalé que de nombreux jouets vendus sur internet présentent des risques avant les fêtes. Le ministre du Commerce Serge Papin aurait invité les acheteurs à rester prudents et à privilégier les magasins physiques.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-26T12:10:50+00:00",
+    "titres_sources": [
+      "Les jouets vendus en ligne «trop souvent dangereux», alerte le gouvernement avant les fêtes de fin d’année"
+    ]
+  },
+  {
+    "titre": "Le ministre de l'Enseignement supérieur s'inquiète des blocages étudiants",
+    "texte": "Le ministre de l'Enseignement supérieur Philippe Baptiste aurait déclaré que les blocages sont inacceptables et doivent cesser. Il aurait également exprimé son inquiétude quant aux problèmes scolaires rencontrés par les étudiants dans ce contexte.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-26T12:10:50+00:00",
+    "titres_sources": [
+      "DIRECT. Mobilisation des étudiants : \"Il faut que les blocages cessent, c'est inacceptable\", affirme Philippe Baptiste"
+    ]
   }
 ]
