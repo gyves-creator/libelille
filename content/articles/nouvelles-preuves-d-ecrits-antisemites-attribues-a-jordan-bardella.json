@@ -1,0 +1,42 @@
+{
+  "slug": "nouvelles-preuves-d-ecrits-antisemites-attribues-a-jordan-bardella",
+  "titre": "Nouvelles preuves d’écrits antisémites attribués à Jordan Bardella",
+  "chapeau": "Le 26 novembre 2026, de nouveaux éléments publiés par le site d'investigation et le journal confirment que Jordan Bardella, président du Rassemblement national, aurait rédigé des propos antisémites en 2013. Le dirigeant conteste formellement ces accusations, tandis que plusieurs responsables politiques et le co‑auteur de l’enquête réagissent.",
+  "corps": "## Publication des nouvelles preuves\nLe site d'investigation et le journal ont publié, jeudi 26 novembre, des documents qui, d’après leurs analyses, démontrent que Jordan Bardella, à l’époque jeune militant, a rédigé des messages à caractère antisémite en 2013. Ces écrits, retrouvés dans des archives numériques, sont présentés comme la première preuve directe liant le futur président du Rassemblement national à ces propos. Les deux médias précisent que les éléments confirment l’auteur des messages, sans toutefois fournir de nouvelles dates de diffusion ou de contexte précis au-delà de l’année de rédaction.\n\n## Contestation du dirigeant\nDans un communiqué diffusé le même jour, le président du RN réaffirme son « rejet formel » de l’attribution de ces écrits. Il qualifie les révélations de « véritable chasse à l’homme » et affirme que les accusations reposent sur une interprétation erronée de documents anciens. Aucun détail supplémentaire n’est fourni sur les raisons de la contestation, le communiqué se limitant à réitérer le refus de reconnaître la paternité des propos.\n\n## Réactions des intervenants\nLe co‑auteur de l’enquête menée par le site d'investigation a déclaré que le responsable ne « peut pas plaider l’erreur de jeunesse ». Cette remarque souligne la position de l’enquêteur qui estime que la gravité des propos ne saurait être atténuée par l’âge de l’auteur à l’époque des écrits. Le maire de Marseille, citant la diffusion des révélations, a exprimé le sentiment que « tout coule sur le RN ». Par ailleurs, la personne à qui Bardella aurait adressé les messages en 2013 s’est exprimée pour la première fois, confirmant qu’elle était bien le destinataire des écrits, sans toutefois apporter d’autres précisions.\n\n## Contexte politique\nJordan Bardella, élu président du Rassemblement national en 2022, dirige l’un des principaux partis d’extrême droite en France. Le RN a été régulièrement au cœur de polémiques liées à des déclarations jugées discriminatoires ou extrémistes. Les révélations actuelles s’inscrivent donc dans un contexte où la question de l’antisémitisme au sein des formations politiques de droite est régulièrement débattue, tant par les instances publiques que par les observateurs internationaux. Jusqu’à présent, aucune décision judiciaire n’a été engagée concernant ces écrits, la controverse restant au stade de l’enquête médiatique et des déclarations publiques.",
+  "mots_cles": [
+    "Jordan Bardella",
+    "Rassemblement national",
+    "écrits antisémites",
+    "politique française"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-26T11:05:43+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28cropped%29.jpg/1280px-Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "BootEXE",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_(cropped).jpg",
+    "legende": "Jordan Bardella au Parlement Européen de Strasbourg en septembre 2022",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Jordan Bardella - Strasbourg European Parliament September 2022 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Propos antisémites de Jordan Bardella : le président du RN réitère sa « contestation formelle » après des révélations du « Monde » et de « Mediapart »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/26/propos-antisemites-de-jordan-bardella-le-president-du-rn-reitere-sa-contestation-formelle-apres-des-revelations-du-monde-et-de-mediapart_6815516_823448.html"
+    },
+    {
+      "media": "France : News et actualité en continu - France 24",
+      "titre": "Écrits antisémites : accablé par de nouveaux éléments, Jordan Bardella conteste formellement",
+      "url": "https://www.france24.com/fr/france/20261126-%C3%A9crits-antis%C3%A9mites-de-nouveaux-%C3%A9l%C3%A9ments-accablent-jordan-bardella"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

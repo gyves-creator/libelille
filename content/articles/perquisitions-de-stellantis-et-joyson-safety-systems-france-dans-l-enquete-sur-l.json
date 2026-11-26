@@ -1,0 +1,38 @@
+{
+  "slug": "perquisitions-de-stellantis-et-joyson-safety-systems-france-dans-l-enquete-sur-l",
+  "titre": "Perquisitions de Stellantis et Joyson Safety Systems France dans l’enquête sur les airbags Takata",
+  "chapeau": "Les services de police ont perquisitionné le constructeur automobile Stellantis et l’équipementier Joyson Safety Systems France à Paris. Cette action s’inscrit dans le cadre d’une information judiciaire ouverte depuis avril 2025 concernant les airbags défectueux de la marque japonaise Takata.",
+  "corps": "## Une enquête judiciaire en cours\nDepuis avril 2025, un juge d’instruction mène à Paris une enquête portant sur les airbags Takata installés dans des véhicules produits par Stellantis. L’instruction a été déclenchée à la suite d’une plainte déposée par l’association de consommateurs UFC‑Que choisir ainsi que par des propriétaires de véhicules Stellantis, qui reprochent au constructeur de ne pas avoir réagi rapidement pour remplacer les airbags défaillants. Le parquet de Paris a indiqué que les perquisitions de Stellantis et de son sous‑traitant français Joyson Safety Systems ont été réalisées dans le cadre de cette information judiciaire.\n\n## Les perquisitions de Stellantis et Joyson Safety Systems France\nLes deux entreprises ont été perquisitionnées à Paris, sous la supervision du parquet. Les équipes de police ont saisi des documents et des équipements susceptibles d’éclairer les responsabilités de chaque partie dans la gestion des pièces défectueuses. L’objectif affiché est de déterminer si Stellantis a manqué à son obligation de sécurité en ne procédant pas à un rappel ou à un remplacement rapide des airbags Takata, dont les défauts ont déjà entraîné des explosions mortelles dans le monde.\n\n## Contexte des airbags Takata\nLes airbags produits par le fabricant japonais Takata sont au cœur d’un scandale international depuis plusieurs années. Des défauts de conception peuvent provoquer l’explosion du dispositif lors d’un choc, projetant des éclats de métal dans l’habitacle et causant des blessures graves, voire des décès. De nombreux constructeurs ont été contraints de rappeler des millions de véhicules afin de remplacer ces airbags. Dans le cas de Stellantis, la plainte souligne un retard perçu dans la mise en œuvre de ces rappels, ce qui aurait exposé les conducteurs à un danger accru.\n\n## Suite de l’instruction\nL’enquête se poursuit et les autorités judiciaires examineront les éléments saisis pour établir les responsabilités éventuelles. Si les faits de mise en danger de la vie d’autrui sont retenus, les sanctions prévues par le droit pénal français pourraient être appliquées aux personnes ou aux entités impliquées. Aucun résultat définitif n’a encore été communiqué, la procédure restant en cours.",
+  "mots_cles": [
+    "airbags Takata",
+    "Stellantis",
+    "Joyson Safety Systems",
+    "perquisition",
+    "enquête judiciaire"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-26T11:05:46+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Zuidtoren_Hoofddorp.jpg/1280px-Zuidtoren_Hoofddorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Choinowski",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Zuidtoren_Hoofddorp.jpg",
+    "legende": "De Zuidtoren aan de Taurusavenue in Hoofddorp. Het ontwerp is van het Amerikaanse architectenbureau Kohn Pederson Fox Associates",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Zuidtoren Hoofddorp.jpg"
+  },
+  "sources": [
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/airbags-takata-stellantis-et-l-equipementier-joyson-safety-systems-france-ont-ete-perquisitionnes-selon-le-parquet-de-paris_6815521_3234.html"
+    },
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France perquisitionnés",
+      "url": "https://www.lefigaro.fr/societes/airbags-takata-stellantis-et-l-equipementier-joyson-safety-systems-france-perquisitionnes-20261126"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
