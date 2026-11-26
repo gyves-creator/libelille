@@ -454,5 +454,24 @@
     "titres_sources": [
       "\"ChatGPT m'a dit de vous appeler\" : les centres antipoison débordés à cause de l'IA"
     ]
+  },
+  {
+    "titre": "Macron rappelle son mandat jusqu'en 2027 face à Le Pen",
+    "texte": "Lors d’une conférence de presse au sommet de l’UE à Bruxelles, le président Emmanuel Macron a rappelé qu’il reste en fonction jusqu’au 13 mai 2027 et que Marine Le Pen n’est pas élue. Il a qualifié son attitude d’« arrogance ».",
+    "rubrique": "politique",
+    "publie_le": "2026-11-26T21:33:41+00:00",
+    "titres_sources": [
+      "Emmanuel Macron rabroue Marine Le Pen et sa « drôle d’arrogance »",
+      "EN DIRECT, présidentielle 2027 | Emmanuel Macron à propos de Marine Le Pen : « C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »"
+    ]
+  },
+  {
+    "titre": "Le Black Friday du 27 novembre encadré par des règles sur les rabais",
+    "texte": "Les promotions du Black Friday du 27 novembre restent attractives, mais les rabais annoncés ne sont pas toujours conformes aux exigences légales. Des règles encadrent la véracité des réductions afin de protéger les consommateurs.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-26T21:33:41+00:00",
+    "titres_sources": [
+      "Black Friday : comment être sûr de faire de bonnes affaires ?"
+    ]
   }
 ]
