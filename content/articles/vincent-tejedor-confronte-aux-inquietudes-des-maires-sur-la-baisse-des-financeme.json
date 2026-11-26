@@ -1,0 +1,33 @@
+{
+  "slug": "vincent-tejedor-confronte-aux-inquietudes-des-maires-sur-la-baisse-des-financeme",
+  "titre": "Vincent Tejedor confronté aux inquiétudes des maires sur la baisse des financements écologiques",
+  "chapeau": "Lors d’une table ronde organisée par le congrès des maires le 25 novembre, le secrétaire général à la planification écologique a été interrogé sur la réduction des moyens alloués à la transition énergétique. Les élus locaux ont exprimé leurs craintes quant aux conséquences de ces coupes budgétaires sur leurs projets municipaux.",
+  "corps": "## Une rencontre au cœur du débat local\nLe 25 novembre, le congrès des maires a réuni plusieurs représentants des collectivités territoriales autour d’une table ronde dédiée à la rénovation énergétique. Vincent Tejedor, secrétaire général à la planification écologique et responsable du pôle vert au sein du gouvernement, a participé à cet échange. Les maires présents ont profité de l’occasion pour soulever les difficultés rencontrées suite à la diminution des financements nationaux destinés aux actions de transition écologique.\n\n## Les inquiétudes exprimées par les élus locaux\nLes interlocuteurs locaux ont rappelé que de nombreuses communes comptent sur les subventions de l’État pour mener à bien des programmes de rénovation thermique, d’amélioration de l’efficacité énergétique des bâtiments publics et d’installation d’équipements renouvelables. La réduction annoncée des budgets a été perçue comme un frein à la réalisation de ces projets, susceptible d’alourdir les charges des collectivités et d’allonger les délais d’exécution. Les maires ont également souligné le risque d’inégalités territoriales, les zones les plus vulnérables étant les plus dépendantes des aides publiques.\n\n## Position du gouvernement et perspectives\nVincent Tejedor a indiqué que le gouvernement maintient une politique globale en faveur de la transition écologique, tout en soulignant la nécessité d’ajuster les dépenses publiques dans un contexte budgétaire tendu. Aucun chiffre précis n’a été communiqué concernant l’ampleur des coupes, mais l’interlocuteur a rappelé que les priorités restent la réduction des émissions de gaz à effet de serre et le soutien aux initiatives locales. Le secrétariat a indiqué que des mécanismes de soutien alternatifs pourraient être étudiés afin de compenser partiellement la baisse des financements directs.\n\n## Enjeux pour la rénovation énergétique\nLa rénovation énergétique demeure un levier majeur de la stratégie climatique française, visant à diminuer la consommation d’énergie des bâtiments et à créer des emplois verts. La tension entre les exigences budgétaires nationales et les besoins des collectivités locales pourrait toutefois ralentir la mise en œuvre des plans d’action locaux. Les prochains mois seront déterminants pour observer si des ajustements de financement ou de nouvelles formes de coopération entre l’État et les maires seront mis en place.",
+  "mots_cles": [
+    "transition écologique",
+    "maires",
+    "financements",
+    "rénovation énergétique",
+    "budget"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-26T16:16:21+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Weaver_at_the_loom%2C_Kr%C3%B6ller-M%C3%BCller_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Vincent van Gogh",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Weaver_at_the_loom,_Kr%C3%B6ller-M%C3%BCller_Museum.jpg",
+    "legende": "",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Weaver at the loom, Kröller-Müller Museum.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Rénovation énergétique : le gouvernement inflexible face aux maires inquiets des coupes budgétaires",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/renovation-energetique-le-gouvernement-inflexible-face-aux-maires-inquiets-des-coupes-budgetaires_6815563_3244.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

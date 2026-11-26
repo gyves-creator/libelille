@@ -262,5 +262,24 @@
       "Saint-Nazaire : un nouveau géant des mers livré à l'armateur MSC",
       "Un nouveau paquebot XXL livré à Saint-Nazaire"
     ]
+  },
+  {
+    "titre": "Le Royaume-Uni viserait 100 000 anciens militaires pour formation OTAN",
+    "texte": "Le ministère britannique de la Défense aurait écrit à environ 100 000 anciens combattants pour leur proposer de participer à des formations et exercices de l’OTAN. Cette mesure serait présentée comme une précaution face à la menace russe.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T16:16:47+00:00",
+    "titres_sources": [
+      "Face à la menace russe, le Royaume-Uni propose des formations de l'Otan à des réservistes",
+      "Face à la menace russe, le Royaume-Uni contacte 100 000 anciens militaires"
+    ]
+  },
+  {
+    "titre": "Députés et sénateurs envisageraient de supprimer le devoir conjugal",
+    "texte": "Des députés et sénateurs auraient convenu de mettre fin au « devoir conjugal » et d’exclure toute obligation sexuelle du mariage. L’examen du texte est prévu à l’Assemblée nationale le 7 décembre, avant son éventuel adoption au Sénat.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-26T16:16:47+00:00",
+    "titres_sources": [
+      "Députés et sénateurs s'entendent pour mettre fin au \"devoir conjugal\" et exclure toute obligation sexuelle dans le mariage"
+    ]
   }
 ]

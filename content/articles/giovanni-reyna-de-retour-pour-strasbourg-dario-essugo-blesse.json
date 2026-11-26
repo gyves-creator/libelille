@@ -1,0 +1,43 @@
+{
+  "slug": "giovanni-reyna-de-retour-pour-strasbourg-dario-essugo-blesse",
+  "titre": "Giovanni Reyna de retour pour Strasbourg, Dario Essugo blessé",
+  "chapeau": "Le milieu de terrain américain Giovanni Reyna sera de nouveau disponible pour le prochain déplacement de Strasbourg contre Le Havre. Le club a également annoncé l'indisponibilité de Dario Essugo suite à une blessure.",
+  "corps": "## Le retour de Giovanni Reyna\nGiovanni Reyna, international américain et milieu offensif du RC Strasbourg Alsace, réintègre le groupe pour le prochain affrontement de Ligue 1 contre Le Havre. Après une période d'absence, son retour est considéré comme un renfort important pour la création d'occasions et la relance de l'attaque strasbourgeoise. Le club n’a pas précisé les raisons de son indisponibilité précédente, mais la disponibilité du joueur est désormais confirmée pour le déplacement.\n\n## Blessure de Dario Essugo\nParallèlement, le club a indiqué que Dario Essugo, latéral droit, a été contraint d’interrompre ses entraînements à la suite d’une blessure. Aucun détail supplémentaire n’a été communiqué sur la nature ou la gravité de la blessure, ni sur la durée probable d’absence. L’entraîneur devra donc réorganiser la ligne défensive en l'absence d'Essugo pour le match à venir.\n\n## Enjeux du match contre Le Havre\nLe duel contre Le Havre revêt une importance particulière dans le calendrier de Strasbourg, qui cherche à consolider sa position au milieu du classement. La présence de Reyna offre davantage de possibilités de création, tandis que l'absence d'Essugo pourrait affecter la stabilité défensive. Les supporters sont invités à suivre les informations officielles du club concernant la composition définitive de l'équipe et les éventuelles modifications de programme.\n\nPour les habitants de Strasbourg souhaitant se rendre au stade de la Meinau, les services de transport urbain restent opérationnels, avec les lignes de bus habituelles desservant la zone. Les mises à jour sur les billets, les horaires et les consignes de sécurité sont disponibles sur le site officiel du RC Strasbourg Alsace.",
+  "mots_cles": [
+    "Giovanni Reyna",
+    "Strasbourg",
+    "Le Havre",
+    "Dario Essugo",
+    "Ligue 1"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-26T16:16:40+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/RC_Strasbourg_-_1922-1923.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:RC_Strasbourg_-_1922-1923.png",
+    "legende": "RC Strasbourg champion d'Alsace 1922-1923, série honneur. De gauche à droite, Debout : Ed. Wuileumier, Ch. Belling, Hiltenbrand, Meyer, M. Weber, H. Tubach, Fr. Schaeffer. Second plan : Schroeder, Ch.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:RC Strasbourg - 1922-1923.png"
+  },
+  "sources": [
+    {
+      "media": "Dosya Haber",
+      "titre": "Ligue 1 : Giovanni Reyna de retour avec Strasbourg face au Havre",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzdKeG9oV2ZpczFVV1poWExhclVGMlZpcmRfTk5wbUlReUNZUlF6TWc5c3RaaHF1X2o3Q1RfWnBaeWVtRHFHWjJPT3RiQUNXb1NKaXVEaWJWWllxNU5SYzNNQWd6OTdta3pTczdzc0lRN2lLcHFPZVNiblk5UTFQcS1ZRTNTLWRmdWVaaWpBY3liR0Y0al9WNm05cjlmSUxUS2F5cTZvdnY?oc=5"
+    },
+    {
+      "media": "Tu Futbolero",
+      "titre": "Giovanni Reyna revient, Dario Essugo blessé à Strasbourg",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTjV4b29CdWI2Y1NWTkdhRno1eXQxT044enFudjRkREhRa2E4SVVsSGQ5TlYyWDFKM09SVWxOZ2k2Qi1GTHo0QjBfRWdacU1xZE5RSkN6dnhwTlZjR01Qb2N5YmdxcXFpZUpXR2xFX01HQTNkVWJRbm52b0t1OEgtWXNtZEYxcXlNbkpMMkdvV1Bma2ZiVzF2VXVMMVdxQnVxU1BWTHZFSQ?oc=5"
+    },
+    {
+      "media": "L'Équipe",
+      "titre": "Giovanni Reyna de retour pour le déplacement de Strasbourg au Havre, Dario Essugo blessé",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb0EzQnp1Y1FYOGNuQ01rTVRUR191YjF3b1dZSlBjQmNQMEZPX0dlUEJBcGIyUlBjNUpkQmtmVFl4clh4MVozeDZtYXVwUHEyNUxvSTdJZ2NIRm1JdkR2bHFWaWVEd2t2eHJqdmhna1FPMnBOejQtbE9OVzBERTl2VWRnc0lDcWFTd2Z6LTNHRjR3RmNHWWdYRjQxRThlakNYbmYzd0d0bF9USWxxZVctTHNsT1lRSWVHLTBUMkhTU0xoRDZPV1h6VGg3VXRvWklEU2EwLQ?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
