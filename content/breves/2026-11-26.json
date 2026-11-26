@@ -130,5 +130,24 @@
     "titres_sources": [
       "DIRECT. Mobilisation de la jeunesse : les organisations veulent maintenir la pression malgré le recul des blocages, une manifestation prévue dans l'après-midi"
     ]
+  },
+  {
+    "titre": "Incendie sur une autoroute du Caire fait au moins 31 morts",
+    "texte": "Un camion chargé de carburant s’est renversé sur une autoroute très fréquentée du Caire, déclenchant un incendie qui aurait fait au moins 31 victimes et une quinzaine de blessés. Le conducteur d’une voiture accusé d’avoir percuté le camion a été placé en garde à vue.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T11:37:06+00:00",
+    "titres_sources": [
+      "Au moins 31 m0rts dans un incendie au Caire",
+      "Une trentaine de morts et une quinzaine de blessés dans un incendie… Que s'est-il passé sur une autoroute du Caire, en Egypte, mercredi soir ?"
+    ]
+  },
+  {
+    "titre": "But de Bruno Fernandes évoque un incident de 1983",
+    "texte": "Une vidéo montre le but de Bruno Fernandes lors du match de Ligue des champions à Lisbonne, où une irrégularité du gazon a favorisé le joueur. Le geste rappelle le «caillou de Bollaert» qui avait profité aux Sang et Or en 1983.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-26T11:37:06+00:00",
+    "titres_sources": [
+      "Ligue des champions : en vidéo, le but de Bruno Fernandes qui rappelle le «caillou de Bollaert» en 1983"
+    ]
   }
 ]
