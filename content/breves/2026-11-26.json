@@ -435,5 +435,24 @@
     "titres_sources": [
       "EN DIRECT - Multiplex Ligue Europa : Lyon ne trouve pas la faille, Rennes se fait surprendre"
     ]
+  },
+  {
+    "titre": "L'OM l'emporte 1-0 contre Levski Sofia en Ligue Europa",
+    "texte": "Amine Gouiri a inscrit l'unique but qui a permis à l'Olympique de Marseille de battre Levski Sofia 1‑0 au Vélodrome, lors de la cinquième journée de Ligue Europa. Cette victoire relance les espoirs de qualification du club.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-26T21:05:03+00:00",
+    "titres_sources": [
+      "Ligue Europa : l’OM enchaîne une deuxième victoire de suite grâce à Amine Gouiri",
+      "Marseille-Sofia : revivez la victoire de l’OM qui reprend espoir à une qualification"
+    ]
+  },
+  {
+    "titre": "Centres antipoison submergés par appels liés à l'IA",
+    "texte": "Les centres antipoison signalent une hausse importante des appels depuis l'été, souvent déclenchés par des conseils d'intelligence artificielle qui incitent à les contacter même sans réelle intoxication. Cette situation surcharge les équipes et complique la prise en charge.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-26T21:05:03+00:00",
+    "titres_sources": [
+      "\"ChatGPT m'a dit de vous appeler\" : les centres antipoison débordés à cause de l'IA"
+    ]
   }
 ]
