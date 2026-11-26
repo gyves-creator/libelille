@@ -1,0 +1,38 @@
+{
+  "slug": "effondrement-d-un-plafond-au-lycee-couffignal-le-rectorat-condamne-les-faits",
+  "titre": "Effondrement d’un plafond au lycée Couffignal : le rectorat condamne les faits",
+  "chapeau": "Un plafond s’est effondré dans l’enceinte du lycée Couffignal à Strasbourg, entraînant la mobilisation du personnel. Le rectorat a publié un communiqué condamnant fermement les actes et saluant le sang‑froid des équipes éducatives.",
+  "corps": "## Incident et réaction du rectorat\nDans la matinée du 26 novembre 2026, des témoins ont signalé l’effondrement d’une partie du plafond du lycée professionnel Couffignal, situé dans le quartier de la Robertsau à Strasbourg. Aucun détail sur d’éventuelles victimes n’a été communiqué, mais les services de secours sont rapidement intervenus pour sécuriser les lieux et évacuer les élèves. Le rectorat de l’Académie de Strasbourg a rapidement publié un communiqué dans lequel il exprime une condamnation ferme des violences à l’origine de l’incident. Il souligne également le professionnalisme et le calme dont ont fait preuve les membres du personnel présent lors de la crise, ainsi que leur engagement à assurer la sécurité des élèves.\n\n## Mesures de sécurité et suivi\nSuite à l’effondrement, les autorités éducatives ont décidé de suspendre l’accès aux parties concernées du bâtiment afin de permettre aux équipes techniques de procéder à une expertise approfondie. Un audit complet de l’état des structures du lycée est prévu, en collaboration avec les services de la préfecture et les experts en construction. Le rectorat a indiqué que des mesures de prévention seront renforcées dans l’ensemble des établissements de l’académie afin d’éviter la récurrence de tels faits. Les enseignants et le personnel administratif ont été invités à suivre des consignes de sécurité renforcées et à participer à des réunions d’information organisées par la direction de l’établissement.\n\n## Informations pratiques pour les familles\nLes parents d’élèves sont priés de consulter le site internet du lycée Couffignal ainsi que la plateforme de l’académie pour connaître les modalités de reprise des cours et les éventuelles dérogations de transport scolaire. En cas de besoin, le service d’accueil du rectorat reste joignable au numéro indiqué sur le site officiel de l’académie. Les familles souhaitant signaler des problèmes ou obtenir des précisions peuvent également contacter la mairie de Strasbourg, service de la sécurité publique, qui suit de près l’évolution de la situation.\n\nLe rectorat rappelle que la sécurité des élèves et du personnel demeure la priorité absolue et que toutes les démarches nécessaires seront entreprises pour garantir un environnement d’apprentissage sain et sécurisé.",
+  "mots_cles": [
+    "lycée Couffignal",
+    "effondrement",
+    "rectorat",
+    "sécurité scolaire",
+    "Strasbourg"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-26T17:23:18+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tram_A%2C_Eurotram_n%C2%B01062%2C_Couffignal.jpg/1280px-Tram_A%2C_Eurotram_n%C2%B01062%2C_Couffignal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kevin.B",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tram_A,_Eurotram_n%C2%B01062,_Couffignal.jpg",
+    "legende": "Eurotram n°1062 sur la ligne A du tramway de Strasbourg à la station Couffignal",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Tram A, Eurotram n°1062, Couffignal.jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. Mouvement lycéen : plafond effondré au lycée Couffignal, le rectorat réagit",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGFkWFp0MjFzS1haRFlwU0poc3pVeEtPcXdPWElMVVhCVzRmcVVSaHhIQks1VmtTdWoxclhvUnRPTjREMVNQT1haTmNnclRDUVlVU01kQkp6ZFpyNWx2TnY0MFFfMEo2TzJIN3VmQVEtVC1NWnB0Wl9oVENDR2xXckVOYmhPRjZhT1dSbzlwZ1J6SU9QVzRxN28xcw?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Mouvement lycéen : plafond effondré au lycée Couffignal, le rectorat réagit",
+      "url": "https://www.dna.fr/education/2026/11/26/plafond-effondre-au-lycee-couffignal-le-rectorat-reagit"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

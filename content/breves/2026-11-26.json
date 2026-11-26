@@ -299,5 +299,25 @@
     "titres_sources": [
       "Cris de singe et saluts nazis présumés : le PSG prend les accusations visant des supporters italiens «très au sérieux»"
     ]
+  },
+  {
+    "titre": "Deux techniciens italiens tués par des drones à Koweït",
+    "texte": "Une attaque de drones a visé une installation militaire koweïtienne où travaillaient deux techniciens de Rheinmetall Italia, qui ont été tués. L'Iran a nié toute responsabilité, selon les autorités italiennes.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T17:23:31+00:00",
+    "titres_sources": [
+      "Deux Italiens sont morts dans une attaque de drones au Koweït, annonce Rome",
+      "Au Koweït, deux techniciens Italiens tués par des drones iraniens"
+    ]
+  },
+  {
+    "titre": "Campbell Wright remporte le premier individuel de biathlon à Kontiolahti",
+    "texte": "L'Américain Campbell Wright a gagné l'individuel de la Coupe du monde de biathlon à Kontiolahti, première course de la saison. Le meilleur Français, Émilien Claude, s'est classé dans le Top 8, tandis qu'Éric Perrot a terminé onzième.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-26T17:23:31+00:00",
+    "titres_sources": [
+      "L'Américain Campbell Wright vainqueur surprise de la première course de la saison, l'individuel de Kontiolahti, les Bleus hors du coup",
+      "Biathlon : l'Américain Wright remporte la première course de la saison à Kontiolahti, Émilien Claude signe la meilleure performance française"
+    ]
   }
 ]

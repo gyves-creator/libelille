@@ -1,0 +1,38 @@
+{
+  "slug": "deux-nouvelles-gares-validees-pour-la-ligne-montpellier-perpignan",
+  "titre": "Deux nouvelles gares validées pour la ligne Montpellier‑Perpignan",
+  "chapeau": "Le comité de pilotage a confirmé le 17 novembre la création de deux gares sur la future ligne à grande vitesse entre Montpellier et Perpignan, situées respectivement dans le Biterrois et le Narbonnais. Les emplacements précis restent à définir, mais le projet s’inscrit dans le programme d’amélioration du réseau ferroviaire régional.",
+  "corps": "## Confirmation officielle des nouvelles gares\nLe 17 novembre, le comité de pilotage chargé du tracé de la nouvelle ligne à grande vitesse Montpellier‑Perpignan a validé l’ajout de deux gares intermédiaires. L’une sera implantée dans le département du Biterrois, l’autre dans celui du Narbonnais. Cette décision s’inscrit dans la phase d’avancement du projet, qui vise à renforcer la desserte du sud‑est de la France.\n\n## Emplacements encore à déterminer\nLes autorités n’ont pas communiqué les sites exacts où seront édifiées les nouvelles stations. Les études de localisation sont en cours, afin de concilier contraintes techniques, impact environnemental et accessibilité pour les usagers. Les habitants des zones concernées devront donc attendre de nouvelles informations avant de connaître les éventuelles modifications de leurs déplacements quotidiens.\n\n## Conséquences attendues pour les usagers\nBien que les détails opérationnels ne soient pas encore disponibles, la mise en service de ces gares devrait, à terme, offrir des correspondances supplémentaires et raccourcir les temps de trajet entre Montpellier et Perpignan. Les travaux de construction, qui suivront la définition des emplacements, pourraient entraîner des perturbations temporaires, notamment des fermetures partielles de voies ou des détours pour les circulations locales. Les usagers sont invités à suivre les annonces des services de transport et de la collectivité pour connaître les éventuelles déviations ou modifications d’horaires.\n\n## Prochaines étapes du projet\nLe processus de sélection des sites sera suivi d’études d’impact et de concertations avec les collectivités territoriales concernées. Une fois les emplacements validés, les phases de conception détaillée et de travaux pourront être lancées. Le calendrier global du projet n’a pas été précisé, et les dates de mise en service restent à confirmer.\n\nEn attendant, les autorités recommandent aux habitants de consulter régulièrement le site officiel de la région ou de contacter le service d’information du transport ferroviaire pour toute mise à jour relative aux travaux et aux éventuelles perturbations.",
+  "mots_cles": [
+    "ligne à grande vitesse",
+    "gares",
+    "Montpellier",
+    "Perpignan",
+    "Biterrois"
+  ],
+  "rubrique": "montpellier",
+  "publie_le": "2026-11-26T17:23:10+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Frederik_von_Scholten_-_Montpellier_and_Two_Friends._St._Croix.jpg/1280px-Frederik_von_Scholten_-_Montpellier_and_Two_Friends._St._Croix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Frederik von Scholten",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Frederik_von_Scholten_-_Montpellier_and_Two_Friends._St._Croix.jpg",
+    "legende": "The plantations Montpellier and Two Friends. St. Croix, Danish West Indies",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Frederik von Scholten - Montpellier and Two Friends. St. Croix.jpg"
+  },
+  "sources": [
+    {
+      "media": "Actualités et infos de Montpellier et sa région - À la une",
+      "titre": "Ligne nouvelle Montpellier-Perpignan : le scénario de deux nouvelles gares confirmé dans le Biterrois et le Narbonnais, mais des emplacements encore inconnus",
+      "url": "https://www.midilibre.fr/2026/11/26/ligne-nouvelle-montpellier-perpignan-le-scenario-de-deux-nouvelles-gares-confirme-dans-le-biterrois-et-le-narbonnais-mais-des-emplacements-encore-13672624.php"
+    },
+    {
+      "media": "Midi Libre",
+      "titre": "Ligne nouvelle Montpellier-Perpignan : le scénario de deux nouvelles gares confirmé dans le Biterrois et le Narbonnais, mais des emplacements encore inconnus",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPaVV0UEtDbi1iOU5ReURZY0NEY3VWVzg0NXpMZ2owbkZ2TWhQaUhwWWdTQnhlOWlTRE9lUGZWV2hCbC12Ty1ST2hOX3k2NFp3WTlRWDVKdWFqQzlsQU1GNDUtZVJaY18wMzdTOXdYdlZYem9mTEZuR0FUb25OU1BSMmpOTkgxZ2pwVXhOakRVVmVabFcwTEwzbmM4MXJZSEs5eVZOSlVyQlhwcTQ3OF9sY3JKaUxwdXAtQ0U0aHpQZGlFMUdmMm5LUHZDY2tzcHVtelJ1NFRmZ19hWFI5VFU4aGJSVGFOb3RTNms2ZC1PUFJyNnltV2NCRkcwRXpzbGlyTGp0cTRJeHVaYVUyZU9Qajg5NW5ySnhLRzNzQTNfaw?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
