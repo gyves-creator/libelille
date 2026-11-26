@@ -74,5 +74,24 @@
     "titres_sources": [
       "DIRECT. Sommet européen : les dirigeants de l'UE réunis à Bruxelles pour avancer sur le futur budget des 27 et l'aide à l'Ukraine"
     ]
+  },
+  {
+    "titre": "Un pétrolier chargé de diesel coule au large d'Ibiza, un marin décède",
+    "texte": "Un pétrolier transportant du diesel a sombré au large d'Ibiza, entraînant le sauvetage de ses 17 membres d'équipage. Un marin a été déclaré mort à l'hôpital d'Ibiza, les impacts environnementaux restent à évaluer.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T09:20:00+00:00",
+    "titres_sources": [
+      "Espagne : un pétrolier chargé de diesel coule au large d’Ibiza, faisant un mort",
+      "Un navire transportant jusqu'à 7 000 tonnes de diesel coule au large de l'île espagnole d'Ibiza, faisant un mort parmi les membres de l'équipage"
+    ]
+  },
+  {
+    "titre": "FCC autorise un million de satellites SpaceX, vise civilisation typeII",
+    "texte": "FCC a donné son feu vert à SpaceX pour déployer jusqu’à un million de satellites de calcul, qualifiant le projet de pas vers une civilisation de Kardashev de type II. L’autorité américaine indique que l’initiative pourrait exploiter la puissance solaire à grande échelle.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-26T09:20:00+00:00",
+    "titres_sources": [
+      "« Civilisation de Kardachev de type II » : en autorisant le million de satellites de SpaceX, la FCC vise toute la puissance du Soleil"
+    ]
   }
 ]
