@@ -167,5 +167,24 @@
     "titres_sources": [
       "DIRECT. Mobilisation des étudiants : \"Il faut que les blocages cessent, c'est inacceptable\", affirme Philippe Baptiste"
     ]
+  },
+  {
+    "titre": "Elon Musk promet deux actions SpaceX à chaque enfant américain",
+    "texte": "Elon Musk a annoncé sur X que chaque enfant aux États‑Unis recevra deux actions SpaceX, l’une de l’entreprise le mois prochain. Il précise que la seconde action, provenant de son fonds personnel, sera attribuée en juin 2027, sans préciser le mécanisme.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-26T12:46:33+00:00",
+    "titres_sources": [
+      "Elon Musk promet d’offrir deux actions de SpaceX à « chaque enfant » aux Etats-Unis",
+      "Elon Musk promet deux actions SpaceX à «chaque enfant en Amérique»"
+    ]
+  },
+  {
+    "titre": "Le directeur de l'ANSSI signale une menace cyber sans précédent",
+    "texte": "Le directeur de l’ANSSI a déclaré que la France se prépare à d’éventuels chocs face à un niveau de menace cyber sans précédent. Dans le podcast « Cybernation » de France Inter, les scénaristes ont pu pénétrer les locaux de l’agence.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-26T12:46:33+00:00",
+    "titres_sources": [
+      "Cybersécurité : “On se prépare potentiellement à des chocs”, déclare le directeur de l’Anssi qui évoque un “niveau de menace sans précédent”"
+    ]
   }
 ]
