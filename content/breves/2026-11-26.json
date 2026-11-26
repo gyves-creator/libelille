@@ -56,5 +56,23 @@
     "titres_sources": [
       "David Lisnard, Gabriel Attal, Raphaël Glucksmann... Journée de campagne au Salon des maires"
     ]
+  },
+  {
+    "titre": "Économie allemande apaise les tensions chez les jeunes apprentis",
+    "texte": "Selon les autorités, le système éducatif allemand fait face à des difficultés matérielles similaires à celles de la France. L’économie, en intégrant les apprentis et les élèves en formation technique, limiterait la montée des protestations chez les jeunes.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-26T08:08:36+00:00",
+    "titres_sources": [
+      "Pourquoi la jeunesse allemande n’est pas descendue davantage dans la rue"
+    ]
+  },
+  {
+    "titre": "Sommet européen à Bruxelles pour débloquer le budget et l’aide à l’Ukraine",
+    "texte": "Les chefs de l’Union européenne se seraient réunis à Bruxelles lors d’un sommet extraordinaire pour faire avancer le futur budget des 27 États membres et l’aide à l’Ukraine. Cette rencontre viserait à débloquer les discussions difficiles sur le financement communautaire.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T08:08:36+00:00",
+    "titres_sources": [
+      "DIRECT. Sommet européen : les dirigeants de l'UE réunis à Bruxelles pour avancer sur le futur budget des 27 et l'aide à l'Ukraine"
+    ]
   }
 ]
