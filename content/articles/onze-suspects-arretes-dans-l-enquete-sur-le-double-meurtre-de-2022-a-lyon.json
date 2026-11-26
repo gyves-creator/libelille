@@ -1,0 +1,38 @@
+{
+  "slug": "onze-suspects-arretes-dans-l-enquete-sur-le-double-meurtre-de-2022-a-lyon",
+  "titre": "Onze suspects arrêtés dans l’enquête sur le double meurtre de 2022 à Lyon",
+  "chapeau": "Une enquête longue et complexe a conduit les forces de l’ordre à intercepter onze personnes mises en cause dans le double meurtre du 14 juin 2022 à Lyon. La découverte d’un véhicule incendié et le suivi d’appels téléphoniques ont permis de retracer la piste des auteurs.",
+  "corps": "## Une investigation s’étalant sur plusieurs années\nLe 14 juin 2022, deux victimes ont été assassinées à Lyon, un fait qui a déclenché une vaste mobilisation des services de police. Les auteurs ont d’abord tenté de couvrir leurs traces en volant un véhicule, puis en le brûlant pour le rendre méconnaissable. Ce n’est qu’à la suite de la récupération du véhicule carbonisé que les enquêteurs ont pu identifier, grâce à des relevés de localisation téléphonique, les déplacements des suspects. Cette méthode de « bornage téléphonique » a constitué l’un des axes majeurs de l’enquête, décrite comme titanesque par les autorités.\n\n## Arrestation de onze personnes lors du procès de La Duchère\nLes investigations ont abouti à la mise en détention de onze individus, arrêtés dans le cadre du procès qui s’est tenu au quartier de La Duchère. Les autorités n’ont pas communiqué de détails supplémentaires sur les charges retenues contre chaque suspect, mais ils sont tous liés à l’affaire du double meurtre de 2022. Aucun nom de victime, de suspect mineur ou de témoin n’a été divulgué, conformément aux règles de protection de la vie privée.\n\n## Informations pratiques pour les habitants\nAucun bouleversement direct des services publics n’a été signalé à la suite de ces arrestations. Les habitants de Lyon sont invités à rester vigilants et à signaler tout comportement suspect aux forces de l’ordre. En cas d’urgence, le numéro national de la police reste le 17, et le site officiel de la ville (www.lyon.fr) propose des informations actualisées sur la sécurité publique et les procédures à suivre.\n\nCette avancée judiciaire illustre l’importance du travail de filature numérique et de la coopération entre les différentes unités de police pour résoudre des affaires complexes. Les investigations se poursuivent afin de clarifier l’ensemble des responsabilités liées à ce drame de 2022.",
+  "mots_cles": [
+    "double meurtre",
+    "Lyon",
+    "enquête",
+    "arrestations",
+    "La Duchère"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-26T07:32:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ain_Sud_Foot_-_La_Duch%C3%A8re_-_Jean-Christophe_Devaux.JPG/1280px-Ain_Sud_Foot_-_La_Duch%C3%A8re_-_Jean-Christophe_Devaux.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Ain_Sud_Foot_-_La_Duch%C3%A8re_-_Jean-Christophe_Devaux.JPG",
+    "legende": "Jean-Christophe Devaux is a former French professional footballer and a football coach. Here attending a 7th of Coupe de France de football 2014-2015 opposing Ain Sud Foot and La Duchère (two teams th",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Ain Sud Foot - La Duchère - Jean-Christophe Devaux.JPG"
+  },
+  "sources": [
+    {
+      "media": "Le Progrès",
+      "titre": "Lyon. Véhicule volé, bornage téléphonique : les dessous de la titanesque enquête qui a permis d’arrêter onze suspects au procès de la Duchère",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSk9mbTFjNUd5YmRTZy1vbWlaa2tnT3pQdzFUb0xRYnRibTY3Wm9FUmY5S2hvSkN3Uk85NVJLR2dxb0YwZ1JEQ2hfYk1JMmN0YzhxOGdBaXhoX2l1QzdpVU96Q25Zc2pidjVmeTlobnAzT3JPeUhycU83R2JubjlsbmFZRnZmWWM1a25ESndDdUU1eW5GSTRfNERNV2J5eTVPX1BPTzlXOFY2UUotbEVqZ3o3akF4WDBHVmJqdGFXSVBNMUxpSUlGODZFOE1ZblJ5clBKZlJlby14M09INlpiTjN6ajMxNUJVZGxkanhIdDhRU2wwYm9WZ0xRTnkwdmlaazhGUDlfNHdXNEUyQnB0ZmczVVJKdUZk?oc=5"
+    },
+    {
+      "media": "Le Progrès : info et actu nationale et régionale - Rhône, Loire, Ain, Haute-Loire et Jura | Le Progrès",
+      "titre": "Lyon. Véhicule volé, bornage téléphonique : les dessous de la titanesque enquête qui a permis d’arrêter onze suspects au procès de la Duchère",
+      "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/26/vehicule-vole-bornage-telephonique-les-dessous-de-la-titanesque-enquete-qui-a-permis-d-arreter-onze-suspects-au-proces-de-la-duchere"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

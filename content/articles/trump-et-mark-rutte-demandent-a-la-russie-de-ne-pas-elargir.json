@@ -1,0 +1,43 @@
+{
+  "slug": "trump-et-mark-rutte-demandent-a-la-russie-de-ne-pas-elargir",
+  "titre": "Trump et Mark Rutte demandent à la Russie de ne pas élargir",
+  "chapeau": "Donald Trump et le secrétaire général de l'OTAN, Mark Rutte, ont appelé la Russie à ne pas élargir le conflit en Ukraine, insistant sur la nécessité d'une résolution pacifique rapide. L'appel fait suite à une rencontre à huis clos dans la résidence du président américain en Floride, alors que les dirigeants européens s'apprêtent à débattre du budget et de l'aide à l'Ukraine.",
+  "corps": "## Un appel conjoint à Moscou\nLors d'une réunion confidentielle à la résidence du président des États-Unis en Floride, Donald Trump et Mark Rutte ont exprimé à la Russie l'importance de ne pas \"étendre la guerre\" en Ukraine. La déclaration, publiée par la Maison-Blanche, souligne que toute action élargissant le conflit, qu'elle soit délibérée ou involontaire, serait préjudiciable. Les deux responsables ont également rappelé la nécessité d'aboutir à une résolution pacifique du conflit dans les plus brefs délais.\n\n## Contexte du conflit et des négociations européennes\nLa guerre en Ukraine, qui dure depuis 2022, continue de mobiliser les institutions internationales. L'OTAN, dont le secrétaire général a récemment appelé à la retenue, soutient l'Ukraine militairement et diplomatiquement. Parallèlement, les chefs d'État de l'Union européenne s'apprêtent à entamer des discussions budgétaires, incluant le financement de l'aide à l'Ukraine, sans perspective d'accord immédiat. Ces pourparlers s'inscrivent dans un cadre plus large où les alliés occidentaux cherchent à concilier soutien à Kiev et maîtrise de l'escalade du conflit.\n\n## Réactions officielles et perspectives\nLa Maison-Blanche a communiqué que l'échange entre le président américain et le chef de l'OTAN visait à rappeler à Moscou les conséquences d'une éventuelle extension du théâtre des opérations. Aucun détail supplémentaire n'a été fourni quant aux mesures concrètes envisagées. Dans l'attente d'une réponse russe, les partenaires occidentaux maintiennent leurs efforts diplomatiques tout en préparant les prochaines étapes budgétaires au sein de l'UE, où l'aide à l'Ukraine reste un sujet sensible.\n\n## Enjeux futurs\nSi la Russie devait élargir le conflit, les implications sécuritaires et économiques seraient considérables, tant pour l'Europe que pour les États-Unis. L'appel de Trump et Rutte s'inscrit donc dans une stratégie visant à prévenir une escalade supplémentaire, tout en préparant les acteurs européens à des décisions budgétaires qui pourraient renforcer le soutien à l'Ukraine. La suite dépendra de la réaction de Moscou et de la capacité des institutions occidentales à maintenir une pression diplomatique coordonnée.",
+  "mots_cles": [
+    "Ukraine",
+    "Russie",
+    "Trump",
+    "OTAN",
+    "Mark Rutte"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-26T07:31:11+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Daniel Torok",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4_close_cropped).jpg",
+    "legende": "Official Presidential Portrait of President Donald J. Trump",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Official Presidential Portrait of President Donald J. Trump (2025) (3x4 close cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "Donald Trump et le secrétaire général de l'Otan, Mark Rutte, exhortent la Russie à ne pas \"étendre la guerre\" avec l'Ukraine",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-l-ukraine_8300721.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "EN DIRECT, guerre en Ukraine : Donald Trump et le secrétaire général de l’OTAN, Mark Rutte, exhortent Moscou à ne pas « étendre la guerre » avec Kiev",
+      "url": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-moscou-a-ne-pas-etendre-la-guerre-avec-kiev_6814183_3210.html"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "En direct : Trump et le chef de l'Otan exhortent Moscou à ne pas \"étendre la guerre\" avec l'Ukraine",
+      "url": "https://www.france24.com/fr/europe/20261126-en-direct-ukraine-russie-ue-sommet-aide-zelensky-poutine"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
