@@ -396,5 +396,25 @@
     "titres_sources": [
       "L’AFP dit avoir été visée par une cyberattaque qui paralyse l’une de ses plateformes de mise à disposition des dépêches et des images"
     ]
+  },
+  {
+    "titre": "Élections législatives anticipées en Espagne, Vox clé d'une coalition de droite",
+    "texte": "Les électeurs espagnols se rendront aux urnes dimanche pour élire une nouvelle assemblée. Le parti d’extrême droite Vox, en hausse, pourrait soutenir une coalition avec le parti conservateur, influençant la formation du gouvernement.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T20:13:57+00:00",
+    "titres_sources": [
+      "Espagne : L'extrême-droite aux portes du pouvoir ?",
+      "En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics"
+    ]
+  },
+  {
+    "titre": "L’Algérie accuse la France de maltraiter un agent consulaire",
+    "texte": "Algeria alleges that a French‑held consular officer, detained since 2025, was subjected to violent treatment. The diplomat, charged in April 2025 over the kidnapping of Algerian influencer Amir DZ, is said to have been mistreated.",
+    "rubrique": "international",
+    "publie_le": "2026-11-26T20:13:57+00:00",
+    "titres_sources": [
+      "L’Algérie accuse les autorités françaises d’avoir maltraité un agent consulaire détenu en France depuis 2025, critiquant une « démonstration hollywoodienne »",
+      "\"Notre compatriote a été violemment interpellé\" : l'Algérie accuse la France d'avoir maltraité un agent consulaire"
+    ]
   }
 ]
