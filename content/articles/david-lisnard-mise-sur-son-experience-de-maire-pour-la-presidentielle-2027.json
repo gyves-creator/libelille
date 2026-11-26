@@ -1,0 +1,33 @@
+{
+  "slug": "david-lisnard-mise-sur-son-experience-de-maire-pour-la-presidentielle-2027",
+  "titre": "David Lisnard mise sur son expérience de maire pour la présidentielle 2027",
+  "chapeau": "Le maire de Cannes, David Lisnard, se positionne comme candidat à la présidentielle en s’appuyant sur son mandat municipal. Il a également été confirmé à la tête de l’Association des maires de France, alors que ses adversaires le critiquent.",
+  "corps": "## Un parcours municipal mis en avant\nDavid Lisnard, actuellement maire de Cannes, a indiqué qu’il souhaitait valoriser son expérience de terrain dans le cadre de la campagne présidentielle. En tant que responsable d’une ville de la Côte d’Azur, il estime que la gestion locale offre des repères concrets pour aborder les enjeux nationaux. Cette démarche s’inscrit dans une tradition française où plusieurs candidats ont fait valoir leur mandat local comme preuve de compétence administrative.\n\n## Leadership au sein de l’Association des maires de France\nPar ailleurs, Lisnard a été confirmé à la tête de l’Association des maires de France, une organisation qui regroupe les élus locaux et qui intervient notamment sur les questions de décentralisation et de financement des collectivités. Cette fonction renforce sa visibilité au niveau national et lui permet de porter la voix des collectivités territoriales dans le débat public. Le rôle de l’association consiste à défendre les intérêts des communes auprès du gouvernement et du parlement.\n\n## Les critiques des adversaires\nAlors que son profil gagne en visibilité, le maire de Cannes fait l’objet de critiques de la part de certains opposants politiques. Les attaques portent sur la pertinence de son expérience municipale pour diriger le pays, ainsi que sur la façon dont il pourrait concilier les exigences locales et les responsabilités nationales. Aucun détail supplémentaire n’a été fourni sur le contenu de ces critiques.\n\n## Perspectives pour la campagne présidentielle\nEn vue du scrutin de 2027, les candidats sont appelés à présenter leurs programmes et à s’inscrire sur les listes électorales. Les modalités de vote, les dates clés et les conditions d’éligibilité sont détaillées sur le site officiel du service public. David Lisnard, en s’appuyant sur son mandat de maire et son rôle à la tête de l’Association des maires, cherche à se différencier en mettant l’accent sur une approche pragmatique et ancrée dans le quotidien des territoires. La suite de la campagne déterminera dans quelle mesure cette stratégie sera perçue comme un atout par l’électorat.",
+  "mots_cles": [
+    "David Lisnard",
+    "présidentielle 2027",
+    "maire de Cannes",
+    "Association des maires de France",
+    "campagne électorale"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-26T05:21:19+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/David_Lisnard.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Gilles Traverso",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Lisnard.png",
+    "legende": "David Lisnard, 1er adjoint au maire de Cannes, conseiller général et président du Palais des festivals et des congrès de Cannes",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:David Lisnard.png"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"C'est la confirmation de mon identité politique\" : comment David Lisnard compte utiliser son image de maire pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/c-est-la-confirmation-de-mon-identite-politique-comment-david-lisnard-compte-utiliser-son-image-de-maire-pour-la-presidentielle_8296046.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "lille-renverse-le-bayern-2-1-et-garde-le-cap-vers-les-barrages-de-la-ligue-des-c",
+  "titre": "Lille renverse le Bayern 2-1 et garde le cap vers les barrages de la Ligue des champions",
+  "chapeau": "Après avoir encaissé un but en première période, le LOSC a remporté une victoire de prestige 2-1 contre le Bayern Munich le 25 novembre. Ce succès, premier du club en phase de groupes, porte Lille à quatre points et le maintient en lice pour les barrages.",
+  "corps": "## Une remontée décisive\n\nLe match opposant le LOSC au Bayern Munich s’est soldé par une victoire 2-1 en faveur des Dogues. La première mi‑temps a été marquée par un but du club bavarois, laissant les Lillois menés 0-1 à la pause. La deuxième période a vu Lille réagir avec deux réalisations qui ont renversé le cours du jeu et permis de s’imposer sur le score final.\n\n## Conséquences pour le groupe\n\nCette victoire représente le premier succès de Lille en Ligue des champions cette saison. Elle porte le club à quatre points au classement du groupe, le maintenant à la 29ᵉ place mais encore en mesure d’accéder aux barrages, la phase éliminatoire qui suit la phase de groupes. Le résultat confirme que le LOSC conserve la possibilité de se qualifier pour les tours suivants, malgré un début de campagne difficile.\n\nLe Bayern Munich, tenancier d’un palmarès impressionnant en Europe, a vu son avance s’effacer, soulignant la compétitivité du groupe. Pour Lille, le succès offre un regain de confiance et renforce sa position dans la lutte pour les places de qualification, où chaque point compte.\n\n## Perspectives\n\nÀ l’issue de ce match, le LOSC se projette vers les prochains affrontements du groupe avec l’objectif de consolider son avance et d’accumuler les points nécessaires pour atteindre les barrages. La performance montre que le club peut rivaliser avec des équipes de haut niveau et que la qualification reste à portée de main si la dynamique actuelle se poursuit.\n\nLe groupe reste ouvert, chaque rencontre pouvant modifier le tableau des positions. Lille devra maintenir son niveau de jeu et capitaliser sur cette victoire pour espérer rejoindre la phase éliminatoire de la compétition.",
+  "mots_cles": [
+    "Ligue des champions",
+    "LOSC",
+    "Bayern Munich",
+    "qualification",
+    "barrages"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-26T05:21:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/LilleOSC_October1946.jpg/1280px-LilleOSC_October1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sports éclair",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:LilleOSC_October1946.jpg",
+    "legende": "This picture shows Roger Vandooren playing with Lille in a game against Strasbourg, on 27 October 1946, at Stade Jules-Lemaire.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:LilleOSC October1946.jpg"
+  },
+  "sources": [
+    {
+      "media": "Sport : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Tombeur du Bayern Munich, le Losc signe sa première victoire de la saison en Ligue des champions et se relance",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/tombeur-du-bayern-munich-le-losc-signe-sa-premiere-victoire-de-la-saison-en-ligue-des-champions-et-se-relance_8300349.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Ligue des champions : désastreux puis déchaîné, Lille renverse le Bayern Munich et reste en vie",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-le-reveil-de-lille-qui-s-offre-le-bayern-munich-et-signe-sa-premiere-victoire-20261125"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
