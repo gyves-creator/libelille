@@ -377,5 +377,24 @@
     "titres_sources": [
       "Zoé Carle, spécialiste de l’analyse du discours : « Les slogans politiques ont parfaitement le droit d’être outranciers »"
     ]
+  },
+  {
+    "titre": "Benjamin Urdapilleta met fin à sa carrière après le match USAP-La Rochelle",
+    "texte": "L'Argentin Benjamin Urdapilleta, meilleur marqueur du Top 14, a confirmé qu'il jouera son ultime rencontre ce samedi 28 novembre, lors du duel entre Perpignan et La Rochelle. Il mettra ainsi un terme à son contrat avec l'USAP.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-26T19:46:29+00:00",
+    "titres_sources": [
+      "Le meilleur marqueur de l'histoire du Top 14, Benjamin Urdapilleta, annonce sa retraite après un dernier match ce samedi 28 novembre",
+      "Top 14 : le vétéran perpignanais Benjamin Urdapilleta prendra sa retraite samedi à La Rochelle"
+    ]
+  },
+  {
+    "titre": "L'AFP subit une cyberattaque paralysant le site AFP Forum",
+    "texte": "L'Agence France-Presse a indiqué qu'une cyberattaque avait rendu indisponible son service AFP Forum, plateforme de diffusion de dépêches et d'images. Aucun indice n'a été fourni quant à l'identité des auteurs de l'intrusion.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-26T19:46:29+00:00",
+    "titres_sources": [
+      "L’AFP dit avoir été visée par une cyberattaque qui paralyse l’une de ses plateformes de mise à disposition des dépêches et des images"
+    ]
   }
 ]
