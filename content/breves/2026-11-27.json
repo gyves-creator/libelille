@@ -404,5 +404,23 @@
     "titres_sources": [
       "La mairie de Paris va augmenter de deux euros le prix du stationnement dans ses rues pour les \"non-résidents\" en avril 2027"
     ]
+  },
+  {
+    "titre": "Paris FC peut devancer le PSG en tête de Ligue 1 contre Brest",
+    "texte": "Le vendredi, le Stade Francis Le Blé accueillera le duel entre le Stade Brestois et le Paris FC, toutes deux à la recherche de leur quatrième victoire consécutive. Une victoire du Paris FC le placerait en tête du classement, devant le PSG.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T20:07:39+00:00",
+    "titres_sources": [
+      "EN DIRECT - Brest-Paris FC : le dauphin parisien peut passer leader de Ligue 1 devant le PSG"
+    ]
+  },
+  {
+    "titre": "Polémique en Allemagne sur le salaire de Jamal Musiala malade",
+    "texte": "Des dirigeants du Bayern Munich ont suscité la controverse en évoquant une réduction, voire suppression, du salaire du milieu offensif Jamal Musiala, atteint d’un dysfonctionnement neurologique. Le débat porte sur la prise en compte de la santé du joueur dans la politique salariale du club.",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T20:07:39+00:00",
+    "titres_sources": [
+      "Football : faut-il baisser le salaire d'un joueur malade ?"
+    ]
   }
 ]
