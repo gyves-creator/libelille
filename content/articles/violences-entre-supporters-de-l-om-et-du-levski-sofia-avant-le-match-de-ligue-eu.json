@@ -1,0 +1,38 @@
+{
+  "slug": "violences-entre-supporters-de-l-om-et-du-levski-sofia-avant-le-match-de-ligue-eu",
+  "titre": "Violences entre supporters de l'OM et du Levski Sofia avant le match de Ligue Europa",
+  "chapeau": "Des affrontements violents ont éclaté entre les supporters de l'Olympique de Marseille et du Levski Sofia à quelques minutes du coup d'envoi d'un match de Ligue Europa. Plusieurs blessés ont été évacués vers les services d'urgence.",
+  "corps": "## Contexte du match\nLe duel opposait l'Olympique de Marseille au club bulgare du Levski Sofia dans le cadre du troisième tour de qualification de la Ligue Europa. La rencontre, prévue à Marseille, rassemblait des supporters des deux équipes, dont certains étaient déjà présents dans la ville la veille du match.\n\n## Déroulement des affrontements\nDans les minutes qui précèdent le lancement de la partie, des échanges de projectiles ont été signalés dans les tribunes du stade. Les objets lancés ont touché des spectateurs, déclenchant des altercations entre les groupes de supporters marseillais et bulgares. Les forces de l'ordre sont intervenues rapidement pour tenter de contenir la situation, mais les violences se sont poursuivies suffisamment longtemps pour que plusieurs personnes soient blessées.\n\n## Conséquences immédiates\nLes blessés, issus tant des supporters de l'OM que de ceux du Levski Sofia, ont été pris en charge par les services médicaux présents sur le site et transportés à l'hôpital. L'évacuation vers les structures de soins a été effectuée en urgence, conformément aux protocoles de sécurité appliqués lors d'incidents de ce type. Aucun détail supplémentaire n'a été communiqué sur l'état de santé des victimes.\n\n## Répercussions sur le déroulement du match\nMalgré les troubles survenus en marge du coup d'envoi, le match a pu se tenir conformément au calendrier prévu. Les autorités sportives et les organisateurs du tournoi ont rappelé l'importance du respect des règles de sécurité et du comportement des supporters lors de rencontres internationales.",
+  "mots_cles": [
+    "Ligue Europa",
+    "supporters",
+    "violences",
+    "Marseille",
+    "Levski Sofia"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-27T05:20:38+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Stade_V%C3%A9lodrome_%2820150405%29.jpg/1280px-Stade_V%C3%A9lodrome_%2820150405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Hombrey",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Stade_V%C3%A9lodrome_(20150405).jpg",
+    "legende": "Stade Vélodrome, Marseille. Olympique Marseille contre Paris Saint-Germain, 31. journée de la saison 2014-2015 de Ligue 1.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Stade Vélodrome (20150405).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Sports",
+      "titre": "Des violents affrontements entre supporters de l'OM et du Levski Sofia en marge d'un match de Ligue Europa font plusieurs blessés",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/violents-incidents-entre-supporters-de-l-om-et-du-levski-sofia-juste-avant-la-rencontre-de-ligue-europa_8301924.html#xtor=RSS-3-%5Bsports%5D"
+    },
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Ligue Europa : plusieurs supporters bulgares blessés et évacués à l’hôpital… Soirée chaotique à Marseille",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europa-plusieurs-supporters-bulgares-blesses-et-evacues-a-l-hopital-soiree-chaotique-a-marseille-20261126"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "eric-zemmour-lance-sa-derniere-campagne-presidentielle",
+  "titre": "Eric Zemmour lance sa dernière campagne présidentielle",
+  "chapeau": "Le candidat du parti Reconquête a annoncé qu'il se présentera à l'élection présidentielle de 2027, en précisant qu'il s'agit de sa « dernière campagne ». Un sondage publié jeudi le situe à environ 3 % des intentions de vote, nettement derrière Marine Le Pen.",
+  "corps": "## Annonce officielle de la candidature\r\nLe représentant du parti d'extrême droite Reconquête a déclaré que sa participation à l'élection présidentielle de 2027 constituait sa dernière tentative pour accéder à la fonction de chef de l’État. Cette prise de parole intervient après que son inscription en lice a mis fin à la perspective d’une éventuelle candidature de Sarah Knafo, qui avait été évoquée comme possible remplaçante du parti.\r\n\r\n## Bilan des performances électorales\r\nLors du premier tour de la présidentielle de 2022, le même candidat s’était classé quatrième avec 7,07 % des suffrages exprimés. Les résultats de ce scrutin restent la référence la plus récente pour mesurer son poids électoral. Un sondage publié jeudi indique que son soutien actuel serait d’environ 3 % des intentions de vote, un écart important avec la candidate du parti d’extrême droite le mieux placé, Marine Le Pen, dont le niveau de popularité n’est pas précisé dans les données disponibles.\r\n\r\n## Contexte du scrutin de 2027\r\nLe calendrier électoral français prévoit que le premier tour de la présidentielle se tiendra en 2027, suivi d’un second tour si aucun candidat n’obtient la majorité absolue. Les électeurs inscrits sur les listes électorales pourront voter dans les bureaux de vote ou par correspondance, conformément aux modalités détaillées sur le site officiel du service public. Le système à deux tours favorise souvent des alliances entre les candidats arrivés en tête du premier tour afin de consolider leurs chances au second tour.\r\n\r\n## Perspectives et enjeux\r\nL’annonce d’une candidature qualifiée de « dernière campagne » suggère une volonté de clore le cycle politique du candidat, tout en cherchant à mobiliser ses partisans. La chute estimée de son taux de soutien, de plus de 7 % en 2022 à près de 3 % selon le sondage, reflète une dynamique d’évolution de l’opinion publique qui pourra être suivie de près dans les semaines à venir. Les observateurs soulignent que les sondages constituent des instantanés de l’opinion à un moment donné et ne préjugent pas des résultats définitifs du scrutin.\r\n\r\nLes prochains mois seront marqués par la campagne officielle, les débats télévisés et la diffusion de programmes électoraux, qui permettront aux électeurs d’évaluer les propositions de chaque candidat avant le vote.",
+  "mots_cles": [
+    "Eric Zemmour",
+    "Présidentielle 2027",
+    "Reconquête",
+    "sondage",
+    "candidature"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-27T05:20:33+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Paris_-_Salon_du_livre_2012_-_%C3%89ric_Zemmour_-_001.jpg/1280px-Paris_-_Salon_du_livre_2012_-_%C3%89ric_Zemmour_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Thesupermat",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Salon_du_livre_2012_-_%C3%89ric_Zemmour_-_001.jpg",
+    "legende": "Éric Zemmour en dédicace lors du salon du livre 2012.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Paris - Salon du livre 2012 - Éric Zemmour - 001.jpg"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html"
+    },
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
