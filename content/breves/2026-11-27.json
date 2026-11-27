@@ -90,5 +90,25 @@
     "titres_sources": [
       "Dark vous manque ? Voici Sonnental, la nouvelle série des mêmes créateurs qui devrait cartonner"
     ]
+  },
+  {
+    "titre": "Drone viole l’espace aérien letton, chasseurs OTAN déployés",
+    "texte": "Les forces armées lettones ont signalé qu’un drone a traversé brièvement leur espace aérien vendredi. En réponse, des avions de chasse de l’OTAN ainsi qu’un drone intercepteur ont été mobilisés.",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T09:46:59+00:00",
+    "titres_sources": [
+      "Un drone a brièvement violé l'espace aérien en Lettonie",
+      "EN DIRECT, guerre en Ukraine : la Lettonie fait état d’une violation de son espace aérien par un drone"
+    ]
+  },
+  {
+    "titre": "Le PIB français recule de 0,2 % au troisième trimestre 2026, selon l’Insee",
+    "texte": "L’Insee a révisé à la baisse sa prévision du troisième trimestre 2026, indiquant une contraction de 0,2 % du produit intérieur brut. Cette baisse confirme que la France entre en récession après deux trimestres consécutifs de recul.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-27T09:46:59+00:00",
+    "titres_sources": [
+      "La France entre en récession après deux trimestres de recul du PIB",
+      "Visualisez la croissance française en 2026"
+    ]
   }
 ]
