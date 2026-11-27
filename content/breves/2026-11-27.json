@@ -54,5 +54,23 @@
       "Le Black Friday c’est maintenant : on a trié les 100 meilleures offres de l’évènement et on continue d’en ajouter en direct",
       "Black Friday d’Amazon : le TOP 10 des offres à prix cassés"
     ]
+  },
+  {
+    "titre": "Les frappes américaines auraient affaibli l'opposition en Iran",
+    "texte": "Selon les économistes Sultan Mehmood et Leonard Wantchekon, les frappes américaines contre l’Iran auraient permis au régime de Téhéran de réduire la résistance intérieure. Ils rappellent le discours de François Mitterrand de 1990 pour souligner que la négociation reste préférable à la violence.",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T08:06:12+00:00",
+    "titres_sources": [
+      "Iran : « L’alternative aux bombardements n’est pas nécessairement l’indifférence »"
+    ]
+  },
+  {
+    "titre": "Le PIB français recule de 0,2% au troisième trimestre",
+    "texte": "L'Insee a revu à la baisse les comptes du troisième trimestre, indiquant une contraction de 0,2 % du produit intérieur brut. Les indicateurs provisoires montrent également que l'inflation a ralenti à 2,9 % en glissement annuel en novembre.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-27T08:06:12+00:00",
+    "titres_sources": [
+      "Le PIB recule de 0,2% en France au troisième trimestre, après une révision à la baisse de l'Insee"
+    ]
   }
 ]
