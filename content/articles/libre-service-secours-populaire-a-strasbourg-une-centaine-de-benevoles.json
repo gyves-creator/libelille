@@ -1,0 +1,38 @@
+{
+  "slug": "libre-service-secours-populaire-a-strasbourg-une-centaine-de-benevoles",
+  "titre": "Libre-service Secours populaire à Strasbourg, une centaine de bénévoles",
+  "chapeau": "Le libre-service de Noël du Secours populaire a ouvert ses portes au 5 rue Jean-Henri-Lambert à Strasbourg grâce à une centaine de volontaires. Les habitants du quartier peuvent ainsi profiter d’un espace dédié à la convivialité pendant les fêtes.",
+  "corps": "## Un dispositif solidaire pour les fêtes\nLe Secours populaire, association française d’aide aux personnes en difficulté, a installé un point de libre-service dédié à la période de Noël dans le 5e arrondissement de Strasbourg. Situé au 5 rue Jean-Henri-Lambert, ce lieu permet aux habitants du quartier d’accéder à des produits et services offerts sans contrepartie financière. L’ouverture du dispositif coïncide avec les premiers jours de la saison des fêtes, période pendant laquelle la solidarité locale est particulièrement sollicitée.\n\n## Le rôle des bénévoles\nEnviron cent personnes se sont mobilisées pour préparer le site. Leur mission a consisté à trier les dons, assurer le nettoyage des espaces et accueillir les usagers. Au-delà des tâches logistiques, les volontaires soulignent l’importance de la sociabilité et de la bonne ambiance qui se dégagent de ce lieu. Selon les organisateurs, le libre-service ne se limite pas à la distribution de biens : il crée également un cadre d’échange où les résidents peuvent se rencontrer et partager un moment convivial.\n\n## Un accès facilité pour les résidents\nLe point de libre-service est ouvert aux habitants du quartier sans restriction d’âge ou de condition particulière. Les usagers sont invités à se présenter directement sur place, où le personnel bénévole les guide dans le processus de prise des articles. Aucun frais d’inscription n’est requis, et les produits proposés sont destinés à répondre aux besoins de base pendant la période de Noël.\n\n## Informations pratiques\nAdresse : 5 rue Jean-Henri-Lambert, Strasbourg (5e arrondissement). Le service est accessible pendant les heures d’ouverture habituelles du Secours populaire, informations disponibles sur le site officiel de la structure ou auprès de la mairie de Strasbourg. En cas de besoin d’assistance ou pour connaître les éventuelles modalités de participation, les résidents peuvent contacter le service d’information de la mairie au 09 72 55 55 55.\n\nLe libre-service du Secours populaire représente ainsi un maillon supplémentaire du réseau d’entraide locale, renforcé par l’engagement d’une centaine de bénévoles qui offrent à la communauté un espace de partage et de soutien pendant les fêtes de fin d’année.",
+  "mots_cles": [
+    "Strasbourg",
+    "Secours populaire",
+    "bénévoles",
+    "libre-service",
+    "Noël"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-27T17:20:41+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Secours_Populaire_Francais_in_Post-Katrina_New_Orleans.jpg/1280px-Secours_Populaire_Francais_in_Post-Katrina_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ioerror",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Secours_Populaire_Francais_in_Post-Katrina_New_Orleans.jpg",
+    "legende": "Secours Populaire Francais are amazing. They brought an entire truck full of equipment!",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Secours Populaire Francais in Post-Katrina New Orleans.jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. Libre-service du Secours populaire : pourquoi certains se portent bénévoles ?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0I3T2YwWm9BVndOYTd1N21sNWpkalJNZDExQXdUWGk0VjJVS3FvMVJRelJUamZCTml0OTN6QTNVSzNuNlZpdlZ0VEo2S1h6UEZvYWhwYmt5dEhGRjltVHpVdzZCTEhyQ3VVS1RXX29tYTRVLVpybm1kZjZDYTF2Q0RjZG9CVU5XSXB4a1djejh2LTdWOEZ2VVd4ZGl3dHpaZDFNNUpqSU9DNnY5NnRpWE13?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Libre-service du Secours populaire : pourquoi certains se portent bénévoles ?",
+      "url": "https://www.dna.fr/economie/2026/11/27/libre-service-du-secours-populaire-pourquoi-certains-se-portent-benevoles"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
