@@ -16,5 +16,23 @@
     "titres_sources": [
       "Donald Trump dit souhaiter que Vladimir Poutine \"mette fin à toute agression militaire\" en Europe"
     ]
+  },
+  {
+    "titre": "RT lance un chroniqueur IA à l'image de Dostoïevski",
+    "texte": "La chaîne russe RT a présenté une représentation générée par IA de Fyodor Dostoïevski comme nouveau chroniqueur politique permanent. Cette initiative s’inscrit dans la propagande liée à la guerre du président Vladimir Poutine.",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T06:41:28+00:00",
+    "titres_sources": [
+      "Vladimir Poutine enrôle Dostoïevski dans sa guerre"
+    ]
+  },
+  {
+    "titre": "Le Brésil conteste les accusations de Macron sur la viande dopée",
+    "texte": "Le gouvernement brésilien a dénoncé les propos du président français Emmanuel Macron qualifiant la viande du pays de « dopée ». Macron avait salué la suspension, depuis septembre, des importations brésiliennes décidée par l’Union européenne pour manque de garanties sanitaires.",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T06:41:28+00:00",
+    "titres_sources": [
+      "Le Brésil déplore les propos d'Emmanuel Macron sur la viande brésilienne \"dopée\""
+    ]
   }
 ]
