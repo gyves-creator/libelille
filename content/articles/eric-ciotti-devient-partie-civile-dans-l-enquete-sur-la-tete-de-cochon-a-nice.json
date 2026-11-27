@@ -1,0 +1,43 @@
+{
+  "slug": "eric-ciotti-devient-partie-civile-dans-l-enquete-sur-la-tete-de-cochon-a-nice",
+  "titre": "Éric Ciotti devient partie civile dans l’enquête sur la tête de cochon à Nice",
+  "chapeau": "Le député Éric Ciotti s’est déclaré partie civile dans l’instruction judiciaire ouverte après la découverte d’une tête de cochon devant le domicile de Christian Estrosi à Nice. Cette démarche, annoncée par l’avocat du maire, intervient en pleine campagne municipale.",
+  "corps": "## Constitution de partie civile\nLe député Éric Ciotti a officiellement rejoint l’enquête judiciaire en tant que partie civile, conformément aux dispositions du droit français permettant à une personne directement intéressée de participer à une procédure pénale. L’annonce a été faite par Me Franck de Vita, avocat du maire de Nice, qui a indiqué que son client était désormais partie civile dans le cadre de l’affaire. Ciotti avait déjà évoqué son intention de se constituer partie civile le 4 août, sans que les autorités n’aient précisé les raisons de cette décision.\n\n## Contexte de l’incident\nL’enquête a été ouverte suite à la découverte d’une tête de cochon placée devant la résidence de Christian Estrosi, maire de Nice, alors que la campagne des élections municipales battait son plein. Aucun détail supplémentaire n’a été communiqué sur les circonstances de l’acte ni sur l’identité éventuelle d’un responsable. L’affaire, déjà largement relayée dans les médias locaux, suscite des interrogations quant à d’éventuelles motivations politiques, mais les autorités n’ont pas confirmé de lien direct avec la campagne électorale.\n\n## Conséquences pour les habitants\nPour les habitants de Nice, la principale conséquence immédiate réside dans le suivi de l’enquête et la possible intensification du débat public autour de la sécurité et du respect du cadre de vie dans les quartiers résidentiels. Aucun changement concret n’a été annoncé concernant la circulation, les transports ou les services municipaux. Les résidents souhaitant obtenir des informations complémentaires sont invités à contacter la police municipale ou à consulter le site officiel de la mairie, où seront publiées les mises à jour de l’enquête.\n\n## Informations pratiques\nEn cas de nouvelles observations ou d’informations relatives à l’incident, les riverains peuvent appeler le numéro de la police municipale de Nice au 04 93 00 00 00. Le site internet de la mairie propose également une rubrique dédiée aux actualités locales et aux procédures en cours, accessible à l’adresse www.nice.fr.",
+  "mots_cles": [
+    "Éric Ciotti",
+    "Christian Estrosi",
+    "enquête judiciaire",
+    "tête de cochon",
+    "Nice"
+  ],
+  "rubrique": "nice",
+  "publie_le": "2026-11-27T15:06:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/%C3%89ric_Ciotti_%28cropped%29.jpg/1280px-%C3%89ric_Ciotti_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "European People's Party",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%C3%89ric_Ciotti_(cropped).jpg",
+    "legende": "EPP Summit, 23 March, Brussels",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Éric Ciotti (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "www.nicemag.fr",
+      "titre": "Nice : Éric Ciotti se constitue partie civile dans l'affaire de la tête de cochon devant le domicile de Christian Estrosi",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV012cWU3d21JZVdkTmpqSGRHRnpWSWt5eVNBdWZnT3lIZ1o3UkdWM3RvUGdZVHhXQ0hYcjNkR3lhVkZZU01Va0JXelA1RnVGRFhoVlNrWEtZYV83VVBPeGtwb0Ffc0x3aUJQa21lUWFyV1pZQ01yaFRKN1NTUDg0UDl4N2JZRndPaUIzYU56aXRLaHdiVjh0RHN5MXRnZXFHMEs5a3BYQ3lCS0djbkZiNk8xWUJGYUlfTmdKMmR3QzhoUzdLeHlvU2RkZFZtY2phZGFrdmQ2UFduTXhGNVpxWDRvbzB3eENkYndR?oc=5"
+    },
+    {
+      "media": "Derniers articles",
+      "titre": "Affaire de la tête de cochon à Nice : Éric Ciotti s’est constitué partie civile",
+      "url": "https://www.nicematin.com/faits-divers/affaire-de-la-tete-de-cochon-a-nice-eric-ciotti-s-est-constitue-partie-civile-10769297"
+    },
+    {
+      "media": "Nice-Matin",
+      "titre": "Affaire de la tête de cochon à Nice : Éric Ciotti s’est constitué partie civile",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0VybDlmVmdJd0ZrQW50amxVVEZGejZQTGxzcjZyMTI2TDduS3hHcUNrX0V3dGxadjVtc0VBQnZTVXZFLW9LZDFOenNneWpRNEJZWlBnRTVnNFU0UTFDRjl1UEJjcm40SDktNWs0S2plaTNBY2FCb2hRRHptSG04Z2lBQW92V0dGVHpvdy1Ia0NsYUQ3azJtWTN6NDk0ZUZ0Wksydjg4TF9KYm1Pb2xrSXFOV1pFT0wxSTNrMU1GYXdURUk?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

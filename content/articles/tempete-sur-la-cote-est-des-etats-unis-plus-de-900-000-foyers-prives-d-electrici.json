@@ -1,0 +1,38 @@
+{
+  "slug": "tempete-sur-la-cote-est-des-etats-unis-plus-de-900-000-foyers-prives-d-electrici",
+  "titre": "Tempête sur la côte est des États-Unis : plus de 900 000 foyers privés d'électricité le jour de Thanksgiving",
+  "chapeau": "Une violente tempête a frappé la côte est des États-Unis le jeudi 26 novembre, jour du Thanksgiving. Près de neuf cent mille foyers se sont retrouvés sans courant et de nombreux vols ont été annulés, perturbant les retrouvailles familiales.",
+  "corps": "## Des coupures d'électricité massives\n\nUne déferlante de vents violents, de fortes pluies et d’inondations côtières a balayé l’est du pays le jour du Thanksgiving. Les services d’électricité ont signalé que près de 900 000 foyers se sont retrouvés sans alimentation, laissant de nombreuses familles dans l’obscurité alors même qu’elles se préparaient à célébrer la fête traditionnelle. Les dégâts matériels, décrits comme impressionnants, ont été aggravés par la combinaison de la pluie torrentielle et des vents capables de déraciner des arbres et d’endommager les lignes électriques.\n\n## Perturbations du transport aérien\n\nLes conditions météorologiques ont entraîné l’annulation de plusieurs centaines de vols, affectant les aéroports de la côte est. Cette suspension massive a empêché de nombreux Américains de rejoindre leurs proches pour le repas de Thanksgiving, accentuant le sentiment d’isolement provoqué par les coupures de courant. Les compagnies aériennes ont indiqué que la sécurité des passagers demeurait la priorité, justifiant ainsi les annulations.\n\n## Contexte et répercussions\n\nLe Thanksgiving, célébré le quatrième jeudi de novembre, constitue l’une des plus importantes fêtes familiales aux États-Unis. Les déplacements en avion et en voiture sont habituellement très fréquents à cette période, les familles profitant du long week‑end pour se réunir. La tempête du 26 novembre vient s’ajouter à une série d’événements météorologiques récents, la côte ouest ayant déjà été touchée par des conditions similaires en Californie.\n\nLes autorités locales et les services d’urgence ont été mobilisés pour rétablir le courant et sécuriser les zones inondées. Les équipes de réparation travaillent en continu, mais la restauration complète de l’électricité pourrait prendre plusieurs jours, selon l’ampleur des dommages aux réseaux. Aucun bilan de victimes n’a été communiqué à ce stade.\n\n## Perspectives\n\nAlors que les prévisions météorologiques indiquent une accalmie progressive, la priorité reste la remise en service des infrastructures essentielles et la prise en charge des populations affectées. Les habitants de la côte est sont invités à suivre les consignes de sécurité et à rester informés des évolutions de la situation via les canaux officiels.",
+  "mots_cles": [
+    "tempête",
+    "côte est",
+    "coupure d'électricité",
+    "Thanksgiving",
+    "annulations de vols"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-27T15:06:13+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/February_5%E2%80%936%2C_2010_North_American_blizzard_in_Washington%2C_D.C._05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Make Lemons",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:February_5%E2%80%936,_2010_North_American_blizzard_in_Washington,_D.C._05.jpg",
+    "legende": "February 5–6, 2010 North American blizzard in Washington, D.C.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:February 5–6, 2010 North American blizzard in Washington, D.C. 05.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "La côte est des États-Unis paralysée par une tempête en plein Thanksgiving",
+      "url": "https://www.franceinfo.fr/monde/usa/la-cote-est-des-etats-unis-paralysee-par-une-tempete-en-plein-thanksgiving_8303205.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Tempêtes aux Etats-Unis : plus de 900 000 foyers sans électricité sur la Côte est le jour de Thanksgiving",
+      "url": "https://www.lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

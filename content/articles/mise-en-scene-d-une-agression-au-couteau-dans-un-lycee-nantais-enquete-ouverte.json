@@ -1,0 +1,38 @@
+{
+  "slug": "mise-en-scene-d-une-agression-au-couteau-dans-un-lycee-nantais-enquete-ouverte",
+  "titre": "Mise en scène d'une agression au couteau dans un lycée nantais, enquête ouverte",
+  "chapeau": "Une agression au couteau, jugée mise en scène, a eu lieu dans un lycée de Nantes, faisant un élève blessé. Les autorités ont ouvert une enquête pour déterminer les circonstances exactes de l'incident.",
+  "corps": "## Un incident signalé dans un établissement scolaire de Nantes\nLe 27 novembre 2026, un incident qualifié de \"mise en scène\" d'une agression au couteau a été signalé dans un lycée de la métropole nantaise. Un élève a été blessé lors de cet épisode, bien que les circonstances restent floues. Les services de police ont immédiatement été dépêchés sur les lieux et ont lancé une enquête afin d'établir les responsabilités et le motif de la mise en scène.\n\n## Enquête et premières mesures prises\nLes enquêteurs ont ouvert un dossier afin de recueillir les témoignages, analyser les vidéos de surveillance et vérifier les éventuelles motivations derrière l'événement. Aucun suspect n'a été identifié publiquement et aucune accusation formelle n'a été formulée à ce stade. L'enquête se poursuit conformément aux procédures habituelles lorsqu'une agression potentielle implique une arme blanche dans un cadre éducatif.\n\n## Contexte de la sécurité dans les établissements scolaires français\nLes établissements d'enseignement secondaire en France sont soumis à des protocoles de sécurité renforcés depuis plusieurs années, notamment à la suite de faits divers impliquant des armes blanches ou à feu. Les lycées disposent de plans d'évacuation, de dispositifs d'alerte et d'une coopération étroite avec les forces de l'ordre. Lorsqu'un incident de ce type se produit, la priorité est de garantir la protection des élèves et du personnel, de sécuriser les locaux et d'informer les familles dans le respect de la vie privée des personnes concernées.\n\n## Conséquences pratiques pour les habitants et les usagers\nAucun renseignement n'a été communiqué concernant une éventuelle fermeture du lycée, une perturbation des transports scolaires ou la mise en place de déviations routières. Les résidents du quartier sont invités à suivre les consignes éventuelles diffusées par la mairie ou le rectorat, notamment en consultant le site internet de la préfecture ou le numéro d'information dédié à la sécurité scolaire. En cas de besoin, le numéro d'urgence 17 reste disponible pour signaler tout incident lié à la sécurité publique.\n\nL'enquête se poursuivra afin de clarifier les motivations de cet acte et de déterminer les suites judiciaires éventuelles. Les autorités réaffirment leur engagement à assurer la sécurité dans les établissements scolaires et à prévenir toute récidive.",
+  "mots_cles": [
+    "agression au couteau",
+    "lycée",
+    "Nantes",
+    "enquête",
+    "sécurité scolaire"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-27T15:06:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nantes_tram_2022_1.jpg/1280px-Nantes_tram_2022_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Smiley.toerist",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nantes_tram_2022_1.jpg",
+    "legende": "Tram in Nantes",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Nantes tram 2022 1.jpg"
+  },
+  "sources": [
+    {
+      "media": "France 3 Régions",
+      "titre": "Une enquête a été ouverte après la \"mise en scène\" d'une agression au couteau dans un lycée de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMUtCaHN1QW5fdzJYVkVabVRxXzZaRFFLOXZRX2hMejdtWHFUVkMxaEh2WDhBZlQ5U1lXblpfQjhzM2RYYlVUaFVnZklUa1U1M1RnNy1sRGExbVRSYkhEa1dFZmszRERzVjFaNzNRSXpyb05GVlNTODVRS0h2OGdMV0Fub1Zxcmd2M3F2eDFLNVlDLUVQbXhlQzFfMzBHc3JIQWJBWlByQ2s0c2Q3RjhsTDY0dXZPeVRwUUVxeGVqMzBBTHUxR2tfTFlYeEUzYjREb0Z5VDd1WEVEMlJjZlVTanh5NXNnWEFPdUdWMmkzTFhYM0JMUjN3dzN0OXY2ODZsTEJKcjNBbHd6N09QbWYxZFhMdW9WRkJsM0Rv?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Une agression au couteau \"mise en scène\" dans un lycée, un élève blessé à Nantes",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdEo4YUNGTzJtQTZXLUk5TzItSXZZa1lkbWM0Zi1FWm1hWnl6UFFtY1ZsNWtMY09zWEpNcktUQm5PTGdEemxzVkszN29aaWw3NjZPNFR2aHNtYmlFdk5EVU1OMjhVWWo5YmhkOFRJZ2REZTVXNVFvSURrVXp3aGlkRzdONTlBY2QxaWlIb3hYUkVyenpIRHRQV1c1WTZGNEFCaFJ1VmxuR2VGcjNNOE1nT2h3NHFEQjhsbk5nZ3dkY3hXellHa0UweTljNEcwUU55cEY4?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
