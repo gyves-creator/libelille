@@ -459,5 +459,24 @@
     "titres_sources": [
       "«Le bilan de plus de 10 ans de macronisme» : la France en récession, plusieurs candidats à la présidentielle étrillent Emmanuel Macron"
     ]
+  },
+  {
+    "titre": "S&P menace de dégrader la note souveraine de la France",
+    "texte": "L'agence de notation S&P indiquerait, dans une perspective négative, que la note de la dette française pourrait être dégradée à moyen terme, en raison de perspectives de croissance affaiblies et d'un déficit préoccupant. Cette éventuelle révision viserait à refléter les risques perçus par les investisseurs.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-27T21:37:39+00:00",
+    "titres_sources": [
+      "L'agence de notation Standard & Poor's menace de dégrader prochainement la note de la France",
+      "L’agence S&P menace de dégrader encore la note de la France, entrée en récession"
+    ]
+  },
+  {
+    "titre": "Sécurité des objets connectés : montres et robots caméras sous le feu",
+    "texte": "Des experts alertent que la montre connectée, présentée comme un cadeau de fin d'année, ainsi que les robots caméras, pourraient recueillir des données personnelles via la box qui les alimente. Cette situation soulèverait des questions de sécurité pour les utilisateurs.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-27T21:37:39+00:00",
+    "titres_sources": [
+      "Robots, caméras... Alerte sur la sécurité de nos objets connectés"
+    ]
   }
 ]
