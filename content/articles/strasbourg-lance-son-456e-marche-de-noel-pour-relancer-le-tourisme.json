@@ -1,0 +1,38 @@
+{
+  "slug": "strasbourg-lance-son-456e-marche-de-noel-pour-relancer-le-tourisme",
+  "titre": "Strasbourg lance son 456e marché de Noël pour relancer le tourisme",
+  "chapeau": "Le marché de Noël de Strasbourg ouvre ses portes aujourd’hui, marquant la 456e édition de l’événement. Les commerçants et les autorités locales espèrent ainsi attirer de nouveau les visiteurs pendant la période hivernale.",
+  "corps": "## Ouverture officielle du marché\nLe traditionnel marché de Noël s’installe dans le centre historique de Strasbourg, principalement autour des places Broglie et Kléber. L’événement, qui débute ce jour, est présenté comme le principal attrait touristique de la ville pour la saison des fêtes. Un visiteur a décrit l’ambiance en ces lieux comme « c'est absolument magnifique, je n'ai pas de mots pour l'expliquer ».\n\n## Attentes économiques et touristiques\nLes responsables municipaux soulignent le rôle crucial du marché dans le dynamisme économique local. Chaque année, des milliers de touristes affluent pour découvrir les chalets, les spécialités alsaciennes et les illuminations, générant des retombées significatives pour les commerçants, les restaurateurs et les hébergements. Cette 456e édition intervient alors que la ville cherche à compenser la baisse d’activité observée durant les mois précédents.\n\n## Consignes pratiques pour les habitants\nAfin de garantir la sécurité et la fluidité du trafic, la mairie recommande aux automobilistes d’utiliser les transports en commun ou les parkings périphériques, les rues adjacentes aux places étant partiellement réservées aux piétons. Les services de police et de sécurité municipaux assurent une présence renforcée pour gérer les flux de visiteurs. Les résidents sont invités à signaler tout incident au numéro d’urgence local et à consulter le site officiel de la ville pour les informations relatives aux déviations éventuelles.\n\n## Perspectives pour la saison des fêtes\nLe marché restera ouvert jusqu’à la mi-décembre, offrant aux habitants et aux touristes un programme d’animations, de concerts et de spectacles de rue. Les organisateurs espèrent que cette édition renforcera la réputation de Strasbourg comme capitale de Noël, tout en soutenant l’activité commerciale pendant la période hivernale.",
+  "mots_cles": [
+    "Strasbourg",
+    "marché de Noël",
+    "tourisme",
+    "commerce",
+    "hiver"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-27T16:15:00+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/27_Quai_des_Bateliers_%28Strasbourg%2C_2014%29.jpg/1280px-27_Quai_des_Bateliers_%28Strasbourg%2C_2014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "JoachimKohler-HB",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:27_Quai_des_Bateliers_(Strasbourg,_2014).jpg",
+    "legende": "The upper floors of the house at 27 Quai des Bateliers in Strasbourg, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:27 Quai des Bateliers (Strasbourg, 2014).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo",
+      "titre": "Strasbourg compte sur son marché de Noël, qui ouvre aujourd'hui, pour faire revenir les touristes",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQUNfT1hSbm1HX1J4OFZXU19GVW81aU1sS0RWT3A1TjhXLXU4aWYzVW5pMER0bEV2M29acC1wT2Y1SzkwQTU2dG5WR1A2UGlMVDROOGV5THVQbV9GQ1Ntb0tPQWdmNzJFOFBNOUxnV3ZDaVdFOTVaX25vYl9rTGdydm1wRklBYjNfLWxJZWNZdkRJM3VtRl9ndFJ0dWtWY0RUODJINVNXQ29Cd1kwWjlrdWZkemR1X3o4bTRzYmRYTE03dzhndVNPYmFfV3FUZmd4ZjRaOHUtaURqVDBwRHNSd2p1SjM?oc=5"
+    },
+    {
+      "media": "France 3 Régions",
+      "titre": "Le 456e marché de Noël de Strasbourg ouvre ses portes, \"c'est absolument magnifique, je n'ai pas de mots pour l'expliquer\"",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQamdoX21STGlmZEtqdTBCeWJNRVpiUlRpNnhjRWV0TTNaLVJSLTIySnhZbjl6ay1RV0xCOHRnb1hnYzBuVFRDdUxDdnR5SDdfNDV6STUtaWl2YWN4ZUswSXI3bUlnT1B1TmJOWU9rTzNJZk9qY1pzQ2gyaWJvU1NGeHpYY1RVNHNPamd3d3hwTHNzUlJBejRqOUx6UWlob25ZRTlqaGZENmFNNVJCUndJSmRLcnB1MkgxQ01hOGlma2kxbVRFU09OUGpyU2VDRmpIbUNMNXoxNTBTLVl2MTlTaXIwUzYyYmFQbXVWdnV6cTdURjYzM3lzNmt4bUVWakJvS2RNRkhlWWR2WUkyZDM2WU9nMXM?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

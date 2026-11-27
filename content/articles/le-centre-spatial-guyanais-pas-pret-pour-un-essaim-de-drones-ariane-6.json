@@ -1,0 +1,32 @@
+{
+  "slug": "le-centre-spatial-guyanais-pas-pret-pour-un-essaim-de-drones-ariane-6",
+  "titre": "Le Centre spatial guyanais pas prêt pour un essaim de drones Ariane 6",
+  "chapeau": "Le Centre spatial de Kourou reconnaît ne pas être équipé pour contrer un essaim de drones lors du lancement d’Ariane 6. Il mise sur un brouilleur militaire et une zone d’exclusion aérienne étendue, tout en jugeant non urgente l’adoption de systèmes laser.",
+  "corps": "## Un dispositif de protection limité\nLe responsable de la protection du Centre spatial guyanais a indiqué que les moyens actuels ne permettent pas d’intercepter un nuage de petits aéronefs hostiles. La déclaration, formulée lors d’une réunion interne, précise que « On n'est pas du tout paré à faire ça ». Aucun système laser n’est prévu pour neutraliser ces engins, contrairement à certaines installations américaines comme Cap Canaveral.\n\n## Les alternatives retenues\nFace à ce manque de capacité, la stratégie adoptée repose sur deux piliers. D’une part, un brouilleur militaire est déployé pour perturber les communications des drones susceptibles de pénétrer la zone. D’autre part, une zone interdite de survol, dont la superficie peut s’étendre jusqu’à quatre fois celle de la base, a été mise en place pour éloigner les aéronefs non autorisés du périmètre de lancement. Ces mesures sont jugées suffisantes par la direction du site, qui estime que le risque d’une attaque en essaim ne justifie pas, à ce jour, l’investissement dans des technologies laser.\n\n## Contexte du lancement d’Ariane 6\nAriane 6 est le nouveau lanceur européen destiné à remplacer Ariane 5, avec des missions prévues depuis le Centre spatial guyanais, situé à Kourou en Guyane française. Le site, exploité par le CNES et l’ESA, constitue le point de départ de la plupart des lancements de satellites européens. La sécurité du périmètre est donc cruciale, d’autant plus que les menaces aériennes évoluent avec la prolifération de drones civils et militaires. Les autorités du centre surveillent ces évolutions, mais, pour l’instant, elles ne considèrent pas indispensable d’équiper le site de systèmes laser de défense.\n\n## Perspectives\nL’absence de préparation spécifique contre un essaim de drones laisse la porte ouverte à d’éventuelles réévaluations des besoins en matière de défense aérienne. Le centre continue de collaborer avec les forces armées françaises pour renforcer le brouillage et la délimitation de l’espace aérien. Toute décision d’introduire de nouvelles technologies, comme les lasers, devra être prise en fonction de l’évolution du risque perçu et des moyens budgétaires disponibles.",
+  "mots_cles": [
+    "Centre spatial guyanais",
+    "Ariane 6",
+    "drones",
+    "sécurité aérienne"
+  ],
+  "rubrique": "tech",
+  "publie_le": "2026-11-27T16:14:40+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Centre_Spatial_Guyanais_%2846886212831%29.jpg/1280px-Centre_Spatial_Guyanais_%2846886212831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "mike from New York, NY, US",
+    "licence": "CC BY-SA 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Centre_Spatial_Guyanais_(46886212831).jpg",
+    "legende": "Entrée du Centre spatial guyanais avec la maquette du lanceur Ariane 5",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Centre Spatial Guyanais (46886212831).jpg"
+  },
+  "sources": [
+    {
+      "media": "Numerama",
+      "titre": "Un essaim de drones qui attaque Ariane 6 ? Le Centre spatial guyanais « n’est pas du tout paré », mais ne voit pas l’urgence de passer aux lasers",
+      "url": "https://www.numerama.com/tech/2386469-un-essaim-de-drones-qui-attaque-ariane-6-le-centre-spatial-guyanais-nest-pas-du-tout-pare-mais-ne-voit-pas-lurgence-de-passer-aux-lasers.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

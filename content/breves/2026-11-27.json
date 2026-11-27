@@ -272,5 +272,25 @@
       "En Serbie, un professeur de chimie, novice en politique, sera le candidat du mouvement des étudiants à l’élection présidentielle",
       "L'universitaire Radomir Saicic, novice en politique, désigné candidat du mouvement étudiant à l'élection présidentielle en Serbie"
     ]
+  },
+  {
+    "titre": "Mariage record d’un député du Bihar pour sa fille",
+    "texte": "Le député Anant Singh, du Bihar, a organisé le mariage de sa fille avec environ 400 000 invités, 150 plats et 500 cuisiniers, ainsi que plusieurs millions de pâtisseries. Cette cérémonie, qualifiée de record national, illustre l’ampleur des fêtes politiques en Inde",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T16:15:11+00:00",
+    "titres_sources": [
+      "En Inde, la cérémonie démesurée d’un député pour le mariage de sa fille : 400 000 invités, 150 plats différents, 500 cuisiniers, 8 millions de friandises…",
+      "400 000 invités, 500 000 pâtisseries... Un mariage XXL en Inde"
+    ]
+  },
+  {
+    "titre": "Au moins huit migrants décédés au large d’El Hierro",
+    "texte": "Le service de secours maritime a retrouvé au moins huit corps de migrants, six blessés, et a secouru 84 personnes à bord d’une embarcation se dirigeant vers El Hierro. El Hierro, île de 12 000 habitants, fait face depuis plusieurs semaines à un afflux important de migrants d’Afrique",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T16:15:11+00:00",
+    "titres_sources": [
+      "En Espagne, au moins huit migrants retrouvés morts au large des Canaries et plus de 80 autres secourus",
+      "Au moins huit migrants retrouvés morts et six gravement blessés au large des Canaries"
+    ]
   }
 ]
