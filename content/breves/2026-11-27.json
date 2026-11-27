@@ -367,5 +367,23 @@
     "titres_sources": [
       "EN DIRECT - Estonie-France : souverains, les Bleus du basket en passe de valider leur billet à la Coupe du monde 2027"
     ]
+  },
+  {
+    "titre": "David Lisnard, maire de Cannes, candidat à l'Élysée",
+    "texte": "David Lisnard, maire de Cannes, vient d’être réélu à la présidence de l'Association des maires de France. Il se présente également comme candidat à l’élection présidentielle, sujet du onzième épisode du podcast On/Off.",
+    "rubrique": "presidentielle",
+    "publie_le": "2026-11-27T19:07:36+00:00",
+    "titres_sources": [
+      "David Lisnard, c'est Zemmour 2022 ou Macron 2017 ?"
+    ]
+  },
+  {
+    "titre": "Italie bat les Fidji 23-21 au Championnat des nations",
+    "texte": "L'Italie a remporté son premier succès du Championnat des nations en battant les Fidji 23-21. Cette victoire met fin à une série de sept défaites consécutives.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T19:07:36+00:00",
+    "titres_sources": [
+      "Rugby, Championnat des nations: l’Italie termine sur une bonne note contre les Fidji"
+    ]
   }
 ]
