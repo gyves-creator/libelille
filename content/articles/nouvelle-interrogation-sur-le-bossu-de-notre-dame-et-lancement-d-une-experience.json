@@ -1,0 +1,38 @@
+{
+  "slug": "nouvelle-interrogation-sur-le-bossu-de-notre-dame-et-lancement-d-une-experience",
+  "titre": "Nouvelle interrogation sur le « bossu de Notre-Dame » et lancement d’une expérience VR",
+  "chapeau": "Le 27 novembre 2026, deux publications ont fait le tour des médias parisiens : l’une questionne l’existence du personnage légendaire du bossu de Notre‑Dame, l’autre annonce une expérience en réalité virtuelle intitulée « Eternelle Notre‑Dame ».",
+  "corps": "## Deux sujets autour de la cathédrale\nLe même jour, deux sujets distincts ont été relayés dans la presse locale. D’une part, un article s’interroge sur la véracité historique du personnage surnommé le « bossu de Notre‑Dame », figure mythique associée à la construction de la cathédrale. D’autre part, une annonce signale la mise à disposition d’une expérience immersive en réalité virtuelle, baptisée « Eternelle Notre‑Dame », qui propose aux usagers de découvrir le monument sous un angle inédit.\n\n## Un personnage légendaire remis en question\nLe titre de la première dépêche soulève la question de l’existence réelle du « bossu de Notre‑Dame ». Cette figure, souvent évoquée dans les récits populaires, aurait été un maître‑maçon ou un architecte à la stature particulière, censé avoir participé à l’édification de la cathédrale au Moyen‑Âge. Aucun détail supplémentaire n’est fourni, la publication se limitant à poser la question de son authenticité historique.\n\n## Une immersion virtuelle pour le public parisien\nL’autre dépêche met en avant une nouvelle offre culturelle : une expérience en réalité virtuelle nommée « Eternelle Notre‑Dame ». Le titre indique simplement que ce dispositif permet de vivre la cathédrale de façon immersive, sans préciser les modalités d’accès, les plateformes utilisées ou les dates de diffusion. Il s’agit d’une initiative qui s’inscrit dans la tendance croissante des musées et monuments historiques à proposer des visites numériques, notamment pour les publics qui ne peuvent se rendre sur place.\n\n## Contexte et perspectives\nNotre‑Dame de Paris, monument emblématique du patrimoine français, a fait l’objet de nombreuses recherches, restaurations et projets de médiation depuis l’incendie de 2019. Le recours à la réalité virtuelle s’inscrit dans une volonté de rendre le patrimoine plus accessible, tout en offrant des perspectives éducatives. Parallèlement, les légendes urbaines comme celle du bossu continuent d’alimenter le débat public et les curiosités historiques, rappelant que le passé du monument reste sujet à interprétation.\n\nPour les habitants de Paris désireux d’en savoir davantage, les sites officiels du monument ou les plateformes culturelles locales pourront fournir des informations complémentaires sur l’accès à la visite virtuelle et les éventuelles recherches en cours concernant les personnages historiques liés à la cathédrale.",
+  "mots_cles": [
+    "Notre-Dame",
+    "réalité virtuelle",
+    "légende",
+    "patrimoine",
+    "Paris"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-27T09:18:32+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/1280px-Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "P e z i",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
+    "legende": "Cathedral Notre Dame de Paris, West view, Paris, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Notre-Dame de Paris 2013-07-24.jpg"
+  },
+  "sources": [
+    {
+      "media": "CANAL+",
+      "titre": "QUASIMODO L’ÂME DE PARIS : le bossu de Notre-Dame a-t-il vraiment existé ?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU4xODNzVmZoOUNEZ1lTZ2Q5eXZfWlgxYzVsRW9Rank1NE1FTkxoQnd3TVY1eXprUkdGNTdTM0w0ZXFKbUF3dmxMTGw4R2JwY240TnhWQ1A2cVZUREdqa29zdXNtNHVUNkt3dXYzeDA2dU9OcGJhQ2VmWVFUbWg0ajlKZ3dqYjZVa2dQODFyekNsRnBmOXlKblNXazBKZHVEZl9NUFA2eGY5YTNhYWtJZEF3?oc=5"
+    },
+    {
+      "media": "Ville de Lille",
+      "titre": "Eternelle Notre-Dame (de Paris) - Expérience en réalité virtuelle",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTk0ZnMxdmtJRG5SWEUxSzFtQll3bXE1eVk2alU0VWxaeHk0bmNReEZReVdweTV1QXF3c08zbGhFNnVSVU43YTNHQTNabnNoX192ZXhKdmFHUnJVS0dfdFlibVBJUTVEbTlZVk1KMll2anJTd0dXTjBld1FFcW5ybHFDeVlROTFQRnh4amVQUDBvS3VJMlBoQnZ1N0dDSHZhbWNV?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
