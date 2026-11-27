@@ -1,0 +1,37 @@
+{
+  "slug": "renvoi-de-gerard-depardieu-confirme-en-proces-pour-viol",
+  "titre": "Renvoi de Gérard Depardieu confirmé en procès pour viol",
+  "chapeau": "La cour d'appel de Paris a confirmé le renvoi de l'acteur Gérard Depardieu devant une cour criminelle départementale, suite aux accusations de viol portées par l'actrice Charlotte Arnould. La décision a été saluée comme une première avancée, bien que tardive, par la comédienne et le collectif féministe NousToutes.",
+  "corps": "## Décision de la cour d'appel\nLe jeudi 26 novembre, la cour d'appel de Paris a confirmé le renvoi de l'acteur Gérard Depardieu devant une juridiction criminelle du ressort départemental. Cette décision intervient après que la comédienne Charlotte Arnould avait dénoncé plusieurs viols dont elle se serait rendue victime, accusations qui avaient conduit les autorités à ouvrir une enquête. Le renvoi signifie que le dossier passe désormais du stade de l'instruction à celui du jugement, conformément aux procédures pénales françaises.\n\n## Réactions des parties concernées\nCharlotte Arnould a immédiatement réagi en déclarant qu’elle « se félicite d’une vraie victoire ». Son commentaire souligne le caractère symbolique de la décision, perçue comme une reconnaissance officielle des faits allégués. De son côté, le collectif féministe NousToutes a qualifié l’arrêt de « première avancée mais c'est très tardif », rappelant le long délai entre les faits présumés et la mise en examen de l’acteur. Ces réactions montrent que, malgré la progression du processus judiciaire, les parties attendent encore des mesures plus rapides et plus décisives.\n\n## Cadre juridique du renvoi\nDans le système judiciaire français, le renvoi d'une personne mise en cause à une cour criminelle départementale intervient lorsque le parquet estime que les éléments réunis sont suffisants pour justifier un procès. La cour d'appel, en confirmant ce renvoi, valide ainsi la pertinence de la mise en examen et autorise le déroulement d’une instruction judiciaire approfondie. Le tribunal compétent devra examiner les témoignages, les éventuelles pièces à conviction et les expertises afin de déterminer la culpabilité ou l'innocence de l'accusé.\n\n## Contexte général\nGérard Depardieu, acteur de renommée internationale, a été régulièrement présent dans les médias pour ses œuvres cinématographiques ainsi que pour des controverses publiques. Charlotte Arnould, actrice française, s’est exprimée publiquement sur les violences sexuelles subies dans le secteur du spectacle, un sujet qui suscite un débat sociétal plus large en France. Le collectif NousToutes, actif dans la lutte contre les violences faites aux femmes, intervient régulièrement pour dénoncer les lenteurs du système judiciaire et appeler à davantage de soutien aux victimes.",
+  "mots_cles": [
+    "Gérard Depardieu",
+    "Charlotte Arnould",
+    "viol",
+    "cour d'appel"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-27T12:05:10+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Star_of_G%C3%A9rard_Depardieu_on_walk_of_Actor%27s_Fame_of_Vyborg.jpg/1280px-Star_of_G%C3%A9rard_Depardieu_on_walk_of_Actor%27s_Fame_of_Vyborg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Reda Kerbouche",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Star_of_G%C3%A9rard_Depardieu_on_walk_of_Actor%27s_Fame_of_Vyborg.jpg",
+    "legende": "Star of Gérard Depardieu on walk of Actor's Fame of Vyborg",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Star of Gérard Depardieu on walk of Actor's Fame of Vyborg.jpg"
+  },
+  "sources": [
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Renvoi de Gérard Depardieu en procès pour viol : Charlotte Arnould se félicite d’une « vraie victoire »",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/27/renvoi-de-gerard-depardieu-en-proces-pour-viol-charlotte-arnould-se-felicite-d-une-vraie-victoire_6815849_3224.html"
+    },
+    {
+      "media": "franceinfo- Société",
+      "titre": "\"Une première avancée mais c'est très tardif\", estime le collectif féministe NousToutes après le renvoi de Gérard Depardieu pour viol",
+      "url": "https://www.franceinfo.fr/culture/cinema/depardieu/une-premiere-avancee-mais-c-est-tres-tardif-estime-le-collectif-feministe-noustoutes-apres-le-renvoi-de-gerard-depardieu-pour-viol_8302551.html#xtor=RSS-3-%5Bsociete%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

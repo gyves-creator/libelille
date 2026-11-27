@@ -1,0 +1,38 @@
+{
+  "slug": "le-marche-de-noel-de-lyon-programme-avec-rencontres-du-pere-noel-et-artisans-loc",
+  "titre": "Le marché de Noël de Lyon programmé avec rencontres du Père Noël et artisans locaux",
+  "chapeau": "Le marché de Noël de Lyon ouvrira ses stands cet hiver, avec des créneaux précis pour rencontrer le Père Noël. Les artisans lyonnais seront mis à l'honneur tout au long de l'événement.",
+  "corps": "## Dates et horaires du Père Noël\nLe programme officiel indique que le Père Noël sera présent à des moments définis, permettant aux familles de le saluer et de prendre des photos. Les horaires exacts ont été publiés afin que les habitants puissent planifier leur visite en fonction de leurs disponibilités.\n\n## Les artisans lyonnais à l'honneur\nLe marché mettra en avant le savoir‑faire local, avec une sélection d’artisans issus de la région lyonnaise. Ces exposants proposeront des produits faits main, allant de la décoration festive aux spécialités gastronomiques, offrant ainsi aux visiteurs l’opportunité de découvrir et d’acheter des créations typiques du territoire.\n\n## Informations pratiques pour les visiteurs\nLe lieu du marché se situe dans la ville de Lyon, sans précision supplémentaire dans les sources disponibles. Les organisateurs ont rappelé que les informations détaillées, y compris les dates complètes, les horaires d’ouverture du site et les éventuelles consignes de circulation, sont accessibles sur le site officiel de la municipalité. Les habitants sont invités à consulter ces ressources pour connaître les éventuelles perturbations de transport ou les déviations routières prévues pendant la période du marché.\n\n## Contexte du marché de Noël à Lyon\nLes marchés de Noël sont une tradition ancrée dans de nombreuses villes françaises, combinant ambiance festive, activités familiales et promotion du commerce local. À Lyon, cet événement attire chaque année un grand nombre de résidents et de touristes, contribuant à l’économie locale et à la dynamique culturelle de la ville. La mise en avant des artisans locaux s’inscrit dans la volonté de soutenir le tissu économique régional tout en offrant aux visiteurs une expérience authentique.",
+  "mots_cles": [
+    "marché de Noël",
+    "Lyon",
+    "artisanat",
+    "Père Noël",
+    "fêtes"
+  ],
+  "rubrique": "lyon",
+  "publie_le": "2026-11-27T12:05:18+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lyon_T1_-_ENS_Lyon_-_a.jpg/1280px-Lyon_T1_-_ENS_Lyon_-_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Blueberry-026",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lyon_T1_-_ENS_Lyon_-_a.jpg",
+    "legende": "Lyon T1 - ENS Lyon",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Lyon T1 - ENS Lyon - a.jpg"
+  },
+  "sources": [
+    {
+      "media": "Lyon Secret",
+      "titre": "Marché de Noël de Lyon : voici les dates et horaires précis pour rencontrer le Père Noël cette année",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rd3R3MDlfNTNBN2J3RjA1WEltY2l2OTJfNFFYY0NNcHpVTzhNRlBNRlFIUHZrSmZKaDJWbVZDSU1RMmwyWlV1clVpSjB1V1ByQ1o2MFZhUmlWSzZ0bVNN?oc=5"
+    },
+    {
+      "media": "France 3 Régions",
+      "titre": "CARTE. Marché de Noël à Lyon : les artisans lyonnais sont à l'honneur cette année",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDQ1b3RsQUVLdHVuckFpWGpqNXFPRm9xbGc0bGtZZ0ZhelVfT1VDNlZ5UDcwT2U3anVRNmk1bFJhQVFudTZTZFhxYjZpVDFYcERqaF84RkNrSEloZmVsYkRDMklnQnVCdzVQWmtESGtCV2h3YV8tdzNJTHVUWjREUGEya1JUMnNOVG5FSl9URWk5RjNqa0tZdTlaYTlmYVVfcHdXR3BmaUdvS01kQXdsM2J2MUJYMUg1VUwzYy03dDFSSlZKek4ycFp5X0N2aG8tWmNXdURzdURYVGctZmxILWRVdEI4dU5zdFE4dHpwdndELW8?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
