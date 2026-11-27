@@ -1,0 +1,38 @@
+{
+  "slug": "la-france-entre-en-recession-apres-deux-trimestres-consecutifs-de-recul-du-pib",
+  "titre": "La France entre en récession après deux trimestres consécutifs de recul du PIB",
+  "chapeau": "Le produit intérieur brut français a reculé de 0,2 % au troisième trimestre 2026, selon les dernières données de l’Insee. Ce recul, combiné à une baisse similaire du trimestre précédent, confirme l’entrée du pays en récession.",
+  "corps": "## Deux trimestres de contraction du PIB\r\nL’institut national de la statistique et des études économiques (Insee) a publié une révision à la baisse de la première estimation du produit intérieur brut (PIB) pour le troisième trimestre 2026. Le chiffre officiel indique une contraction de 0,2 % sur trois mois, contre une estimation initiale de -0,1 %. Cette correction confirme que la France a connu deux trimestres consécutifs de décroissance, le deuxième trimestre affichant également un léger recul d’activité, contrairement aux premières informations qui évoquaient une stagnation.\r\n\r\n## Confirmation d’une récession\r\nDans la pratique économique, la définition la plus répandue d’une récession repose sur la survenue de deux trimestres successifs de croissance négative du PIB. Avec les données révisées du troisième trimestre, la France remplit ainsi ce critère. L’Insee, qui assure la collecte et l’analyse des indicateurs macroéconomiques, n’a pas indiqué de nouvelles prévisions pour le reste de l’année, mais la situation actuelle place l’économie française dans un contexte de ralentissement marqué.\r\n\r\n## Contexte et évolution récente\r\nLes dernières années ont vu des fluctuations de la croissance française, avec des périodes de légère expansion entrecoupées de ralentissements. L’infographie diffusée avec les données montre l’évolution du PIB sur plusieurs exercices, soulignant la tendance à la baisse observée au cours des deux derniers trimestres. Cette visualisation permet de situer le recul actuel dans le cadre plus large des performances économiques du pays.\r\n\r\n## Perspectives et incertitudes\r\nL’apparition d’une récession soulève des questions quant aux mesures que le gouvernement et les acteurs économiques pourraient envisager pour soutenir la reprise. Aucun plan d’action n’a été communiqué dans les informations disponibles, et les prévisions de croissance pour le quatrième trimestre restent à préciser. Les analystes attendent les prochains indicateurs, notamment les chiffres du marché du travail et de la consommation, pour évaluer l’ampleur du ralentissement et les réponses politiques éventuelles.",
+  "mots_cles": [
+    "récession",
+    "PIB",
+    "France",
+    "Insee",
+    "croissance"
+  ],
+  "rubrique": "economie",
+  "publie_le": "2026-11-27T11:01:49+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/14-46-35-f-mutzig.jpg/1280px-14-46-35-f-mutzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Thomas Bresson",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:14-46-35-f-mutzig.jpg",
+    "legende": "Tunnel in Fort de Mutzig , France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:14-46-35-f-mutzig.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine",
+      "titre": "La France en récession : visualisez l’évolution de la croissance ces dernières années",
+      "url": "https://www.lefigaro.fr/conjoncture/visualisez-la-croissance-francaise-en-2025-20261030"
+    },
+    {
+      "media": "Économie : Toute l’actualité sur Le Monde.fr.",
+      "titre": "La France entre en récession après deux trimestres de recul du PIB",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

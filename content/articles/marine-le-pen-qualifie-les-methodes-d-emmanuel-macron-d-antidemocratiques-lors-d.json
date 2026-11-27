@@ -1,0 +1,33 @@
+{
+  "slug": "marine-le-pen-qualifie-les-methodes-d-emmanuel-macron-d-antidemocratiques-lors-d",
+  "titre": "Marine Le Pen qualifie les méthodes d'Emmanuel Macron d'« antidémocratiques » lors du débat sur le budget de l'UE",
+  "chapeau": "Lors d'une séance de discussion sur le futur budget européen à Bruxelles, la candidate à la présidentielle de 2027, Marine Le Pen, a critiqué les pratiques du président Emmanuel Macron. Elle a qualifié ces méthodes d'« antidémocratiques », introduisant ainsi la campagne présidentielle dans le débat européen.",
+  "corps": "## Un débat budgétaire au cœur de la campagne\nDans le cadre des travaux préparatoires du prochain budget de l'Union européenne, une réunion s'est tenue à Bruxelles, rassemblant des responsables politiques français. La candidate du Rassemblement national, Marine Le Pen, a profité de l'occasion pour exprimer son désaccord avec le président sortant, Emmanuel Macron, en qualifiant ses méthodes de \"antidémocratiques\". Cette intervention place la campagne présidentielle de 2027 au centre des discussions européennes, alors que le futur cadre financier de l'UE est en cours d'élaboration.\n\n## Position des protagonistes\nMarine Le Pen a ainsi dénoncé ce qu'elle perçoit comme un manque de transparence et de concertation dans la conduite des négociations budgétaires par le gouvernement français. De son côté, le président Emmanuel Macron n'a pas immédiatement réagi publiquement à ces accusations lors de la séance. Le débat budgétaire, qui porte sur les contributions des États membres et les priorités de dépenses de l'UE, reste un sujet sensible, notamment en période électorale.\n\n## Contexte de la campagne présidentielle 2027\nL'élection présidentielle française de 2027 approche, et les candidats cherchent à se positionner sur les enjeux européens. Les questions relatives au financement de la politique de cohésion, aux programmes climatiques et à la réponse aux crises économiques sont au cœur des préoccupations. L'intervention de Marine Le Pen souligne la volonté de son parti de mettre en avant une critique de la politique européenne du gouvernement, tout en mobilisant son électorat autour d'une thématique de souveraineté et de démocratie.\n\n## Implications pour le processus budgétaire européen\nLes remarques formulées lors de ce débat ne modifient pas directement le texte du budget en cours d'examen, mais elles illustrent les tensions entre les États membres et les institutions européennes. Les positions exprimées par les dirigeants français seront prises en compte dans les négociations ultérieures, où chaque pays défend ses intérêts tout en cherchant un compromis commun.",
+  "mots_cles": [
+    "Marine Le Pen",
+    "Emmanuel Macron",
+    "budget européen",
+    "présidentielle 2027",
+    "Bruxelles"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-27T11:01:53+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Marine_Le_Pen_VIVA_24.jpg/1280px-Marine_Le_Pen_VIVA_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Vox España",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_VIVA_24.jpg",
+    "legende": "Marine Le Pen in May 2024",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marine Le Pen VIVA 24.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "DIRECT. Présidentielle 2027 : en plein débat sur le budget européen, Marine Le Pen juge les méthodes d'Emmanuel Macron \"antidémocratiques\"",
+      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

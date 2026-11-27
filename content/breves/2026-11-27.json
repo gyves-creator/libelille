@@ -129,5 +129,25 @@
     "titres_sources": [
       "Cueillir des plantes sauvages, le nouveau passe-temps des jeunes"
     ]
+  },
+  {
+    "titre": "Marc Marquez annonce sa retraite après le Grand Prix de Valence",
+    "texte": "L'octuple champion du monde de MotoGP, Marc Marquez, a déclaré qu'il mettra un terme à sa carrière à l'issue du Grand Prix de Valence, dernière course de la saison 2026. Cette annonce marque la fin d'une ère pour la catégorie reine.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T11:02:16+00:00",
+    "titres_sources": [
+      "Marc Marquez, légende de la moto avec huit titres de champion du monde, annonce sa retraite surprise",
+      "L'octuple champion du monde de MotoGP Marc Marquez annonce mettre fin à sa carrière",
+      "Marc Marquez, octuple champion du monde de MotoGP, mettra fin à sa carrière dimanche à Valence"
+    ]
+  },
+  {
+    "titre": "Violences entre supporters de l'OM et du Levski Sofia au Vélodrome",
+    "texte": "Des affrontements ont éclaté jeudi dans les tribunes du Vélodrome entre les supporters de l'Olympique de Marseille et ceux du Levski Sofia, lors du match de Ligue Europa. Les incidents, précédés de violences la veille, ont été marqués par des gestes provocateurs et des blessures.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T11:02:16+00:00",
+    "titres_sources": [
+      "Tension en amont, saluts nazis, « visages ensanglantés » : le récit d’une soirée chaotique en marge d’OM-Levski Sofia"
+    ]
   }
 ]
