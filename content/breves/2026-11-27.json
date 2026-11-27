@@ -422,5 +422,23 @@
     "titres_sources": [
       "Football : faut-il baisser le salaire d'un joueur malade ?"
     ]
+  },
+  {
+    "titre": "Brest accueille le Paris FC en quête de quatrième victoire",
+    "texte": "Le Stade Francis Le Blé accueillera ce vendredi le Stade Brestois contre le Paris FC. Les deux équipes, en bonne forme, visent leur quatrième succès consécutif en championnat.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T20:36:06+00:00",
+    "titres_sources": [
+      "EN DIRECT - Brest-Paris FC : les Parisiens cueillis à froid en Bretagne"
+    ]
+  },
+  {
+    "titre": "Oscar Piastri envisage un combat pour le titre la saison prochaine",
+    "texte": "Oscar Piastri, pilote de McLaren, aurait déclaré que la saison prochaine serait préparée pour viser le championnat. Après son podium à Las Vegas, il estime que Red Bull pourrait redevenir la favorite.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T20:36:06+00:00",
+    "titres_sources": [
+      "Formule 1 : «Pour l’an prochain, tout est fait dans l’optique de se battre pour un championnat», Oscar Piastri (très) ambitieux pour la suite"
+    ]
   }
 ]
