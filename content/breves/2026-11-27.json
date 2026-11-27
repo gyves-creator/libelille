@@ -385,5 +385,24 @@
     "titres_sources": [
       "Rugby, Championnat des nations: l’Italie termine sur une bonne note contre les Fidji"
     ]
+  },
+  {
+    "titre": "Franck Haise suspendu par le Stade Rennais après 5 matchs perdus",
+    "texte": "Nommé en février pour succéder à Habib Beye, Franck Haise avait qualifié le Stade Rennais pour la phase européenne. Après cinq matchs sans victoire, dont une défaite 3-1 contre Nimègue en Europa League, le club l’a mis à pied.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T19:41:44+00:00",
+    "titres_sources": [
+      "Franck Haise, l'entraîneur de l'équipe de football du Stade rennais, est mis à pied",
+      "Ligue 1 : Franck Haise mis à pied par le Stade Rennais"
+    ]
+  },
+  {
+    "titre": "Paris hausse le prix du stationnement pour les non-residents en 2027",
+    "texte": "À compter d’avril 2027, le stationnement pour les non-residents sera majoré de deux euros l’heure. Le tarif passe à 8 € la première heure dans les 11 premiers arrondissements et à 6 € ailleurs, la durée maximale étant limitée à quatre heures.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-27T19:41:44+00:00",
+    "titres_sources": [
+      "La mairie de Paris va augmenter de deux euros le prix du stationnement dans ses rues pour les \"non-résidents\" en avril 2027"
+    ]
   }
 ]
