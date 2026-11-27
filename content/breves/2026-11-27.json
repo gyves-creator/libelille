@@ -440,5 +440,24 @@
     "titres_sources": [
       "Formule 1 : «Pour l’an prochain, tout est fait dans l’optique de se battre pour un championnat», Oscar Piastri (très) ambitieux pour la suite"
     ]
+  },
+  {
+    "titre": "Cargo chargé de carburant remorqué après naufrage près d'Ibiza",
+    "texte": "Un cargo contenant 7 000 tonnes de carburant a sombré au large des îles d’Ibiza et Formentera. Le gouvernement espagnol a ordonné son remorquage immédiat vers le port de Carthagène afin d’éviter une marée noire.",
+    "rubrique": "international",
+    "publie_le": "2026-11-27T21:05:35+00:00",
+    "titres_sources": [
+      "Périlleux remorquage pour éviter une marée noire",
+      "Au large d'Ibiza, le périlleux remorquage d'un cargo pour éviter une marée noire"
+    ]
+  },
+  {
+    "titre": "L'INSEE confirme une récession technique en France au T3 2026",
+    "texte": "L'INSEE a estimé une baisse de 0,2 % du PIB français au troisième trimestre 2026, ce qui confirme l’entrée du pays en récession technique. Cette donnée alimente les critiques des candidats à la présidentielle à l'égard du mandat de Macron.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-27T21:05:35+00:00",
+    "titres_sources": [
+      "«Le bilan de plus de 10 ans de macronisme» : la France en récession, plusieurs candidats à la présidentielle étrillent Emmanuel Macron"
+    ]
   }
 ]
