@@ -187,5 +187,24 @@
     "titres_sources": [
       "Netflix France : 16 films et séries à voir en décembre 2026"
     ]
+  },
+  {
+    "titre": "Grenades assourdissantes : suspension prolongée avant le 28 novembre",
+    "texte": "Le ministre de l'Intérieur a indiqué que les manifestations du 28 novembre pourraient entraîner des cortèges cherchant l'affrontement avec les forces de l'ordre. Le directeur général de la police nationale a prolongé et généralisé la suspension de l'usage des grenades assourdissantes à toutes les manifestations.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-27T12:44:23+00:00",
+    "titres_sources": [
+      "Manifestations du 28 novembre : Laurent Nuñez pointe « une vulnérabilité supplémentaire » avec l’ouverture des marchés de Noël ; la suspension de l’usage des grenades assourdissantes est « étendue jusqu’à nouvel ordre »",
+      "La suspension de l'usage des grenades assourdissantes prolongée et étendue à toutes les manifestations"
+    ]
+  },
+  {
+    "titre": "Trump autorise Musk à lancer million de satellites pour data centers",
+    "texte": "Le président Donald Trump a donné son accord à Elon Musk pour lancer un million de satellites afin de créer des data centers en orbite. Le régulateur américain des télécommunications a validé le projet, suscitant déjà des inquiétudes quant à ses impacts environnementaux.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-27T12:44:23+00:00",
+    "titres_sources": [
+      "Donald Trump autorise Elon Musk à lancer un million de satellites dans l’espace pour créer des data centers"
+    ]
   }
 ]
