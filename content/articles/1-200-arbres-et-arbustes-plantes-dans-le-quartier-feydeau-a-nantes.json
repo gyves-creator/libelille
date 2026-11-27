@@ -1,0 +1,37 @@
+{
+  "slug": "1-200-arbres-et-arbustes-plantes-dans-le-quartier-feydeau-a-nantes",
+  "titre": "1 200 arbres et arbustes plantés dans le quartier Feydeau à Nantes",
+  "chapeau": "Le 27 novembre 2026, la municipalité a organisé la plantation de 1 200 arbres et arbustes dans le quartier Feydeau, au cœur du centre‑ville nantais. Un marché éthique et solidaire a également été proposé aux habitants du même secteur.",
+  "corps": "## Une opération de verdissement d’envergure\r\nDans le cadre d’une initiative locale visant à renforcer la biodiversité urbaine, les services de l’environnement de la ville de Nantes ont supervisé la mise en terre de 1 200 végétaux – arbres et arbustes – dans le quartier Feydeau. Les travaux, réalisés le 27 novembre, ont mobilisé des équipes municipales ainsi que des habitants volontaires qui ont « mis la main à la terre ». L’objectif affiché est d’améliorer la qualité de l’air, d’augmenter les espaces ombragés et de favoriser la cohabitation entre la faune urbaine et les riverains.\r\n\r\n## Un marché éthique et solidaire en complément\r\nLe même jour, un marché qualifié d’éthique et solidaire a été installé dans le centre‑ville, à proximité du quartier Feydeau. Ce type de manifestation, généralement dédié à la promotion de produits locaux, équitables et respectueux de l’environnement, a permis aux habitants de découvrir des alternatives de consommation plus responsables. Aucun détail supplémentaire n’a été communiqué sur la durée ou le nombre d’exposants présents.\r\n\r\n## Conséquences pour les riverains\r\nPour les habitants du quartier, la plantation de ces arbres et arbustes implique une modification temporaire de la circulation piétonne et automobile autour des sites d’intervention. Des déviations ponctuelles ont été mises en place afin de garantir la sécurité des travailleurs et du public. À terme, les résidents pourront profiter d’un cadre de vie plus verdoyant, avec de nouveaux espaces ombragés et une meilleure isolation phonique. Le marché, quant à lui, a offert une occasion d’achat de produits respectueux de l’environnement, sans perturber les activités quotidiennes du quartier.\r\n\r\n## Informations pratiques\r\nLes habitants souhaitant obtenir davantage d’informations sur les travaux de plantation ou les futures actions de verdissement peuvent consulter le site officiel de la ville de Nantes ou contacter le service d’aménagement urbain. Les détails concernant le marché éthique et solidaire sont également disponibles sur le même portail municipal.",
+  "mots_cles": [
+    "Nantes",
+    "Feydeau",
+    "plantation d'arbres",
+    "marché solidaire"
+  ],
+  "rubrique": "nantes",
+  "publie_le": "2026-11-27T13:25:54+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jardin_Japonais_de_l%27%C3%AEle_de_Versailles_%C3%A0_Nantes_04.jpg/1280px-Jardin_Japonais_de_l%27%C3%AEle_de_Versailles_%C3%A0_Nantes_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Balise42",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jardin_Japonais_de_l%27%C3%AEle_de_Versailles_%C3%A0_Nantes_04.jpg",
+    "legende": "Japanese garden on the Île de Versailles in Nantes, France",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Jardin Japonais de l'île de Versailles à Nantes 04.jpg"
+  },
+  "sources": [
+    {
+      "media": "Ouest-France",
+      "titre": "VIDÉO. 1 200 arbres et arbustes plantés dans le quartier Feydeau, dans le centre-ville de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPLWdKOVA5MDBpdTY5VUpUUkF1NWRpMEVERnllRC0zR0lBTmRrTURCV1N6OHBiY3piUzJEck45dURPM1g3RmRzemRZN18yRm1nVkhRc0VPdFZISXBRNWdEYVhHTW45ZVpGUUpsUG9nNG05TmlWcGZaMFhUSktmRC1FNk9hcG1LVUVWX1dkU3dGaG1DSU1JOG9OcnZtM2V3VU5NQTNoWmNVZEZQZ0taRUVpRzY1cU9Sd3pCdm5lNVBaeUpVNmI5em0yekpoWWtmSlZkbmpUOVFhbm9ocFlEdnVJcExNQXdkY1BGQ3djRm9rZDZYbl9uSTNmWlhOUnAwQTVfaDFDWjBfTUdIcTVGejVJWlVrdWdFZVdn?oc=5"
+    },
+    {
+      "media": "l'Essentiel media",
+      "titre": "Un marché éthique et solidaire dans le centre-ville de Nantes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0hHWlNyMm1xZjN5LUNWUmF3UWdETXAxNk9aQUppc041cy00WGVZTUpyUWJ4NmNGOEVHRUVrTlR0MFhQd0Njb0JleGs3YXo5ZTZETnhBd0wwTlBpQzBMQ1lETlVLUGhOcU4wMmhvVmRPZGVRQ00zVWNLY2xTWXpkN0lDNlhJNWliVTJRbS02VmM4d0RYNzd6dk5hS1NMdEtxZ3VybGU4MDlPU0RPMWhKb1ZUQ0poR05obGhFNVlCdWY?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

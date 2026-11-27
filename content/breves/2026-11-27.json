@@ -206,5 +206,23 @@
     "titres_sources": [
       "Donald Trump autorise Elon Musk à lancer un million de satellites dans l’espace pour créer des data centers"
     ]
+  },
+  {
+    "titre": "Économiste allemand suggère vente de Volkswagen à la Chine",
+    "texte": "Un économiste allemand aurait proposé de céder Volkswagen à des acquéreurs chinois tant que cela resterait rentable. Aucun offre ni négociation n’a été signalé à ce jour.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-27T13:26:03+00:00",
+    "titres_sources": [
+      "« Tant qu’on en tire encore quelque chose » : un économiste propose de vendre Volkswagen à la Chine"
+    ]
+  },
+  {
+    "titre": "Galthié critique la fraîcheur physique des Bleus",
+    "texte": "Le sélectionneur du XV de France a affirmé que ses joueurs ne disposaient plus de fraîcheur physique après la finale du Championnat des Nations contre les Springboks à Twickenham. Il a souligné que cela affectait la performance de l’équipe.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-27T13:26:03+00:00",
+    "titres_sources": [
+      "«La fraîcheur physique ? Les joueurs français ne savent pas ce que c’est», déplore Fabien Galthié"
+    ]
   }
 ]
