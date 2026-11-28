@@ -181,5 +181,25 @@
     "titres_sources": [
       "Crise du logement, corruption, tensions migratoires… En Espagne, une campagne législative bousculée par les imprévus"
     ]
+  },
+  {
+    "titre": "RN alerte sur fuites et accusations d’antisémitisme contre Bardella",
+    "texte": "Le porte-parole du RN, Aleksandar Nikolic, a dénoncé des fuites d’informations au profit du parti, qu’il considère comme une pression sur les préfets et hauts fonctionnaires. Des écrits antisémites attribués à Jordan Bardella ont été révélés, et Marine Le Pen a réaffirmé son soutien.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-28T11:32:06+00:00",
+    "titres_sources": [
+      "\"Fuites\" au profit du RN : Aleksandar Nikolic redoute \"un moyen de pression pour empêcher des préfets et des hauts fonctionnaires d'échanger\" avec le parti",
+      "Soupçons de fuites au profit du RN, respect du secret de l'instruction, propos antisémites attribués à Jordan Bardella... Le \"8h30 franceinfo\" d'Aleksandar Nikolic",
+      "Ecrits antisémites : Jordan Bardella maintient sa défense"
+    ]
+  },
+  {
+    "titre": "France envisagerait un accord secret avec les talibans pour remplacer l’ambassade afghane",
+    "texte": "Des négociations confidentielles entre la France et le régime taliban pourraient conduire à la substitution du personnel de l’ambassade afghane par des émissaires du régime. En échange, le gouvernement français envisagerait le retour d’Afghans vers l’Émirat islamique, qui n’est reconnu par aucun État occidental.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T11:32:06+00:00",
+    "titres_sources": [
+      "Ce pacte sulfureux que la France envisage de sceller avec les Talibans"
+    ]
   }
 ]
