@@ -145,5 +145,23 @@
     "titres_sources": [
       "Deux employés de Médecins sans frontières tués par une frappe israélienne à Gaza"
     ]
+  },
+  {
+    "titre": "Épidémie de rougeole aux États-Unis alimentée par l’idéologie",
+    "texte": "Une épidémie de rougeole se répand aux États-Unis, soutenue par des positions idéologiques. L'administration de Donald Trump continue de manifester de la défiance envers la vaccination, rappelant les risques des discours anti‑science.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T10:35:43+00:00",
+    "titres_sources": [
+      "Aux Etats-Unis, une épidémie de rougeole dopée par l’idéologie"
+    ]
+  },
+  {
+    "titre": "Hamas accuse Israël de tentative d’assassinat, Israël enquête",
+    "texte": "Le Hamas a déclaré qu'Israël aurait tenté d'assassiner le fils de son dirigeant. L'armée israélienne a indiqué qu'elle ouvre une enquête sur ces allégations.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T10:35:43+00:00",
+    "titres_sources": [
+      "Le Hamas affirme qu'Israël a essayé de tuer le fils de son chef"
+    ]
   }
 ]
