@@ -1,0 +1,33 @@
+{
+  "slug": "hauts-fonctionnaires-et-le-scenario-d-une-victoire-du-rn-en-2027",
+  "titre": "Hauts fonctionnaires et le scénario d’une victoire du RN en 2027",
+  "chapeau": "À cinq mois de l’élection présidentielle de 2027, de nombreux cadres de l’État s’interrogent sur leur posture en cas de victoire de l’extrême droite. Ils doivent concilier leurs convictions personnelles, le devoir de loyauté envers le pouvoir et les implications pour leur carrière.",
+  "corps": "## Le cadre juridique de la fonction publique\nEn France, la fonction publique repose sur les principes de neutralité, de laïcité et de loyauté envers le gouvernement en place. Le statut général des fonctionnaires impose le respect de la hiérarchie et l’exécution des missions publiques sans considération d’orientation politique. Ainsi, quel que soit le parti arrivé au pouvoir, les agents sont tenus d’appliquer les décisions légales et de servir l’intérêt général.\n\n## Le questionnement des cadres\nÀ moins de cinq mois de l’élection présidentielle, plusieurs hauts fonctionnaires ont exprimé, de façon anonyme, leurs doutes quant à la manière dont ils pourraient concilier leurs valeurs personnelles avec le mandat d’un gouvernement issu du Rassemblement National. Le dilemme évoqué porte sur trois axes : la fidélité à leurs convictions, le respect de l’obligation de loyauté et la préservation de leur trajectoire professionnelle. Certains envisagent de rester dans leurs fonctions en adaptant leur action aux nouvelles orientations, tandis que d’autres envisagent une mise en disponibilité ou une reconversion, afin d’éviter toute forme de compromission perçue.\n\n## Perspectives et enjeux\nLe débat interne reflète une tension plus large entre la tradition républicaine de la fonction publique et les possibles changements de politique publique que pourrait introduire un gouvernement d’extrême droite. Les décisions individuelles pourraient avoir des répercussions sur la continuité du service public, la gestion des réformes et la perception de l’impartialité de l’État. Aucun chiffre précis n’a été fourni sur le nombre de fonctionnaires concernés, mais le phénomène apparaît suffisamment répandu pour susciter des discussions au sein des instances de la fonction publique.\n\n## Vers une réflexion collective\nFace à ces interrogations, les organisations syndicales et les autorités de la fonction publique sont appelées à clarifier les modalités d’application du principe de loyauté dans un contexte politique potentiellement inédit. Elles pourraient proposer des dispositifs d’accompagnement, de conseil ou de formation afin d’aider les cadres à naviguer entre leurs obligations professionnelles et leurs convictions personnelles, tout en garantissant le bon fonctionnement des services de l’État.",
+  "mots_cles": [
+    "fonction publique",
+    "RN",
+    "présidentielle 2027",
+    "loyauté",
+    "valeurs"
+  ],
+  "rubrique": "presidentielle",
+  "publie_le": "2026-11-28T05:10:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2025-09_Infographie-haute-fonction-publique.png/1280px-2025-09_Infographie-haute-fonction-publique.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jacques Bernardin",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2025-09_Infographie-haute-fonction-publique.png",
+    "legende": "Infographie portant sur les corps et cadres d'emplois de la haute fonction publique française",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:2025-09 Infographie-haute-fonction-publique.png"
+  },
+  "sources": [
+    {
+      "media": "Politique : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
