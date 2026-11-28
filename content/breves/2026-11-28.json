@@ -89,5 +89,24 @@
     "titres_sources": [
       "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027"
     ]
+  },
+  {
+    "titre": "Inter Miami, champion MLS, éliminé dès le premier tour des playoffs",
+    "texte": "L'Inter Miami, champion en titre de la Major League Soccer, a perdu son match d'ouverture des playoffs. Aucun club n'avait conservé le titre depuis 2012, et Lionel Messi, meilleur buteur de la saison, a connu sa deuxième élimination précoce.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T08:59:53+00:00",
+    "titres_sources": [
+      "Champion en titre, l'Inter Miami de Lionel Messi éliminé dès le premier tour des playoffs de MLS",
+      "Football : Lionel Messi et l’Inter Miami, champion en titre de MLS, éliminés en playoffs"
+    ]
+  },
+  {
+    "titre": "L'IA produit des preuves plus vite que les mathématiciens ne les lisent",
+    "texte": "Une IA rédige des preuves plus rapidement que les mathématiciens ne peuvent les analyser, selon Jack Clark, cofondateur d'Anthropic. Il estime que le principal défi sera d’interpréter ces découvertes, les chercheurs étant déjà submergés par un afflux massif de preuves générées cette année.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-28T08:59:53+00:00",
+    "titres_sources": [
+      "« La singularité a déjà commencé » : l’IA écrit des preuves plus vite que les mathématiciens ne peuvent les lire, et selon le cofondateur d’Anthropic ce n’est que le début"
+    ]
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "slug": "marseille-lance-un-marche-de-noel-gratuit-et-une-collecte-de-jouets-au-vieux-por",
+  "titre": "Marseille lance un marché de Noël gratuit et une collecte de jouets au Vieux-Port",
+  "chapeau": "La ville de Marseille ouvre un marché de Noël gratuit sur le Vieux‑Port et organise une grande collecte de jouets au profit des Restos du Cœur. L’événement, destiné aux habitants et aux visiteurs, vise à associer convivialité festive et solidarité.",
+  "corps": "## Un marché de Noël accessible à tous\nMarseille a annoncé l’installation d’un marché de Noël gratuit sur le Vieux‑Port. Cette initiative permet aux habitants comme aux touristes de profiter d’un espace festif sans frais d’entrée. Le choix du Vieux‑Port, cœur historique et touristique de la ville, garantit une forte fréquentation et une visibilité importante pour les animations prévues.\n\n## Une collecte de jouets au profit des Restos du Cœur\nEn parallèle, une importante collecte de jouets sera organisée sur le même site, destinée à alimenter les actions des Restos du Cœur. Cette opération solidaire invite le public à déposer des jouets neufs ou en bon état, afin de soutenir les familles en difficulté pendant la période des fêtes. Aucun détail n’a été communiqué sur les modalités de dépôt, mais les organisateurs encouragent les contributions de la communauté.\n\n## Contexte et portée de l’initiative\nLes marchés de Noël sont une tradition largement répandue dans les villes françaises, offrant des stands d’artisanat, de gastronomie et des animations pour toute la famille. Leur gratuité, lorsqu’elle est proposée, favorise l’inclusion de tous les publics, y compris les personnes aux revenus modestes. De son côté, la collecte de jouets pour les Restos du Cœur s’inscrit dans une dynamique de solidarité annuelle, visant à réduire le nombre d’enfants privés de cadeaux pendant les fêtes.\n\n## Informations pratiques\nLes habitants de Marseille sont invités à se rendre sur le Vieux‑Port pour découvrir le marché et déposer leurs dons de jouets. Pour plus de renseignements sur les horaires d’ouverture, les points de dépôt ou les partenaires impliqués, il convient de consulter le site officiel de la mairie de Marseille ou de contacter les services municipaux dédiés à l’événement.",
+  "mots_cles": [
+    "Marseille",
+    "marché de Noël",
+    "Vieux-Port",
+    "collecte de jouets",
+    "Restos du Cœur"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-28T08:59:47+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Marseille_vieux_port_pano.jpg/1280px-Marseille_vieux_port_pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Velvet",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marseille_vieux_port_pano.jpg",
+    "legende": "View of Vieux-Port, Marseille",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Marseille vieux port pano.jpg"
+  },
+  "sources": [
+    {
+      "media": "Mediaterranee.com",
+      "titre": "Marseille installe son marché de Noël gratuit sur le Vieux-Port",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjFFNXNteGFhZkQ3V0dsdm9KUW9ScllYek1vcFBiaWZQejZUU051UXphNm5raVhUWkZDcU9STW02VnpreDdZcENYcGJQbUVNU0NhbWNfZkFuMnNqSlZOeUpIdFhQSFYtZUduQjdoZXZOSXRFaEhoVlBlWFgxOTl0bU02ZjNSTU04MXZnQnY5LWVCYjU0dkZQZ29GdkIxV20yRWk0cC1mUE9adw?oc=5"
+    },
+    {
+      "media": "Presse Agence",
+      "titre": "MARSEILLE : Noël solidaire – Grande collecte de jouets sur le Vieux-Port pour les Restos du Cœur",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdk9iTVo1Mi1KNkFVSFc2UVRkeFBPaWpGTV9vN2pXZjhEbWFJZzhmRDJwZV95Q1NYSjhjSmpNMG1CTlRxb1ZjTzdUZk9udnV3QUYzanVCTlNrRjI5cVk4cjVQcTFSUkR6UGpLUTY2T1N6RWl1bVF2TVdHTXJ5UW5Wd25SdlBoYmRZSEVzMWpXYVY4MTkzcU9ObV95eHloZHh3cjY1ZHdFUEtZY3kxekhseEtiMnh3QVdCN1E?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
