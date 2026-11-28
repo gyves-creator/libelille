@@ -127,5 +127,23 @@
     "titres_sources": [
       "Paris veut faire payer le stationnement aux voitures électriques, et augmenter le tarif pour les visiteurs"
     ]
+  },
+  {
+    "titre": "Référendum suisse sur le 13e mois de retraite : jeunes vs seniors",
+    "texte": "Le gouvernement proposerait d’augmenter la TVA afin de financer un 13e mois de retraite, mesure soumise à référendum. Le débat aurait ravivé les tensions entre les jeunes et les seniors, chaque génération défendant ses intérêts.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-28T09:59:24+00:00",
+    "titres_sources": [
+      "«Est-ce que le pays entre en gérontocratie ?» : en Suisse, le référendum sur le 13e mois de retraite avive les fractures entre générations"
+    ]
+  },
+  {
+    "titre": "Deux salariés MSF tués à Gaza, Israël les qualifie terroristes",
+    "texte": "Une frappe israélienne à Gaza aurait fait deux morts parmi les salariés de Médecins sans frontières. L’armée israélienne les aurait présentés comme des terroristes du Hamas, sans fournir de preuve.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T09:59:24+00:00",
+    "titres_sources": [
+      "Deux employés de Médecins sans frontières tués par une frappe israélienne à Gaza"
+    ]
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "slug": "cyberattaque-au-meett-vol-de-mots-de-passe-des-clients-du-parc-des-expositions",
+  "titre": "Cyberattaque au MEETT : vol de mots de passe des clients du Parc des expositions",
+  "chapeau": "Une intrusion informatique a compromis les données personnelles des visiteurs du Parc des expositions de Toulouse. Une plainte a été déposée et les autorités appellent à la vigilance.",
+  "corps": "## Une fuite de données révélée le 27 novembre\nLe mercredi 27 novembre, le prestataire chargé de la gestion des systèmes informatiques du MEETT a été victime d’une cyberattaque. L’intrusion a permis le vol d’informations personnelles relatives aux clients du Parc des expositions, dont les identifiants et mots de passe utilisés pour les réservations en ligne. Une plainte a été déposée auprès des services compétents afin d’ouvrir une enquête sur les circonstances de l’incident.\n\n## Conséquences pour les usagers et mesures d’urgence\nLes personnes dont les données ont été compromises sont susceptibles de voir leurs comptes en ligne exposés à des tentatives d’accès non autorisées. Les autorités recommandent à tous les titulaires de comptes liés au Parc des expositions de modifier immédiatement leurs mots de passe, en privilégiant des combinaisons robustes et différentes de celles utilisées auparavant. Il est également conseillé de surveiller les relevés bancaires et les alertes de sécurité émises par les fournisseurs de services en ligne.\n\n## Réactions des responsables du MEETT\nLe centre d’exposition a indiqué qu’il prenait toutes les mesures nécessaires pour sécuriser ses systèmes et limiter les risques de nouvelles intrusions. Des experts en cybersécurité ont été mandatés pour analyser les failles exploitées et renforcer les protocoles de protection des données. Le MEETT a rappelé que les informations personnelles collectées sont essentielles à la gestion des réservations, mais que la confidentialité demeure une priorité.\n\n## Informations pratiques pour les riverains\nLes usagers souhaitant signaler un problème ou obtenir des précisions peuvent contacter le service client du MEETT via le numéro dédié au support technique, disponible sur le site officiel du centre. En cas de doute sur l’utilisation de leurs données, il est possible de se rendre sur la plateforme de signalement des fraudes en ligne, gérée par la police nationale, ou de consulter les recommandations de la CNIL (Commission nationale de l’informatique et des libertés). Les autorités locales restent à l’écoute et fourniront, le cas échéant, des mises à jour sur l’avancement de l’enquête.",
+  "mots_cles": [
+    "cyberattaque",
+    "données personnelles",
+    "Parc des expositions",
+    "Toulouse",
+    "sécurité informatique"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-28T09:59:12+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/PEX_Toulouse.jpg/1280px-PEX_Toulouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Kuremu Sakura",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PEX_Toulouse.jpg",
+    "legende": "Le nouveau parc des expositions de Toulouse (MEETT) en 2019.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:PEX Toulouse.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Cyberattaque au MEETT : un individu malveillant a piraté les données des clients du Parc des expos de Toulouse et dérobé des mots de passe, une plainte déposée",
+      "url": "https://www.ladepeche.fr/2026/11/28/cyberattaque-au-meett-un-individu-malveillant-a-pirate-les-donnees-des-clients-du-parc-des-expos-et-derobe-des-mots-de-passe-une-plainte-deposee-13675792.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Cyberattaque au MEETT : un individu malveillant a piraté les données des clients du Parc des expos de Toulouse et dérobé des mots de passe, une plainte déposée",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNV181Q0lRZHFJRkNZUkMxN2YtYjN1aFRrQzVxNVJPbHF0OGZMYTliR2Z2ZFF5RXlQYVB5Z0NaYk0zcDljX1JyU0w4b2NnenVwSzJuRDhsZXlsZkdjTWtHdFlzWXlfTkE5bktlQURmV0hZRkFmRlVmVzhlUzdidElPbkhqb1RoMDg4UlNubWM3c2RYNXJWeFFtV1FjRE5qYlc4R296ZnEtcjBhclZkMk1sb1FheTVRTl9EaUNIb3J5TjZVTklyYTAtNVcxbmRONy02UUVBSkFBdUdmb0daSF9JRm15SnNtckVLWTRza3lCOS1icDFKdHJoZlhIUVNuWlB6RG5sWXhnczNod05Na0JmU1VwNlZLR0tKMHp1aGdB?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
