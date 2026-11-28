@@ -1,0 +1,33 @@
+{
+  "slug": "elisa-shua-dusapin-abandonne-le-roman-pour-sauf-la-frontiere-apres-deux-ans-au-p",
+  "titre": "Elisa Shua Dusapin abandonne le roman pour « Sauf la frontière » après deux ans au Proche-Orient",
+  "chapeau": "L’écrivaine Elisa Shua Dusapin a quitté le format romanesque pour un projet intitulé « Sauf la frontière ». Son parcours, marqué par une présence en zone de guerre au Liban puis deux ans de déplacements entre Jordanie, Palestine et Israël, a profondément influencé cette transition.",
+  "corps": "## Un séjour au cœur du conflit\nEn octobre 2023, l’auteure s’est retrouvée au Liban, alors que le pays était immergé dans les violences du Proche-Orient. Cette immersion dans une zone de guerre a constitué le point de départ d’une période de réflexion intense. Après cet épisode, elle a traversé la région pendant près de deux ans, séjournant successivement en Jordanie, en Palestine et en Israël. Ces déplacements lui ont permis d’observer de près les dynamiques politiques, sociales et humaines qui traversent ces territoires.\n\n## Une réinvention du texte\nL’expérience du conflit et le temps passé dans ces trois pays ont conduit Elisa Shua Dusapin à remettre en question les formes narratives qu’elle employait jusqu’alors. Elle a ainsi décidé de renoncer au roman, genre qui avait structuré la majeure partie de son œuvre, pour se consacrer à un nouveau projet intitulé « Sauf la frontière ». Ce titre reflète, selon les informations disponibles, la volonté de dépasser les limites géographiques et conceptuelles imposées par les frontières physiques et idéologiques.\n\n## Le contexte littéraire et géopolitique\nLe choix de l’écrivaine s’inscrit dans un contexte où de nombreux artistes et intellectuels interrogent les effets de la guerre sur la création. Le Proche-Orient, depuis plusieurs décennies, reste un théâtre de conflits dont les répercussions se font sentir dans la production culturelle. En se déplaçant entre Jordanie, Palestine et Israël, Elisa Shua Dusapin a pu côtoyer des réalités contrastées, du quotidien sous occupation aux espaces de dialogue transfrontalier, ce qui a nourri son désir de réinventer son écriture.\n\n## Perspectives pour le futur\nLe projet « Sauf la frontière » représente une étape majeure dans la trajectoire de l’auteure, qui envisage désormais d’explorer des formes narratives moins conventionnelles. Aucun détail supplémentaire n’a été communiqué sur la forme finale de l’œuvre, ni sur une date de publication éventuelle. La communauté littéraire attend de voir comment cette expérience de terrain se traduira en texte, et si elle ouvrira de nouvelles voies pour la réflexion sur les conflits et leurs impacts sur la création artistique.",
+  "mots_cles": [
+    "Elisa Shua Dusapin",
+    "Proche-Orient",
+    "roman",
+    "Sauf la frontière",
+    "littérature"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-28T06:08:48+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Elisa_Shua_Dusapin%2C_2018_%28cropped%29.jpg/1280px-Elisa_Shua_Dusapin%2C_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Chick19092017",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Elisa_Shua_Dusapin,_2018_(cropped).jpg",
+    "legende": "Elisa Shua Dusapin, writer, in 2018.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Elisa Shua Dusapin, 2018 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "International : Toute l’actualité sur Le Monde.fr.",
+      "titre": "Marquée par la guerre au Proche-Orient, l’écrivaine Elisa Shua Dusapin raconte comment elle a renoncé au roman pour « Sauf la frontière »",
+      "url": "https://www.lemonde.fr/livres/article/2026/11/28/marquee-par-la-guerre-au-proche-orient-l-ecrivaine-elisa-shua-dusapin-raconte-comment-elle-a-renonce-au-roman-pour-sauf-la-frontiere_6816077_3260.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
