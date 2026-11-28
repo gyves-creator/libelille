@@ -108,5 +108,24 @@
     "titres_sources": [
       "« La singularité a déjà commencé » : l’IA écrit des preuves plus vite que les mathématiciens ne peuvent les lire, et selon le cofondateur d’Anthropic ce n’est que le début"
     ]
+  },
+  {
+    "titre": "Bronson Reed, catcheur professionnel, décède à 38 ans",
+    "texte": "Le lutteur australien est mort quelques semaines après un combat où il a chuté hors du ring, les complications médicales ayant entraîné son décès, selon la WWE. Il avait 38 ans.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T09:34:26+00:00",
+    "titres_sources": [
+      "Star du catch professionnel, Bronson Reed trouve la mort à seulement 38 ans",
+      "La star du catch Bronson Reed meurt à l'âge de 38 ans"
+    ]
+  },
+  {
+    "titre": "Paris prévoit de facturer le stationnement des voitures électriques",
+    "texte": "La municipalité prévoit de supprimer progressivement le stationnement gratuit des véhicules électriques dès juillet 2027 et d’ajouter 2 € à la première heure pour les visiteurs, texte à voter en décembre.",
+    "rubrique": "tech",
+    "publie_le": "2026-11-28T09:34:26+00:00",
+    "titres_sources": [
+      "Paris veut faire payer le stationnement aux voitures électriques, et augmenter le tarif pour les visiteurs"
+    ]
   }
 ]
