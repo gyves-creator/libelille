@@ -71,5 +71,23 @@
     "titres_sources": [
       "Dépasser ses horaires de travail, une pratique répandue chez les salariés"
     ]
+  },
+  {
+    "titre": "Des 'franges' politiques font le buzz sur les réseaux sociaux",
+    "texte": "Des internautes utilisent les termes « franges de gauche », « franges de droite » et même « franges fascistes » pour qualifier les coupes de cheveux. Cette mode virale associe ainsi style capillaire et convictions politiques.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-28T07:56:07+00:00",
+    "titres_sources": [
+      "Tout est politique, même nos coupes de cheveux ?"
+    ]
+  },
+  {
+    "titre": "S&P garde la note A+ à la France mais passe à une perspective négative",
+    "texte": "Le ministre des Finances, Roland Lescure, a interprété la décision de S&P comme un avertissement et a confirmé l’objectif de déficit à 5 % en 2027. L’agence a conservé la note A+ mais a changé la perspective de stable à négative, évoquant difficultés à réduire déficit.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-28T07:56:07+00:00",
+    "titres_sources": [
+      "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027"
+    ]
   }
 ]
