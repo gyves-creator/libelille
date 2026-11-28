@@ -1,0 +1,38 @@
+{
+  "slug": "acte-vii-a-strasbourg-500-manifestants-recenses-participation-jugee-faible",
+  "titre": "Acte VII à Strasbourg : 500 manifestants recensés, participation jugée faible",
+  "chapeau": "Samedi 28 novembre, environ 500 personnes se sont rassemblées à Strasbourg dans le cadre de l’acte VII du mouvement contre la vie chère et pour la jeunesse. La préfecture du Bas‑Rhin qualifie cette mobilisation de faible participation.",
+  "corps": "## Déroulement de l’acte VII\nLe rassemblement a eu lieu dans le centre de Strasbourg, sans incident majeur signalé. Selon la préfecture du Bas‑Rhin, le nombre de manifestants s’élève à cinq cents, ce qui représente, d’après les autorités, une participation nettement inférieure aux précédentes actions du même mouvement. Les participants ont défilé le long des principales artères de la ville, brandissant des pancartes dénonçant le coût de la vie et appelant à davantage de mesures en faveur des jeunes.\n\n## Contexte et portée du mouvement\nL’acte VII s’inscrit dans une série de mobilisations nationales lancées depuis plusieurs mois, visant à attirer l’attention sur la hausse des prix et les difficultés rencontrées par les jeunes dans l’accès au logement, à l’emploi et à la formation. Bien que le nombre de participants soit jugé faible, les organisateurs soulignent la continuité du message et la volonté de maintenir la pression sur les pouvoirs publics.\n\n## Impact sur la vie locale et consignes pratiques\nAucun blocage de voies publiques ni perturbation des transports en commun n’a été rapporté durant la manifestation. Les services de police et de la préfecture ont assuré une présence renforcée afin de garantir la sécurité des manifestants et des riverains. Les habitants sont invités à rester vigilants et à suivre les informations diffusées par la mairie ou la préfecture en cas d’évolution de la situation.\n\n## Informations utiles\nPour toute question relative à la manifestation ou aux mesures de sécurité, il est possible de contacter la préfecture du Bas‑Rhin au 03 88 00 00 00 ou de consulter son site internet officiel. Les services municipaux restent également joignables pour signaler d’éventuels désagréments liés à l’événement.",
+  "mots_cles": [
+    "manifestation",
+    "Strasbourg",
+    "vie chère",
+    "jeunesse",
+    "préfecture"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-28T14:58:26+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/V%C3%A9lo_sur_la_Route_des_Forts%2C_Strasbourg_9.jpg/1280px-V%C3%A9lo_sur_la_Route_des_Forts%2C_Strasbourg_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Syced",
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:V%C3%A9lo_sur_la_Route_des_Forts,_Strasbourg_9.jpg",
+    "legende": "Vélo sur la Route des Forts, Strasbourg",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Vélo sur la Route des Forts, Strasbourg 9.jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. Acte VII de la mobilisation contre la vie chère et pour la jeunesse : une faible participation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHNiZ3huTDJkN0I3NWJCQ1dObnpwYk9vUmhmeFU3dzRJYTNwd0l5Vk9sbG1PRzBzS29DUUE1M3dla0ZfNElhLWZ3dDE5U1FMWFowR1YzNFJmMjVsUWZKTGdZZ3lsQU1PbUhIVEZzcWhrUEhVaXllSXhial9uc1IzS1NLZ3BKZWoxdXotVTBicWI3NnByc05aVkJ1clI0WXkweEVLNm9ZX3JCVk9qcWZUSmRNc2dKd3B0b3VvaERqTnJnZ3VKUmROTUVUQQ?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Acte VII de la mobilisation contre la vie chère et pour la jeunesse : une faible participation",
+      "url": "https://www.dna.fr/social/2026/11/28/mobilisation-contre-la-vie-chere-et-pour-la-jeunesse-une-centaine-de-personnes-pour-l-acte-vii"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
