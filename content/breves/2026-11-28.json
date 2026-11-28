@@ -314,5 +314,25 @@
       "France-Afrique du Sud : «Les Springboks ont toujours un tour de plus dans leur chapeau», met en garde Maxime Lucu",
       "France-Afrique du Sud : les Springboks dévoilent leur XV de départ"
     ]
+  },
+  {
+    "titre": "Le Sénat approuve une contribution de 5 € par jour pour les détenus",
+    "texte": "Le Sénat a adopté à la majorité une contribution forfaitaire de cinq euros par jour destinée aux détenus. Elle ne concernera que les personnes travaillant en prison ou disposant de ressources suffisantes.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-28T15:27:53+00:00",
+    "titres_sources": [
+      "Le Sénat vote en faveur d'une contribution journalière de cinq euros pour les détenus",
+      "Cinq euros par jour de prison : le Sénat vote en faveur d’une contribution pour les détenus"
+    ]
+  },
+  {
+    "titre": "Perquisition d’Ambroise de Rancourt, ancien chef de cabinet de Marine Le Pen",
+    "texte": "Les services de police ont perquisitionné le domicile et le bureau du siège du RN d’Ambroise de Rancourt, ancien directeur de cabinet de Marine Le Pen. Il est soupçonné d’avoir reçu des informations confidentielles du ministère de l’Intérieur.",
+    "rubrique": "politique",
+    "publie_le": "2026-11-28T15:27:53+00:00",
+    "titres_sources": [
+      "Fuites au ministère de l'Intérieur : l'ancien chef de cabinet de Marine Le Pen perquisitionné",
+      "Enarque, pianiste, stratège... Qui est Ambroise de Rancourt, soupçonné d’être le principal destinataire des fuites au profit du Rassemblement national ?"
+    ]
   }
 ]
