@@ -407,5 +407,23 @@
     "titres_sources": [
       "Formule 1 : doublé Mercedes lors des essais libres 3 du Grand Prix du Qatar, Isack Hadjar solide"
     ]
+  },
+  {
+    "titre": "Interdiction du maillot de foot à l'école Jean-Jerphanion",
+    "texte": "L'école Jean-Jerphanion aurait décidé d'interdire le port du maillot de football pour apaiser les tensions entre élèves, décision qui aurait déplu à certains parents. L'académie de Versailles aurait annoncé une révision du règlement en réponse.",
+    "rubrique": "societe",
+    "publie_le": "2026-11-28T17:53:35+00:00",
+    "titres_sources": [
+      "Rivalités dans la cour de récré, parents divisés et règlement revu : dans une école de La Garenne-Colombes, la guerre des maillots de football"
+    ]
+  },
+  {
+    "titre": "Résultats du Top 14 : Vannes, Racing 92 et Castres en difficulté",
+    "texte": "Vannes aurait obtenu le nul contre le Stade Français, le Racing 92 aurait perdu face à Pau, tandis que Castres aurait de nouveau chuté au classement. Bayonne aurait corrigé Castres et le Stade Rochelais aurait battu l'USAP, renforçant leurs positions respectives.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T17:53:35+00:00",
+    "titres_sources": [
+      "Top 14 : Vannes arrache le nul contre le Stade Français, le Racing 92 souffre face à Pau, Castres s’enfonce"
+    ]
   }
 ]
