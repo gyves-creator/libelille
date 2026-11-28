@@ -163,5 +163,23 @@
     "titres_sources": [
       "Le Hamas affirme qu'Israël a essayé de tuer le fils de son chef"
     ]
+  },
+  {
+    "titre": "Le ministre de l'Économie alerte sur la note S&P et demande un budget correctif",
+    "texte": "Roland Lescure aurait qualifié la perspective négative de S&P sur la dette française d’avertissement. Il aurait réitéré son appel au Parlement pour adopter un budget visant à redresser les finances publiques.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-28T10:58:46+00:00",
+    "titres_sources": [
+      "«C’est un avertissement», réagit Roland Lescure à la perspective négative de S&P sur la dette française"
+    ]
+  },
+  {
+    "titre": "Élections espagnoles secouées par crises du logement et incidents récents",
+    "texte": "Une campagne législative en Espagne aurait été perturbée par la crise du logement, des accusations de corruption, des tensions migratoires ainsi que l’expulsion d’une octogénaire et une tragédie ferroviaire. Ces événements compliqueraient la perspective d’une victoire de droite.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T10:58:46+00:00",
+    "titres_sources": [
+      "Crise du logement, corruption, tensions migratoires… En Espagne, une campagne législative bousculée par les imprévus"
+    ]
   }
 ]

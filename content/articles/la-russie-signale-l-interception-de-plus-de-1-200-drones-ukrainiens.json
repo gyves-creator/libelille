@@ -1,0 +1,38 @@
+{
+  "slug": "la-russie-signale-l-interception-de-plus-de-1-200-drones-ukrainiens",
+  "titre": "La Russie signale l'interception de plus de 1 200 drones ukrainiens",
+  "chapeau": "Les autorités russes ont déclaré avoir abattu plus d\"1200 drones lancés depuis l'Ukraine pendant la nuit de vendredi à samedi. Le maire de Moscou avait, quelques heures auparavant, indiqué que 462 de ces engins visaient la capitale.",
+  "corps": "## Une nuit marquée par une vague d'attaques aériennes\nDes dizaines de drones ont été détectés dans le ciel russe au cours de la nuit du vendredi au samedi, selon les services de défense. Les forces armées ont affirmé avoir intercepté plus de 1 200 appareils, dont une partie importante aurait été dirigée vers la région de Moscou. Le compte rendu officiel indique un total de 1 246 drones abattus, tandis que d'autres communiqués se contentent de parler de \"plus de 1 200\".\n\n## Le point de vue de la capitale\nLe maire de Moscou, qui s'était exprimé plus tôt dans la soirée, a précisé que 462 drones avaient été lancés spécifiquement en direction de la capitale. Cette information, diffusée avant les déclarations des autorités militaires, souligne l'ampleur de la menace perçue sur le territoire russe et la vigilance accrue des services de protection aérienne autour de la ville.\n\n## Contexte du conflit\nDepuis le déclenchement de la guerre entre la Russie et l'Ukraine, l'usage de drones s'est généralisé des deux côtés. Ces appareils, souvent de petite taille et peu coûteux, sont employés pour des missions de reconnaissance, de harcèlement ou d'attaque ciblée. Les autorités russes ont régulièrement dénoncé des tentatives d'intrusion aérienne depuis le territoire ukrainien, les qualifiant d'actes d'agression. De leur côté, les forces ukrainiennes n'ont pas commenté ces opérations spécifiques.\n\n## Implications et suites possibles\nL'ampleur des interceptions annoncées pourrait entraîner un renforcement des mesures de défense aérienne, notamment autour des grandes agglomérations comme Moscou. Les autorités russes pourraient également intensifier leurs réponses militaires dans les zones frontalières, tout en poursuivant la diffusion d'informations visant à démontrer leur capacité à protéger le territoire national. Aucun incident majeur n'a été signalé à la suite de ces interceptions, et aucune perte humaine n'a été mentionnée dans les communiqués disponibles.\n\nLes chiffres fournis divergent légèrement, mais convergent tous deux vers l'idée d'une campagne de drones d'envergure menée depuis l'Ukraine, rencontrant une forte résistance des défenses russes.",
+  "mots_cles": [
+    "Russie",
+    "drones",
+    "Ukraine",
+    "Moscou",
+    "guerre"
+  ],
+  "rubrique": "international",
+  "publie_le": "2026-11-28T10:58:24+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/1280px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "U.S. Department of State",
+    "licence": "Public domain",
+    "licence_url": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "legende": "A picture of the view in Red Square in Moscow, taken by the U.S. Department of State // Actually, only a small portion of the square can be seen (the blue stands in the center). Most of the square is ",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Saint Basil's Cathedral and the Red Square.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Monde",
+      "titre": "La Russie annonce l'interception de plus de 1 200 drones ukrainiens sur son territoire",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens-sur-son-territoire_8304321.html#xtor=RSS-3-%5Bmonde%5D"
+    },
+    {
+      "media": "News, actualité politique & économique en Europe - France 24",
+      "titre": "En direct : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit",
+      "url": "https://www.france24.com/fr/europe/20261128-en-direct-la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

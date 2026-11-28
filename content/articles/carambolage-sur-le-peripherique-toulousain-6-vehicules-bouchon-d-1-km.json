@@ -1,0 +1,42 @@
+{
+  "slug": "carambolage-sur-le-peripherique-toulousain-6-vehicules-bouchon-d-1-km",
+  "titre": "Carambolage sur le périphérique toulousain : 6 véhicules, bouchon d'1 km",
+  "chapeau": "Un carambolage impliquant six véhicules s’est produit ce samedi matin sur le périphérique de Toulouse, en direction de Bordeaux, sans faire de blessés. L’incident a entraîné un embouteillage de plus d’un kilomètre, perturbant la circulation locale.",
+  "corps": "## Déroulement de l’accident\nSamedi 28 novembre, aux premières heures de la matinée, un enchaînement de collisions a impliqué six automobiles sur le tronçon du périphérique qui dessert la direction Bordeaux. Aucun des usagers n’a été blessé, mais la chaîne d’impacts a bloqué la voie, obligeant les conducteurs à s’arrêter derrière le véhicule le plus en avant. La densité du trafic a rapidement fait grimper la file d’attente, dépassant le kilomètre de longueur.\n\n## Conséquences pour les usagers\nCette interruption a eu pour effet de ralentir fortement la circulation sur l’ensemble du périphérique, notamment aux heures de pointe où de nombreux habitants de la métropole utilisent cet axe pour rejoindre leurs lieux de travail ou leurs activités quotidiennes. Les automobilistes ont signalé des temps d’attente allongés, et plusieurs itinéraires alternatifs ont été envisagés pour éviter le bouchon. Aucun détournement officiel n’a été annoncé, mais les services de la voirie recommandent de consulter les informations en temps réel avant tout déplacement.\n\n## Conseils pratiques aux riverains\nPour les résidents du quartier concerné et les usagers réguliers du périphérique, il est conseillé de vérifier les mises à jour du trafic sur le site internet de la mairie ou via les applications mobiles dédiées à la mobilité. En cas de besoin, le numéro de la police municipale reste disponible pour signaler d’éventuels problèmes ou obtenir des indications sur les voies de déviation. Les autorités rappellent que la prudence reste de mise sur les voies de circulation, même en l’absence de blessés, afin d’éviter tout risque supplémentaire.\n\n## Contexte du périphérique toulousain\nLe périphérique de Toulouse constitue la principale ceinture autoroutière qui entoure la ville, reliant les différents quartiers et assurant la liaison avec les axes nationaux, dont la direction Bordeaux. Sa fréquentation élevée en fait un point névralgique du trafic urbain, où tout incident peut rapidement se répercuter sur l’ensemble du réseau routier. Les usagers sont ainsi invités à rester informés et à adapter leurs trajets en fonction des aléas signalés.",
+  "mots_cles": [
+    "carambolage",
+    "périphérique Toulouse",
+    "bouchon",
+    "circulation"
+  ],
+  "rubrique": "toulouse",
+  "publie_le": "2026-11-28T10:58:41+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/France_toulouse_rocade_nuit.jpg/1280px-France_toulouse_rocade_nuit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Alexandre Delbos from Toulouse, France",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:France_toulouse_rocade_nuit.jpg",
+    "legende": "Toulouse , rocade de nuit près de Rangueil .",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:France toulouse rocade nuit.jpg"
+  },
+  "sources": [
+    {
+      "media": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "titre": "Carambolage sur le périphérique de Toulouse : six véhicules impliqués, plus d'un kilomètre de bouchon",
+      "url": "https://www.ladepeche.fr/2026/11/28/carambolage-sur-le-peripherique-de-toulouse-six-vehicules-impliques-plus-dun-kilometre-de-bouchon-13675851.php"
+    },
+    {
+      "media": "ladepeche.fr",
+      "titre": "Carambolage sur le périphérique de Toulouse : six véhicules impliqués, plus d'un kilomètre de bouchon",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelJFbXFROW5VdVA1M1A5c1RJWGpsSERWejJKTEVmOTVNT0ZKSjdqdy1sbFNpZERvNlAxaU9zNU5aanc2R25DaFI0TXJUR0ppblJYN3I4NGNfeDlZSFBTekRRX0NVT0JNVGxJX3E5UFdVZ2ZfQS1aSnF1REFCdWVldmVCZGxscDkwdm91UzFFQTFsdFpMYzJCLVhNaEltVVp4bjFXdFNCbkpZZzVwN193NUwtWTA2SkxOVmlVVWZGZXJ1Vm50X3JZQ042amNkZWZIUkw3c2JSbDYtR3dRUHl3?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "Carambolage sur le périphérique de Toulouse : six véhicules impliqués, de grosses difficultés en cours",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTWxCekUwMUtOaXhqZlRzT2FvaTBZMXFSLXdsX1VhMHFaRkpKUm14WGphbGZ4by1zRW5ySUFLMUZpUUxVb21BOUtPMVpjYndzQ2dLZnJyMWN2ZGtSTnVDeEdqT2t2aHhIaEpMaF9VRDltUjA4QnZFUnJlWDV3cXNqUndIemVrOGRJVkVER29XTloydGpQdTNBSFc2MExMR1JRc3RWZmRjUUNibHlZSVR3VHJjWTU0WUo4RFVoZTlnSUpWR2dIdHRLRW5ia1J0QXBudlhhUGNBRlI5SUZQdTFoRC1fb010T0xBS2c?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

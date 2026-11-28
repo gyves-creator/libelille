@@ -1,0 +1,38 @@
+{
+  "slug": "deces-de-bronson-reed-star-du-catch-professionnel-a-38-ans",
+  "titre": "Décès de Bronson Reed, star du catch professionnel à 38 ans",
+  "chapeau": "Bronson Reed, catcheur australien de renom, est décédé à l'âge de 38 ans. Sa mort a été annoncée par la WWE, qui indique des complications médicales survenues après une chute violente hors du ring.",
+  "corps": "## Un accident qui précède la tragédie\r\nBronson Reed, connu dans le circuit du catch professionnel pour ses performances spectaculaires, a subi, quelques semaines avant son décès, une chute violente en dehors du ring lors d'un combat. L'incident, décrit comme une sortie du ring brutale, a été largement relayé par les médias sportifs. Aucun détail supplémentaire sur les circonstances de la chute n’a été communiqué.\r\n\r\n## Annonce officielle de la WWE\r\nLa fédération de catch WWE a confirmé vendredi le décès de Reed, précisant que la cause était liée à des complications médicales. L’annonce, diffusée par les canaux officiels de la WWE, ne fournit pas d’informations supplémentaires sur la nature exacte des complications ni sur les éventuels traitements reçus après l’accident.\r\n\r\n## Parcours et reconnaissance\r\nNé en Australie, Bronson Reed s’est imposé comme une figure majeure du catch professionnel, évoluant dans plusieurs promotions avant d’intégrer la WWE. Son style de combat, caractérisé par une puissance physique remarquable, lui avait valu une popularité croissante auprès du public international. À 38 ans, il était considéré comme l’un des talents les plus prometteurs de sa génération.\r\n\r\n## Réactions du milieu sportif\r\nLes réactions à la nouvelle se sont multipliées sur les réseaux sociaux et au sein de la communauté du catch. Plusieurs collègues et admirateurs ont exprimé leur tristesse, rappelant l’impact de Reed sur la scène du catch mondial. Aucun communiqué officiel supplémentaire n’a été publié par les organisations sportives ou les autorités sanitaires concernant les circonstances exactes du décès.\r\n\r\nCe décès intervient alors que le monde du sport de combat pleure la perte d’un athlète dont la carrière, bien que courte, avait laissé une empreinte notable. Les détails restent limités aux informations confirmées par la WWE et aux faits relatés par les médias au moment de l’annonce.",
+  "mots_cles": [
+    "Bronson Reed",
+    "catch professionnel",
+    "décès",
+    "WWE",
+    "accident"
+  ],
+  "rubrique": "sport",
+  "publie_le": "2026-11-28T10:58:27+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bronson_Reed_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "House of Glory Wrestling",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bronson_Reed_2022.jpg",
+    "legende": "Bronson Reed in 2022",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Bronson Reed 2022.jpg"
+  },
+  "sources": [
+    {
+      "media": "Le Figaro - Sports : Actualité sportive en direct",
+      "titre": "Star du catch professionnel, Bronson Reed trouve la mort à seulement 38 ans",
+      "url": "https://www.lefigaro.fr/sports/autres-sports/star-du-catch-professionnel-bronson-reed-trouve-la-mort-a-seulement-38-ans-20261128"
+    },
+    {
+      "media": "franceinfo- Sports",
+      "titre": "La star du catch Bronson Reed meurt à l'âge de 38 ans",
+      "url": "https://www.franceinfo.fr/sports/la-star-du-catch-bronson-reed-decede-a-38-ans_8304387.html#xtor=RSS-3-%5Bsports%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
