@@ -276,5 +276,23 @@
     "titres_sources": [
       "\"Cette situation est vraiment compliquée\" : il reçoit des dizaines de PV par erreur"
     ]
+  },
+  {
+    "titre": "Le sélectionneur de basket défend ses propos sur la naturalisation",
+    "texte": "Le sélectionneur turc de basket, Ergin Ataman, aurait affirmé que ses propos ne portaient aucune connotation raciste, après des remarques sur la naturalisation des joueurs en Europe, notamment en France et en Espagne. Il aurait publié un communiqué sur Instagram vendredi pour répondre aux critiques.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T14:13:04+00:00",
+    "titres_sources": [
+      "Basket : «Mes propos n’avaient aucune connotation raciste», le sélectionneur de la Turquie sort du silence après ses déclarations polémiques"
+    ]
+  },
+  {
+    "titre": "Le numéro 2 de la BCE exclut un scénario grec pour la dette française",
+    "texte": "Le numéro 2 de la BCE aurait rejeté un scénario grec pour la dette française. S&P Global aurait abaissé vendredi la perspective de stable à négative, signalant une possible dégradation future du rating en raison des difficultés de la France à réduire son déficit.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-28T14:13:04+00:00",
+    "titres_sources": [
+      "Le numéro 2 de la Banque centrale européenne écarte un scénario à la grecque pour la dette française"
+    ]
   }
 ]

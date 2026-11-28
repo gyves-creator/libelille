@@ -1,0 +1,38 @@
+{
+  "slug": "six-prevenus-juges-a-strasbourg-pour-trafic-de-cocaine-et-d-heroine-a-hautepierr",
+  "titre": "Six prévenus jugés à Strasbourg pour trafic de cocaïne et d'héroïne à Hautepierre",
+  "chapeau": "Le tribunal correctionnel de Strasbourg a entendu six personnes accusées de trafic de stupéfiants dans le quartier de Hautepierre les 24 et 25 novembre. Le principal suspect, âgé de 21 ans, a été condamné à quatre ans de prison.",
+  "corps": "## Un procès suivi de près dans le quartier de Hautepierre\n\nLes audiences du tribunal correctionnel de Strasbourg, tenues les 24 et 25 novembre, ont porté sur six prévenus impliqués dans un réseau de distribution de cocaïne et d'héroïne opérant à Hautepierre. Le chef présumé du réseau, un jeune homme de 21 ans jusque‑là inconnu des juridictions, a été déclaré coupable et sanctionné d’une peine de quatre ans d’emprisonnement ferme. Les cinq autres personnes jugées ont également été condamnées, bien que les peines exactes n’aient pas été précisées dans les informations disponibles.\n\n## Conséquences pour les habitants de Hautepierre\n\nAucun impact direct sur la circulation ou les transports n’a été annoncé dans le cadre de ces procédures. Les autorités locales ont toutefois rappelé leur vigilance accrue dans le quartier, qui a déjà été confronté à des problèmes de trafic de stupéfiants. La police de quartier continue de renforcer les contrôles et de collaborer avec les services de prévention afin de limiter la revente et l’usage de ces substances.\n\n## Le contexte du trafic de drogue à Strasbourg\n\nStrasbourg, comme plusieurs grandes villes françaises, fait face à une demande persistante de drogues illicites. Le réseau jugé à Hautepierre était spécialisé dans la distribution de cocaïne et d’héroïne, deux substances classées comme stupéfiants les plus consommés dans la région. Les services de police et de la gendarmerie nationale intensifient leurs opérations de renseignement pour démanteler les réseaux similaires, en s’appuyant sur des filatures, des saisies et des enquêtes financières.\n\n## Informations pratiques pour les riverains\n\nLes habitants de Hautepierre ou de toute autre commune de l’Eurométropole peuvent signaler toute activité suspecte au numéro d’urgence de la police (17) ou via le site internet de la préfecture du Bas‑Rhin. Le commissariat de quartier reste disponible pour répondre aux questions et orienter les citoyens vers les dispositifs d’aide et de prévention liés à la toxicomanie.",
+  "mots_cles": [
+    "Strasbourg",
+    "Hautepierre",
+    "trafic de drogue",
+    "tribunal correctionnel",
+    "condamnation"
+  ],
+  "rubrique": "strasbourg",
+  "publie_le": "2026-11-28T14:12:53+00:00",
+  "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Theatre_Hautepierre_Strasbourg_P_10_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Laurent Jerry",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Theatre_Hautepierre_Strasbourg_P_10_(cropped).jpg",
+    "legende": "Vue aérienne du quartier de Hautepierre, à Strasbourg, prise en 2004. Au premier plan, le centre commercial ; au fond, l'autoroute A351 et le site alors vide de l'actuel Zénith.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Theatre Hautepierre Strasbourg P 10 (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "dna.fr",
+      "titre": "Strasbourg. Dossier « Raouf » : cocaïne et héroïne écoulées à Hautepierre, la tête du réseau condamnée",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlhuejd4U25WR3RYcElWNFA4M1V2Z0RSWmJoOThZaDIwQjJmLVFpbW9nUmhGWDJWd3Nha0FmN3BTdWNNWWQ1Vm5yUy1BaGh3TC1fVGVpU2hsbVNlTDFsMERadDd1Nk9BWEQ5MjM4ejluTmxQY1ZUY2hvcVp4My02LXRpLW9IZlRpeFQ5R0l5TGpoRVliRHBsMzlfU0tENjdPOGIzSXJXN3BXUHB1Y2Y5TmxKZnN4ZjYtXzRUM1dlcU4zc3hDTkJyVGFybzdhaTVhVlRKMy10TEJmTFhnXzQwRw?oc=5"
+    },
+    {
+      "media": "DNA - Les Dernières Nouvelles d'Alsace : actualité en direct et info en continu à Strasbourg, en Alsace, en France et dans le monde | Les Dernières Nouvelles d'Alsace",
+      "titre": "Strasbourg. Dossier « Raouf » : cocaïne et héroïne écoulées à Hautepierre, la tête du réseau condamnée",
+      "url": "https://www.dna.fr/faits-divers-justice/2026/11/28/dossier-raouf-cocaine-et-heroine-ecoulees-a-hautepierre-la-tete-du-reseau-condamnee-a-quatre-ans"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
