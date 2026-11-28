@@ -1,0 +1,33 @@
+{
+  "slug": "fuites-et-accusations-d-antisemitisme-autour-du-rn-enjeux-et-reactions",
+  "titre": "Fuites et accusations d'antisémitisme autour du RN : enjeux et réactions",
+  "chapeau": "Des soupçons de fuites d'informations au profit du Rassemblement national alimentent les tensions entre le parti et l'administration. Des écrits antisémites attribués à Jordan Bardella relancent le débat sur le respect du secret de l'instruction et la défense du dirigeant du RN.",
+  "corps": "## Des fuites perçues comme un moyen de pression\nAleksandar Nikolic, député européen et porte-parole du Rassemblement national, a exprimé ses craintes que des fuites d’informations à destination du parti puissent servir de levier pour contraindre les préfets et hauts fonctionnaires à limiter leurs contacts avec le RN. Cette inquiétude a été évoquée lors de son intervention dans l'émission \"8h30 franceinfo\" où il a souligné le risque d'une utilisation politique de ces divulgations.\n\n## Accusations d'antisémitisme et respect du secret de l'instruction\nParallèlement, des éléments récemment publiés par deux médias d'investigation font état d'écrits antisémites attribués à Jordan Bardella, président du Rassemblement national. Les révélations ont relancé le débat sur le respect du secret de l'instruction, principe juridique protégeant les enquêtes en cours. Aucun détail supplémentaire n’a été communiqué quant à la nature exacte des écrits ni aux suites judiciaires éventuelles.\n\n## Réactions au sein du parti\nMarine Le Pen, candidate du Rassemblement national à l'élection présidentielle, a réaffirmé son soutien à Jordan Bardella, qualifiant sa position de légitime. Cette prise de parole intervient dans un contexte où le parti cherche à contenir les retombées médiatiques des accusations et à maintenir son unité interne.\n\n## Contexte institutionnel\nLe Rassemblement national, parti d'extrême droite, est régulièrement confronté à des tensions avec les autorités administratives, notamment les préfets, qui sont chargés de la mise en œuvre des politiques publiques au niveau local. Les allégations de fuites d’informations et les accusations d’antisémitisme soulignent les frictions persistantes entre le mouvement et les instances de l’État, tout en rappelant les enjeux liés à la transparence et à la protection des procédures judiciaires.",
+  "mots_cles": [
+    "Rassemblement national",
+    "Jordan Bardella",
+    "fuites d'informations",
+    "secret de l'instruction",
+    "Marine Le Pen"
+  ],
+  "rubrique": "politique",
+  "publie_le": "2026-11-28T11:56:33+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Jordan_Bardella_%28cropped%29.jpg/1280px-Jordan_Bardella_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "European Parliament from EU",
+    "licence": "CC BY 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jordan_Bardella_(cropped).jpg",
+    "legende": "MEPs welcomed the decision to open the EU’s doors to Ukraine and Moldova, but asked leaders to strengthen the EU, and tackle the latest crisis. MEPs discussed the conclusions of 23-24 June European Co",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Jordan Bardella (cropped).jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Politique",
+      "titre": "\"Fuites\" au profit du RN : Aleksandar Nikolic redoute \"un moyen de pression pour empêcher des préfets et des hauts fonctionnaires d'échanger\" avec le parti",
+      "url": "https://www.franceinfo.fr/politique/front-national/fuites-au-profit-du-rn-aleksandar-nikolic-redoute-un-moyen-de-pression-pour-empecher-des-prefets-et-des-hauts-fonctionnaires-d-echanger-avec-le-parti_8304543.html#xtor=RSS-3-%5Bpolitique%5D"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -201,5 +201,23 @@
     "titres_sources": [
       "Ce pacte sulfureux que la France envisage de sceller avec les Talibans"
     ]
+  },
+  {
+    "titre": "Interruption d'un match en Pologne par un homme en trottinette",
+    "texte": "Le match de football opposant le Stal Stalowa Wola à la réserve du Legia Varsovie a été suspendu après l'intrusion d'un individu circulant en trottinette électrique sur le terrain. Le jeu a repris après le retrait de l'intrus.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T11:56:50+00:00",
+    "titres_sources": [
+      "«Un clown ? Ou juste un fou ?» : un match en Pologne interrompu par un homme… en trottinette électrique"
+    ]
+  },
+  {
+    "titre": "Des espions russes repérés à Narva en route vers Paris",
+    "texte": "Selon une revue de presse européenne, il semblerait que des agents liés au président russe aient quitté Narva pour se diriger vers Paris. Cette information, non confirmée par les autorités, pourrait indiquer une nouvelle activité d'espionnage.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T11:56:50+00:00",
+    "titres_sources": [
+      "«Vu d’Ailleurs» N°196 - À Narva, les espions de Poutine voyageaient vers Paris"
+    ]
   }
 ]
