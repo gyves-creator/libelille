@@ -425,5 +425,23 @@
     "titres_sources": [
       "Top 14 : Vannes arrache le nul contre le Stade Français, le Racing 92 souffre face à Pau, Castres s’enfonce"
     ]
+  },
+  {
+    "titre": "Lens bat Angers 5-2 grâce à un quintuple de Sima",
+    "texte": "Lens a remporté son match de la 12e journée de Ligue 1 en infligeant une défaite 5-2 à Angers. Abdallah Sima a réalisé un quintuple, un exploit inédit dans la compétition.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T18:24:48+00:00",
+    "titres_sources": [
+      "Ligue 1 : porté par un Abdallah Sima en état de grâce, Lens écrase Angers et se donne de l’air"
+    ]
+  },
+  {
+    "titre": "Huit pays, dont la France, réclament des élections en Palestine d'ici 2027",
+    "texte": "Huit États, parmi lesquels la France et le Royaume-Uni, demandent l’organisation d’élections présidentielles et législatives en Palestine au premier trimestre 2027, estimant qu’elles sont indispensables à la démocratie. Les dernières législatives remontent à 2006, lorsque le Hamas l’avait remportée face au Fatah.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T18:24:48+00:00",
+    "titres_sources": [
+      "Palestine : huit pays, dont la France et le Royaume-Uni, appellent à l’organisation d’élections présidentielle et législatives « au premier trimestre 2027 »"
+    ]
   }
 ]
