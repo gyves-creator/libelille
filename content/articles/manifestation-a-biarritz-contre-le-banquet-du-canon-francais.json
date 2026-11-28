@@ -1,0 +1,38 @@
+{
+  "slug": "manifestation-a-biarritz-contre-le-banquet-du-canon-francais",
+  "titre": "Manifestation à Biarritz contre le banquet du Canon français",
+  "chapeau": "Des centaines de personnes se sont rassemblées à Biarritz pour s’opposer à un banquet intitulé « Canon français ». Le rassemblement a dégénéré en affrontement avec les forces de l’ordre après que les manifestants ont tenté d’empêcher l’accès des participants.",
+  "corps": "## Manifestation à Biarritz\nLe 28 novembre 2026, les rues de Biarritz, ville côtière du Pays basque français, ont été le théâtre d’une importante mobilisation citoyenne. Les manifestants, estimés à plusieurs centaines, ont formé ce qu’ils ont appelé un « rempart humain » afin de bloquer l’entrée du site où devait se tenir le banquet du Canon français. Les forces de l’ordre sont intervenues pour disperser la foule et rétablir l’accès aux participants, ce qui a donné lieu à des échauffourées entre les deux parties.\n\n## Financement et accusations\nLe banquet du Canon français est cofinancé par le milliardaire Pierre‑Edouard Stérin, décrit comme ultraconservateur. Les opposants reprochent à cet événement de servir de vitrine à des idées d’extrême droite, dissimulées derrière un discours patriotique et franchouillard. Aucun porte‑parole officiel n’a été cité pour confirmer ou infirmer ces accusations, mais le caractère controversé du financement a alimenté la mobilisation.\n\n## Réaction des autorités\nLes services de police présents sur place ont déclaré intervenir pour garantir la sécurité publique et le bon déroulement de l’événement. Aucun chiffre précis n’a été communiqué concernant le nombre d’arrestations ou de blessés. La situation a été décrite comme un « affrontement » entre manifestants et forces de l’ordre, sans indication d’escalade supplémentaire.\n\n## Contexte local\nBiarritz, connue pour son attractivité touristique et son patrimoine balnéaire, accueille régulièrement des manifestations liées à des enjeux sociétaux. Cette protestation s’inscrit dans une dynamique plus large de contestation de mouvements perçus comme porteurs d’idéologies extrémistes, notamment lorsqu’ils bénéficient de financements privés importants. Le débat autour du Canon français reflète les tensions actuelles entre libertés d’expression, financement privé d’événements culturels et vigilance face aux discours politiques radicaux.",
+  "mots_cles": [
+    "Biarritz",
+    "manifestation",
+    "Canon français",
+    "Pierre-Edouard Stérin",
+    "extrême droite"
+  ],
+  "rubrique": "societe",
+  "publie_le": "2026-11-28T15:55:57+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Biarritz_vue_g%C3%A9n%C3%A9rale.jpg/1280px-Biarritz_vue_g%C3%A9n%C3%A9rale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Arno8892",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Biarritz_vue_g%C3%A9n%C3%A9rale.jpg",
+    "legende": "Vue générale de Biarritz depuis la Grande Plage",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Biarritz vue générale.jpg"
+  },
+  "sources": [
+    {
+      "media": "franceinfo- Société",
+      "titre": "Des centaines de personnes rassemblées à Biarritz contre la tenue d'un banquet du très controversé \"Canon français\"",
+      "url": "https://www.franceinfo.fr/societe/racisme/des-centaines-de-personnes-rassemblees-a-biarritz-contre-la-tenue-d-un-banquet-du-tres-controverse-canon-francais_8304570.html#xtor=RSS-3-%5Bsociete%5D"
+    },
+    {
+      "media": "Société : Toute l’actualité sur Le Monde.fr.",
+      "titre": "A un banquet du Canon français, à Biarritz, des manifestants bloquent les participants, qu’ils accusent de véhiculer des idées d’extrême droite",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/28/a-un-banquet-du-canon-francais-a-biarritz-des-manifestants-bloquent-les-participants-qu-ils-accusent-de-vehiculer-des-idees-d-extreme-droite_6816103_3224.html"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}
