@@ -257,5 +257,24 @@
     "titres_sources": [
       "DIRECT. Manifestations : nouvelle journée de mobilisation samedi, notamment contre les violences faites aux femmes"
     ]
+  },
+  {
+    "titre": "Suède remporte le relais mixte de biathlon, France sur le podium",
+    "texte": "La Suède a triomphé du relais mixte simple à Kontiolahti, épreuve de la Coupe du monde de biathlon, devant l’Allemagne. La France, représentée par Lou Jeanmonnot et Eric Perrot, a terminé troisième.",
+    "rubrique": "sport",
+    "publie_le": "2026-11-28T13:48:25+00:00",
+    "titres_sources": [
+      "Biathlon : la Suède remporte le relais mixte simple de la Coupe du monde, la France sur le podium",
+      "Lou Jeanmonnot et Eric Perrot troisièmes du relais mixte simple de Kontiolahti, en Coupe du monde biathlon"
+    ]
+  },
+  {
+    "titre": "Un garagiste charentais confronté à plus de 80 PV pour une plaque usurpée",
+    "texte": "Un garagiste de la Charente a reçu, par erreur, plus de 80 contraventions liées à une plaque d’immatriculation de moto qu’il ne possède plus, usurpée par un tiers. Il tente de faire reconnaître l’erreur auprès des autorités.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-28T13:48:25+00:00",
+    "titres_sources": [
+      "\"Cette situation est vraiment compliquée\" : il reçoit des dizaines de PV par erreur"
+    ]
   }
 ]
