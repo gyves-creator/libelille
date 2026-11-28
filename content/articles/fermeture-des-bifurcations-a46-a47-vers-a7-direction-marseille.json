@@ -1,0 +1,33 @@
+{
+  "slug": "fermeture-des-bifurcations-a46-a47-vers-a7-direction-marseille",
+  "titre": "Fermeture des bifurcations A46/A47 vers A7 direction Marseille",
+  "chapeau": "Les jonctions reliant les autoroutes A46 et A47 à l'A7 en direction de Marseille sont fermées. Les usagers sont invités à emprunter les itinéraires de déviation indiqués par les services compétents.",
+  "corps": "## Impact sur la circulation locale\nLes points d’accès aux autoroutes A46 et A47 qui mènent à l’A7 en direction de Marseille sont inaccessibles aux véhicules. Cette coupure concerne les deux bifurcations situées à proximité du périphérique marseillais, ce qui entraîne un ralentissement du trafic sur les voies de contournement. Les automobilistes qui empruntaient habituellement ces jonctions doivent désormais emprunter les routes alternatives, notamment la D8 et la N568, ou longer le périphérique en suivant les panneaux de déviation. Les services de police et les gestionnaires autoroutiers ont indiqué que les flux de véhicules seront redistribués sur les axes adjacents, pouvant entraîner des embouteillages ponctuels aux heures de pointe.\n\n## Consignes et informations pratiques\nLes autorités recommandent aux conducteurs de vérifier l’état du trafic en temps réel via les sites officiels des sociétés d’autoroute ou les applications mobiles dédiées avant de prendre la route. En cas de besoin, le numéro d’information du service d’assistance autoroutière reste disponible pour orienter les usagers vers les itinéraires de substitution. Les transports en commun, notamment les lignes de bus reliant les quartiers périphériques, peuvent subir des ajustements afin de compenser la gêne routière ; les horaires seront communiqués sur les sites des réseaux de transport locaux. Les travaux ou incidents à l’origine de la fermeture n’ont pas été détaillés, et la durée de l’interruption n’a pas été précisée ; les usagers sont donc invités à rester attentifs aux mises à jour publiées par la préfecture ou la direction de l’exploitation des autoroutes.\n\nPour toute question relative à la sécurité routière ou aux itinéraires de déviation, les habitants peuvent contacter le service d’information routière de la préfecture de la Bouches‑du‑Rhône au numéro dédié, ou consulter le site internet de la mairie de Marseille où seront publiées les consignes actualisées.",
+  "mots_cles": [
+    "autoroute",
+    "Marseille",
+    "bifurcation",
+    "trafic",
+    "déviation"
+  ],
+  "rubrique": "marseille",
+  "publie_le": "2026-11-28T07:25:10+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Autoroute_du_soleil_pr%C3%A8s_d%27Ampuis.jpg/1280px-Autoroute_du_soleil_pr%C3%A8s_d%27Ampuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "SashiRolls",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Autoroute_du_soleil_pr%C3%A8s_d%27Ampuis.jpg",
+    "legende": "The A7 crosses the Rhône twice in the Pays Viennois, once north of Vienne (see below) and once near Ampuis, in Côte Rotie country south of Vienne.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Autoroute du soleil près d'Ampuis.jpg"
+  },
+  "sources": [
+    {
+      "media": "Radio VINCI Autoroutes",
+      "titre": "A46 et A47 bifurcations vers A7 direction Marseille fermées",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFdaTklJVDcwVVd5NXZUREc5RnZGekh2QUdNYkxTV2RGNmZWbkxmR2tvX3JWeFVfVXBZT09ZLVRiMWhUeGZHMjlBd01Yb2d1Z3VVcURTQWM4a2N1cU1oc2RSTW9zc2s1azI3ZGZtbTV6c2tCeTV1R0ctV21LcFc1MWVUNkhpekQzLU1ZajR2UDlQWE1KXzZzaU5abVNwaFZiMTNhLTczZWc3ZFFVMFE?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "fin-du-ticket-de-metro-en-carton-a-paris-apres-126-ans-de-service",
+  "titre": "Fin du ticket de métro en carton à Paris après 126 ans de service",
+  "chapeau": "La RATP a annoncé la suppression du ticket de métro en carton, utilisé depuis plus d’un siècle. À compter de la date fixée, les usagers devront recourir à d’autres moyens de paiement pour accéder au réseau parisien.",
+  "corps": "## Une décision historique pour le réseau de transport\nLa Régie autonome des transports parisiens (RATP) a confirmé que le ticket de métro en carton, en service depuis 126 ans, ne sera plus accepté après la date annoncée. Cette mesure met fin à l’un des symboles les plus reconnaissables du transport public parisien, qui a accompagné plusieurs générations d’usagers depuis le XIXᵉ siècle.\n\n## Conséquences pour les usagers\nLes voyageurs devront donc se tourner vers les modes de paiement déjà en place, tels que les cartes à puce Navigo, les billets électroniques ou les solutions de paiement sans contact. Aucun détail n’a été fourni sur les modalités de transition, mais la RATP invite les usagers à consulter son site internet pour connaître les alternatives disponibles et les éventuelles procédures d’échange ou de remboursement des tickets encore en circulation.\n\n## Contexte et enjeux\nLe ticket en carton a longtemps été apprécié pour sa simplicité et son prix abordable, mais il présentait également des limites en termes de durabilité et de modernisation du système tarifaire. Sa suppression s’inscrit dans une logique de digitalisation du réseau, visant à améliorer la fluidité du contrôle d’accès et à réduire les coûts liés à la production et à la gestion du papier.\n\n## Informations pratiques\nPour toute question relative à la fin du ticket en carton, les usagers peuvent se rendre sur le site officiel de la RATP ou contacter le service clientèle via le numéro indiqué sur la plateforme en ligne. Les points de vente habituels, tels que les guichets et les distributeurs automatiques, continueront de proposer les solutions de paiement alternatives jusqu’à la date de basculement définitive.\n\nEn attendant la mise en œuvre complète de cette mesure, il est recommandé aux voyageurs de vérifier régulièrement les communications de la RATP afin de s’adapter sans difficulté aux nouvelles modalités de paiement du métro parisien.",
+  "mots_cles": [
+    "Paris",
+    "métro",
+    "ticket",
+    "RATP",
+    "transport"
+  ],
+  "rubrique": "paris",
+  "publie_le": "2026-11-28T07:25:04+00:00",
+  "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Photographie_de_couloirs_d%27acc%C3%A8s_au_m%C3%A9tro_1_en_gare_de_Ch%C3%A2telet%2C_Paris.jpg/1280px-Photographie_de_couloirs_d%27acc%C3%A8s_au_m%C3%A9tro_1_en_gare_de_Ch%C3%A2telet%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Valjo29",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Photographie_de_couloirs_d%27acc%C3%A8s_au_m%C3%A9tro_1_en_gare_de_Ch%C3%A2telet,_Paris.jpg",
+    "legende": "Photograph of corridors and stairs in Châtelet station leading to the platform of RATP metro line 1 towards Vincennes.",
+    "source": "Wikimedia Commons",
+    "cle": "commons:File:Photographie de couloirs d'accès au métro 1 en gare de Châtelet, Paris.jpg"
+  },
+  "sources": [
+    {
+      "media": "Nice-Matin",
+      "titre": "« Un sésame pour la ville » : Paris dit adieu à son ticket de métro en carton après 126 ans de service",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZW9rdXF5Wm04c1M1elpqQUVmMVRPRm0xZl9zYmFhczdjR3pUVFhzMWluMktMTmFBQ3VOcXNtZ2tadXJBZHhxVnFqOXp5Y2lxdVhyRm1JdzFFZ3FxLTl6SkVLMFRqc1NiMlFjZGhfcU5hNjNDQU81dDFGZVgzbjExNDJ2UWZldGRidFlpMl84REZ5a0ZLYzZYUzlVNHhhbkM4eDI4clJOSGR5dEN0Z29xellyMFp1NlYtNk5vTnZfaDNsS3QwVDczd3RFck1rMnkyUmlqLVpjUGpYR3otVDFBX0Q4VFo?oc=5"
+    },
+    {
+      "media": "Actu.fr",
+      "titre": "RATP. Après cette date, votre ticket de métro en carton ne fonctionnera plus à Paris",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeldVS1pDSW1VaWZ3THhvTUdYbHBzdDl3OHdreFhyRjFMNUtIYVJCdE5nYXlXcll2Yzc5OWs2QmNsQ29aQ0FHeGlWdTk4cFphMmtuNEpEY3ZNbzUzcnZaM2FjYnphenFkWWtQWWlfYWhwOFYwdjE5SzNlVWJycHMyNVhMUW0xQjZaUjFXR2pJZzhid1ZtQkVVWTlydjRTSi1RNFdYcXlLU1VrVnZuVFNWSURocW1pZGtCYm9taGREOHM1ZVpod25xazhRRUhSc0NYemUzbg?oc=5"
+    }
+  ],
+  "modele": "groq/openai/gpt-oss-120b"
+}

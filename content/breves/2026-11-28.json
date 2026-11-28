@@ -52,5 +52,24 @@
     "titres_sources": [
       "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés"
     ]
+  },
+  {
+    "titre": "Russie affirme avoir abattu 1 246 drones ukrainiens pendant la nuit",
+    "texte": "Le ministère de la Défense russe indique avoir intercepté 1 246 drones ukrainiens, dont une centaine à destination de Moscou, au-dessus de quinze régions dont Moscou, Rostov, Samara et la Crimée. Aucun dommage n’a été signalé.",
+    "rubrique": "international",
+    "publie_le": "2026-11-28T07:25:18+00:00",
+    "titres_sources": [
+      "En direct : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit",
+      "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit, dont une centaine se dirigeant vers Moscou"
+    ]
+  },
+  {
+    "titre": "Un tiers des salariés en dépassement quasi permanent d'horaires",
+    "texte": "Selon le Centre d'études de l'emploi et du travail, un tiers des salariés travaille régulièrement au-delà de leurs horaires habituels. Cette situation, qualifiée de dépassement quasi permanent, touche une part importante de la main‑d’œuvre.",
+    "rubrique": "economie",
+    "publie_le": "2026-11-28T07:25:18+00:00",
+    "titres_sources": [
+      "Dépasser ses horaires de travail, une pratique répandue chez les salariés"
+    ]
   }
 ]
